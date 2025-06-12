@@ -91,6 +91,10 @@ O
 
 P
 
+Pitch (Sanskrit: xxx ; Hindi: xxx; Bengali: xxx; Gurmukhi: xxx; Tibetan: xxx)
+
+
+
 
 
 
@@ -106,7 +110,7 @@ Q
 
 R
 
-
+Raga
 
 
 
@@ -120,7 +124,7 @@ S
 
 T
 
-
+Tone
 
 
 
