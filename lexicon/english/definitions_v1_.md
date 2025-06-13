@@ -24,8 +24,9 @@ D
 
 E
 
+### Elder Futhark ###
 
-
+The Elder Futhark is the oldest known form of the runic alphabets used by Germanic peoples, not directly written in Proto-Germanic but reflecting its linguistic stage. It was used for Northwest Germanic dialects during the Migration Period, predating the separation of Germanic languages. Whilst the Elder Futhark inscriptions don't directly use Proto-Germanic, many words in the inscriptions are closely related to reconstructed Proto-Germanic words. The Elder Futhark was primarily used for Northwest Germanic dialects, which include Proto-Norse and early forms of Old English. This period (roughly 1–250 CE) saw the Elder Futhark being used across various Germanic tribes as they migrated and settled in different regions. The Elder Futhark evolved into different regional forms like the Anglo-Saxon Futhorc in the British Isles and the Younger Futhark in Scandinavia. The earliest period of Elder Futhark inscriptions (2nd-4th centuries CE) reflects the Common Germanic stage, predating the separation of West Germanic into Anglo-Frisian, Low German and High German.
 
 F
 
