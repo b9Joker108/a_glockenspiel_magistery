@@ -85,8 +85,11 @@ N
 
 O
 
+### Odin stone altar ###
 
-
+An "Odin stone altar" or "Odin stone" typically refers to a sacred stone, often featuring a hole or perforation, associated with the Norse god Odin. It's believed to have been a place for oaths and agreements, where individuals would pledge allegiance or make binding promises by placing their hands through the hole and clasping hands with another. Some believe the hole was used for sacrifices in ancient times. The most prominent feature of an Odin stone is a hole, often found about two to three feet from the ground. The most widely recognized tradition associated with the Odin Stone was the taking of an "Odin Oath." Individuals would stick their hand through the hole and grasp another person's hand, symbolizing a binding agreement. Some theories suggest that the hole might have been used for tying sacrifices, although this is not definitively confirmed. 
+Odin stones were considered sacred places where oaths and promises were believed to be particularly binding. 
+The most famous example is the Odin Stone in the Orkney Islands, which was believed to have immense power and be associated with binding marriages and agreements according to Ness of Brodgar Project. Some suggest that the summit of Roseberry Topping might have been a high altar for Odin, possibly with a more accessible horg (stone altar or cairn) on the lower slopes. Whilst the Orkney Stone is well-known, other locations might have similar stones associated with Odin or other Norse deities. In modern Paganism and Heathenism, Odin stones are sometimes used as altars or sacred objects in rituals and ceremonies. The Odin stone can symbolize the binding nature of oaths, agreements and promises. The Iupiter Stone is comparable, though without a hallowing hole. In some areas, Odin stones are still regarded with reverence and respect by local communities. In summary, an Odin stone altar is a place where oaths and agreements were and are made, often associated with the Norse deity Odin, and is sometimes used in modern Pagan and Heathen rituals. Refer: Adder stones and Hag stones.
 
 
 
