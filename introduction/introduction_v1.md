@@ -1,5 +1,6 @@
 Ram Yam Kham Aum Ah Hung Phat Svaha Ah Emaho!
 
+Long ago, in my mid-twenties, when I was reading works on Jungian 'Shadow Work' and actually doing the Work, I came across a well-written, astute and evocative writer, who used 'bright side' and 'murk side', throughout their work. It vexes me as I do not remember the author(s) or the work, but it profoundly moved me and has stayed with ne all these years. I have written of it in other works. Both of the terms 'bright' and 'murk' are Germanic in origin and have deeper roots. I didn't know that then, but I know it now. For me, this holds import. I use the terms and concepts bright-stave and murk-stave in my runework. Which, to my knowledge, has roots in the work of Thorsson (1999, 1988), a *nom-de-plume* for Flowers.
 
 
 Let’s start with “bright”:
@@ -16,4 +17,3 @@ First Attestation:The noun “murk,” meaning “gloom” or “darkness,” is
 
 These origins not only reveal the linguistic roots of common descriptors but also show how words evolve to encompass broader metaphorical meanings with cultural usage over time.
 
-If you’re interested in exploring how these words transition across periods—or how their cognates appear in other languages—I can share more on related terms and historical usage examples.
