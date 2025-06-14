@@ -4,7 +4,7 @@ Bibliography
 
 A
 
-
+Authorship Unattributed. 'Glockenspiel: Level One'. NB: No publication details, but as it makes reference to "cadets", it is produced by a martial company, marching band or comparable. A most useful and valuable resource for our purposes in designing a curriculum for a Western musical paradigm acquisition for glockenspiel.
 
 
 B
