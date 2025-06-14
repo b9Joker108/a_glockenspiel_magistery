@@ -61,7 +61,7 @@ J
 K
 
 
-Kraus, Nicholas (2023). 'The Glorious Glockenspiel: A Guide to Greatness in Playing and Performing'. Nicholas Khatchadourian, Publisher. eBook. ASIN B0C3W3TF8K
+Kraus, Nicholas (2023). 'The Glorious Glockenspiel: A Guide to Greatness in Playing and Performing'. Nicholas Khatchadourian, Publisher. eBook. ASIN B0C3W3TF8K. NB: I have this text on the 'Play Books' Android application.
 
 Amazon writeup:
 
