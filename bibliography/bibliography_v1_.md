@@ -28,9 +28,7 @@ E
 
 F
 
-
-
-
+Fennimore, Kevin (auth.) (2024). 'How to Play the Glockenspiel for Beginners: The Ultimate Guide to Learning, Playing, and Becoming Proficient at the Instrument'. Independently published. ASIN B0D9RBCC2W. ISBN 9798333607935. 
 
 G
 
