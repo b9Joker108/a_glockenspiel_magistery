@@ -4,7 +4,7 @@ Bibliography
 
 A
 
-Authorship Unattributed (n.d.). 'Glockenspiel: Level One'. NB: No publication details, but as it makes reference to "cadets", it is produced by a martial company, marching band or comparable. A most useful and valuable resource for our purposes in designing a curriculum for a Western musical paradigm acquisition for glockenspiel. The document was initially sourced somewhere in the following domain: Source: https://www.amphion.ca/ This website is home to the 136th Company of the Royal Canadian Sea Cadet Corps (RCSCC) AMPHION - Nanaimo BC. But, there is no surety yet to assign this as an attribution. Source: xxx (accessed: Saturday, June 14, 2025)
+Authorship Unattributed (n.d.). 'Glockenspiel: Level One'. NB: No publication details, but as it makes reference to "cadets", it is produced by a martial company, marching band or comparable. A most useful and valuable resource for our purposes in designing a curriculum for a Western musical paradigm acquisition for glockenspiel. The document was initially sourced somewhere in the following domain: Source: https://www.amphion.ca/ This website is home to the 136th Company of the Royal Canadian Sea Cadet Corps (RCSCC) AMPHION - Nanaimo BC. But, there is no surety yet to assign this as an attribution. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Authorship%20Unattributed%20(n.d.).%20'Glockenspiel%20-%20Level%20One'.pdf  (accessed: Saturday, June 14, 2025)
 
 
 
