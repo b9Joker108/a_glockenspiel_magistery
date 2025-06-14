@@ -1,6 +1,6 @@
 # Frontmatter #
 
-All of this will be rigorously edited and progressively rewritten as I progress in skill acquisition.
+All of this will be rigorously edited and progressively rewritten as I progress in skill acquisition. It is my way to have extensive, even exhaustive Frontmatter. Cut to the chase and go directly to Chapter One if you wish to commence experiential, practical and pragmatic glockenspiel kirtan and bhajan sadhana and return to the Frontmatter and Introduction at your leisure and in due course.
 
 ## Invocation ## 
 
@@ -366,6 +366,182 @@ Citations:
 
 
 ## Evocation ##
+
+
+I understand that Dzogchenpa wear the Melong's on a silk thread, please investigate extensively on all aspects of melong, thread colours, kinds and materiality and salience and ritual and esoteric importance.
+
+### The Melong: Sacred Mirrors in Dzogchen Practice - A Comprehensive Investigation ###
+
+The **melong** (Tibetan: མེ་ལོང, Wylie: *me long*; Sanskrit: *ādarśa, darpaṇa*) represents one of the most profound and multifaceted ritual implements in Tibetan Buddhist and Bön traditions, particularly within Dzogchen practice[1]. These sacred mirrors serve as polyvalent symbols of divine attributes, enlightened consciousness, and the pristine nature of mind itself[1][2].
+
+### Historical and Cultural Origins ###
+
+The melong tradition emerged from ancient Indo-Tibetan spiritual practices, where mirrors held fundamental significance as symbols of emptiness (*śūnyatā*) and pure consciousness[1]. In Tibetan iconography, the mirror functions as both a practical divination tool and a profound metaphor for the mind's natural state of clarity and awareness[1][2]. The tradition was particularly developed within Dzogchen lineages, where it became associated with the realization of *rigpa* (pure awareness) and the primordial state of being[2][3].
+
+### Material Composition and Traditional Metallurgy ###
+
+#### The Five-Metal Composition ####
+
+Traditional melongs are crafted from a specific combination of five metals, representing both practical metallurgical considerations and profound symbolic meanings[4][5]. The classical composition includes:
+
+- **Copper** (*zangs*) - the primary base metal[4][6]
+- **Tin** - for structural integrity[4][5]
+- **Zinc** - for durability and color[4][5]
+- **Iron** - for grounding properties[4][5]
+- **A fifth metal** - traditionally gold, silver, or "meteorite iron"[4][5]
+
+This five-metal composition (*pañca-dhātu*) corresponds to the five elements in Tibetan cosmology and may represent astrological significance[4]. The metals were often sourced from recycled religious artifacts such as bowls and bells, which were believed to enhance their spiritual resonance due to their prior sacred use[4].
+
+#### Construction and Physical Properties ####
+
+Melongs typically feature a convex outer surface and a concave inner surface[7][4]. The convex side, which faces outward when worn, is designed to deflect negative energies and harmful influences away from the practitioner[7][4]. The concave inner surface, facing toward the body, concentrates positive energies and can "house" the spirits and deities that the practitioner works with[7]. This dual-surface design reflects the fundamental Dzogchen principle of simultaneously engaging with and transcending dualistic appearances[4].
+
+The mirrors are traditionally circular, ranging from approximately 2.5 to 3 inches in diameter[8][9], with carefully beveled edges and suspension loops for wearing[10]. Many feature distinctive dot patterns on the convex surface - typically four sets of three dots positioned at the cardinal directions (top, bottom, left, right)[4][3][11].
+
+#### Sacred Geometry and Symbolic Patterns ####
+
+#### The Twelve-Dot Configuration ####
+
+The most common pattern found on melongs consists of twelve dots arranged in four groups of three, positioned at the cardinal directions[4][3][11]. These triadic groupings represent multiple layers of Dzogchen symbolism[4][3]:
+
+- **Base, Path, and Fruit** - the fundamental structure of Dzogchen teaching[4][3]
+- **Guru, Deva, Dakini** - the three roots of tantric practice[4][3]
+- **Buddha, Dharma, Sangha** - the three jewels of Buddhism[4][3]
+- **Upper, Middle, and Lower realms** - the cosmological divisions[4][3]
+- **Sound, Light, and Rays** - the three wisdoms of natural awareness[4][3]
+
+### Esoteric Geometric Significance
+
+In Dzogchen practice, the melong represents the primordial state discoverable within practitioners as a potentiality, symbolically associated with the sacred syllable **OM**[4][3]. This connects the mirror to the broader framework of Dzogchen's three sacred representations: the melong (OM), peacock feathers (AH), and crystal (HUM)[4][3]. The circular form itself embodies the concept of *dharmakāya* - the truth body of enlightened consciousness that has no beginning or end[1].
+
+### Thread Materials and Color Symbolism ###
+
+#### Silk Thread Tradition ####
+
+Dzogchen practitioners traditionally wear melongs suspended on silk threads, following ancient protocols that emphasize both practical and symbolic considerations[2][12]. Silk represents the refined, pure nature of enlightened consciousness and provides the appropriate material foundation for such sacred objects[13][12]. The choice of silk reflects the tradition's emphasis on natural materials that have undergone transformation processes analogous to spiritual refinement[13].
+
+#### Color Significance and Selection ####
+
+While specific documentation of standardized thread colors for melong suspension is limited in available sources, the broader Tibetan tradition employs color symbolism extensively in sacred threads and cords[14]. Traditional color applications in Himalayan spiritual practices include:
+
+- **Red threads** - symbolizing longevity, protection against negative forces, and maintaining divine blessings[14]
+- **White or natural silk** - representing purity, clarity, and the unobstructed nature of awareness[13][12]
+- **Multi-colored arrangements** - often incorporating the five traditional colors corresponding to the five Buddha families and elements[15]
+
+The selection of thread color may vary according to specific lineage instructions, the practitioner's particular practice focus, or the guidance of qualified teachers within the tradition[2].
+
+### Ritual Applications and Sacred Functions ###
+
+#### Divination and Oracle Practices ####
+
+Melongs serve as primary instruments for high-level divination practices within Dzogchen and broader Tibetan traditions[2][16]. Accomplished practitioners use these mirrors to receive direct guidance by gazing into the reflective surface while entering heightened states of consciousness[2][16]. Historical accounts, such as Chögyam Trungpa Rinpoche's use of melong divination to navigate escape routes from Tibet during the Chinese occupation, demonstrate the practical application of these practices in critical situations[2].
+
+#### Transmission and Direct Introduction ####
+
+Within Dzogchen teaching methodology, melongs function as powerful symbols of transmission between teacher and student[2][17]. When a teacher wears a melong during instruction, it serves as a "living symbol of seeing your own real nature reflected in the teacher"[2]. Students looking at the teacher see their own essence nature reflected back through this sacred mirror, facilitating the essential Dzogchen process of direct introduction to the natural state[2][17].
+
+#### Ritual Purification: Trusöl Practices ####
+
+Melongs play central roles in *trusöl* (ཁྲུས་གསོལ་) purification rituals, where they symbolize the celestial bathhouse and serve as focal points for elaborate visualization practices[18][19][20]. During these ceremonies, practitioners visualize spacious bathhouses crafted from precious jewels while the mirror represents the pure environment where Buddhas and bodhisattvas receive offerings of ablution[19][20]. Water may be poured over the mirror's reflection to transfer blessed essence into the liquid, creating sanctified substances for further ritual use[21].
+
+#### Protective and Healing Functions ####
+
+The dual-surface design of melongs enables both protective and healing applications[7][4]. Shamanic practitioners and ngakpas (tantric yogis) use the convex surface to deflect harmful energies while employing the concave surface to concentrate beneficial forces for healing purposes[4]. The mirrors may be touched directly to the body or moved over areas requiring spiritual intervention[4].
+
+#### Integration with Ritual Arrows (Dadar) ####
+
+Melongs frequently appear as components of *dadar* (མདའ་དར་) - ceremonial arrows used in longevity and wealth-gathering rituals[15]. These ritual implements combine mirrors with colored scarves, feathers, and other sacred elements to create powerful tools for invoking life forces and good fortune[15]. The mirror's placement on the arrow emphasizes its role in revealing and manifesting positive potentialities[15].
+
+### Esoteric and Philosophical Dimensions ###
+
+#### Mirror-Like Wisdom in Mahayana Context ####
+
+The melong embodies the fundamental Buddhist concept of *ādarśa-jñāna* (mirror-like awareness), one of the five wisdoms associated with the Five Tathagatas[1]. This wisdom, particularly connected with Akṣobhya Buddha, represents consciousness "devoid of all dualistic thought and ever united with its 'content' as a mirror is with its reflections"[1]. This teaching emphasizes the mind's capacity to reflect all phenomena clearly while remaining unaltered by what appears within it[1].
+
+#### Vajrayana Integration and Advanced Practices ###@
+
+In advanced Vajrayana *sādhana* practices, melongs may be employed in the sophisticated *gyulü* (illusory body) techniques[1]. These practices utilize the mirror principle to recognize the mind's fundamental nature - reflecting all qualities and forms while remaining "beyond all attributes and qualities" (*nirguṇa*)[1]. The mirror serves as both metaphor and actual support for realizing the illusory nature of all appearances[1].
+
+#### Dzogchen-Specific Applications ####
+
+Within Dzogchen's unique methodology, the melong represents the immediate availability of the primordial state[4][3][22]. Unlike gradual path approaches that emphasize development and purification, Dzogchen uses the mirror to demonstrate the mind's inherently perfect nature that requires no modification or improvement[22]. The mirror's capacity to reflect without effort or intention parallels the natural state of *rigpa* - pure awareness that recognizes itself without conceptual elaboration[22].
+
+### Contemporary Practice and Lineage Transmission ###
+
+#### Modern Dzogchen Communities ####
+
+Contemporary Dzogchen practitioners continue to employ melongs according to traditional protocols while adapting to modern circumstances[23][2]. International Dzogchen communities maintain the practice of wearing melongs during retreats, teachings, and daily practice, preserving the transmission methods established by masters like Chögyal Namkhai Norbu and other lineage holders[23][2].
+
+#### Transmission Protocols and Teacher Authority ####
+
+The wearing and use of melongs remains closely connected to proper transmission and authorization within authentic lineages[2][17]. Qualified teachers who have received appropriate training and realization provide both the technical instruction and the essential "blessing" (*chinlap*) that enables these practices to function as intended[17]. Without proper transmission, the melong remains merely a symbolic object rather than an active spiritual tool[17].
+
+#### Integration with Daily Practice ####
+
+Advanced practitioners integrate melong-wearing into their daily spiritual routine, maintaining continuous connection with the symbol's deeper meanings throughout ordinary activities[2]. This integration reflects Dzogchen's emphasis on maintaining awareness of the natural state during all circumstances, using the mirror as a constant reminder of the mind's inherent clarity and spaciousness[2][22].
+
+### Conclusion ###
+
+The melong represents far more than a simple ritual ornament or divination tool within Dzogchen and broader Tibetan spiritual traditions[1][2]. Its complex metallurgy, precise symbolic geometry, and multifaceted ritual applications create a comprehensive spiritual technology designed to support practitioners in recognizing and stabilizing their essential nature[4][3][22]. From its five-metal composition reflecting elemental harmony to its role in facilitating direct transmission between teacher and student, every aspect of the melong tradition serves the ultimate goal of awakening to the primordial state of pure awareness[1][2][22]. Whether worn on silk threads during daily practice or employed in elaborate ritual ceremonies, these sacred mirrors continue to function as bridges between ordinary consciousness and the recognition of enlightened awareness that lies at the heart of Dzogchen realization[2][22].
+
+Citations:
+[1] Melong - Wikipedia https://en.wikipedia.org/wiki/Melong
+[2] Reflection is not Correction https://jayakula.org/podcast/reflection-is-not-correction/
+[3] May | 2012 | Khyung Garuda ཁྲོཾ https://khyung.com/2012/05/
+[4] MELONGS – SHAMANIC MIRRORS https://khyung.com/2012/05/31/melongs-shamanic-mirrors/
+[5] Melong, Mirror Divination, Goddess of the Turquoise Lamp http://balkhandshambhala.blogspot.com/2013/06/melong-mirror.html?m=1
+[6] STATUARY METALS IN TIBET AND THE HIMALAYAS: HISTORY, TRADITION AND MODERN USE https://core.ac.uk/download/pdf/7433668.pdf
+[7] Melong Mirror Divination - Dharma Wheel https://www.dharmawheel.net/viewtopic.php?t=8652
+[8] Melong Ritual Mirror (White Metal, Brass Accents, 2.5" Diameter) https://tibetanspirit.com/products/melong-2
+[9] Melong Pendant - Tamrakar https://www.tamrakar.co.uk/products/melong-pendant-3
+[10] Ritual Pendant Polished Gilded Brass ‘Mirror’ (Melong) - Michael Backman Ltd https://www.michaelbackmanltd.com/archived_objects/tibetan-mirror/
+[11] Mystery Object - Dotty Melong - Dharma Wheel https://www.dharmawheel.net/viewtopic.php?t=25541
+[12] Hair Silk (Silk Thread) https://www.talasonline.com/Hair-Silk
+[13] Dyeing of silk fabrics - the ancient Chinese know-how https://www.advantour.com/silkroad/dyeing-of-silk-fabrics.htm
+[14] Significance Of Wearing Consecrated Threads in Hinduism https://www.speakingtree.in/blog/significance-of-wearing-consecrated-threads-in-hinduism
+[15] Mandala Collections Texts https://texts.mandala.library.virginia.edu/text/dadar-arrow-scarf
+[16] The Mystical 'Melong': Insights into its Role in Tibetan Shamanism — WYTCH https://www.wytch.co.uk/library/the-mystical-melong
+[17] The Principle of Transmission - The Mirror - Melong.com https://melong.com/principle-transmission-adriano-clemente/
+[18] Melong Ritual Mirror- Hrīh Syllable - ( Copper, 3" Diameter) https://tibetanspirit.com/products/melong-with-hrih-syllable
+[19] Trüsöl Offering: Ablution https://texts.mandala.library.virginia.edu/book_pubreader/39356
+[20] Mandala Collections Texts https://texts.mandala.library.virginia.edu/text/tr%C3%BCs%C3%B6l-offering-ablution
+[21] Mirror Of Divination | Smithsonian Institution https://www.si.edu/object/mirror-divination:nmnhanthropology_8452612
+[22] What is Dzogchen? | Buddhism A–Z https://www.lionsroar.com/buddhism/dzogchen/
+[23] The Mirror - International Dzogchen Community https://melong.com
+[24] Melong in Dzogchen - Dharma Wheel https://www.dharmawheel.net/viewtopic.php?t=25627
+[25] How to Practice the Dzogchen Path https://www.lotsawahouse.org/tibetan-masters/yukhok-chatralwa/how-to-practice-dzogchen
+[26] Five precious substances - Rigpa Wiki https://www.rigpawiki.org/index.php?title=Five_precious_substances
+[27] Artists in the Dzogchen Community - Oleg Troyanovsky - The Mirror https://melong.com/artists-in-the-dzogchen-community-oleg-troyanovsky/
+[28] Chemical formulae for minerals and gems https://nature.berkeley.edu/classes/eps2/wisc/mineral.html
+[29] Bronze Mirror with TLV Pattern | Highlights https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2628
+[30] Traditional Metal Craft Process - Tanushree Agarwal - Google Arts & Culture https://artsandculture.google.com/asset/traditional-metal-craft-process/fgF6wv1guAgAUQ
+[31] 18.3: Structure and General Properties of the Metalloids https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/18:_Representative_Metals_Metalloids_and_Nonmetals/18.03:_Structure_and_General_Properties_of_the_Metalloids
+[32] Mettler Silk-finish Cotton 50, #1073 MELON 150m Thread https://www.embroideries.com.au/mettler-silk-finish-cotton-50-1073-melon-150m-thread
+[33] 1073 Silk-Finish Melon Cotton Thread 50 150m - Bramble Patch https://www.bramblepatchonline.com/silk-finish-melon-cotton-50-150m
+[34] Gette Melon Silk Georgette - Tessuti Fabrics https://www.tessuti-shop.com/products/gette-melon-silk-georgette
+[35] Melong Tibetan Mirror Defense Dzogchen Buddhist Amulet Pendant https://www.pinterest.com/pin/melong-tibetan-mirror-defense-dzogchen-buddhist-amulet-pendant--284078688982855965/
+[36] Direct Introduction in Dzogchen Teaching - The Mirror - Melong.com https://melong.com/direct-introduction-dzogchen-teaching/
+[37] [PDF] On the symbolism of the mirror in Indo-Tibetan consecration rituals https://pluto.huji.ac.il/~msyben/7_%20On-the-Symbolism-of-the-Mirror.pdf
+[38] Sacred Geometry 101 | Balance by Buddha Groove | Spirituality https://blog.buddhagroove.com/sacred-geometry-101/
+[39] What Are Dot Patterns? (Learning Tools for Dyscalculia) https://discoveringdyscalculia.com/blog/what-are-dot-patterns
+[40] Dot Patterns | Smartpress Support https://smartpress.com/support/printing-basics/dot-patterns
+[41] An Intro and Guide to Dot Patterns | Skillshare Blog https://www.skillshare.com/en/blog/an-intro-and-guide-to-dot-patterns/
+[42] What are the 2 dots on her head and what do they symbolize? - Reddit https://www.reddit.com/r/AncientCivilizations/comments/1crqqdg/what_are_the_2_dots_on_her_head_and_what_do_they/
+[43] Taoism and the Arts of China (Art Institute of Chicago) https://archive.artic.edu/taoism/tradition/b14.php
+[44] Dots on a Circle Puzzle (TANTON Mathematics) - YouTube https://www.youtube.com/watch?v=23J-YJJs0Pk
+[45] Dzogchen - Wikipedia https://en.wikipedia.org/wiki/Dzogchen
+[46] Dzogchen's Hermetic Transmission Scene - Tibeto-logic https://tibeto-logic.blogspot.com/2018/06/dzogchens-hermetic-transmission-scene.html
+[47] Building the Teacher-Student Relationship https://education.nsw.gov.au/campaigns/inclusive-practice-hub/all-resources/primary-resources/other-pdf-resources/building-the-student-teacher-relationship
+[48] THE PRACTICE OF DZOGCHEN IN THE ZHANG·ZHUNG TRADITION OF TIBET https://tibetanbuddhistencyclopedia.com/en/index.php?title=THE_PRACTICE_OF_DZOGCHEN_IN_THE_ZHANG%C2%B7ZHUNG_TRADITION_OF_TIBET
+[49] Not Only Do Students Need Strong Teacher-Student Relationships… Teachers Need Them, Too! - CASEL https://casel.org/blog/not-only-do-students-need-strong-teacher-student-relationships-teachers-need-them-too/
+[50] Melong Riual Mirror - Hrīh Syllable - (White Metal, Brass Accents, 3 https://tibetanspirit.com/products/melong-with-hrih-syllable-white-metal
+[51] Tibetan Water Offering Bowls https://www.yowangdu.com/tibetan-buddhism/water-offering-bowls.html
+[52] Melukat: The Purification Ceremony for Retreats in Bali https://www.baliwellnessretreat.com/excursions-activities/melukat-the-purification-ceremony-bali/
+[53] Dzogchen Mirror - Etsy https://www.etsy.com/market/dzogchen_mirror
+[54] melong pendant - Page 2 - Dharma Wheel https://www.dharmawheel.net/viewtopic.php?t=27597&start=20
+[55] Melon - Silk Finish Cotton 60wt (9240-1073) | Metller Thread https://www.hawthornesupplyco.com/mettler-silk-finish-cotton-60wt-9240/melon-1073/K62F
+[56] Dot Pattern - Parametric House https://parametrichouse.com/dot-pattern/
+[57] Tibetan Ritual Mirror or Melong- Antique Ritual Mirror- 20th C - Etsy https://www.etsy.com/au/listing/853915365/tibetan-ritual-mirror-or-melong-antique
 
 
 ## Dedication ##
