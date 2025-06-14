@@ -372,5 +372,7 @@ Citations:
 
 Jaya! Sri Gurudeva Maharajji and Jaya Sri Gurudeva Dharmarajji Ki! Jay!
 
+Mrs Muriel Faith (nee xxx) and Mr Maurice Hutchins.
+
 
 ## Acknowledgements ##
