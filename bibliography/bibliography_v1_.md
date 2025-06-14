@@ -10,7 +10,7 @@ Authorship Unattributed (n.d.). 'Glockenspiel: Level One'. NB: No publication de
 
 B
 
-
+Bastien, Jane Smisor; Bastien, Lisa & Bastien, Lori (1999). 'Bastien Piano For Adults - A Beginning Course: Lessons, Theory, Technic, Sight Reading - Book 1'. San Diego, California, U.S.A.: Kjos Music Press. KJOS: Neil A. KJOS Music Company, Distributor. ISBN 0849773024. NB: The RCSCC with their No. "108" for 'Scarborough Fair' led me to this volume which is pure platinum, bejewelled and sublime filigree for our purposes. It constitutes a sound refresher for my lapsed pianoforte skillset. But, the volume for the most part, is directly transferable, applicable and easily reworkable and adaptable to the glockenspiel. It is effectively, exactly what I was looking for, but was unsure how to find. At a glance, I have determined without reservation, that it is a premium and accomplished work and will be a foundation for my Western nusicality point-of-[re]entry.
 
 
 C
