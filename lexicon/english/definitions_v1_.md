@@ -36,11 +36,13 @@ F
 
 G
 
+### Gat ###
 
+In Hindustani (North Indian) classical music, a “gat” is essentially a fixed, composed melody—an instrumental counterpart to the vocal bandish—set in a particular raga (melodic framework) and tala (rhythmic cycle). It’s the thematic anchor over which musicians weave improvisation, dialoguing with the tabla and exploring the raga’s colours. Typically, after an unmetered alap (exploratory introduction), the instrumentalist presents the gat in a slow, meditative vilambit tempo. Once the main phrases (sthāyī and antārā) are firmly established, they’re revisited at progressively faster speeds—leading into drut (fast) gat passages where virtuosity and interplay with rhythmic patterns take centre-stage. Structurally, most gats have two main sections:  
+1. Sthāyī (“staying” theme), often in the lower register of the instrument, and  
+2. Antārā (“aside” or “other” theme), which explores higher notes. These sections can be repeated verbatim before branching into improvisational elaborations—meend (glides), taans (fast runs), and ornamentations that reveal the performer’s creativity. Etymologically, “gat” derives from Sanskrit gati, meaning “movement” or “gait,” underscoring that even within a fixed composition, motion and flow are paramount. Over centuries, each instrumental gharāna (school) has cultivated signature gats — like the Maihar and Imdadkhānī lineages — passed down as core repertoire. In the realm of tabla solo, “gat” takes on a slightly different shade: it denotes a fixed tabla composition, usually cyclic and cadential, that tabla players perform after improvisatory kaydās and relās. These gats — often in 16-beat tintal — are played later in the recital at medium to fast tempos, repeated at least twice, and sometimes punctuated by tihai (a rhythmic cadence repeated three times) to signal closure. Gats thus epitomize the balance between form and freedom in Indian classical music: they give you a firm scaffold whilst inviting endless personal reinvention.  
 
-
-
-H
+# H #
 
 ### Hindustani Classical Music ###
 
