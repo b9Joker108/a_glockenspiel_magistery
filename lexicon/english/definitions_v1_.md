@@ -133,6 +133,7 @@ The sāman are not mere musical embellishments but are integral to the performan
 
 Beyond their ritualistic function, the sāman also hold a profound philosophical significance. They embody an ancient understanding that musical sound has the power to shape consciousness and foster inner transformation. Through the deliberate modulation of pitch, pace, and timbre, the sāman invite practitioners into a meditative state, aligning personal consciousness with the universal harmonies. This concept of sound as a transformative force not only enriches the performance of rituals but also serves as a bridge between the mundane and the divine, reinforcing the belief that music and vibration are fundamental to the order and balance of the cosmos.
 
+Swami Sivananda Saraswati (1887–1963), in His authoritative Commentary on the Samaveda Saṃhitā, captures this essence when he writes: “Every Sāman is a sonic yantra, calibrated to stir chakras within and evoke śakti (spiritual energy).”
 
 # T #
 
