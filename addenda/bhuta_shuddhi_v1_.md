@@ -109,6 +109,38 @@ Dvarakadhisa (2001). 'Bhakti-yoga and Krsna Consciousness: 5. Arcanam – Deity 
 
 "Srila Prabhupada said that the train of bhakti, or devotional service, runs on two tracks: bhagavat-vidhi (the nine processes of devotional service) and pancaratrika-vidhi (temple worship). If one track is missing, bhakti cannot proceed properly for the neophyte. Sravanam and kirtanam, or hearing and chanting, are bhagavat-vidhi, and arcanam, or deity worship, is pancaratrika-vidhi." Source: https://www.backtogodhead.in/5-arcanam-deity-worship-by-dvarakadhisa-devi-dasi/ (accessed: Monday, June 16, 2025)
 
+-----
+ISKCON Desire Tree
+Source: https://iskcondesiretree.com/profiles/blogs/how-pancaratrika-vidhi-and-bhagavat-vidhi-fit-together
+(based on an article from BTG 35-04-01, quotes by Srila Prabhupada and a seminar given by BVP Swami)
 
+There are two tracks (vidhis) required to walk safely on the spiritual path, as Srila Prabhupada often mentioned: In the same way as the physical train needs two parallel tracks, also the train of bhakti needs two tracks: one is the bhagavatvidhi or the path of sravanam and kirtana, also known as rag-marg and the pancaratrika-vidhi or the path of arcana, also known as vidhi-marg.
 
+When Srila Prabhupada came to the West to teach Krishna-consciousness, he first introduced the religion of this age: chanting Hare Krishna, in order to create a taste in the young devotees for hearing and chanting. Only after some time he started to introduce the process of arcanam or Deity-worship. He explained to his students that arcanam is a necessary part of devotional service.
 
+“…The Pancaratrika system acts on the sudra class of men, supposedly the population of the Kali-yuga, and it is the prescribed purificatory process suitable to the age and time. Such a purificatory process is allowed only for spiritual upliftment and not for any other purpose. Spiritual upliftment is never conditioned by higher or lower parentage….” (SB 1.12.13p)
+
+“…The arcana-marga, or the devotional path prescribed in the Pancaratra system of devotional service for worshiping the Deity in the temple, makes the devotee think constantly of the Lord; that is samadhi, or trance. One who practices in this way cannot deviate from the service of the Lord, and that makes him perfect in the mission of human life.” (SB 4.8.52p)
+
+In his Bhakti-sandarbha Srila Jiva Gosvami gives the following explanation of how the two paths go together: “It is Srimad-Bhagavatam’s opinion that the process of Deity worship is not actually necessary, just as the specific prescriptions of the Pancaratra and other scriptures do not have to be followed. The Bhagavatam enjoins that even without practicing Deity worship one can achieve the complete success of human life by any of the other devotional processes, such as simply offering oneself at the Lord’s feet for His protection. Nonetheless, Vaisnavas following the path of Sri Narada and his successors endeavor to establish a personal relationship with the Lord by receiving the grace of a bona fide spiritual master through initiation, and in this tradition the devotees are obliged at the time of initiation to begin engaging in Deity worship….“ Although Deity worship is not essential, the material conditioning of most candidates for devotional service requires that they engage in this activity. When we consider their bodily and mental conditions, we find that the character of such candidates is impure and their minds are agitated. Therefore, to rectify this material conditioning the great sage Narada and others have at different times recommended various kinds of regulations for Deity worship.” (Bhakti-sandarbha (283–84), by Srila Jiva Gosvami, cited in CC Ma 15.108p)
+
+Srila Prabhupada writes the following comment on Srila Jiva Gosvamis quote: “…In other words, the chanting of the Hare Krsna maha-mantra is so powerful that it does not depend on official initiation, but if one is initiated and engages in pancaratra-vidhi (Deity worship), his Krsna consciousness will awaken very soon, and his identification with the material world will be vanquished. The more one is freed from material identification, the more one can realize that the spirit soul is qualitatively as good as the Supreme Soul. At such a time, when one is situated on the absolute platform, one can understand that the holy name of the Lord and the Lord Himself are identical…” (CC Ma 15.108p)
+
+One important point is to be considered while following these paths: “…Out of the nine processes of devotional service, kirtana is very important. Srila Jiva Gosvami therefore instructs that the other processes, such as arcana, vandana, dasya and sakhya, should be executed, but they must be preceded and followed by kirtana, the chanting of the holy name. We have therefore introduced this system in all of our centers. Arcana, arati, bhoga offering, Deity dressing and decoration are all preceded and followed by the chanting of the holy name of the Lord—Hare Krsna, Hare Krsna, Krsna Krsna, Hare Hare/ Hare Rama, Hare Rama, Rama Rama, Hare Hare.” (CC Ma 15.107p)
+
+Now let us have a short look on the meaning of the word “pancaratra” and its 5 steps constituting it: Panca means 5 and ratra means nights. It is said that once two demons, Madhu and Kaitava, stole all the Vedic knowledge from Lord Brahma so that Lord Narayana had to teach it to Brahma again. He did so within 5 nights only. There are 108 pancaratras of which the Narada-pancaratra is one. It is divided into 5 parts also known as pancanga-puja, or the worship according to 5 steps. They are as follows:
+
+1. Abhigamana or preliminary activities such as waking early morning, paying obeisances to one’s spiritual master, cleansing one´s body, putting on fresh cloths, performing acaman, putting on tilak, reciting Gayatrimantras, etc.
+2. Upadhanam or collecting the required items for worship.
+3. Yoga or linking one’s mind with the Supreme Lord by reciting bhutashuddhi-prayers, which help one to understand ones true identity as an eternal servant of the servant of the Supreme Lord.
+4. Ijya or the actual worship of the Lord with 16 upacaras.
+5. Svadhyaya or the personal meditation or cultivation of devotional service such as sravanam and kirtanam
+
+As we can see the bhagavat-vidhi is the 5th step of the pancaratra-system or the pancanga-puja. Bhakti-vidhya Purna Swami explains, that the pancaratra-system is a perfect spiritual life-style, meant to assist people in Kali-yuga to calm down their agitated minds and to purify their consciousness. In this way they are uplifted on the platform of sattva-guna from where a concentrated and substantial nam-japa can be practiced. Hare Krishna
+
+If you have any questions on Deityworship please send them to the following address (damodara-priya.sns@pamho.net), they will be then forwarded to H.G. Pankhajanghri and Jananivasa Prabhus. 
+
+----
+
+I do a hybridized version of the Bhuta Shuddhi that is founded on the traditions of Choegyal Namkha'i Norbu Rinpoche which is drawn from the Kriya Yana of the Nyingma Nine Yanas and Tenzin Wangyal Rinpoche, which is drawn from the same thread, but also from Bon. My Vajrasister Lama Tsultrim Allione does the canonical version of our Guru Dharmarajji most beautifully. 
+ https://www.dharmawheel.net/viewtopic.php?t=4052&start=1480
