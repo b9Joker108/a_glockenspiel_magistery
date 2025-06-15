@@ -105,7 +105,9 @@ To Do:
 Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished Compendium Called the Yogarnava' in the *Journal of Indian Philosophy*, Vol. 50, 2022, pp. 345 - 385. Heidelberg, Germany: Springer Nature. DOI: https://doi.org/10.1007/s10781-022-09504-6 Source: https://link.springer.com/article/10.1007/s10781-022-09504-6 (accessed: Monday, June 16, 2025)
 
 
+Dvarakadhisa (2001). 'Bhakti-yoga and Krsna Consciousness: 5. Arcanam – Deity Worship' in *Back to Godhead [Magazine]*, Vol. 35, No. 4, Jul., 2001:
 
+"Srila Prabhupada said that the train of bhakti, or devotional service, runs on two tracks: bhagavat-vidhi (the nine processes of devotional service) and pancaratrika-vidhi (temple worship). If one track is missing, bhakti cannot proceed properly for the neophyte. Sravanam and kirtanam, or hearing and chanting, are bhagavat-vidhi, and arcanam, or deity worship, is pancaratrika-vidhi." Source: https://www.backtogodhead.in/5-arcanam-deity-worship-by-dvarakadhisa-devi-dasi/ (accessed: Monday, June 16, 2025)
 
 
 
