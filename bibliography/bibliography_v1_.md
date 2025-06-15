@@ -2,13 +2,13 @@ Bibliography
 
 
 
-A
+# A #
 
 Authorship Unattributed (n.d.). 'Glockenspiel: Level One'. NB: No publication details, but as it makes reference to "cadets", it is produced by a martial company, marching band or comparable. A most useful and valuable resource for our purposes in designing a curriculum for a Western musical paradigm acquisition for glockenspiel. The document was initially sourced from - Source: https://www.amphion.ca/wp-content/uploads/2014/10/Glockenspiel-Level1.pdf (accessed: Saturday, June 14, 2025) in the following domain: Source: https://www.amphion.ca/ This website is home to the 136th Company(?) of the Royal Canadian Sea Cadet Corps (RCSCC), AMPHION, Nanaimo, British Colombia, Canada. But, there is no surety yet to assign this as an attribution. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Authorship%20Unattributed%20(n.d.).%20'Glockenspiel%20-%20Level%20One'.pdf  (accessed: Saturday, June 14, 2025)
 
 
 
-B
+# B #
 
 Bastien, Jane Smisor; Bastien, Lisa & Bastien, Lori (1999). 'Bastien Piano For Adults - A Beginning Course: Lessons, Theory, Technic, Sight Reading - Book 1'. San Diego, California, U.S.A.: Kjos Music Press. KJOS: Neil A. KJOS Music Company, Distributor. ISBN 0849773024. NB: The RCSCC with their No. "108" for 'Scarborough Fair' led me to this volume which is pure platinum, bejewelled and sublime filigree for our purposes. It constitutes a sound refresher for my lapsed pianoforte skillset. Mrs Hutchins would lament. But, the volume for the most part, is directly transferable, applicable and easily reworkable and adaptable to the glockenspiel. It is effectively, exactly what I was looking for, but was unsure how to find. Most of the published works on the glockenspiel are 'Mickey Mouse' and juvenilia, compared to the musicality and pedagogy that produced and is invested in this work. It should be noted, that it is of its time and dated. That said, at a glance, I have determined without reservation, that it is a premium and accomplished work and will be a foundation for my Western musicality point-of-[re]entry. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Bastien%2C%20J.%20S.%20(auth.)%2C%20et%20al.%20(1999).%20Bastien%20Piano%20For%20Adults%20-%20A%20Beginning%20Course%20-%20Lessons%2C%20Theory%2C%20Technic%2C%20Sight%20Rea...pdf (accessed: Saturday, June 14, 2025)
 
@@ -21,22 +21,22 @@ Canadian Department of National Defence (CDND) (attr.) (2008). 'Canadian Cadet O
 
 
 
-D
+# D #
 
 
 
-E
+# E #
 
 
 
 
-F
+# F #
 
 Fennimore, Kevin (auth.) (2024). 'How to Play the Glockenspiel for Beginners: The Ultimate Guide to Learning, Playing, and Becoming Proficient at the Instrument'. Independently published. ASIN B0D9RBCC2W. ISBN 9798333607935. 
 
-G
+# G #
 
-
+Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished Compendium Called the Yogarnava' in the *Journal of Indian Philosophy*, Vol. 50, 2022, pp. 345 - 385. Heidelberg, Germany: Springer Nature. DOI: https://doi.org/10.1007/s10781-022-09504-6 Source: https://link.springer.com/article/10.1007/s10781-022-09504-6 (accessed: Monday, June 16, 2025)
 
 
 
