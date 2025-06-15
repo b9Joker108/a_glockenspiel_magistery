@@ -16,7 +16,7 @@ Bastien, Jane Smisor; Bastien, Lisa & Bastien, Lori (1999). 'Bastien Piano For A
 
 # C #
 
-Canadian Department of National Defence (CDND) (attr.) (2008). 'Canadian Cadet Organizations: Military Band - Music Proficiency Levels Qualification Standard'. Canadian National Defence Headquarters (CNDHQ), Ottawa, Ontario, Canada: Youth Programs Development, Canadian Department of National Defence (CDND). A-CR-CCP-910/PG-001. Source: xxx 
+Canadian Department of National Defence (CDND) (attr.) (2008). 'Canadian Cadet Organizations: Military Band - Music Proficiency Levels Qualification Standard'. Canadian National Defence Headquarters (CNDHQ), Ottawa, Ontario, Canada: Youth Programs Development, Canadian Department of National Defence (CDND). A-CR-CCP-910/PG-001. Source:  https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/CDND%20(attr.)(2008).%20Canadian%20Cadet%20Organizations%20-%20Military%20Band%20-%20Music%20Proficiency%20Levels%20Qualification%20Standard.pdf (accessed: Sunday, June 15, 2025)
 
 
 
