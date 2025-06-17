@@ -204,3 +204,219 @@ Citations:
 [7] [PDF] Philosophy Of Pancharatra https://ia801201.us.archive.org/13/items/PhilosophyOfPancharatra/Philosophy%20of%20Pancharatra_text.pdf
 [8] Pancharatra Agama Explained: A Clear Introduction - Poojn.in https://www.poojn.in/post/29766/pancharatra-agama-explained-a-clear-introduction
 
+
+Bhutashuddhi in the Pancharatra tradition
+
+What follows is an excerpt of verse 140 through 152 ... from Chapter 3 of the *Sri Parameshwara Samhita* of the Pancharatra agama tantric Vaishnava scripture which discusses a version of the 'Bhutashuddhi' (English: "purification of the elements"):
+
+Verse 140  
+Devanagari:  
+`
+भूतशुद्धिं शृणु मुनि! यथावद् अनुपूर्वशः ।
+पृथिव्यप्तेजोनिलाकाशं शरीरं भूतपञ्चकम् ॥
+`  
+
+IAST:  
+`
+bhūtaśuddhiṁ śṛṇu muni! yathāvad anu-pūrvaśaḥ ।
+pṛthivī-aptēja-nilākāśaṁ śarīraṁ bhūtapañcakam ॥
+`  
+
+English:  
+"O sage, listen to the purification of the elements, as was prescribed in the beginning! The body is composed of the five elements—commonly understood as earth, water, fire, air, and ether."
+
+Verse 141  
+Devanagari:  
+`
+इन्द्रजालोपमं विद्धि ज्ञानाद्यैरुज्जितं गुणैः ।
+मलिनं चास्वतन्त्रं च रेतोरक्तोद्भवं क्षयि ॥
+`  
+
+IAST:  
+`
+indrajālopamaṁ viddhi jñānād yair ujjhitaṁ guṇaiḥ ।
+malinaṁ cāsvatantraṁ ca retoraktodbhavaṁ kṣayi ॥
+`  
+
+English:  
+"Know it as akin to Indra’s net—its structure upheld by primordial knowledge and qualities—and let that impure, unconstrained substance originating from the red (vital fluid) be dissolved."
+
+Verse 142  
+Devanagari:  
+`
+यावन्न शोधितं सम्यग् धारणाभिर् निरन्तरम् ।
+तावद् एतद् योग्यम् स्यान् मन्त्रन्यासादिवस्तुषु ॥
+`  
+
+IAST:  
+`
+yāvann śodhitaṁ samyag dhāraṇābhir nirantaram ।
+tāv ad etad yogyaṁ syān mantra-nyāsādi vastuṣu ॥
+`  
+
+English:  
+"As long as that which is continuously and properly maintained (through cleansing) is secured, so too does it become apt for procedures such as the laying down of the mantra and allied practices."
+
+Verse 143  
+Devanagari:  
+`
+पञ्चभिर्धारणाभिर् वा द्वाभ्यां वा शोधयेत्तनुम् ।
+सुषुम्नादक्षिणद्वारान्निर्गमय्य हरिं बहिः ॥
+`  
+
+IAST:  
+`
+pañcabhir dhāraṇābhir vā dvābhyāṁ vā śodhayet tanum ।
+suṣumnā dakṣiṇa dvārān nirgamy harim bahiḥ ॥
+`  
+
+English:  
+"Employing either the five supports or the two supports for holding (the energy), purify the body; and let the divine (Hari) emerge externally via the (southern or right-side) channel."
+
+Verse 144  
+Devanagari:  
+`
+सहस्ररविसकाशं वृत्तमण्डलमध्यगम् ।
+तप्तकाञ्चनवर्णाभमासीनं परमे पदे ॥
+`  
+
+IAST:  
+`
+sahasra-raviskāśaṁ vṛtta-maṇḍala-madhyagam ।
+taptakāñcana-varṇābham āsīnaṁ parame pade ॥
+`  
+
+English:  
+"Residing at the center of a circular sphere that radiates with a thousandfold brilliance, there is the supreme seat exhibiting a lustrous, heated-gold hue."
+
+Verse 145  
+Devanagari:  
+`
+मन्त्रात्मानं तु तं ध्यात्वा ह्युपरि द्वादशाङ्गुले ।
+प्रभाचक्रं तु तदधस्तत्वाधिष्टातृसंयुतम् ॥
+`  
+
+IAST:  
+`
+mantrātmanam tu taṁ dhyātvā hy upari dvādaśāṅgule ।
+prabhācakraṁ tu tad adha-stvatva-adhishṭhātṛ-saṁyutam ॥
+`  
+
+English:  
+"Meditate upon that essence of mantra; above it, at a distance of twelve fingerbreadths, behold the radiant wheel (chakra) that is joined with the lower support or foundation."
+
+Verse 146  
+Devanagari:  
+`
+निष्कलं मन्त्रदेहं तु ध्यात्वा तु तदधः क्रमात् ।
+तुर्यश्रां पीतलां भूमिं चिन्तयेद्वज्रलाञ्छिताम् ॥
+`  
+
+IAST:  
+`
+niṣkalaṁ mantradehaṁ tu dhyātvā tu tad adhaḥ kramāt ।
+turyaśrāṁ pītalāṁ bhūmiṁ cintayet vajralāñchhitām ॥
+`  
+
+English:  
+"By meditating on the complete, undivided mantra-body—and then successively moving downward—one should contemplate the state (turyā) that manifests with a yellowish hue and is marked with diamond-like splendour upon the earth."
+
+Verse 147  
+Devanagari:  
+`
+शब्दाद्यैः पञ्चभिर् युक्तां नगद्गमसमाकुलाम् ।
+पुरप्राकारसुसरिद्वीपार्णवपरिष्कृताम् ॥
+`  
+
+IAST:  
+`
+śabdād yaiḥ pañcabhir yuktāṁ nagadgama-samākulām ।
+puraprakāra-susaridvīpārṇava-pariṣkṛtām ॥
+`  
+
+English:  
+"Combined with the primary sounds and the five elements, the form—replete with the resounding (nagadgama) intonation—is refined like an assembly of classic forms; polished as if it were the well-ordered islands in an ocean."
+
+Verse 148  
+Devanagari:  
+`
+संविशन्तीं स्मरेद्वाह्यात् पूरकेण स्वविग्रहे ।
+प्रोच्चरंश्चैव तन्मन्त्रं विश्रान्तामथ चिन्तयेत् ॥
+`  
+
+IAST:  
+`
+saṁviśantīṁ smaret vāhyāt pūrakeṇa sva-vigrahe ।
+proccaraṁś caiva tan-mantraṁ viśrāntām ath cintayet ॥
+`  
+
+English:  
+"Reminisce upon the mantra that pervades your whole form (as if carried by an internal current); likewise, also reflect upon that pronounced mantra which induces a state of repose."
+
+Verse 149  
+Devanagari:  
+`
+जान्वोः पादतलं यावत्तया व्याप्तं क्रमेण तु ।
+कुम्भकेन द्विजश्रेष्ठ! मन्त्रमूर्ती स्वके ततः ॥
+`  
+
+IAST:  
+`
+jānvōḥ pādatalaṁ yāvat tayā vyāptaṁ kramēṇa tu ।
+kuṁbhakena dvijaśreṣṭha! mantramūrtī svakē tataḥ ॥
+`  
+
+English:  
+"Step by step, the energy extends from the soles of the feet; O foremost of the twice-born, establish the embodiment of your mantra using the pot (kumbha) as your symbol."
+
+Verse 150  
+Devanagari:  
+`
+शनैः शनैः या यातां गन्धशक्तौ च मन्त्रराट् ।
+गन्धशक्ति न तां पश्चादेशकेन बहिः क्षिपेत् ॥
+`  
+
+IAST:  
+`
+śanaiḥ śanaiḥ yā yātāṁ gandhaśaktau ca mantrarāṭ ।
+gandhaśakti na tāṁ paścād recakena bahiḥ kṣipēt ॥
+`  
+
+English:  
+"Gradually and steadily, as the energy of the mantra transforms into the power of fragrance, let that aromatic force not be flung outward by any counter-flow."
+
+Verse 151  
+Devanagari:  
+`
+तोयाख्ये च महाधारे, ततस्तोयं च वैभवम् ।
+ससमुद्रसरित्स्त्रोतोरसषट् च सौषधिम् ॥
+`  
+
+IAST:  
+`
+toyākhyē ca mahādhārē, tatastoyaṁ ca vaibhavam ।
+sasamudra-sarits-strotor aśaṣaṭ ca sauṣadhim ॥
+`  
+
+English:  
+"And in that great current—referred to as Toya—resides an immense opulence, akin to the cascading streams of the vast ocean coupled with the sixfold medicinal virtues."
+
+Verse 152  
+Devanagari:  
+`
+यान्यन्यान्यम्बुभूतानि भूतानि भुवनान्तरे ।
+अर्धचन्द्रसमाकारं कमलध्वजशोभितम् ॥
+`  
+
+IAST:  
+`
+yāny an'yany ambubhūtāni bhūtāni bhuvanāntare ।
+ardhacandra-samākāraṁ kamaladhvaja-śobhitam ॥
+`  
+
+English:  
+"And various manifestations of the elements, inhabiting all worlds, assume the form of a half-moon—graced with the splendour of a lotus-bearing standard."
+
+These verses outline a sophisticated process of internal purification and energetic refinement through sound, visualization, and mantra practice. The instruction ranges from understanding the composition of the body in terms of the five great elements to guiding one’s meditation on subtle, luminous channels and centers.  
+
+If you wish to explore further details—such as historical commentaries on these verses or how later practitioners integrate these instructions into meditation practices—there is a wealth of related literature on Pancharatra and the subtle body.
