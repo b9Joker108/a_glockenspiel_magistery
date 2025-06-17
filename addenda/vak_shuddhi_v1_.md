@@ -390,7 +390,7 @@ saṃdadhāmy ṛtam vadiṣyāmi satyaṃ vadiṣyāmi tan mām avatu tad-vakt�
 avatu mām avatu vaktāram avatu vaktāram |
 oṃ śāntiḥ śāntiḥ śāntiḥ ||**
 
-*Source: The Shanti Mantra of Aitareya Upaniṣad, is a mangalacharana, or an auspicious invocation prior to verse 1.1.1. The most authoritative Sanskrit version I could find is the following Kashi pandita edited version published in Kashi. In it, the Shanti Mantra is prefixed by Harih Om, instead of just Om. Olivelle made no nention of the Shanti Mantra in his annotated Sanskrit and English translation of the Aitareya Upaniṣad and dispensed with it entirely. Refer: https://vedicheritage.gov.in/flipbook/Aitareyopanishad/#book/25
+*Source: The Shanti Mantra of Aitareya Upaniṣad, is a mangalacharana, or an auspicious invocation prior to verse 1.1.1. The most authoritative Sanskrit version I could find is the following Kashi pandita edited version published in Kashi. In it, the Shanti Mantra is prefixed by Harih Om, instead of just Om. Olivelle made no nention of the Shanti Mantra in his annotated Sanskrit and English translation of the Aitareya Upaniṣad and dispensed with it entirely. Refer: https://vedicheritage.gov.in/flipbook/Aitareyopanishad/#book/25   Refer: https://ia801403.us.archive.org/25/items/in.ernet.dli.2015.345003/2015.345003.Aitareya-Upanishat_text.pdf
 
 
 **Usage:**  
