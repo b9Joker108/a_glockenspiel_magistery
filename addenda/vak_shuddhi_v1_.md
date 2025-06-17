@@ -379,18 +379,19 @@ Nyāsa (न्यास, nyāsa) is the ritual placement of mantras on parts of 
 
 **Sample Mantra for Vāk Śuddhi:**
 
-> **ॐ वाङ् मे मनसि प्रतिष्ठिता मनो मे वाचि प्रतिष्ठितम् । आविराविर्म एधि वेदस्य म आणीस्थः श्रुतं मे मा प्रहासीः । अनेनाधीतनतेनाहोरात्रान् संवदिष्यामि । वाक्यं वदिष्यामि । सत्यं वदिष्यामि । तन्मामवतु तद्वक्तारमवतु । अवतु माम् । अवतु वक्तारम् ॥**  
+> **हरिः ॐ । ॐ वाङ् मे मनसि प्रतिष्ठिता मनो मे वाचि प्रतिष्ठितम् । आविराविर्म एधि वेदस्य म आणीस्थः श्रुतं मे मा प्रहासीः । अनेनाधीतनतेनाहोरात्रान् संवदिष्यामि । वाक्यं वदिष्यामि । सत्यं वदिष्यामि । तन्मामवतु तद्वक्तारमवतु । अवतु माम् । अवतु वक्तारम् ॥**  
 >  
 > **oṃ vāṅ me manasi pratiṣṭhitā mano me vāci pratiṣṭhitam | āvirāvirma edhi vedasya ma āṇīsṭhaḥ śrutaṃ me mā prahāsīḥ | anenādhītanatenāhorātrān saṃvadiṣyāmi | vākyaṃ vadiṣyāmi | satyaṃ vadiṣyāmi | tanmām avatu tadvaktāram avatu | avatu mām | avatu vaktāram ||**
 >
-> **oṃ vāṅ me manasi pratiṣṭhitā
+> **hariḥ oṃ vāṅ me manasi pratiṣṭhitā
 mano me vāci pratiṣṭhita māvīrāvīrma edhi |
 vedasya ma āṇisthaḥ śrutaṃ me mā prahāsīranenādhītenāhorātrān
 saṃdadhāmy ṛtam vadiṣyāmi satyaṃ vadiṣyāmi tan mām avatu tad-vaktāram avatu
 avatu mām avatu vaktāram avatu vaktāram |
 oṃ śāntiḥ śāntiḥ śāntiḥ ||**
 
-*Source: The Shanti Mantra of Aitareya Upaniṣad, is a mangalacharana, or an auspicious invocation prior to verse 1.1.1.
+*Source: The Shanti Mantra of Aitareya Upaniṣad, is a mangalacharana, or an auspicious invocation prior to verse 1.1.1. The most authoritative Sanskrit version I could find is the following Kashi pandita edited version published in Kashi. In it, the Shanti Mantra is prefixed by Harih Om, instead of just Om. Olivelle made no nention of the Shanti Mantra in his annotated Sanskrit and English translation of the Aitareya Upaniṣad and dispensed with it entirely. Refer: https://vedicheritage.gov.in/flipbook/Aitareyopanishad/#book/25
+
 
 **Usage:**  
 Recite this mantra before kīrtana, bhajan, or mantra-japa to purify the mind and speech.
