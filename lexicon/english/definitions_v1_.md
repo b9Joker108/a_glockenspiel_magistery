@@ -199,6 +199,178 @@ Samgita-Yoga (IAST: Saṅgīta-yoga; Devanagari: संगीत योग): The
 Shanta rasa, also known as shantarasa, is a concept in Indian aesthetics, particularly within the framework of Navarasa (nine emotions). It signifies a state of tranquility, peace, serenity, equanimity and quietude and though its position and state as a primary rasa is contentious, it is often proffered as the ninth rasa. It may be concomitant or associated with a feeling of detachment and liberation and some contend that it may be reached through the experience of other rasas. Though, there are a suite of other positions and contentions. Shanta rasa translates to "peaceful sentiment" or "tranquility" in Sanskrit. In the traditional framework of Navarasa, shanta rasa is often considered the ninth rasa, added by later authors, building upon the eight primary rasas. Abhinavagupta, a prominent figure in rasa theory, believed that shanta rasa underlies all other rasas, representing the ultimate state of peace and serenity that may be reached through them. It is contended by some that it is not a rasa that can be directly portrayed, but rather, a state that emerges from the experience of other intense emotions. It's like a substratum, the stillness of the ocean beneath the waves of various emotions. Shanta rasa is associated with a feeling of liberation, detachment and the realization of one's true nature. It is linked to concepts like Vairagya (detachment) and Sthitaprajna (steadfast wisdom). In some schools of Vaishnavism, the Gaudiya Vaishnava Sampradaya specifically, Shanta rasa is oft-considered a neutral love for the divine and is associated with devotional practices and the concept of Paramatma. It is often depicted in narratives of great yogis achieving enlightenment or in the portrayal of serene natural landscapes. Regardless, there is much that may be considered exceptionalism in the case, nature, arrising, experience and provenance of this rasa in relation to the canonocal and principal eight. Some, may even perceive Sri Krishna's attesting and expounding its purview in the Sri Bhagavada Gita.
 
 
+## Svaralipi ##
+
+Svaralipi, derived from the Sanskrit words svara (note) and lipi (script), is essentially the musical notation system used in Indian classical music to visually represent the pitch, duration, and expressive nuances of musical notes. Unlike Western notation, which is more prescriptive in terms of rhythm and pitch, Svaralipi tends to act as a mnemonic device—a shorthand that guides a musician through the intricate oral tradition of performance while preserving the essential elements of the art form. In its traditional form, Svaralipi is tailored to depict the seven fundamental swaras of Indian music: Shadja (Sa), Rishabh (Re), Gandhar (Ga), Madhyam (Ma), Pancham (Pa), Dhaivat (Dha) and Nishad (Ni). These notes can undergo subtle alterations—such as the use of komal (flat) forms for Re, Ga, Dha, and Ni or the tivra (sharp) version for Ma—each modifying the note’s pitch by a semitone. Here, the notation does not strictly bind the performer; instead, it provides a framework that informs the musician about how each note might be ornamented or rendered in a given performance. This system accommodates the concept of achala swar (fixed notes like Sa and Pa) versus vikrut swar (movable or flexible notes), highlighting the nuanced difference in their roles within a raga. Historically, the evolution of Svaralipi can be traced back to the ancient Vedic traditions. Early music treatises used simple symbols—ranging from lines to numerals—to indicate variations in pitch. For instance, diacritical marks such as a vertical line for indicating an elevated pitch (reminiscent of the Udatta in Vedic recitations) or a horizontal line for lowering the pitch (similar to Anudatta) were key in conveying the musical intonations accurately. Over time, as the musical traditions expanded and became more sophisticated, these symbols evolved into a more elaborate system that could account for a greater variety of musical expressions, including note duration, ornamentations, and rhythmic cycles (talas). Modern Svaralipi, as consolidated by musicologists like Vishnu Narayan Bhatkhande, represents a refined convergence of these ancient practices and practical performance needs. The notation system today may include not just the names of the swaras but also specific symbols and diacritics that suggest how each note should be articulated—whether that entails a gentle oscillation, a rapid trill, or a sustained emphasis. By doing so, Svaralipi bridges the gap between the oral tradition's improvisational richness and the practical demands of musical training, performance and preservation. This system is particularly valuable for performers and composers because it respects the fluidity and improvisational nature of Indian classical music. Rather than dictating an exact pitch or rhythm rigidly, Svaralipi leaves ample room for individual expression, reminding the musician of the essential microtonal variations and emotional inflections that bring a raga to life. In essence, it is as much a part of the music as the melody itself—an indispensable guide that reflects centuries of evolving musical philosophy and craftsmanship. There’s a rich interplay between notation and improvisation in Indian classical music, and further exploration of Svaralipi might involve understanding how different regional or stylistic nuances (like those in Hindustani versus Carnatic traditions) handle these notational symbols.
+
+That's really good but you only gave the notation in romanisation abd not symbolic Devanagari
+
+Thank you for pointing that out! Here is an **exhaustive guide to Svaralipi notation in Shastriya Sangeet with both Romanisation and symbolic Devanāgarī**. This will help you read, write, and interpret notation as it appears in classical Indian music literature.
+
+---
+
+# **Svaralipi (स्वरलिपि) in Shastriya Sangeet: Romanisation and Devanāgarī**
+
+## **1. The Seven Swaras (सप्त स्वर)**
+
+| Romanisation | Devanāgarī | Pronunciation | Western Equivalent |
+|--------------|------------|---------------|--------------------|
+| Sa           | स          | Sa            | Do                 |
+| Re           | रे          | Re            | Re                 |
+| Ga           | ग          | Ga            | Mi                 |
+| Ma           | म          | Ma            | Fa                 |
+| Pa           | प          | Pa            | So                 |
+| Dha          | ध          | Dha           | La                 |
+| Ni           | नि          | Ni            | Ti                 |
+
+---
+
+## **2. Variants: Komal (कोमल), Tivra (तीव्र), Shuddha (शुद्ध)**
+
+### **Komal (कोमल, Flat)**
+- **Re, Ga, Dha, Ni** can be komal (lowered by a semitone).
+- **Symbol:** Underline in Devanāgarī or lowercase in Romanisation.
+
+| Romanisation | Devanāgarī | Example |
+|--------------|------------|---------|
+| re           | रे̱         | कोमल रे |
+| ga           | ग̱          | कोमल ग  |
+| dha          | ध̱         | कोमल ध  |
+| ni           | नि̱         | कोमल नि |
+
+### **Tivra (तीव्र, Sharp)**
+- **Ma** can be tivra (raised by a semitone).
+- **Symbol:** Vertical line above (or a dot) in Devanāgarī, or 'M' with a caret (^) or acute accent (´) in Romanisation.
+
+| Romanisation | Devanāgarī | Example |
+|--------------|------------|---------|
+| Ma^ or M'    | म̍         | तीव्र म |
+
+### **Shuddha (शुद्ध, Natural)**
+- No special marking; default form.
+
+---
+
+## **3. Octave Markings (सप्तक चिह्न)**
+
+| Saptak      | Romanisation | Devanāgarī Symbol | Example        |
+|-------------|--------------|-------------------|----------------|
+| Mandra      | . (below)    | ऽ (dot below)     | ऽस, ऽरे, ऽग    |
+| Madhya      | none         | none              | स, रे, ग       |
+| Taar        | . (above)    | ˙ (dot above)     | स˙, रे˙, ग˙    |
+
+---
+
+## **4. Rhythmic Notation (ताल चिह्न)**
+
+| Symbol         | Romanisation | Devanāgarī Symbol | Meaning           |
+|----------------|--------------|-------------------|-------------------|
+| Sam            | X            | ✶ or सम           | First beat        |
+| Khali          | O            | ० or खाली         | Empty beat        |
+| Tali           | 1, 2, 3...   | १, २, ३...        | Clapped beat      |
+| Matra          | .            | ।                 | Beat              |
+| Vibhag         | |            | |                 | Section           |
+
+---
+
+## **5. Ornamentation (अलंकार)**
+
+| Ornament      | Romanisation | Devanāgarī Symbol | Meaning                   |
+|---------------|--------------|-------------------|---------------------------|
+| Meend         | ~            | ~ (tilde)         | Slide, glissando          |
+| Kan           | superscript  | superscript       | Grace note                |
+| Murki         | ( )          | ( )               | Quick ornamental notes    |
+| Gamak         | wavy line    | wavy line         | Oscillation/vibrato       |
+
+---
+
+## **6. Example: Notating a Phrase**
+
+Let’s notate a simple phrase in both Romanisation and Devanāgarī (Madhya Saptak):
+
+**Phrase:** S R G M P D N S' (ascending scale)
+
+**Romanisation:**  
+S  R  G  M  P  D  N  S.
+
+**Devanāgarī:**  
+स  रे  ग  म  प  ध  नि  स˙
+
+**With Komal and Tivra: (Descending, Taar Saptak, with komal ni and dha, tivra ma)**
+
+**Romanisation:**  
+S. n d P M' G R S
+
+**Devanāgarī:**  
+स˙ नि̱˙ ध̱˙ प˙ म̍˙ ग˙ रे˙ स
+
+---
+
+## **7. Rhythmic Example (in Teentaal, 16 Matras)**
+
+| Romanisation | S  -  R  G  | M  -  P  D  | N  -  S.  - | -  -  -  - |
+|--------------|-------------|-------------|-------------|------------|
+| Devanāgarī   | स  -  रे  ग | म  -  प  ध | नि  -  स˙  - | -  -  -  - |
+
+- Hyphen (-) indicates a held note or rest.
+- Vertical bar (|) divides vibhags (sections of the taal).
+
+---
+
+## **8. Comprehensive Table: Svaralipi Symbols**
+
+| Swara | Shuddha | Komal (Devanāgarī) | Tivra (Devanāgarī) | Mandra (Devanāgarī) | Taar (Devanāgarī) |
+|-------|---------|--------------------|--------------------|---------------------|-------------------|
+| Sa    | स       | —                  | —                  | ऽस                  | स˙                |
+| Re    | रे      | रे̱                 | —                  | ऽरे                 | रे˙               |
+| Ga    | ग       | ग̱                 | —                  | ऽग                  | ग˙                |
+| Ma    | म       | —                  | म̍                 | ऽम                  | म˙                |
+| Pa    | प       | —                  | —                  | ऽप                  | प˙                |
+| Dha   | ध       | ध̱                 | —                  | ऽध                  | ध˙                |
+| Ni    | नि      | नि̱                 | —                  | ऽनि                 | नि˙               |
+
+---
+
+## **9. Sample Composition with Lyrics (Bandish Example)**
+
+**Romanisation:**
+```
+S  R  G  M  | P  D  N  S.
+सा  रे  ग  म  | प  ध  नि  स˙
+```
+**Lyrics (Romanisation):**
+```
+Pa  ga  la  ba | na  ja  re  mo
+```
+**Lyrics (Devanāgarī):**
+```
+प  ग  ल  ब | न  ज  रे  मो
+```
+Align each syllable to its respective swara.
+
+---
+
+## **10. Practice Tips**
+
+- **Learn the Devanāgarī symbols for each swara and variant.**
+- **Practice reading and writing both forms side by side.**
+- **Use recordings and notation together for full understanding.**
+
+---
+
+## **References for Further Study**
+- **Vishnu Narayan Bhatkhande, "Kramik Pustak Malika" (क्रमिक पुस्तक माला)**
+- **Vishnu Digambar Paluskar, "Sangeet Bal Prakash" (संगीत बाल प्रकाश)**
+- **Carnatic Notation: "Sangita Sampradaya Pradarshini" (संगीत सम्प्रदाय प्रदर्शिनी)**
+
+---
+
+If you need a printable chart or a PDF with full Devanāgarī and Romanisation, or wish to see more complex examples (with ornamentation, tala, etc.), just ask!
+
+Citations:
+[1] Free-scores.com-_dvorak-antonin-the-golden-spinning-wheel-149572.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/4428017/b1254815-d13f-4b97-9b89-a263cb3eb2dd/Free-scores.com-_dvorak-antonin-the-golden-spinning-wheel-149572.pdf
+
+
 # T #
 
 ### Teental ###
