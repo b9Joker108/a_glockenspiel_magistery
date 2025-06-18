@@ -155,8 +155,13 @@ Raga
 
 # S #
 
+### Saman ### 
 
 Sāman refers to the ritual songs composed and chanted as part of the Sāma Veda, one of the four foundational scriptures of ancient Indian spirituality. The term itself is derived from the Sanskrit root śam, meaning "to pacify" or "to bring peace," which underscores the songs' intended role in harmonizing both the ritual environment and the cosmic order. Unlike other Vedic texts that focus on prose or structured recitations, the Sāma Veda is dedicated to transforming sacred verses—many of which are also found in the Rigveda — into elaborate musical renditions designed to elevate the spiritual potency of rituals. The sāman are not mere musical embellishments but are integral to the performance of Vedic sacrifices and ceremonies. Traditionally, these songs are rendered by specialized singers known as udgātṛs who employ specific melodic formulas and rhythmic cycles to breathe life into the ritual. The musical arrangement of the sāman transforms the static recitation of hymns into a dynamic, evolving soundscape that is meant to resonate deeply with both the participants and the natural world around them. In this context, sound is seen as a vehicle for invoking divine energies, wherein the precise melody and intonation impart a vibrational quality that is essential for achieving the rite's spiritual objectives. Beyond their ritualistic function, the sāman also hold a profound philosophical significance. They embody an ancient understanding that musical sound has the power to shape consciousness and foster inner transformation. Through the deliberate modulation of pitch, pace, and timbre, the sāman invite practitioners into a meditative state, aligning personal consciousness with the universal harmonies. This concept of sound as a transformative force not only enriches the performance of rituals but also serves as a bridge between the mundane and the divine, reinforcing the belief that music and vibration are fundamental to the order and balance of the cosmos.
+
+### Samgita Yoga ###
+
+Samgita-Yoga (IAST: Saṅgīta-yoga; Devanagari: संगीत योग): The union of musical sound, pure intention and devotion is the highest form of Vāk Sādhanā.
 
 ### Shanta Rasa ###
 
