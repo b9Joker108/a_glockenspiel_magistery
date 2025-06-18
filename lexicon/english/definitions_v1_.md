@@ -371,6 +371,66 @@ Citations:
 [1] Free-scores.com-_dvorak-antonin-the-golden-spinning-wheel-149572.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/4428017/b1254815-d13f-4b97-9b89-a263cb3eb2dd/Free-scores.com-_dvorak-antonin-the-golden-spinning-wheel-149572.pdf
 
 
+## Swarankita Sanchara ##
+
+What is that class or type of notation specification called? I mean, I know it is in svaralipi, but I mean the whole grapheme tied to a performative structure?
+
+Excellent question! The class or type of notation you are referring to—where **svaralipi** (the swara syllables) are **systematically aligned with lyrics, matras (beats), and the tala cycle in a tabular or grid format**—is known in Indian musicology as **Swarāṅkita Sanchāra** (स्वरांकित संचर) or more broadly as **Swarāṅkita Bandish Notation** (स्वरांकित बंदिश लेखन).
+
+## Technical Term: **Swarāṅkita Bandish Notation**  
+- **Swarāṅkita** (स्वरांकित) = “marked with swaras” or “swara-annotated”
+- **Bandish** (बंदिश) = a fixed composition
+- **Notation** (लेखन / लिपि) = the act of writing or specifying
+
+### **Lexical/Technical Definition**
+This is a **matrix or grid-based notation system** that:
+- Aligns each **svara** (note) with a **matra** (beat) of the tāla cycle,
+- Often includes **lyrics** directly under or over the swaras,
+- Indicates **tālī** (clapped beats), **khālī** (empty beats), and **avartan** (cycle) structure,
+- Sometimes includes octave marks, ornamentation, and other performance cues.
+
+### **In English Musicology**
+This is sometimes called **“syllabic grid notation”** or **“swaralipi grid with tala mapping”**. In academic writing, you may see it described as **“matrix-based Indian staff notation”** or **“swaralipi-tāla alignment table.”**
+
+### **Distinctive Features**
+- **Graphemic-Performative Integration:** Each grapheme (svara or lyric syllable) is mapped to its performative slot (matra in the tala cycle).
+- **Temporal Mapping:** The table/grid makes the temporal structure (rhythm, meter, tala) explicit.
+- **Pedagogical Utility:** This notation is especially common in educational and exam materials, as it visually clarifies the relationship between melody, lyrics, and rhythm.
+
+### **Tradition**
+- **Widely used in Hindustani classical music** for teaching and documenting bandishes, bhajans, and other fixed compositions.
+- Also found in **Carnatic music** (though with different notation conventions).
+
+---
+
+## **Summary Table**
+
+| Name in Hindi/Sanskrit      | English Description                        | Usage Context                |
+|----------------------------|---------------------------------------------|------------------------------|
+| स्वरांकित बंदिश लेखन       | Swara-annotated composition notation        | Pedagogy, bandish documentation |
+| स्वरांकित संचर             | Swara-marked passage notation               | Teaching, performance prep   |
+| Syllabic grid notation      | Grid/tabular swara-lyrics-tala mapping      | Academic, cross-cultural     |
+| Swaralipi-tala alignment    | Matrix-based Indian staff notation          | Musicology, analysis         |
+
+---
+
+## **In Summary**
+
+**The notation in your image is called**  
+**स्वरांकित बंदिश लेखन** (*Swarāṅkita Bandish Lekhan*)  
+or, in technical English,  
+**Swara-annotated grid notation** or **swaralipi-tala alignment table**.
+
+This system is a hallmark of Indian classical music pedagogy, providing a direct mapping from written notation to performative structure.
+
+---
+
+**If you’d like a more detailed breakdown of the notation’s semiotics or its comparison to Western staff/tabular systems, let me know!**
+
+Citations:
+[1] 1002624317.jpg https://pplx-res.cloudinary.com/image/upload/v1750281446/user_uploads/4428017/be2b5f7a-2316-4339-8504-5f9735824d4d/1002624317.jpg
+
+
 # T #
 
 ### Teental ###
