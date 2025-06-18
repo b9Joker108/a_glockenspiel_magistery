@@ -8,7 +8,7 @@ Below, you’ll find several modules:
 
 Each module uses absolute notation (e.g. c3 rather than relative notation); then we assemble these into one complete warmup session. Finally, we create two score blocks—one for printed notation (the written parts) and one where a transposition command shifts every note up two octaves for MIDI playback.
 
-`lilypond
+```lilypond
 %-----------------------------------------------------------
 % Specify the LilyPond version.
 \version "2.24.4" % Ensure compatibility with this version.
@@ -192,7 +192,7 @@ writtenMusicAbs = <<
 %-----------------------------------------------------------
 % END OF SCORE
 %-----------------------------------------------------------
-`
+```
 
 ---
 
