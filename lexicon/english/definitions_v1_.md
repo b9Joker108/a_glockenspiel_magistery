@@ -3,7 +3,7 @@
 
 
 
-A
+# A #
 
 ## Augmentation Dot ##
 
@@ -13,33 +13,33 @@ The augmentation dot is a small symbol with robust implications. It simplifies t
 Would you be interested in exploring how dotted rhythms are applied in different musical genres or even in creating custom rhythmic drills for your glockenspiel practice?
 
 
-B
+# B #
 
 
 
 
-C
+# C #
 
 
 
 
-D
+# D #
 
 
 
-E
+# E #
 
 ### Elder Futhark ###
 
 The Elder Futhark is the oldest known form of the runic alphabets used by Germanic peoples, not directly written in Proto-Germanic but reflecting its linguistic stage. It was used for Northwest Germanic dialects during the Migration Period, predating the separation of Germanic languages. Whilst the Elder Futhark inscriptions don't directly use Proto-Germanic, many words in the inscriptions are closely related to reconstructed Proto-Germanic words. The Elder Futhark was primarily used for Northwest Germanic dialects, which include Proto-Norse and early forms of Old English. This period (roughly 1–250 CE) saw the Elder Futhark being used across various Germanic tribes as they migrated and settled in different regions. The Elder Futhark evolved into different regional forms like the Anglo-Saxon Futhorc in the British Isles and the Younger Futhark in Scandinavia. The earliest period of Elder Futhark inscriptions (2nd-4th centuries CE) reflects the Common Germanic stage, predating the separation of West Germanic into Anglo-Frisian, Low German and High German.
 
-F
+# F #
 
 
 
 
 
-G
+# G #
 
 ### Gat ###
 
@@ -80,14 +80,14 @@ At its core, Hindustani Classical Music is characterized by its emphasis on spon
 Historically, Hindustani Classical Music evolved as a living tradition that absorbed and integrated diverse cultural influences. The migration and settlement of various peoples, the intermingling of Persian and indigenous musical ideas, and the patronage of both royal courts and spiritual communities have all contributed to its layered complexity. Over time, formal systems — such as the classification of ragas into thaats — were developed to codify and preserve this musical heritage. Today, Hindustani Classical Music remains not only a profound artistic discipline but also an essential part of cultural identity, celebrated globally for its depth, sophistication and timeless ability to evoke and convey the nuances of human and divine emotion. 
 
 
-I
+# I #
 
 
 
 
 
 
-J
+# J #
 
 
 
@@ -95,29 +95,29 @@ J
 
 
 
-K
+# K #
 
 
 
 
 
 
-L
+# L #
 
 
 
 
-M
+# M #
 
 
 
-N
+# N #
 
 
 
 
 
-O
+# O #
 
 ### Odin stone altar ###
 
@@ -138,7 +138,7 @@ Pitch (Sanskrit: xxx ; Hindi: xxx; Bengali: xxx; Gurmukhi: xxx; Tibetan: xxx)
 
 
 
-Q
+# Q #
 
 
 
@@ -146,7 +146,7 @@ Q
 
 
 
-R
+# R #
 
 ## Raga (Indian musical tradition) ##
 
@@ -193,6 +193,10 @@ Sāman refers to the ritual songs composed and chanted as part of the Sāma Veda
 ### Samgita Yoga ###
 
 Samgita-Yoga (IAST: Saṅgīta-yoga; Devanagari: संगीत योग): The union of musical sound, pure intention and devotion is the highest form of Vāk Sādhanā.
+
+### Saptak ###
+
+Saptak (सप्तक) in Indian Classical Music** literally means “group of seven” (सप्त = seven), referring to the seven (7) swaras (Sa, Re, Ga, Ma, Pa, Dha, Ni). In practice, a **saptak** is equivalent to an **octave** in Western music, though the Indian system is fundamentally modal and microtonal. The three (3) principal saptaks and their notation are: **Mandra Saptak** (lower octave), with dots below; **Madhya Saptak** (middle octave), with no dors; and **Taar Saptak** (upper octave), with dots above. 
 
 ### Shanta Rasa ###
 
