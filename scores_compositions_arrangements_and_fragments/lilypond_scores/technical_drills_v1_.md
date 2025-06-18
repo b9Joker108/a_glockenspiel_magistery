@@ -216,3 +216,173 @@ Explanation
 ---
 
 This template not only meets your requirements for absolute notation but also adapts the chord progression to reflect the broken chord style suitable for a beginner glockenspiel player. Would you like to explore further modifications—perhaps additional dynamic markings, more rhythmic complexity, or deeper explanations of any section?
+
+
+
+
+I have resolved to use Lilypad for my glockenspiel scores but I also want to include the Raga Svaralipi on my  Lilypad score?
+
+That’s a wonderful and scholarly idea! Integrating **rāga svaralipi** with your glockenspiel scores in **LilyPond** (not “Lilypad”) is entirely possible and can make your scores accessible to both Western and Indian classical musicians.
+
+Below is a step-by-step guide on how to include **Devanāgarī svaralipi**—as seen in your attached image—directly in your LilyPond scores.
+
+---
+
+## 1. **Choose a Suitable Devanāgarī Font**
+
+LilyPond supports Unicode and can display Devanāgarī if you use a compatible font. Recommended fonts include:
+- **Noto Sans Devanagari** (free, Google Fonts)
+- **Sanskrit 2003** (free, for classical texts)
+- **Adishila** (as previously mentioned)
+
+Install your chosen font on your system.
+
+---
+
+## 2. **Inputting Devanāgarī Svaralipi in LilyPond**
+
+### **a. Unicode Input**
+
+You can enter Devanāgarī directly in your LilyPond `.ly` file using Unicode. For example:
+
+```lilypond
+\markup {
+  \override #'(font-name . "Noto Sans Devanagari")
+  "सा रे ग म प ध नि सा"
+}
+```
+
+### **b. Aligning Svaralipi with Western Notation**
+
+Use **\markup** blocks above or below the staff to display svaralipi syllables. For example, to annotate a C major scale (which matches Bilawal thaat):
+
+```lilypond
+\version "2.24.2"
+
+\header {
+  title = "Glockenspiel with Rāga Svaralipi"
+}
+
+glockenspielNotes = \relative c' {
+  c d e f g a b c
+}
+
+\score {
+  <<
+    \new Staff {
+      \set Staff.instrumentName = #"Glockenspiel"
+      \glockenspielNotes
+    }
+    \new Lyrics \lyricmode {
+      \markup {
+        \override #'(font-name . "Noto Sans Devanagari")
+        "सा रे ग म प ध नि सा"
+      }
+    }
+  >>
+}
+```
+- This example places the svaralipi as lyrics aligned with each note.
+
+---
+
+## 3. **Advanced: Svaralipi Above Each Note**
+
+For more precise alignment, use the **\addlyrics** or **\lyricsto** command:
+
+```lilypond
+\score {
+  <<
+    \new Staff = "melody" \relative c' {
+      c d e f g a b c
+    }
+    \new Lyrics \lyricsto "melody" {
+      \markup { \override #'(font-name . "Noto Sans Devanagari") "सा" }
+      \markup { \override #'(font-name . "Noto Sans Devanagari") "रे" }
+      \markup { \override #'(font-name . "Noto Sans Devanagari") "ग" }
+      \markup { \override #'(font-name . "Noto Sans Devanagari") "म" }
+      \markup { \override #'(font-name . "Noto Sans Devanagari") "प" }
+      \markup { \override #'(font-name . "Noto Sans Devanagari") "ध" }
+      \markup { \override #'(font-name . "Noto Sans Devanagari") "नि" }
+      \markup { \override #'(font-name . "Noto Sans Devanagari") "सा" }
+    }
+  >>
+}
+```
+- Each Devanāgarī syllable will appear directly under its corresponding note.
+
+---
+
+## 4. **Tips for Complex Svaralipi**
+
+- For **komal** and **tivra** notes, use Unicode combining marks or the appropriate Devanāgarī characters (e.g., रे̱, म̍).
+- For **octave dots**, you may use Unicode combining dot above (U+0307) or below (U+0323), or simply place a period or custom symbol as needed.
+- For **rhythmic notation** (e.g., matra, vibhag), use vertical bars or other symbols in the markup.
+
+---
+
+## 5. **Workflow Suggestions**
+
+- Prepare your svaralipi text in a Unicode-compatible text editor.
+- Copy-paste directly into your LilyPond `.ly` file.
+- Compile with LilyPond; the PDF will show both Western staff and Devanāgarī svaralipi.
+
+---
+
+## 6. **Reference Example**
+
+Here’s a minimal working example you can adapt:
+
+```lilypond
+\version "2.24.2"
+
+\header {
+  title = "Rāga Yaman for Glockenspiel"
+}
+
+melody = \relative c' {
+  c d e f g a b c
+}
+
+svaralipi = \lyricmode {
+  \markup { \override #'(font-name . "Noto Sans Devanagari") "सा" }
+  \markup { \override #'(font-name . "Noto Sans Devanagari") "रे" }
+  \markup { \override #'(font-name . "Noto Sans Devanagari") "ग" }
+  \markup { \override #'(font-name . "Noto Sans Devanagari") "म" }
+  \markup { \override #'(font-name . "Noto Sans Devanagari") "प" }
+  \markup { \override #'(font-name . "Noto Sans Devanagari") "ध" }
+  \markup { \override #'(font-name . "Noto Sans Devanagari") "नि" }
+  \markup { \override #'(font-name . "Noto Sans Devanagari") "सा" }
+}
+
+\score {
+  <<
+    \new Staff = "melody" \melody
+    \new Lyrics \lyricsto "melody" \svaralipi
+  >>
+}
+```
+
+---
+
+## 7. **Further Customization**
+
+- For **complex bandishes** or **rhythmic cycles**, you can use multiple markup lines, color, or font size changes.
+- For **IAST transliteration**, use a Unicode Latin font (like Gentium Plus) in a parallel markup block.
+
+---
+
+## 8. **References**
+
+- [LilyPond Documentation: Text Markup](http://lilypond.org/doc/v2.24/Documentation/notation/formatting-text)
+- [Noto Sans Devanagari on Google Fonts](https://fonts.google.com/specimen/Noto+Sans+Devanagari)
+- [Adishila Fonts](https://adishila.com/fonts/)
+
+---
+
+**If you want a template for a specific rāga, or have questions about inputting komal/tivra or ornamentation, let me know! I can provide a ready-to-use LilyPond file tailored to your needs.**
+
+Citations:
+[1] 1002624317.jpg https://pplx-res.cloudinary.com/image/upload/v1750281446/user_uploads/4428017/be2b5f7a-2316-4339-8504-5f9735824d4d/1002624317.jpg
+
+
