@@ -2,8 +2,7 @@
 
 
 
-In have two (2) complete orchestral scores of the 'The Golden Spinning Wheel' (Czech: Zlatý Kolavrat; xxxx; xxx: Das goldene Spinnrad; xxx: Le Rouet D'or), Op. 109, Antonín Dvořák (1841 - 1904). The first orchestral score is the xxx of xxx and the second is published in 1958 by the 'State Publishing House of Fine Literature, Music and Art, Prague' (Czech: Státní nakladatelství krásné literatury, hudby a umění. Praha), written in the Czech language using the Latin script with Czech diacritics and orthography, printed in Czechoslovakia (now the Czech Republic).
-
+In have two (2) complete orchestral scores of the 'The Golden Spinning Wheel' (Czech: Zlatý Kolavrat; German: Das goldene Spinnrad; French: Le Rouet D'or), Op. 109, Antonín Dvořák (1841 - 1904). The first orchestral score is the xxx of xxx and the second is published in 1958 by the 'State Publishing House of Fine Literature, Music and Art, Prague' (Czech: Státní nakladatelství krásné literatury, hudby a umění. Praha), written in the Czech language using the Latin script with Czech diacritics and orthography, printed in Czechoslovakia (now the Czech Republic).
 
 "Zlatý Kolavrat" literally translates from Czech as "Golden Spinning Wheel." Following, is a detailed explanation of the term "Zlatý Kolavrat" covering its linguistics, grammar, etymology, diacritical marks in the Latin alphabet, as used in Czech), and pronunciation.
 
