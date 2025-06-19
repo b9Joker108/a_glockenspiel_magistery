@@ -143,10 +143,10 @@ T
 
 
 
-U
+# U #
 
 
-
+Urban, Hugh B. (1998). 'The Torment of Secrecy: Ethical and Epistemological Problems in the Study of Esoteric Traditions' in the *History of Religions*, Vol. 37, No. 3, Feb., 1998, pp. 209 - 248. Chicago, Illinois, U.S.A.: The University of Chicago Press.
 
 
 
