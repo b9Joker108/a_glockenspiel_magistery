@@ -23,6 +23,7 @@ Canadian Department of National Defence (CDND) (attr.) (2008). 'Canadian Cadet O
 
 # D #
 
+Doorman, Eric Robert (2009). 'Pieces of Vac: A Study of the Letters of the Sanskrit Alphabet and Their Metaphysical Role in the Emanation of Manifest Reality as Described in Select Hindu Tantras'. Thesis. San Francisco, California, U.S.A.: California Institute of Integral Studies. UMI Number 1466061. Source: https://archive.org/details/astudyofthelettersofthesanskritalphabetericrobertdormanthesistantras_202003_488_D (accessed: Saturday, June 21, 2025)
 
 
 # E #
