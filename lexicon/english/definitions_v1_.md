@@ -282,6 +282,27 @@ I created and wrote the English Wikipedia Seventeen Tantras article and all the 
 
 This is an English translation: https://dn721601.ca.archive.org/0/items/the-self-arisen-vidya-tantra/The%20Self-Arisen%20Vidya%20Tantra.pdf By Acharya Malcolm Smith. The Rigpa Rangshar is a good point of entry to the Thirteenth Bhumi, the revolving wheel of spell-letters (bija).
 
+*The Sixteen Bhumis of the Nyingma Dzogchenpa tradition, also known as Secret Mantra, or Mantrayana, amongst others.*
+
+Sixteen bhumis (Tib. ས་བཅུ་དྲུག, sa chudruk, Wyl. sa bcu drug) —
+
+1. Perfect Joy (Skt. pramuditābhūmi; Tib. རབ་ཏུ་དགའ་བ་, rabtu gawa, Wyl. rab tu dga’ ba)
+2. Immaculate / Stainless (Skt. vimalābhūmi; Tib. དྲི་མ་མེད་པ་, drima mepa, Wyl. dri ma med pa)
+3. Luminous / Illuminating (Skt. prabhākarībhūmi; Tib. འོད་བྱེད་པ་, ö jepa, Wyl. ‘od byed pa)
+4. Radiant (Skt. arciṣmatībhūmi; Tib. འོད་འཕྲོ་ཅན་, ö tro chen, Wyl. ‘od ‘phro can)
+5. Hard to Keep / Hard to Conquer (Skt. sudurjayābhūmi; Tib. ཤིན་ཏུ་སྦྱང་དཀའ་བ་, shintu jankawa, Wyl. shin tu sbyang dka’ ba)
+6. Clearly Manifest (Skt. abhimukhībhūmi; Tib. མངོན་དུ་གྱུར་བ་, ngöntu gyurpa, Wyl. mngon du gyur ba)[1]
+7. Far Progressed (Skt. duraṅgamabhūmi; Tib. རིང་དུ་སོང་བ་, ringtu songwa, Wyl. ring du song ba)
+8. Immovable (Skt. acālabhūmi; Tib. མི་གཡོ་བ་, miyowa, Wyl. mi g.yo ba)
+9. Perfect Intellect (Skt. sādhuṃatībhūmi; Tib. ལེགས་པའི་བློ་གྲོས་, lekpé lodrö, Wyl. legs pa’i blo gros)
+10. Cloud of Dharma (Skt. dharmameghaābhūmi; Tib. ཆོས་ཀྱི་སྤྲིན་, chökyi trin, Wyl. chos kyi sprin)
+11. Universal Radiance (Tib. kuntu ö; Wyl. kun tu 'od)
+12. Lotus of Non-Attachment (Tib. machak pema chen; Wyl. ma chags padma can)
+13. Gatherings of Rotating Syllables (Tib. yige khorlo tsokchen; Wyl. yi ge 'khor lo tshogs chen)
+14. Great Samadhi (Tib. tingdzin chenpo; Wyl. ting nge 'dzin chen po)
+15. Vajra Holder (Tib. dorje dzin; Wyl. rdo rje 'dzin)
+16. Unexcelled Wisdom (Tib. yeshe lama; Wyl. ye shes bla ma)
+
 # C #
 
 
