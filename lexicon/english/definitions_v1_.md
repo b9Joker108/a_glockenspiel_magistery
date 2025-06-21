@@ -888,6 +888,17 @@ The Elder Futhark is the oldest known form of the runic alphabets used by German
 
 For my work on devotional glockenspiel, could you please provide an entry on Galdr in the Old Norse and all Germanic traditions and dialects. Different forms are attested in most, even the Old and Middle Englishes. Where it isn't attested reconstruct it. Use all natural traditional scripts and orthographies and the most rigorous form of academic, linguistic and philological, and etymological and polysemic analysis you can muster for all the different evocations.
 
+https://cleasby-vigfusson-dictionary.vercel.app/word/liknar-galdr
+
+The term galdr" refers to a type of magical incantation or spell in Old Norse and related Germanic languages. "Galdr" itself, in Old Norse, signifies a magical song, charm, or incantation. The runes "xxx" are a transliteration of the word "galdr" using the Younger Futhark runic alphabet, with "x" representing "g", "ᛅ" representing "a", "ᛚ" representing "l", "ᛏ" representing "t", and "ᚱ" representing "r". 
+Here's a more detailed breakdown:
+Galdr:
+In Old Norse, "galdr" is a noun derived from the verb "gala," meaning "to sing" or "to chant". It refers to a specific form of magic involving songs, chants, and incantations. 
+Runes ᚴᛅᛚᛏᚱ:
+The Elder Futhark runes used are a direct representation of the word "galdr" in its written form. Each rune corresponds to a specific sound, and when combined, they spell out the word. 
+Magical Context:
+Galdr was often associated with various magical practices, including healing, divination, and influencing events. It was a common element in Northern Tradition magic and was used alongside other practices like seiðr (a form of divination and shaping of the future). 
+
 ## Galdr: Lexical Entry for Germanic Traditions
 
 ### Etymology
