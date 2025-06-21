@@ -884,6 +884,121 @@ The Elder Futhark is the oldest known form of the runic alphabets used by German
 
 # G #
 
+### Galdr ###
+
+For my work on devotional glockenspiel, could you please provide an entry on Galdr in the Old Norse and all Germanic traditions and dialects. Different forms are attested in most, even the Old and Middle Englishes. Where it isn't attested reconstruct it. Use all natural traditional scripts and orthographies and the most rigorous form of academic, linguistic and philological, and etymological and polysemic analysis you can muster for all the different evocations.
+
+## Galdr: Lexical Entry for Germanic Traditions
+
+### Etymology
+- **Proto-Germanic:** *\*galdraz* (masculine a-stem), derived from *\*galaną* ("to sing, chant, crow") + *\*-þraz* (instrumental suffix).  
+- **Proto-Indo-European:** *\*gʰel-* ("to shout, call"), cognate with Latin *gallus* ("rooster"), Greek *γηθέω* ("rejoice").  
+
+### Attested Forms and Meanings  
+#### **Old Norse**  
+- **Script:** ᚴᛅᛚᛏᚱ (Younger Futhark), **Latin:** *galdr*  
+- **Pronunciation:** /ɡɑldr/  
+- **Meanings:**  
+  1. Incantation, spell, or charm (gendered masculine, often protective).  
+  2. Witchcraft or sorcery (collective plural *galdrar*).  
+- **Grammatical Notes:**  
+  - Strong masculine noun, declension: *galdr* (nom.sg), *galdrs* (gen.sg), *galdri* (dat.sg).  
+- **Literary Evidence:**  
+  - *Skírnismál* (Poetic Edda): Ritual incantations using *galdralag* meter.  
+  - *Grógaldr*: Protective spells chanted by Gróa.  
+
+#### **Old English**  
+- **Script:** ᚷᛖᚪᛚᛞᚩᚱ (Runic), **Latin:** *ġealdor*/*galdor*  
+- **Pronunciation:** /ˈjæ͜ɑl.dor/  
+- **Meanings:**  
+  1. Incantation or charm (e.g., *Lacnunga* medical texts).  
+  2. Song with magical efficacy.  
+- **Reconstructed Form:** *ġealdor* (neuter) from PGmc *\*galdraz*.  
+
+#### **Old Saxon**  
+- **Reconstruction:** *\*gald* (masculine).  
+- **Attestation:** Indirect via *galm* ("sound, noise"; related to *\*galaną*).  
+
+#### **Old High German**  
+- **Script:** *galstar* (OHG), **Latin:** *galster*  
+- **Meanings:**  
+  1. Enchantment or song-spell.  
+  2. Later MHG *galster*: "sorcery," surviving in dialectal German *Galsterei* ("witchcraft").  
+
+#### **Middle English**  
+- **Attestation:** *galder* (obsolete by 1275).  
+- **Meaning:** Incantation (per OED).  
+
+#### **Gothic**  
+- **Reconstruction:** *\*𐌲𐌰𐌻𐌳𐍂𐍃* (*galdrs*), unattested but inferred from *𐌲𐌰𐌻𐌻𐌰𐌽* (*gallan*, "to sing").  
+
+### Polysemic Analysis  
+| **Semantic Domain**       | **Nuances**                                                                 | **Examples**                          |  
+|----------------------------|-----------------------------------------------------------------------------|---------------------------------------|  
+| **Sonic Ritual**          | Chanted poetry activating runic magic; linked to *galdralag* meter.         | *Hávamál* (Odin’s 18 galdrs) [6][8] |  
+| **Healing Practice**      | Therapeutic chants to cure illness (e.g., *Nordic Magic Healing* [3]).      | Lithuanian/Livonian parallels [3]     |  
+| **Aggressive Sorcery**    | Cursing, weather manipulation, or battle magic (*Skírnismál* [6]).          | *Buslubœn* anti-curse rites [7]      |  
+| **Philosophical Concept** | Sound as cosmic manifestation (cf. *nāda brahma* in Indo-European theology). |                                       |  
+
+### Comparative Germanic Forms  
+| Language          | Form          | Script                     | Meaning                              |  
+|-------------------|---------------|----------------------------|--------------------------------------|  
+| **Proto-Germanic**| *\*galdraz*   | N/A                        | Incantation                          |  
+| **Old Norse**     | *galdr*       | ᚴᛅᛚᛏᚱ (runic)             | Spell, witchcraft                    |  
+| **Old English**   | *ġealdor*     | ᚷᛖᚪᛚᛞᚩᚱ (runic)           | Charm, song-spell                    |  
+| **Old High German**| *galstar*     | Latin                      | Enchantment                          |  
+| **Middle Dutch**  | *ghelte*      | Latin                      | (Unrelated; "young sow")             |  
+| **Modern Icelandic**| *galdur*     | Latin                      | Sorcery                              |  
+
+### Descendants and Survival  
+- **Icelandic:** *galdur* ("sorcery")  
+- **Faroese:** *galdur* ("charm")  
+- **Norwegian Nynorsk:** *galder* (dialectal, "magic song")  
+- **Swedish:** *galder* (archaic, "incantation")  
+- **German:** *Galsterei* (obsolete, "witchcraft")  
+
+### Philological Notes  
+- **Morphology:** Suffix *\*-þraz* implies instrumental function ("tool for chanting").  
+- **Semantic Shift:** From "sonic ritual" (PGmc) to "malign sorcery" (Christianization era).  
+- **Cultural Context:** Galdr was mastered by both genders; *vǫlur* (seeresses) used it for prophecy.  
+
+### Reconstruction for Unattested Branches  
+- **Gothic:** *\*𐌲𐌰𐌻𐌳𐍂𐍃* (*galdrs*) based on verbal root *𐌲𐌰𐌻𐌻𐌰𐌽* (*gallan*).  
+- **Proto-West Germanic:** *\*galdr* (masculine a-stem) [5].  
+
+### Summary  
+**Galdr** epitomizes the intersection of sound, ritual, and power in Germanic traditions. Its evolution—from Proto-Germanic incantations to specialized Norse magic—reflects broader Indo-European beliefs in phonetic efficacy. The term’s polysemy (healing/cursing) underscores its role as both creative and destructive force, preserved in runic inscriptions, eddic poetry, and folk practices.  
+
+For deeper analysis of *galdralag* meter or regional variations, advise.
+
+Citations:
+[1] galdr - Wiktionary, the free dictionary https://en.wiktionary.org/wiki/galdr
+[2] OED First Edition (1898) https://www.oed.com/dictionary/galder_n?tl=true
+[3] Nordic Magic Healing 1: Healing Galdr, Healing Runes https://www.books.com.tw/products/F010894647
+[4] Germanic etymology https://starlingdb.org/cgi-bin/response.cgi?root=config&morpho=0&basename=%5Cdata%5Cie%5Cgermet&first=461
+[5] Reconstruction:Proto-West Germanic/galdr https://en.wiktionary.org/wiki/Reconstruction:Proto-West_Germanic/galdr
+[6] Galdr - Old Icelandic Dictionary https://old-icelandic.vercel.app/word/galdr
+[7] The Rune Dance: Galdr - what is it? - Galdrtanz http://galdrtanz-runedance.blogspot.com/2013/02/galdr-what-is-it.html
+[8] r/Norse - Runic Poem in the Galdralag Style (Original/Not Historic ... https://www.reddit.com/r/Norse/comments/rrifs1/runic_poem_in_the_galdralag_style_originalnot/
+[9] The Merseburg Incantations - Imperial Cathedral Merseburg https://www.merseburger-dom.de/en/rundgang-merseburger-dom-zaubersprueche/
+[10] Galdr - Wikipedia https://en.wikipedia.org/wiki/Galdr
+[11] Proto-Germanic folklore - Wikipedia https://en.wikipedia.org/wiki/Proto-Germanic_folklore
+[12] Old Norse orthography - Wikipedia https://en.wikipedia.org/wiki/Old_Norse_orthography
+[13] Galdr: Norse Incantation Magic | Wiki | Pagans & Witches Amino https://aminoapps.com/c/pagans-witches/page/item/galdr-norse-incantation-magic/wKLe_VRWipIpLjpzakeD7oEo6qlxXXGWprJ
+[14] (Old Version) Norse Galdr and Galdralag - YouTube https://www.youtube.com/watch?v=WQk0fGMGWvM
+[15] Galdr: The Norse Chant For Spiritual Awakening - Surflegacy https://surflegacy.net/galdr/
+[16] Reconstruction:Proto-Germanic/galdraz https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/galdraz
+[17] Reconstruction:Proto-Germanic/galdijaz https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/galdijaz
+[18] Galdr | Norse Incantation Magic | Pagans & Witches Amino https://aminoapps.com/c/pagans-witches/page/blog/galdr-norse-incantation-magic/PJvl_6xLfmuoMQ3RDPa2xKbzebkXW5KDwo
+[19] Norse Magic Seiðr Galdr and Runic Magic | PDF - Scribd https://www.scribd.com/document/692352555/Norse-Magic-Sei%C3%B0r-Galdr-and-Runic-Magic
+[20] galdr | Forn Kunskap https://fornkunskap.wordpress.com/tag/galdr/
+[21] Runic inscriptions - Wikipedia https://en.wikipedia.org/wiki/Runic_inscriptions
+[22] Galdr in a modern context : r/NorsePaganism - Reddit https://www.reddit.com/r/NorsePaganism/comments/144og4w/galdr_in_a_modern_context/
+[23] Studia Linguistica Universitatis Iagellonicae Cracoviensis 133 (2016): 109–114 https://ejournals.eu/pliki_artykulu_czasopisma/pelny_tekst/7bc5555d-97d6-4dca-bb41-fed4579b933c/pobierz
+[24] Early Proto-Germanic - a reconstruction https://www.youtube.com/watch?v=Yc9Xy0UjGq8
+[25] Old English <cg> and its sound correspondences in Old English and ... https://www.cambridge.org/core/journals/english-language-and-linguistics/article/old-english-cg-and-its-sound-correspondences-in-old-english-and-middle-english/1BCD6753AABC4655380379A8DAA00435
+
+
 ### Gat ###
 
 In Hindustani (North Indian) classical music, a “gat” is essentially a fixed, composed melody—an instrumental counterpart to the vocal bandish—set in a particular raga (melodic framework) and tala (rhythmic cycle). It’s the thematic anchor over which musicians weave improvisation, dialoguing with the tabla and exploring the raga’s colours. Typically, after an unmetered alap (exploratory introduction), the instrumentalist presents the gat in a slow, meditative vilambit tempo. Once the main phrases (sthāyī and antārā) are firmly established, they’re revisited at progressively faster speeds—leading into drut (fast) gat passages where virtuosity and interplay with rhythmic patterns take centre-stage. Structurally, most gats have two main sections:  
