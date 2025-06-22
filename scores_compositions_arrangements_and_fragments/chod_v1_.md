@@ -816,6 +816,62 @@ Absolutely! Here’s a detailed, line-by-line rendering of your invocation in th
 If you want the actual Uchen script as a downloadable image or formatted for a specific font, let me know!
 
 
+Could you please render all the standard Tibetan bijas as ligatures in Uchen please
+
+Here are the standard Tibetan bīja (seed) syllables, rendered as ligatures in Uchen script. These are the most commonly used bijas in Vajrayana practice, each with their distinctive calligraphic forms in Uchen. 
+
+---
+
+## Standard Tibetan Bija Syllables in Uchen Script
+
+| Syllable | Uchen Script | EWTS | Common Deity/Use |
+|----------|:------------:|:-----:|:----------------:|
+| A        | ཨ་           | a     | Dharmakāya, Vairocana[1][3] |
+| ĀH       | ཨཱཿ          | Aḥ    | Primordial sound, Mahāmudrā |
+| ĀM        | ཨཾ          | ām    | Prajñāpāramitā, Mother principle |
+| HŪṂ      | ཧཱུྃ         | hūṃ   | Vajrapāṇi, wrathful deities[4][8] |
+| HRĪḤ     | ཧྲཱིཿ        | hrīḥ  | Amitābha, Avalokiteśvara |
+| TRĀṂ     | ཏྲཾ          | trāṃ  | Tārā |
+| DHRĪḤ    | དྷྲཱིཿ       | dhrīḥ | Akṣobhya |
+| SŪḤ      | སཱུཿ         | sūḥ   | Vajrasattva (sometimes) |
+| MAṂ      | མཾ           | maṃ   | Earth, stability |
+| JAḤ      | ཇཿ           | jaḥ   | Manjuśrī (sometimes) |
+| VAṂ      | ཝཾ           | vaṃ   | Akṣobhya, water element |
+| YAṂ      | ཡཾ           | yaṃ   | Air element |
+| LAṂ      | ལཾ           | laṃ   | Earth element |
+| RAṂ      | རཾ           | raṃ   | Fire element |
+| SAṂ      | སཾ           | saṃ   | Space element |
+
+---
+
+### Notes
+
+- **Uchen Script**: These are the standard forms as seen in Tibetan calligraphy. The visarga (་ཿ) and anusvāra (ཾ) are used for the "ḥ" and "ṃ" sounds, respectively, as per tradition.
+- **EWTS**: Extended Wylie Transliteration for each syllable.
+- **Common Deity/Use**: The principal deity or element associated with each bīja in Tibetan Vajrayana.
+
+---
+
+### Examples
+
+- **A**: ཨ་ — the primordial, unarisen, the essence of all mantras[1][3].
+- **HŪṂ**: ཧཱུྃ — the mind of all buddhas, the wrathful seed syllable[4][8].
+- **HRĪḤ**: ཧྲཱིཿ — the heart of Amitābha and Avalokiteśvara.
+- **TRĀṂ**: ཏྲཾ — the essence of Tārā.
+
+---
+
+If you need any of these as high-resolution images, or want a specific bīja not listed here (e.g., for a particular deity or mantra), please specify!
+
+Citations:
+[1] The Bija/Seed Syllable A in Siddham, Tibetan, Lantsa scripts http://www.visiblemantra.org/a.html
+[2] Drawing seed syllables - Dharma Wheel https://www.dharmawheel.net/viewtopic.php?t=15476
+[3] The Bija/Seed Syllable A in Siddham, Tibetan, Lantsa scripts https://www.pinterest.com/pin/768919336359296404/
+[4] The seed syllable hūṃ - Visible Mantra http://www.visiblemantra.org/hum.html
+[5] Uchen script - Wikipedia https://en.wikipedia.org/wiki/Uchen_script
+[6] Tibetan script - Wikipedia https://en.wikipedia.org/wiki/Tibetan_script
+[7] Quality of sound. - RELATED TIBETAN SCRIPTS http://inkessential.blogspot.com/2009/04/quality-of-sound.html
+[8] hum Syllable - Tashi Mannox https://tashimannox.com/artwork/hum%CC%A3-syllable/
 
 https://youtu.be/QzTVl1CcNSI?si=6oODtL2bc_YY7HeO
 
