@@ -167,6 +167,216 @@ This Markdown rendering aims to integrate the textual, phonetic, rhythmic, and s
 Feel free to ask further questions or request additional sections, annotations, or refinements!
 
 
+Below is an alternative layout that avoids complex multi‐column tables and instead splits each verse into its own clearly labeled section. You can copy and paste the following GitHub‐flavored Markdown into your editor. Each verse is broken down into the following components:
+
+1. Uchen (Tibetan)
+2. EWTS (Extended Wylie Transliteration)
+3. IPA (Academic phonetics)
+4. Drumbeat Alignment – showing the approximate damaru strike patterns (with cues such as “thum,” “tap,” “tac,” etc.) positioned above or in line with the syllable breaks of the layperson’s pronunciation.
+5. Layperson’s Pronunciation – the romanized line as it appears in the text.
+6. English Translation
+7. Interlinear Annotations
+
+---
+
+Damaru Sequence 1: The “Machigma la solwa deb” Invocation
+
+Verse A: “OM Machigma la solwa deb OM”
+
+- Uchen (Tibetan):  
+  ཨོཾ  མ་ཆིཀྱམ་ལ་  སོལ་ཝ་དེབ  ཨོཾ
+
+- EWTS:  
+  om ma.chik.yam la sol.wa deb om
+
+- IPA (Academic):  
+  /oːm maˈt͡ʃik.jam la soˈlʷa deb oːm/
+
+- Drumbeat Alignment:  
+  `plaintext
+          OM        Machi    gma     la     sol     wa    deb      OM
+  Beat:   (thum)   (even)  (light)  (tap)  (tick)  (tac)  (tap)   (thum)
+  `
+  (Each syllable is struck with a damaru beat; the descriptors are cues for intensity or touch.)
+
+- Layperson’s Pronunciation:  
+  OM Machigma la solwa deb OM
+
+- English Translation:  
+  I pray to the One Mother.
+
+- Interlinear Annotations:  
+  - OM: Serves as the sacred opening and closing syllable.  
+  - The phrase “Machigma la solwa deb” acts as the core invocatory formula within the chanting cycle.
+
+---
+
+Verse B: “AH Machigma la solwa deb AH”
+
+- Uchen (Tibetan):  
+  ཨཧ  མ་ཆིཀྱམ་ལ་  སོལ་ཝ་དེབ  ཨཧ
+
+- EWTS:  
+  ah ma.chik.yam la sol.wa deb ah
+
+- IPA (Academic):  
+  /aːh maˈt͡ʃik.jam la soˈlʷa deb aːh/
+
+- Drumbeat Alignment:  
+  `plaintext
+          AH        Machi    gma     la     sol     wa    deb      AH
+  Beat:   (slight thum) (even) (pulse) (tap)  (tick) (tac)  (tap)   (slight thum)
+  `
+  (Here the “AH” is rendered with a softer/different beat quality compared to “OM.”)
+
+- Layperson’s Pronunciation:  
+  AH Machigma la solwa deb AH
+
+- English Translation:  
+  I pray to the One Mother.
+
+- Interlinear Annotations:  
+  - AH: Represents a variant vocalization that carries its own dynamic, juxtaposing the “OM.”  
+  - The formula remains the same, allowing for subtle shifts in emotional or rhythmic emphasis.
+
+---
+
+Verse C: “HUM Machigma la solwa deb HUM”
+
+- Uchen (Tibetan):  
+  ཧུམ  མ་ཆིཀྱམ་ལ་  སོལ་ཝ་དེབ  ཧུམ
+
+- EWTS:  
+  hum ma.chik.yam la sol.wa deb hum
+
+- IPA (Academic):  
+  /huːm maˈt͡ʃik.jam la soˈlʷa deb huːm/
+
+- Drumbeat Alignment:  
+  `plaintext
+          HUM       Machi    gma     la     sol     wa    deb      HUM
+  Beat:   (emphatic hit) (even) (light tap) (tap) (tick) (tac) (tap) (emphatic hit)
+  `
+  (The “HUM” syllable is given an emphatic beat both at the beginning and end to seal the cycle.)
+
+- Layperson’s Pronunciation:  
+  HUM Machigma la solwa deb HUM
+
+- English Translation:  
+  I pray to the One Mother.
+
+- Interlinear Annotations:  
+  - HUM: Provides a decisive, culminating strike that signals the invocatory cycle’s closure.  
+  - The rhythmic pattern accentuates the transformative energy in the chant.
+
+---
+
+Damaru Sequence 2: The Color‐Specific Invocations
+
+These invocations introduce color-coded adjectives that bring unique energetic qualities into the chant.
+
+Verse D: “Karpo OM gyi jin gyi lob”
+
+- Uchen (Tibetan):  
+  དཀར་པོ  ཨོཾ་གྱི་  འཇིན་འཇི་ལོབ
+
+- EWTS:  
+  dkar po om gyi 'jin gyi lob
+
+- IPA (Academic):  
+  /ˈkɑr.po om gi ˈdʑin gi lob/
+
+- Drumbeat Alignment:  
+  `plaintext
+          Karpo      OM      gyi    jin    gyi    lob
+  Beat:   (light beat for "Kar-") (deep hit)  (steady)  (tap) (steady) (tap)
+  `
+  (The rhythm highlights the “white” quality of the syllable “Karpo” and then fuses into the invocatory cycle.)
+
+- Layperson’s Pronunciation:  
+  Karpo OM gyi jin gyi lob
+
+- English Translation:  
+  Bless me through the white OM.
+
+- Interlinear Annotations:  
+  - Karpo (“white”): Conveys attributes of purity.  
+  - The subsequent invocatory phrase maintains the same rhythmic and phonetic structure as the core formula.
+
+---
+
+Verse E: “Marpo AH yi jin gyi lob”
+
+- Uchen (Tibetan):  
+  དམར་པོ  ཨཧ་ཡི་  འཇིན་འཇི་ལོབ
+
+- EWTS:  
+  marpo ah yi 'jin gyi lob
+
+- IPA (Academic):  
+  /ˈmɑr.po ah ji ˈdʑin gi lob/
+
+- Drumbeat Alignment:  
+  `plaintext
+          Marpo      AH      yi    jin    gyi    lob
+  Beat:   (vibratory beat for "Mar-") (softer hit) (pulse) (tap) (pulse) (tap)
+  `
+  (The red quality of “Marpo” is emphasized with a slightly different rhythmic cue.)
+
+- Layperson’s Pronunciation:  
+  Marpo AH yi jin gyi lob
+
+- English Translation:  
+  Bless me through the red AH.
+
+- Interlinear Annotations:  
+  - Marpo (“red”): Evokes dynamic energy and vibrancy.  
+  - The structure mirrors the white variant with a nuanced intonation shift.
+
+---
+
+Verse F: “O Ngonpo HUM gi jin gyi lob”
+
+- Uchen (Tibetan):  
+  ཨོ  ངོན་པོ  ཧུམ་གྱི་  འཇིན་འཇི་ལོབ
+
+- EWTS:  
+  o ngon po hum gyi 'jin gyi lob
+
+- IPA (Academic):  
+  /oʊ ŋon.po hum gi ˈdʑin gi lob/
+
+- Drumbeat Alignment:  
+  `plaintext
+          O Ngonpo     HUM     gi    jin    gyi    lob
+  Beat:   (gentle open) ("ngonpo": calm beat) (resonant hit) (tap) (even) (tap)
+  `
+  (Here “Ngonpo” is rendered with a gentle introduction leading into an emphatic HUM.)
+
+- Layperson’s Pronunciation:  
+  O Ngonpo HUM gi jin gyi lob
+
+- English Translation:  
+  Bless me through the blue HUM.
+
+- Interlinear Annotations:  
+  - Ngonpo (“blue”): Suggests wisdom and tranquility.  
+  - The pattern concludes with an emphatic HUM that grounds the invocation.
+
+---
+
+Final Remarks
+
+This layout avoids the pitfalls of complex tables by using headings and bullet lists to separate each layer of the sung text. Each section provides a multi-dimensional understanding of the chant—from its script in Tibetan, its phonetic transliteration, to how the damaru drumbeats align with the syllabic rhythm.
+
+Tips for Further Adaptation:
+
+- If you require even more precise alignment—such as aligning drumbeat descriptions exactly above the corresponding syllables—you might consider using an HTML table or a preformatted block with monospaced fonts.
+- For interlinear annotations, you might experiment with block quotes or definition lists to further delineate commentary.
+
+I hope this revised layout meets your needs. Feel free to ask for more adjustments or further breakdowns of additional passages!
+
+
 https://youtu.be/QzTVl1CcNSI?si=6oODtL2bc_YY7HeO
 
 
