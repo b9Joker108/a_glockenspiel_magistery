@@ -23,10 +23,10 @@ In the Pali Canon discourses, Gautama Buddha frequently instructs his disciples 
 'Cemetery contemplations', as described in Mahasatipatthana Sutta (DN: 22) and the Satipaṭṭhāna Sutta (MN: 10):
 
 >> ...have as their objects a corpse one or two or three days old, swollen up, blue-black in colour, full of corruption; a corpse eaten by crows, etc.; a framework of bones; flesh hanging from it, bespattered with blood, held together by the sinews; without flesh and blood, but still held together by the sinews; bones scattered in all direction; bleached and resembling shells; heaped together after the lapse of years; weathered and crumbled to dust.
+>>
+>> At the end of each of these contemplations there follows the conclusion: "This body of mine also has this nature, has this destiny, cannot escape it."
+>>
+>> Similar are the 10 objects of loathsomeness (asubha q.v.). — [5]
 
-At the end of each of these contemplations there follows the conclusion: "This body of mine also has this nature, has this destiny, cannot escape it."
 
-Similar are the 10 objects of loathsomeness (asubha q.v.).
-
-— [5]
 
