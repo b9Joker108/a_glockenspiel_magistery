@@ -1,7 +1,7 @@
 
 # Charnel ground #
 
-I created, wrote and cited this article on English Wikipedia. Some editors have added pictures, but apart from that, no real changes have been made to my work. I never got to finish it. I will finesse and finish it here. It will be important to contextualize 'Doha' or 'Songs-of-Enlightenment'.
+NB: I created, wrote and cited this article on English Wikipedia. Some editors have added pictures, but apart from that, no real changes have been made to my work. I never got to finish it. I will finesse and finish it here. It will be important to contextualize 'Doha' or 'Songs-of-Enlightenment'.
 
 
 A charnel ground (Sanskrit: श्मशान; IAST: śmaśāna; Tibetan pronunciation: durtrö; Tibetan: དུར་ཁྲོད, Wylie: dur khrod)[1] is an above-ground site for the putrefaction of bodies, generally human, where formerly living tissue is left to decompose uncovered. Although it may have demarcated locations within it functionally identified as burial grounds, cemeteries and crematoria, it is distinct from these as well as from crypts or burial vaults.
@@ -22,11 +22,11 @@ In the Pali Canon discourses, Gautama Buddha frequently instructs his disciples 
 
 'Cemetery contemplations', as described in Mahasatipatthana Sutta (DN: 22) and the Satipaṭṭhāna Sutta (MN: 10):
 
->> ...have as their objects a corpse one or two or three days old, swollen up, blue-black in colour, full of corruption; a corpse eaten by crows, etc.; a framework of bones; flesh hanging from it, bespattered with blood, held together by the sinews; without flesh and blood, but still held together by the sinews; bones scattered in all direction; bleached and resembling shells; heaped together after the lapse of years; weathered and crumbled to dust.
->>
->> At the end of each of these contemplations there follows the conclusion: "This body of mine also has this nature, has this destiny, cannot escape it."
->>
->> Similar are the 10 objects of loathsomeness (asubha q.v.). — [5]
+> ...have as their objects a corpse one or two or three days old, swollen up, blue-black in colour, full of corruption; a corpse eaten by crows, etc.; a framework of bones; flesh hanging from it, bespattered with blood, held together by the sinews; without flesh and blood, but still held together by the sinews; bones scattered in all direction; bleached and resembling shells; heaped together after the lapse of years; weathered and crumbled to dust.
+>
+> At the end of each of these contemplations there follows the conclusion: "This body of mine also has this nature, has this destiny, cannot escape it."
+>
+> Similar are the 10 objects of loathsomeness (asubha q.v.). — [5]
 
 
 
