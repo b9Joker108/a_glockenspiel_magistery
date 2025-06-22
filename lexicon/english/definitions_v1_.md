@@ -1120,6 +1120,31 @@ Citations:
 [8] Software Support For Tibetan In Windows https://collab.its.virginia.edu/wiki/tibetan-script/Software%20Support%20for%20Tibetan%20in%20Windows.html
 
 
+# Brajbhasa and Brajbuli #
+
+Is Brajbuli another name for Brajbhasa?
+
+No, **Brajbuli (Brajabuli)** is **not another name for Brajbhasa (Braj Bhasha)**. They are distinct languages with different origins and literary traditions:
+
+- **Brajbhasa (Braj Bhasha)** is a Western Hindi dialect, historically spoken in the Braj region of Uttar Pradesh (around Mathura and Vrindavan). It is a natural, spoken language with a rich tradition of devotional and lyrical poetry, especially associated with Krishna[1][3][4].
+
+- **Brajbuli (Brajabuli)**, on the other hand, is a *literary* language created in Bengal. It is an artificial or hybrid language, primarily based on Maithili but influenced by Bengali and, to a lesser extent, Brajbhasa. Bengali poets (notably those inspired by Vidyapati and Chaitanya Mahaprabhu) used Brajabuli for devotional poetry, but it was never a spoken dialect in the Braj region[5][7].
+
+**Summary:**  
+Brajbuli is a Bengali-Maithili literary creation, while Brajbhasa is a natural Hindi dialect of the Braj region. They are related through shared devotional themes but are not the same language[1][5][7].
+
+Citations:
+[1] Braj Bhasha - Wikipedia https://en.wikipedia.org/wiki/Braj_Bhasha
+[2] Brajavali dialect - Wikipedia https://en.wikipedia.org/wiki/Brajavali_dialect
+[3] Braj Bhasha, Language, Hindi, India | Britannica https://www.britannica.com/topic/Braj-Bhasha-language
+[4] North India, which has languages like Bhojpuri, Angika, Santali, Braj ... https://www.reddit.com/r/india/comments/6r2jvn/north_india_which_has_languages_like_bhojpuri/
+[5] Maithili + Bengali = Brajabuli https://www.youtube.com/watch?v=vMmbWsq7qC8
+[6] Brajavali dialect - Wikiwand https://www.wikiwand.com/en/articles/Brajavali_dialect
+[7] Brajabuli: The Mischsprache of Bengal's Lyrical Charm https://enrouteindianhistory.com/brajbuli-the-language-of-love-and-poetry/
+[8] [PDF] Brajavali dialect https://archive.org/download/enwiki-Brajavali_dialect-20200726.pdf/enwiki-Brajavali_dialect-20200726.pdf
+
+
+
 # C #
 
 
