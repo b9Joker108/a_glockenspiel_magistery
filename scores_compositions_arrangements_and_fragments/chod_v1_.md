@@ -656,6 +656,167 @@ A Few Notes on the Rendering
 
 I trust this breakdown aligns with your Gurudeva’s version and liturgical intent. If you need a re-rendering of the full invocatory phrases with these adjustments integrated into a larger markdown framework—or further refinements to the typographic rendering—just let me know!
 
+Below is an explanation of the issue along with one suggested approach that you might try when rendering the extended vowel Ā (with nasalization) as it appears in Tibetan Uchen texts.
+
+---
+
+Background
+
+There are several typographical conventions for representing the extended vowel “Ā” in Tibetan ritual texts. Two common approaches are:
+
+1. Using the Tibetan Chandrabindu:  
+   In an ideal rendering, one would attach the Tibetan chandrabindu diacritic to the letter A. In Unicode this is provided as a combining character (U+0310, COMBINING CANDRABINDU). When combined with A (or Ā), a properly configured font should show the nasalized, “moon-dot” style mark above the base letter. However, many fonts or environments do not support a faithful display of this diacritic in Latin transliteration, so the results can be inconsistent or absent.
+
+2. Using a Colon-Like Notation:  
+   Another common approach is to follow the letter A with a colon (e.g., “A:”) to indicate vowel length and nasalization. In many Tibetan transliteration systems the colon is sometimes specifically designed so that its two dots resemble “two little empty circles” (or two small circles) that evoke the visual of the chandrabindu. This isn’t merely a standard colon but a specialized design choice. Unfortunately, in many digital renderings, the colon remains the standard character “:”, which may or may not precisely capture that intended look.
+
+---
+
+What Does This Mean for Your Rendering?
+
+Since you favour a rendering that uses:
+
+- The Tibetan chandrabindu above A  
+- Or (if the font lacks proper support) the standard A immediately followed by a colon where the colon is meant to appear as two little empty circles
+
+…here are a couple of ways you might attempt this:
+
+1. Direct Unicode Combining:  
+   You might try to encode “Ā” with the chandrabindu using the combining diacritic. For example, if you want to simulate it in a plain-text environment, you can try:  
+   `
+   A̐
+   `  
+   (That’s an uppercase A followed by U+0310.)  
+   Note: This will only work if your font supports U+0310 in the way Tibetan texts do.
+
+2. Substitution with a Special Colon or Dotted Notation:  
+   If your preferred font or system offers a custom glyph—for example, one where a colon is rendered as two small circles (look for specialized Tibetan or Indic fonts)—you might input it as A: and then manually adjust or specify that the colon must use that glyph. Unfortunately, if no such font is available in your environment (or within this markdown rendering system), it may default to a standard colon, which won’t quite capture your preferred look.
+
+---
+
+Summary
+
+- Preferred Rendering: You favor using the Tibetan chandrabindu, which ideally shows the nasal “moon-dot” above the A.
+- Fallback Rendering: When that’s not available, you use the symbol “A:” where the colon is designed (or imagined) as two little empty circles.
+- Practical Issues: The accuracy of either approach depends on font support and the environment’s Unicode capabilities. In many markdown renderers and text editors, the combining diacritic (U+0310) may look different or not at all as expected, and standard colons won’t be automatically replaced by custom, aesthetically designed marks.
+
+If you are preparing a digital document or publication, I would recommend checking your output in a Tibetan/Indo‑Indic–compatible font (such as Tibetan Machine Uni, for example) that properly supports these combining marks. You might also look for any specialized typesetting tools (like those based on XeLaTeX with appropriate Tibetan fonts) to get the intended appearance.
+
+I hope this explanation clarifies the options and helps you achieve the intended look in your rendering.
+
+Invocation and Assembly
+
+`markdown
+PHET  
+Jigmé tülzhug chopay naljor ngay  
+Khorday nyampar dalway gongcho kyi  
+Dagdzin Ihadrey tengdu drozhig dung  
+Nyidzin khorway namtog düldu log  
+Tsa gyü Rigdzin Lama dro la jön  
+Yidam Pawo jamtso dro la jön  
+Khandro nay nyülma tsog dro la jön  
+Tülzhug lam du longpar jin gyi lob
+`
+
+---   Please render in Uchen, EWTS, academic phonetic transcription, lay phonetic  transcription and English, line-by-line please
+
+Absolutely! Here’s a detailed, line-by-line rendering of your invocation in the requested formats:
+
+---
+
+## 1. PHET  
+- **Uchen:** ཕཊ༔  
+- **EWTS:** phet  
+- **Academic Phonetic:** [pʰɛt]  
+- **Lay Phonetic:** phet  
+- **English:** PHET (a seed syllable, often used as a sharp invocation or to cut through delusion)
+
+---
+
+## 2. Jigmé tülzhug chopay naljor ngay  
+- **Uchen:** འཇིགས་མེད་ཏུལ་ཞུགས་ཆོས་པའི་རྣལ་འབྱོར་ངགས།  
+- **EWTS:** 'jigs med tul zhugs chos pa'i rnal 'byor ngag  
+- **Academic Phonetic:** [ʔjɪk.meː tʰul.ɕuk tɕʰø.peː nal.ɟor ŋɛ]  
+- **Lay Phonetic:** Jigmé Tulzhug Chöpay Naljor Ngé  
+- **English:** The fearless yogin abiding in discipline and Dharma
+
+---
+
+## 3. Khorday nyampar dalway gongcho kyi  
+- **Uchen:** འཁོར་འདས་མཉམ་པར་བཏང་བའི་དགོངས་ཆོས་ཀྱི།  
+- **EWTS:** 'khor 'das mnyam par btang ba'i dgongs chos kyi  
+- **Academic Phonetic:** [kʰor.deː ɲam.par taŋ.weː koŋ.tɕʰø kji]  
+- **Lay Phonetic:** Khordé Nyampar Tangwé Gongchö Kyi  
+- **English:** With the realization of equanimity beyond samsara and nirvana
+
+---
+
+## 4. Dagdzin Ihadrey tengdu drozhig dung  
+- **Uchen:** དག་འཛིན་ལྷ་འདྲས་ཐེངས་དུ་འགྲོ་ཞིག་གུང།  
+- **EWTS:** dag 'dzin lha 'dre'i thengs du 'gro zhig dung  
+- **Academic Phonetic:** [dak.tsin lʰa dreː tʰeŋ.du tro ɕik duŋ]  
+- **Lay Phonetic:** Dagdzin Lhadrey Tengdu Drozhik Dung  
+- **English:** May the holders of self-awareness, gods and demons, all gather here
+
+---
+
+## 5. Nyidzin khorway namtog düldu log  
+- **Uchen:** ཉིད་འཛིན་འཁོར་བའི་རྣམ་རྟོགས་འདུལ་དུ་ལོག།  
+- **EWTS:** nyid 'dzin 'khor ba'i rnam rtogs 'dul du log  
+- **Academic Phonetic:** [ɲi.tsin kʰor.weː nam.tok dul.du loːk]  
+- **Lay Phonetic:** Nyidzin Khorwé Namtok Düldu Lok  
+- **English:** May the conceptual thoughts of those grasping at self be reversed and tamed
+
+---
+
+## 6. Tsa gyü Rigdzin Lama dro la jön  
+- **Uchen:** རྩ་རྒྱུད་རིག་འཛིན་བླ་མ་འགྲོ་ལ་འབྱོན།  
+- **EWTS:** rtsa rgyud rig 'dzin bla ma 'gro la 'byon  
+- **Academic Phonetic:** [tsa gyu rik.tsin la.ma tro la ʔjon]  
+- **Lay Phonetic:** Tsa Gyü Rigdzin Lama Dro La Jön  
+- **English:** May the lineage-holding Vidyadhara Lamas come to beings
+
+---
+
+## 7. Yidam Pawo jamtso dro la jön  
+- **Uchen:** ཡིད་རྗེན་པ་བོ་འཇམ་མཚོ་འགྲོ་ལ་འབྱོན།  
+- **EWTS:** yidam pawo 'jam mtsho 'gro la 'byon  
+- **Academic Phonetic:** [ji.dam pa.wo jam.tso tro la ʔjon]  
+- **Lay Phonetic:** Yidam Pawo Jamtso Dro La Jön  
+- **English:** May the yidam, heroic and gentle as the ocean, come to beings
+
+---
+
+## 8. Khandro nay nyülma tsog dro la jön  
+- **Uchen:** མཁའ་འགྲོ་གནས་ཉུལ་མ་ཚོགས་འགྲོ་ལ་འབྱོན།  
+- **EWTS:** mkha' 'gro gnas nyul ma tshogs 'gro la 'byon  
+- **Academic Phonetic:** [kʰa.kro ne ɲyl.ma tsʰok tro la ʔjon]  
+- **Lay Phonetic:** Khandro Né Nyülma Tsok Dro La Jön  
+- **English:** May the assembly of dakinis, wanderers, and hosts come to beings
+
+---
+
+## 9. Tülzhug lam du longpar jin gyi lob  
+- **Uchen:** ཏུལ་ཞུགས་ལམ་དུ་རློངས་པར་བྱིན་དགའི་བློབ།  
+- **EWTS:** tul zhugs lam du long par byin gyi lob  
+- **Academic Phonetic:** [tʰul.ɕuk lam du loŋ par tɕin gi lob]  
+- **Lay Phonetic:** Tulzhug Lam Du Longpar Jin Gyi Lob  
+- **English:** Bestow your blessings fully upon the path of steadfast practice
+
+---
+
+### Notes
+
+- **Uchen**: Rendered in Unicode Tibetan script.
+- **EWTS**: Extended Wylie Transliteration Scheme, standard for academic Tibetan studies.
+- **Academic Phonetic**: IPA-based, for scholarly pronunciation.
+- **Lay Phonetic**: For general readers familiar with Dharma terms.
+- **English**: Poetic, context-sensitive translation.
+
+If you want the actual Uchen script as a downloadable image or formatted for a specific font, let me know!
+
+
+
 https://youtu.be/QzTVl1CcNSI?si=6oODtL2bc_YY7HeO
 
 
