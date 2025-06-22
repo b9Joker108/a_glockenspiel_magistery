@@ -1,8 +1,8 @@
 # Register of Personages #
 
-A
+# A #
 
-B
+# B #
 
 # C #
 
@@ -543,6 +543,61 @@ If you wish for further amplification on rāga-specific practice or the transmis
 Citations:
 [1] Gauriya_Kirtan_Paddhati.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/4428017/eafc7974-2e42-40f6-843a-67da0c91272e/Gauriya_Kirtan_Paddhati.pdf
 
+
+
+
+Please generate an entry on Sri Narottamadas for my glockenspiel grimoire?
+
+Garanhati (গারানহাটি):
+
+Founded by Sri Narottamadas.
+Oldest and foundational style; formalized and sung by Narottamadas himself, introduced at the first Kheturi Utsava (~1575 CE).
+Drupad influence: Slow, highly ornamental, complex.
+Base region: Garerhat pargana (Kheturi).
+
+### Narottamadas ###
+
+Sri Narottamadas (নরোত্তমদাস): Founder of the Garanhati Tradition
+
+**Sri Narottamadas Thakur** (1520–date of death unknown) stands as one of the most revered saints and musical innovators of the Gaudiya Vaishnava tradition. Born into royalty in Kheturi (modern-day Rajshahi district, Bangladesh), he renounced worldly life to become a leading disciple of Lokanath Goswami and a transmitter of Chaitanya Mahaprabhu’s devotional legacy[1].
+
+---
+
+### Garanhati (গারানহাটি): The Oldest Style
+
+- **Founded by:** Sri Narottamadas  
+- **Historical context:** Formalized and first sung by Narottamadas at the inaugural Kheturi Utsava (~1575 CE), a landmark festival that unified and codified Gaudiya musical and theological practice.
+- **Musical character:**  
+  - **Drupad influence:** The Garanhati style is marked by a slow tempo, highly ornamental melodic lines, and complex rhythmic structures, reflecting the gravitas and meditative depth of the dhrupad tradition.
+  - **Ornamentation:** Emphasis on nuanced gamakas and intricate melodic phrasing.
+- **Geographical base:** Garerhat pargana (Kheturi), the heartland of Narottamadas’s spiritual and musical activity.
+- **Legacy:** Garanhati is regarded as the foundational style of Gaudiya kirtan, with Narottamadas’s own compositions and performance practice setting the standard for subsequent generations.
+
+---
+
+### Narottamadas’s Musical and Spiritual Contributions
+
+- **Composer and performer:** Narottamadas was both a prolific composer and a master vocalist, integrating Sanskrit poetics and Bengali devotional lyricism into his works.
+- **Spiritual leadership:** Through the Kheturi Utsava and his thousands of disciples, he ensured the transmission and preservation of the Garanhati style and the broader Gaudiya Vaishnava musical heritage.
+- **Integration of theology and music:** His kirtans are not merely songs but vehicles for deep spiritual experience, embodying the union of bhakti (devotion) and refined musical artistry.
+
+---
+
+### Relevance for the Glockenspiel Grimoire
+
+For practitioners and scholars of devotional glockenspiel, understanding the Garanhati style’s origins with Sri Narottamadas is essential. The style’s slow, ornamented, and contemplative character offers a rich template for adapting glockenspiel performance to the devotional context, preserving the meditative and expressive qualities that Narottamadas established.
+
+---
+
+**References:**  
+[1] Narottama Dasa - Wikipedia
+
+---
+
+*For further study, see the Prema-vilasa and accounts of the first Kheturi Utsava for detailed descriptions of Narottamadas’s life, music, and spiritual impact.*
+
+Citations:
+[1] Narottama Dasa - Wikipedia https://en.wikipedia.org/wiki/Narottama_Dasa
 
 
 O
