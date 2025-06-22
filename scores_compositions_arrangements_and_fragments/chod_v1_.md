@@ -525,6 +525,71 @@ Final Notes
 
 I hope this layout captures the fidelity of your Gurudeva’s version. Let me know if you’d like further refinements or additional sections!
 
+Below, I’ve gone through the ritual text you supplied and isolated the classic bijas—that is, the seed or “sacred” syllables that form the core of the invocatory formulas. In your text these clearly appear in the repeated mantra sections and include what is traditionally rendered as “OM,” “AH,” and “HUM.” In your Gurudeva’s transmission, however, the final element is not simply “HUM” but is to be understood and rendered as “HUNG”—that is, its components are to be stacked in a ligature, with the appropriate Tibetan nasal diacritic (the chandrabindu) applied.
+
+Below is a rendering that shows each of the three bijas in two forms:  
+1. A Latin transliteration in which I have “added” the chandrabindu (represented here by the combining diacritic U+0310, which in many fonts appears similar to the Devanagari chandrabindu “ँ”) on the key vowel.  
+2. The corresponding Tibetan Uchen, which in traditional practice is rendered as a unified, stacked ligature.
+
+---
+
+1. The Seed Syllable “OM”
+
+- Latin Transliteration with Tibetan Chandrabindu:  
+  O̐M  
+  (That is, the letter “O” with a combining chandrabindu, followed by “M.”)
+
+- Traditional Tibetan (Uchen):  
+  ཨོཾ
+
+- Context in the Ritual Text:  
+  This syllable appears, for example, in the repeated invocatory segment:  
+  > “OM Machigma la solwa deb OM”  
+  and also at the beginning of the final long mantra. It serves as the foundational bija, invoking the universal sound.
+
+---
+
+2. The Seed Syllable “AH”
+
+- Latin Transliteration with Tibetan Chandrabindu:  
+  A̐H  
+  (Again, the “A” carries the chandrabindu above, followed by “H.”)
+
+- Traditional Tibetan (Uchen):  
+  Typically rendered as ཨཧ  
+  (Sometimes an extra nasal feature is indicated, but here we retain the core form.)
+
+- Context in the Ritual Text:  
+  Found in invocations such as “AH Machigma la solwa deb AH,” it forms the second essential element of the seed mantra.
+
+---
+
+3. The Seed Syllable “HUM” (to be rendered as “HUNG”)
+
+In your Gurudeva’s version the syllable normally chanted as “HUM” is to be understood as “HUNG”—reflecting a full, ligatured form in which the components are stacked. (The nasal quality is rendered by the chandrabindu, unifying the syllable.)
+
+- Latin Transliteration with Tibetan Chandrabindu:  
+  HU̐NG  
+  (Here we replace “HUM” with “HUNG” and apply the chandrabindu on the vowel “U”.)
+
+- Traditional Tibetan (Uchen, Ligature Form):  
+  ཧཱུང  
+  (Notice how the vowel and final consonant merge into the compound form.)
+
+- Context in the Ritual Text:  
+  This corrected form appears in lines such as “HUM Machigma la solwa deb HUM” which, following your Gurudeva’s instruction, should be rendered in performance and text as “HU̐NG Machigma la solwa deb HU̐NG.”
+
+---
+
+A Few Notes on the Rendering
+
+- Chandrabindu and Ligature Construction:  
+  In our Latin rendering, I’ve used the combining diacritic “̐” (Unicode U+0310) to simulate the appearance of a chandrabindu placed over the main vowel of the seed syllable. In a true Tibetan typeset—or in calligraphic reproductions—the nasalization is integrated into a stacked ligature that unifies the components into a single glyph.  
+- Selective Identification:  
+  Although your ritual text includes many terms (such as “Karpo,” “Marpo,” etc.), the classic bijās are those that form the core seed mantra—namely, “OM,” “AH,” and “HUM” (here corrected to “HUNG”). These are the syllables that carry the condensed, generative power in Vajrayana practice.
+
+I trust this breakdown aligns with your Gurudeva’s version and liturgical intent. If you need a re-rendering of the full invocatory phrases with these adjustments integrated into a larger markdown framework—or further refinements to the typographic rendering—just let me know!
+
 
 https://youtu.be/QzTVl1CcNSI?si=6oODtL2bc_YY7HeO
 
