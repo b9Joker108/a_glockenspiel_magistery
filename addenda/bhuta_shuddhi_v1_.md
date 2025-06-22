@@ -8,7 +8,7 @@ Many traditions have a version of the Bhuta Shuddhi, please survey.
 
 ### **Definition and Core Concept**
 
-**Bhūta Śuddhi** (Sanskrit: भूतशुद्धि, IAST: bhūtaśuddhi) means "purification of the elements." It is a foundational practice in Indian spiritual traditions, aiming to purify and harmonize the five great elements (*pañca mahābhūtas*): earth (*pṛthvī*), water (*āpas*), fire (*agni*), air (*vāyu*), and space (*ākāśa*) within the body and mind[1][2][3][4][5][6][7][8].
+**Bhūta Śuddhi** (Sanskrit: भूतशुद्धि, IAST: bhūtaśuddhi) means "purification of the elements." It is a foundational practice in Indian spiritual traditions, aiming to purify and harmonize the five great elements (*pañca mahābhūtas*): earth (*pṛthvī*), water (*āpas*), fire (*agni*), air (*vāyu*), and space (*ākāśa*) within the bodymind complex and the sensory apparatus [1][2][3][4][5][6][7][8].
 
 ### **Origins and Development**
 
