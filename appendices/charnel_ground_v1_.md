@@ -1,7 +1,7 @@
 
 # Charnel ground #
 
-NB: I created, wrote and cited this article on English Wikipedia. Some editors have added pictures, but apart from that, no real changes have been made to my work. I never got to finish it. I will finesse and finish it here. It will be important to contextualize 'Doha' or 'Songs-of-Enlightenment'.
+NB: I created, wrote and cited this article on English Wikipedia. Some editors have added pictures, but apart from that, no real changes have been made to my work. I never got to finish it. I will finesse and finish it here. It will be important to contextualize 'Doha' or 'Songs-of-Enlightenment', Chöd and other aspects of the antinomian streams of the Dharmic Traditions.
 
 ### Introduction ###
 
