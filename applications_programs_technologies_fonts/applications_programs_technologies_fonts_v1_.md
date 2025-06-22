@@ -655,4 +655,70 @@ This hybrid workflow is widely used by digital humanists, technical writers, and
 If you want example templates, Pandoc commands, or CSS for Tibetan fonts and hybrid documents, just ask!
 
 
+The theurgic version in the codeblock didn't render?
+
+Great observation!  
+**Markdown code blocks** (the triple backticks) are for displaying code as text—they do not render HTML or apply any styling.  
+**Inline HTML** or HTML blocks, when written directly in Markdown (not inside code blocks), will be rendered as HTML by GitHub Pages, Jekyll, and most Markdown processors.
+
+---
+
+## Example: Rendering Theurgic Syllables in Markdown
+
+**This will NOT render as styled text (it just shows the code):**
+```markdown
+```
+<span style="font-family: 'Noto Serif Tibetan', serif; font-size: 2em;">
+  ཡ𑿕 བ𑿖 ར𑿗 ལ𑿘
+</span>
+```
+```
+
+**This WILL render as styled text:**
+```markdown
+Here is a theurgic version in HTML:
+
+<span style="font-family: 'Noto Serif Tibetan', serif; font-size: 2em;">
+  ཡ𑿕 བ𑿖 ར𑿗 ལ𑿘
+</span>
+```
+
+---
+
+## Key Points
+
+- **Use code blocks** (triple backticks) when you want to show code.
+- **Use raw HTML** (no backticks) when you want the HTML to be rendered.
+- **GitHub Pages and most Markdown engines support inline HTML**, but some Markdown previewers (like some desktop apps) may not.
+
+---
+
+## Pro Tip
+
+If you want to **show both** the code and the rendered result in your documentation:
+
+```markdown
+Here’s the code you can use:
+
+```
+<span style="font-family: 'Noto Serif Tibetan', serif; font-size: 2em;">
+  ཡ𑿕 བ𑿖 ར𑿗 ལ𑿘
+</span>
+```
+
+And here’s how it will look when rendered:
+
+<span style="font-family: 'Noto Serif Tibetan', serif; font-size: 2em;">
+  ཡ𑿕 བ𑿖 ར𑿗 ལ𑿘
+</span>
+```
+
+---
+
+**Summary:**  
+- Use **raw HTML** for rendering.
+- Use **code blocks** for displaying code.
+
+If you need sample Markdown files or want to see how it looks on a live GitHub Pages site, let me know!
+
 
