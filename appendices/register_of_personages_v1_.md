@@ -419,7 +419,51 @@ Citations:
 
 
 
-L
+# L #
+
+### Lokanath Goswami ###
+
+Now, please do the same for: Lokanath Goswami - Sri Narottamadas Thakur (1520–date of death unknown) stands as one of the most revered saints and musical innovators of the Gaudiya Vaishnava tradition. Born into royalty in Kheturi (modern-day Rajshahi district, Bangladesh), he renounced worldly life to become a leading disciple of Lokanath Goswami and a transmitter of Chaitanya Mahaprabhu’s devotional legacy[1].
+
+## Lokanath Goswami: The Renunciate Guru of Vrindavan
+
+**Sri Lokanath Goswami** is one of the most revered saints and foundational figures of the Gaudiya Vaishnava tradition. Born in Talakhadi, Bengal, to Padmanabha and his wife, Lokanath was drawn from an early age to the path of devotion and renunciation[1][6]. He became a direct associate of Sri Chaitanya Mahaprabhu, who instructed him to reside in Vrindavan and dedicate his life to solitary worship and service[3][5][6]. Lokanath Goswami is renowned for his deep humility, strict renunciation, and unwavering focus on bhajana (devotional practice), shunning all name and fame to the extent that he requested his name be omitted from major hagiographies[1][5].
+
+### Life and Renunciation
+
+After meeting Chaitanya Mahaprabhu in Navadvipa, Lokanath Goswami was directed to settle in Vrindavan, where he wandered the forests, rediscovering holy sites and serving his beloved deities, Sri Radha Vinod, whom he carried with him in a cloth bag[5][6][8]. He refused all offers of comfort or discipleship, living simply under trees and immersing himself in remembrance of Radha and Krishna[6][8].
+
+### Relationship with Narottamadas Thakur
+
+Despite his vow never to accept disciples, Lokanath Goswami became the spiritual master of Sri Narottamadas Thakur, one of the greatest devotional poets and kirtan composers of the tradition. Narottamadas, born into royalty, was determined to receive initiation only from Lokanath Goswami. To win his grace, Narottamadas performed secret, humble service for a year—cleaning the area where Lokanath performed his bodily functions—until Lokanath, moved by his humility and devotion, finally agreed to initiate him[3][5][6][8]. Through this connection, the teachings and musical legacy of Chaitanya Mahaprabhu were transmitted to future generations.
+
+### Legacy
+
+Lokanath Goswami’s life exemplifies the ideal of pure, selfless devotion and renunciation. His service to the sacred landscape of Vrindavan and his role as guru to Narottamadas Thakur cement his place as a pillar of Gaudiya Vaishnavism. His beloved deity, Sri Radha Vinod, continues to be worshipped in Vrindavan and Jaipur, and his samadhi is located at the Radha-Gokulananda Temple in Vrindavan, beside the samadhi of his illustrious disciple Narottamadas Thakur[8].
+
+---
+
+**References:**  
+[1] Gaudiya History – Lokanatha Goswami  
+[3] Madhu Chanda das – The Story of Srila Narottam Thakur's Diksha  
+[5] bbtirtha – Glories of Śrīla Lokanātha Gosvāmī  
+[6] ISKCON Dwarka – Disappearance Day of Srila Lokanath Goswami  
+[8] Utah Krishnas – Lokanath Goswami
+
+---
+
+*For the glockenspiel grimoire, Lokanath Goswami stands as the renunciate ideal and the spiritual root of the musical and devotional tradition transmitted by his disciple, Sri Narottamadas Thakur.*
+
+Citations:
+[1] Lokanatha Goswami - Gaudiya History https://gaudiyahistory.iskcondesiretree.com/tag/lokanatha-goswami/
+[2] Lokanatha Dasa Goswami – Biography - Gaudiya History https://gaudiyahistory.iskcondesiretree.com/lokanatha-dasa-goswami-biography/
+[3] The Story of Srila Narottam Thakur's Diksha - Madhu Chanda das https://www.bhagavatam-katha.com/the-story-of-srila-narottam-thakurs-diksha/
+[4] Understanding the Super Excellence of Gaudiya Vaishnavism https://lokanathswamitranscripts.com/understanding-the-super-excellence-of-gaudiya-vaishnavism/
+[5] Glories of Śrīla Lokanātha Gosvāmī - bbtirtha - Audio https://bbtirtha.org/EN/audio/390
+[6] Disappearance Day of Srila Lokanath Goswami - ISKCON Dwarka https://iskcondwarka.org/blogs/srila-lokanath-goswami-disappearance-day/
+[7] Lokanath Swami https://en.wikipedia-on-ipfs.org/wiki/Lokanath_Swami
+[8] Lokanath Goswami.ppt https://www.utahkrishnas.org/ondemand/lifestyles_classes/sixgoswaminsofvrndavana/Lokanath_Goswami.pdf
+
 
 
 M
