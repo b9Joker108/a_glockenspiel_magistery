@@ -3,6 +3,7 @@
 
 NB: I created, wrote and cited this article on English Wikipedia. Some editors have added pictures, but apart from that, no real changes have been made to my work. I never got to finish it. I will finesse and finish it here. It will be important to contextualize 'Doha' or 'Songs-of-Enlightenment'.
 
+### Introduction ###
 
 A charnel ground (Sanskrit: श्मशान; IAST: śmaśāna; Tibetan pronunciation: durtrö; Tibetan: དུར་ཁྲོད, Wylie: dur khrod)[1] is an above-ground site for the putrefaction of bodies, generally human, where formerly living tissue is left to decompose uncovered. Although it may have demarcated locations within it functionally identified as burial grounds, cemeteries and crematoria, it is distinct from these as well as from crypts or burial vaults.
 
@@ -16,7 +17,7 @@ Throughout Ancient and Medieval India, charnel grounds in the form of open air c
 
 In the Himalaya where tillable topsoil for burial and fuel for cremation is scarce and a valuable commodity, the location of a so-called sky burial is identified with a charnel ground.[2]
 
-# Sutrayana and Early Buddhism #
+### Sutrayana and Early Buddhism ###
 
 In the Pali Canon discourses, Gautama Buddha frequently instructs his disciples to seek out a secluded dwelling (in a forest, under the shade of a tree, mountain, glen, hillside cave, charnel ground, jungle grove, in the open, or on a heap of straw).[3] The Vinaya and Sutrayana tradition of the "Nine Cemetery Contemplations" (Pali: nava sīvathikā-manasikāra) described in the Satipatthana Sutta demonstrate that charnel ground and cemetery meditations were part of the ascetic practices in Early Buddhism.[4]
 
