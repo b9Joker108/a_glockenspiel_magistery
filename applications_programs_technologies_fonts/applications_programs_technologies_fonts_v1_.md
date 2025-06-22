@@ -722,3 +722,207 @@ And here’s how it will look when rendered:
 If you need sample Markdown files or want to see how it looks on a live GitHub Pages site, let me know!
 
 
+No, it doesn't render, the code is wrong?
+
+You are correct: **the code I gave will not render as styled text on GitHub.com or in GitHub Markdown**—even when using inline HTML—because GitHub's Markdown renderer (and GitHub Pages' Jekyll by default) does not allow inline CSS styles for security reasons[1][6]. This means:
+
+- **Inline HTML tags** (like `<span>`) are allowed, but most style attributes (like `style="font-family:..."`) are stripped or ignored.
+- **Custom fonts via CSS** are not supported in Markdown files rendered on GitHub.com.
+- **You cannot force a specific font or advanced styling in Markdown or HTML blocks on GitHub.com.**
+
+### What actually works on GitHub.com and GitHub Pages?
+
+- **Unicode text** will display in whatever font the user's browser/system provides.
+- **HTML files** published via GitHub Pages (not Markdown) can use full CSS and webfonts[2][3][4][7].  
+  - If you want precise font control, create `.html` files (not `.md`) and publish them through GitHub Pages.
+  - You can then link to webfonts and use custom CSS as needed.
+
+### Example: HTML file for GitHub Pages
+
+Create a file like `index.html`:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Theurgic Syllables</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Tibetan&display=swap" rel="stylesheet">
+  <style>
+    .tibetan {
+      font-family: 'Noto Serif Tibetan', serif;
+      font-size: 2em;
+    }
+  </style>
+</head>
+<body>
+  <p>Here is a theurgic version:</p>
+  <div class="tibetan">ཡ𑿕 བ𑿖 ར𑿗 ལ𑿘</div>
+</body>
+</html>
+```
+Publish this file via GitHub Pages, and it will render exactly as you want[2][3][4][7].
+
+---
+
+**Summary:**  
+- **Markdown on GitHub.com:** No custom font or style rendering.
+- **GitHub Pages with HTML:** Full control—use HTML, CSS, and webfonts for your theurgic content.
+
+If you need a workflow for mixing Markdown and HTML for GitHub Pages, or want to keep most content in Markdown but use HTML for special pages, let me know!
+
+---
+[1]: [GitHub Docs - Markdown formatting](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
+[2]: [Stack Overflow - Render HTML on GitHub](https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview)  
+[3]: [GitHub Docs - Pages Quickstart](https://docs.github.com/en/pages/quickstart)  
+[4]: [GitHub Community - Rendered HTML](https://github.com/orgs/community/discussions/29863)  
+[6]: [Michael Currin - About GitHub Pages](https://michaelcurrin.github.io/gh-pages-no-jekyll/about.html)  
+[7]: [YouTube - GitHub Pages HTML](https://www.youtube.com/watch?v=lEot4GNBLxE)
+
+Citations:
+[1] Basic writing and formatting syntax - GitHub Docs https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[2] css - How to see an HTML page on Github as a normal rendered ... https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview
+[3] Quickstart for GitHub Pages - GitHub Docs https://docs.github.com/en/pages/quickstart
+[4] How can I show rendered HTML instead of the HTML source? #29863 https://github.com/orgs/community/discussions/29863
+[5] Render https://gohugo.io/methods/page/render/
+[6] About https://michaelcurrin.github.io/gh-pages-no-jekyll/about.html
+[7] GitHub Pages HTML - YouTube https://www.youtube.com/watch?v=lEot4GNBLxE
+[8] github-pages-render/readme.md at master · Kequc/github-pages-render https://github.com/Kequc/github-pages-render/blob/master/readme.md
+
+
+
+No, it doesn't render, the code is wrong?
+
+You are correct: **the code I gave will not render as styled text on GitHub.com or in GitHub Markdown**—even when using inline HTML—because GitHub's Markdown renderer (and GitHub Pages' Jekyll by default) does not allow inline CSS styles for security reasons[1][6]. This means:
+
+- **Inline HTML tags** (like `<span>`) are allowed, but most style attributes (like `style="font-family:..."`) are stripped or ignored.
+- **Custom fonts via CSS** are not supported in Markdown files rendered on GitHub.com.
+- **You cannot force a specific font or advanced styling in Markdown or HTML blocks on GitHub.com.**
+
+### What actually works on GitHub.com and GitHub Pages?
+
+- **Unicode text** will display in whatever font the user's browser/system provides.
+- **HTML files** published via GitHub Pages (not Markdown) can use full CSS and webfonts[2][3][4][7].  
+  - If you want precise font control, create `.html` files (not `.md`) and publish them through GitHub Pages.
+  - You can then link to webfonts and use custom CSS as needed.
+
+### Example: HTML file for GitHub Pages
+
+Create a file like `index.html`:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Theurgic Syllables</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Tibetan&display=swap" rel="stylesheet">
+  <style>
+    .tibetan {
+      font-family: 'Noto Serif Tibetan', serif;
+      font-size: 2em;
+    }
+  </style>
+</head>
+<body>
+  <p>Here is a theurgic version:</p>
+  <div class="tibetan">ཡ𑿕 བ𑿖 ར𑿗 ལ𑿘</div>
+</body>
+</html>
+```
+Publish this file via GitHub Pages, and it will render exactly as you want[2][3][4][7].
+
+---
+
+**Summary:**  
+- **Markdown on GitHub.com:** No custom font or style rendering.
+- **GitHub Pages with HTML:** Full control—use HTML, CSS, and webfonts for your theurgic content.
+
+If you need a workflow for mixing Markdown and HTML for GitHub Pages, or want to keep most content in Markdown but use HTML for special pages, let me know!
+
+---
+[1]: [GitHub Docs - Markdown formatting](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
+[2]: [Stack Overflow - Render HTML on GitHub](https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview)  
+[3]: [GitHub Docs - Pages Quickstart](https://docs.github.com/en/pages/quickstart)  
+[4]: [GitHub Community - Rendered HTML](https://github.com/orgs/community/discussions/29863)  
+[6]: [Michael Currin - About GitHub Pages](https://michaelcurrin.github.io/gh-pages-no-jekyll/about.html)  
+[7]: [YouTube - GitHub Pages HTML](https://www.youtube.com/watch?v=lEot4GNBLxE)
+
+Citations:
+[1] Basic writing and formatting syntax - GitHub Docs https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[2] css - How to see an HTML page on Github as a normal rendered ... https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview
+[3] Quickstart for GitHub Pages - GitHub Docs https://docs.github.com/en/pages/quickstart
+[4] How can I show rendered HTML instead of the HTML source? #29863 https://github.com/orgs/community/discussions/29863
+[5] Render https://gohugo.io/methods/page/render/
+[6] About https://michaelcurrin.github.io/gh-pages-no-jekyll/about.html
+[7] GitHub Pages HTML - YouTube https://www.youtube.com/watch?v=lEot4GNBLxE
+[8] github-pages-render/readme.md at master · Kequc/github-pages-render https://github.com/Kequc/github-pages-render/blob/master/readme.md
+
+
+
+Are there an efficient way to make both a rendered html website and a beautifully formattted pdf of it in an integrated workflow? And if so, how do I retrofit my codebase on GitHub?
+
+Yes, there **are efficient, integrated workflows** to produce both a rendered HTML website and a beautifully formatted PDF from the same source—**and you can retrofit your GitHub codebase** to support this.
+
+## Efficient Integrated Workflow
+
+### 1. **Write Source in Markdown+HTML**
+- Author your content in Markdown, using HTML blocks for script/font control as needed[3].
+
+### 2. **Website: GitHub Pages/Jekyll**
+- GitHub Pages (with or without Jekyll) will render your Markdown+HTML as a static website automatically[3].
+- You can use custom CSS and webfonts for full typographic control.
+
+### 3. **PDF Generation**
+- Use a tool that converts your rendered HTML to PDF, preserving fonts, layout, and scripts.
+- **GitHub Actions** can automate this:  
+  - [ferdinandkeller/html-to-pdf-action](https://github.com/ferdinandkeller/html-to-pdf-action) will render your HTML (with all CSS/webfonts) to PDF using headless Chromium—matching your website’s appearance[5].
+  - Other options: DeckTape, Puppeteer, or Pandoc with a suitable HTML template[6][8].
+
+### 4. **Automate with GitHub Actions**
+- Set up a GitHub Actions workflow to:
+  - Build your site (Jekyll or static HTML).
+  - Convert the main HTML (or all pages) to PDF using a PDF action[5][6].
+  - Commit or upload the PDF to your repo for download or link it from your site[2][4].
+
+---
+
+## Retrofitting Your GitHub Codebase
+
+1. **Organize your content** in Markdown files, using HTML for special formatting.
+2. **Set up GitHub Pages** (if not already).
+3. **Add a GitHub Action** for PDF generation:
+   - Example: Add [html-to-pdf-action](https://github.com/ferdinandkeller/html-to-pdf-action) to your workflow[5].
+   - Configure it to run on push or manually, convert your built HTML to PDF, and upload the PDF as an artifact or commit it to a `/pdfs` folder.
+4. **Link to the PDF** from your website or embed it using an `<iframe>` or a direct link[2][4].
+5. **Test and iterate** to ensure your fonts/scripts render well in both HTML and PDF.
+
+---
+
+## Summary Table
+
+| Step                  | Tool/Platform                | Output           |
+|-----------------------|-----------------------------|------------------|
+| Author content        | Markdown + HTML             | Source files     |
+| Website               | GitHub Pages/Jekyll         | HTML website     |
+| PDF Conversion        | GitHub Action (e.g. html-to-pdf-action) | PDF (styled)     |
+| Distribution          | GitHub Pages + direct PDF link | Web + Download  |
+
+---
+
+**In short:**  
+- Keep writing in Markdown with HTML as needed.
+- Use GitHub Pages for your site.
+- Add a GitHub Action to generate a PDF from your HTML.
+- Link or embed the PDF for your readers.
+
+This workflow is robust, automatable, and easy to retrofit to your current GitHub repo[5][6][3]. If you need example workflow YAML or step-by-step setup, just ask!
+
+Citations:
+[1] pdf-generation · GitHub Topics https://github.com/topics/pdf-generation
+[2] I have a github webpage. How do I make a page displaying purely a ... https://stackoverflow.com/questions/37185616/i-have-a-github-webpage-how-do-i-make-a-page-displaying-purely-a-pdf-i-e-my-cv
+[3] Publishing with GitHub pages https://kshaffer.github.io/2013/09/publishing-with-github-pages/
+[4] How to link a pdf which opens a pdf-viewer in GitHub pages #21720 https://github.com/orgs/community/discussions/21720
+[5] GitHub - ferdinandkeller/html-to-pdf-action: A GitHub Action to generate a clean PDF from an HTML page https://github.com/ferdinandkeller/html-to-pdf-action
+[6] GitHub Actions, reveal.js, and Automating the PDF Conversion https://4comprehension.com/github-actions-reveal-js-and-automating-pdf-conversion/
+[7] Can I convert GitHub pages with Jekyll to pdf? - Stack Overflow https://stackoverflow.com/questions/52396579/can-i-convert-github-pages-with-jekyll-to-pdf
+[8] Best approach to generate PDF from dynamic data? : r/node - Reddit https://www.reddit.com/r/node/comments/111ufgd/best_approach_to_generate_pdf_from_dynamic_data/
+
