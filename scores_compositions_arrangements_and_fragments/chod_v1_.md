@@ -376,6 +376,155 @@ Tips for Further Adaptation:
 
 I hope this revised layout meets your needs. Feel free to ask for more adjustments or further breakdowns of additional passages!
 
+Below is an example GitHub‐Flavored Markdown layout that reflects your Gurudeva’s version—one that uses a Black beat, a White beat, and two types of flams (Black‑White and White‑Black). In the examples below, each verse is broken down into several layers:
+
+1. Uchen (Tibetan)
+2. EWTS (Extended Wylie Transliteration)
+3. IPA (Academic Phonetics)
+4. Drumbeat Alignment – the damaru strike sequence is shown using the following notations:
+   - [B] for a Black beat
+   - [W] for a White beat
+   - [BW] for a Flam of Black‑White configuration
+   - [WB] for a Flam of White‑Black configuration  
+5. Layperson’s Pronunciation (i.e. the romanized text as transmitted)
+6. English Translation
+7. Interlinear Annotations
+
+Feel free to adjust the beat assignments below if your actual practice requires slight modifications. The following is a sample layout:
+
+---
+
+Damaru Sequence with Gurudeva’s Version
+
+Verse 1: “OM Machigma la solwa deb OM”
+
+- Uchen (Tibetan):  
+  ཨོཾ  མ་ཆིཀྱམ་ལ་  སོལ་ཝ་དེབ  ཨོཾ
+
+- EWTS:  
+  om ma.chik.yam la sol.wa deb om
+
+- IPA (Academic):  
+  /oːm maˈt͡ʃik.jam la soˈlʷa deb oːm/
+
+- Drumbeat Alignment:  
+  `plaintext
+  Syllables:          OM      Ma-chi    gma      la      sol      wa      deb      OM
+  Damaru Beats:       [B]     [BW]      [W]     [WB]    [B]      [BW]    [W]      [B]
+  `
+  Legend:
+  - [B]: Black beat  
+  - [W]: White beat  
+  - [BW]: Flam, Black‑White configuration  
+  - [WB]: Flam, White‑Black configuration  
+
+- Layperson’s Pronunciation:  
+  OM Machigma la solwa deb OM
+
+- English Translation:  
+  I pray to the One Mother.
+
+- Interlinear Annotations:  
+  - The phrase opens and closes with a Black beat ([B]), marking the foundational or primordial quality.  
+  - The flams ([BW] and [WB]) interweave with the White beat ([W]) on certain syllables to mark transitional phases within the invocatory cycle.
+
+---
+
+Verse 2: “Karpo OM gyi jin gyi lob”
+
+- Uchen (Tibetan):  
+  དཀར་པོ  ཨོཾ་གྱི་  འཇིན་འཇི་ལོབ
+
+- EWTS:  
+  dkar po om gyi 'jin gyi lob
+
+- IPA (Academic):  
+  /ˈkɑr.po om gi ˈdʑin gi lob/
+
+- Drumbeat Alignment:  
+  `plaintext
+  Syllables:          Karpo      OM      gyi      jin      gyi      lob
+  Damaru Beats:       [W]        [B]     [BW]     [WB]     [W]      [B]
+  `
+- Layperson’s Pronunciation:  
+  Karpo OM gyi jin gyi lob
+
+- English Translation:  
+  Bless me through the white OM.  
+  (Here, “Karpo” connotes the quality of white.)
+
+- Interlinear Annotations:  
+  - The White beat ([W]) assigned to “Karpo” reinforces its association with purity.  
+  - As before, the alternating flams ([BW] and [WB]) break the phrase into a dynamic rhythmic cycle.
+
+---
+
+Verse 3: “Marpo AH yi jin gyi lob”
+
+- Uchen (Tibetan):  
+  དམར་པོ  ཨཧ་ཡི་  འཇིན་འཇི་ལོབ
+
+- EWTS:  
+  marpo ah yi 'jin gyi lob
+
+- IPA (Academic):  
+  /ˈmɑr.po ah ji ˈdʑin gi lob/
+
+- Drumbeat Alignment:  
+  `plaintext
+  Syllables:          Marpo      AH      yi      jin      gyi      lob
+  Damaru Beats:       [B]        [W]     [BW]    [WB]     [B]      [W]
+  `
+- Layperson’s Pronunciation:  
+  Marpo AH yi jin gyi lob
+
+- English Translation:  
+  Bless me through the red AH.
+  
+- Interlinear Annotations:  
+  - Even though “Marpo” literally means “red,” here the pattern assigns the beats to create a unique rhythmic signature that signals dynamic energy.  
+  - The interplay between the Black ([B]) and White ([W]) beats with interspersed flams remains a defining feature.
+
+---
+
+Verse 4: “O Ngonpo HUM gi jin gyi lob”
+
+- Uchen (Tibetan):  
+  ཨོ  ངོན་པོ  ཧུམ་གྱི་  འཇིན་འཇི་ལོབ
+
+- EWTS:  
+  o ngon po hum gyi 'jin gyi lob
+
+- IPA (Academic):  
+  /oʊ ŋon.po hum gi ˈdʑin gi lob/
+
+- Drumbeat Alignment:  
+  `plaintext
+  Syllables:          O       Ngonpo     HUM      gyi      jin      gyi      lob
+  Damaru Beats:       [W]     [B]        [BW]    [WB]     [W]      [B]      [BW]
+  `
+- Layperson’s Pronunciation:  
+  O Ngonpo HUM gi jin gyi lob
+
+- English Translation:  
+  Bless me through the blue HUM.
+
+- Interlinear Annotations:  
+  - “Ngonpo” evokes a blue quality—often associated with wisdom and tranquility—which is underscored by the surrounding beat pattern.  
+  - The concluding pattern with [BW] or a similar marker reinforces the integrative dynamic between the beats.
+
+---
+
+Final Notes
+
+- Customization:  
+  The “Drumbeat Alignment” lines above serve as a schematic guide. The precise assignment of [B], [W], [BW], or [WB] to each syllable might vary according to the nuances of your Gurudeva’s instructions. Feel free to modify the beat markers as needed for your practice.
+
+- Application:  
+  You can expand this layout for every verse or phrase within the full Chöd text, ensuring that for each segment you include the multilayered notation—from the Tibetan script to the specific damaru strike pattern as transmitted by your teacher.
+
+I hope this layout captures the fidelity of your Gurudeva’s version. Let me know if you’d like further refinements or additional sections!
+
 
 https://youtu.be/QzTVl1CcNSI?si=6oODtL2bc_YY7HeO
 
