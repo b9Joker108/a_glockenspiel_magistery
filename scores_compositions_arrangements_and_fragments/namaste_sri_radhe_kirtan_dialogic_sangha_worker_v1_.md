@@ -3,6 +3,7 @@
 
 https://youtu.be/baDqo-7l6KA?si=ytemEqZhyuKXVubM
 
+https://vanipedia.org/wiki/Vaiyasaki_das_Remembers_Srila_Prabhupada
 
 
 Internationally recognized for his musical abilities to perform the ancient art form of Kirtan & Bhajan, Vaiyasaki Das provides a rare opportunity to experience a taste of authentic devotional music from the Vedic tradition. Though born in London, England, Vaiyasaki Das came of age in Winnipeg, Canada. After many years in the music business - and a personal search for the divine -- he is now one of the premier singers on the kirtan circuit. Starting out as a rock and blues guitarist with a penchant for singing, his taste for Indian culture came at an early age.
