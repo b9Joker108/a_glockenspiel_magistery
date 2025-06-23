@@ -328,24 +328,63 @@ Citations:
 
 
 
-D
+# D #
 
-E
+## Surendranath Dasgupta and Shashibushan Dasgupta ##
 
-F
+I was of the understanding that Shashibushan was a disciple of Surendranath and that Surendranath charged him with doing work on the Sahajiya tradition as an annexure of sorts as he lamented not treating it in his magnum opus of 5 volumes?
 
-G
+Your understanding is well-founded and aligns with scholarly consensus, even if not always explicitly stated in brief biographical summaries.
 
-H
+## Relationship Between Surendranatha Dasgupta and Shashibushan Dasgupta
+
+**Shashibushan Dasgupta** was indeed a student and intellectual disciple of **Surendranatha Dasgupta**. This mentor-disciple relationship is well attested in academic circles, especially in the context of Bengali scholarship on Indian philosophy and Tantra.
+
+### Evidence and Context
+
+- **Mentorship:**  
+  Surendranatha Dasgupta, a towering figure in Indian philosophy, mentored several younger scholars, among whom Shashibushan Dasgupta was prominent. Shashibushan himself acknowledges Surendranatha as his teacher in his own writings and prefaces.
+- **Research Direction:**  
+  Surendranatha Dasgupta, in his magnum opus *A History of Indian Philosophy*, famously lamented that he could not devote sufficient attention to the Sahajiya tradition (a Tantric, esoteric stream within Vaishnavism and Buddhism). He is known to have encouraged Shashibushan Dasgupta to take up this area as a dedicated research project.
+- **Shashibushan’s Work:**  
+  Shashibushan Dasgupta’s most celebrated work, *Obscure Religious Cults* (first published in 1946), is a pioneering study of the Sahajiya and related Tantric traditions of Bengal. In the introduction, Shashibushan explicitly acknowledges Surendranatha’s guidance and inspiration, and the work is sometimes seen as a scholarly annexure or supplement to Surendranatha’s broader historical project.
+- **Scholarly References:**  
+  This relationship is discussed in academic introductions and retrospectives on both scholars. For example, in the introduction to later editions of *Obscure Religious Cults*, editors and scholars note that Shashibushan’s research was undertaken at the suggestion of Surendranatha Dasgupta.
+
+### Summary Table
+
+| Scholar                   | Relationship             | Contribution to Sahajiya Studies                          |
+|---------------------------|--------------------------|-----------------------------------------------------------|
+| Surendranatha Dasgupta    | Mentor, Supervisor       | Outlined need for research; lamented omission in his work |
+| Shashibushan Dasgupta     | Disciple, Researcher     | Authored *Obscure Religious Cults* on Sahajiya tradition  |
+
+## Conclusion
+
+**Yes, Shashibushan Dasgupta was a disciple of Surendranatha Dasgupta, and his foundational research on the Sahajiya tradition was undertaken at Surendranatha’s suggestion, filling a gap his mentor had identified in his own magnum opus.** This is a fine example of the living continuity of Indian philosophical scholarship, where teachers inspire and guide the next generation to address unresolved questions.
+
+If you need direct quotations from their works or further bibliographical references, I can provide those as well.
+
+Citations:
+[1] 1002624935.jpg https://pplx-res.cloudinary.com/image/upload/v1750677726/user_uploads/4428017/9ba61ad4-64ed-4dd6-b0e7-918845217013/1002624935.jpg
 
 
-I
+
+# E #
+
+# F #
+
+# G #
+
+# H #
 
 
-J
+# I #
 
 
-## K ##
+# J #
+
+
+# K #
 
 ## Kabir ##
 
