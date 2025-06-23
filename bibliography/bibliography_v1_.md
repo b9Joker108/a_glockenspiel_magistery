@@ -146,6 +146,9 @@ T
 
 # U #
 
+Unknown (n.d.). 'Bhutashuddhyadi (Sanskrit: भूतशुद्ध्यादि; IAST: Bhūtaśuddyādi; alt. title: Sanskrit: भूतशुद्धिविधिः; Bhūtaśuddhividhi)', T. no. 656. Pondichéry [Pondicherry], India: Institut Français d’Indologie [French; English: French Institute of Pondicherry].
+https://www.ifpindia.org/transcripts/pdf/T0656.pdf
+
 
 Urban, Hugh B. (1998). 'The Torment of Secrecy: Ethical and Epistemological Problems in the Study of Esoteric Traditions' in the *History of Religions*, Vol. 37, No. 3, Feb., 1998, pp. 209 - 248. Chicago, Illinois, U.S.A.: The University of Chicago Press.
 
