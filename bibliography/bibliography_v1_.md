@@ -115,10 +115,10 @@ Ohrvik, Ane & Guðmundsdóttir, Aðalheiður (auths.) (2015). 'Magic and Texts: 
 
 # P #
 
-* Prema-dasa & Sundara-gopala-dasa (trans.); & Madhava-priya-dasa & Sanatana-dada (eds.) & et al. (2016). 'Vishuddha Chaitanyavani: An Anthology of Hari-Katha - Vol. 1'. First edition. (NB: With an Introduction by Bhakti-Vijnana-Bharati.). Delhi, Delhi, India: Vishuddha Chaitanya Vani Association (Sanatana-das). Source: xxx (accessed: Wednesday, June 25, 2025)
+* Prema-dasa & Sundara-gopala-dasa (trans.); & Madhava-priya-dasa & Sanatana-dasa (eds.) & *et al.* (2016). 'Vishuddha Chaitanyavani: An Anthology of Hari-Katha - Vol. 1'. First edition. (NB: With an Introduction by Bhakti-Vijnana-Bharati.). Delhi, Delhi, India: Vishuddha Chaitanya Vani Association (Sanatana-das). Source: xxx (accessed: Wednesday, June 25, 2025)
 
 **Purport:**
-A most valuable work for our purposes. It contains a useful terminological dichotomy or differentiation between Sahajiyas of quality and contrariwise. 
+A most valuable work for our purposes. It contains a useful terminological dichotomy or differentiation between Sahajiyas of quality and those that run contrariwise. 
 
 # Q #
 
