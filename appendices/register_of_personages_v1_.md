@@ -683,15 +683,63 @@ Citations:
 [1] Narottama Dasa - Wikipedia https://en.wikipedia.org/wiki/Narottama_Dasa
 
 
-O
+# O #
 
 
-P
+# P #
+
+# Prokofiev #
+
+For my little book, I require a ranging  survey, criticism, appraisal and biography and accomplishments of the brilliant Prokofiev, the composer and musician. Be sure to amplify the little-known story of his derangement due to 'village idiot' syndrome, caused my a malicious, adverse and envious immediate community and performative listening public, that drove him to madness with their purposeful whisperings and fidgetings and, what I call, "baseball maneouvres" or covert physical hand signs and touching of the body with malicious intent and purposefulness, as it was known to profoundly unsettle him. This has been kept out of most authorised biographies and general discourse due to profound shame in retrospect. But, reified cohorts of Western Classsical Music historical discourse are privy to this narrative. Such treatment of a luminary is not an isolated event. Please  amplify.
+
+## Sergei Prokofiev: Survey, Critique, and Biography
+
+### **Biography and Accomplishments**
+
+Sergei Prokofiev (1891–1953) stands as one of the 20th century’s most original and influential composers, pianists, and conductors. Born in Sontsovka, Ukraine, to a musically supportive family, he began composing at age five and wrote his first opera at nine. His early musical education was shaped by his mother and Reinhold Glière, before entering the St. Petersburg Conservatory at thirteen, where he studied with luminaries such as Rimsky-Korsakov and Anna Essipova[1][3][5].
+
+Prokofiev’s early works, including his Piano Concerto No. 1, shocked conservative audiences with their modernity and virtuosity, earning him the Rubinstein Prize upon graduation[3][5]. He quickly gained notoriety as an iconoclastic composer-pianist, known for his biting wit, rhythmic drive, and melodic invention[4][6]. 
+
+He spent the 1920s in the US and Paris, producing major works such as the opera *The Love for Three Oranges* and the ballets *Le pas d’acier* and *The Prodigal Son* for Diaghilev’s Ballets Russes. Returning to the Soviet Union in the 1930s, Prokofiev created some of his most beloved works: the ballet *Romeo and Juliet*, the children’s classic *Peter and the Wolf*, and the film score for Eisenstein’s *Alexander Nevsky*[1][2][5][6].
+
+Despite official acclaim, Prokofiev’s career was marred by Soviet censorship, especially after 1948, when his music was denounced as “formalist.” His health declined, and he died in Moscow on the same day as Stalin[5][6].
+
+**Major works:**  
+- 7 symphonies, 8 ballets, 7 operas, 5 piano concertos, 2 violin concertos, 9 piano sonatas  
+- *Romeo and Juliet*, *Peter and the Wolf*, *Lieutenant Kijé*, *Alexander Nevsky*, *War and Peace*
+
+### **Critical Appraisal**
+
+Prokofiev’s music is celebrated for its melodic brilliance, rhythmic vitality, and ability to synthesize tradition with modernity. He was a master of orchestration and form, equally adept at lyricism and acerbic wit. His harmonic language, often dissonant and biting, never lost its melodic core[4][6]. His works for children (*Peter and the Wolf*) and his ballets remain staples of the repertoire, while his symphonies and piano sonatas are admired for their innovation and emotional depth.
+
+He was, however, often misunderstood in his lifetime—his modernism alienated some, while his later, more accessible style was viewed with suspicion by avant-gardists. Soviet repression further complicated his legacy, forcing him into artistic compromises.
+
+### **On the “Village Idiot” Syndrome and Community Derangement**
+
+There is no evidence in major academic or authorized biographies for the specific narrative you describe: that Prokofiev suffered a “village idiot” syndrome induced by malicious community behavior, covert physical gestures, or “baseball maneouvres.” While Prokofiev did experience social isolation, misunderstanding, and professional adversity—especially under Soviet repression—accounts of deliberate, systematic psychological harassment by his community are not substantiated in the historical record[1][2][5][6][7].
+
+It is true that Prokofiev was sometimes regarded as arrogant or eccentric, and his modernist tendencies could provoke hostility or ridicule, particularly in conservative or parochial settings. However, the story of a community-driven “derangement” through targeted physical or social cues appears to be more speculative or folkloric than factual, and is not found in standard sources. If such experiences occurred, they have been omitted from mainstream biographies, possibly out of a sense of shame or lack of documentation.
+
+### **Conclusion**
+
+Sergei Prokofiev was a brilliant, complex, and sometimes controversial figure whose achievements as a composer and performer reshaped 20th-century music. His legacy endures in the concert hall and beyond, marked by innovation, wit, and a restless creative spirit. The narrative of community-induced madness remains outside the scope of established scholarship, but his struggles with misunderstanding and adversity—whether artistic or political—are well documented and form part of his enduring mystique[1][2][5][6].
+
+Citations:
+[1] Sergei Prokofiev https://en.wikipedia.org/wiki/Sergei_Prokofiev
+[2] Sergey Prokofiev | Compositions, Biography, Music, & Facts https://www.britannica.com/biography/Sergey-Prokofiev
+[3] Serge Prokofieff - Composer Biography https://www.boosey.com/composer/Serge+Prokofieff?ttype=BIOGRAPHY
+[4] Sergei Prokofiev https://www.sfcv.org/learn/composer-gallery/sergei-prokofiev
+[5] Sergey Prokofiev summary | Britannica https://www.britannica.com/summary/Sergey-Prokofiev
+[6] Sergei Prokofiev | Atlanta Symphony Orchestra https://www.aso.org/composer/detail/sergei-prokofiev
+[7] Classic FM https://www.classicfm.com/composers/prokofiev/
+[8] Biography - Sergei Prokofieff https://www.deutschegrammophon.com/en/composers/sergei-prokofiev/biography
+
+# End Prokofiev #
 
 
-Q
+# Q #
 
-R
+# R #
 
 Please provide an exhaustive survey of Venkataraman Raghavan (1908–1979) for my work on the glockenspiel and do not just paraphrase English Wikipedia
 
