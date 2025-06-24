@@ -138,7 +138,7 @@ Singh, Dr. Meikam Thoiba (2023). 'Hindustani Classical Music and Its Principles'
 
 # T #
 
-Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in 'Prabuddha Bharata or Awakened India: Perspectives on Vedanta', Vol. 115, No. 1, January, 2010. Kolkata, India: Advaita Ashrama. Source: https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha_Bharata/Year_2010/01PB-Jan2010.pdf (accessed: Tuesday, June 24, 2025)
+Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in 'Prabuddha Bharata or Awakened India: Perspectives on Vedanta', Vol. 115, No. 1, January, 2010. Kolkata, India: Advaita Ashrama. Source:  https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha%Bharata/Year%2010/01PB-Jan2010.pdf(accessed: Tuesday, June 24, 2025)
 
 
 
