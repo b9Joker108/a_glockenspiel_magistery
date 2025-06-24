@@ -1133,7 +1133,18 @@ Citations:
 [48] Pancha Bhuta - Wikipedia https://en.wikipedia.org/wiki/Pancha_Bhuta
 [49] Bhuta Shuddhi - The Ultimate Cleansing | Isha Hatha Yoga | Sadhguru https://www.youtube.com/watch?v=jzSX_uBstSA
 
-# Bibliography #
+# References and Bibliography #
+
+## Print ##
 
 Unknown (n.d.). 'Bhutashuddhyadi (Sanskrit: भूतशुद्ध्यादि; IAST: Bhūtaśuddyādi; alt. title: Sanskrit: भूतशुद्धिविधिः; Bhūtaśuddhividhi)', T. no. 656. Pondichéry [Pondicherry], India: Institut Français d’Indologie [French; English: French Institute of Pondicherry].
 https://www.ifpindia.org/transcripts/pdf/T0656.pdf
+
+## Websites ##
+
+...
+
+
+## Audiovisual ##
+
+...
