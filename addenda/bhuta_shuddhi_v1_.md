@@ -1137,6 +1137,8 @@ Citations:
 
 ## Print ##
 
+Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in 'Prabuddha Bharata or Awakened India: Perspectives on Vedanta', Vol. 115, No. 1, January, 2010. Kolkata, India: Advaita Ashrama. Source: https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha Bharata/Year 2010/01PB-Jan2010.pdf (accessed: Tuesday, June 24, 2025)
+
 Unknown (n.d.). 'Bhutashuddhyadi (Sanskrit: भूतशुद्ध्यादि; IAST: Bhūtaśuddyādi; alt. title: Sanskrit: भूतशुद्धिविधिः; Bhūtaśuddhividhi)', T. no. 656. Pondichéry [Pondicherry], India: Institut Français d’Indologie [French; English: French Institute of Pondicherry].
 https://www.ifpindia.org/transcripts/pdf/T0656.pdf
 
