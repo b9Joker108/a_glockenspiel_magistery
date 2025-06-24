@@ -121,3 +121,21 @@ In Summary
 This survey is by no means exhaustive but captures the primary layers of meaning and usage intrinsic to rlung ro dgu phrugs. Such compounds remind us of the elegance with which Tibetan language fuses the elemental with the mystical—a linguistic shorthand for complex inner processes.
 
 Would you like to explore additional related terms or perhaps delve into how these processes are concretely applied in specific Tibetan meditative practices?
+
+
+# References #
+
+## Print ##
+
+...
+
+## Internet ##
+
+...
+
+## Audiovisual ##
+
+https://youtu.be/7u3OQiPPDv8?si=xi3xdzLE0JFk5aRg
+
+
+
