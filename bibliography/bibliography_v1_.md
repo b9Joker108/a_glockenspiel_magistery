@@ -102,8 +102,7 @@ Source: https://www.amazon.com.au/Glorious-Glockenspiel-Greatness-Playing-Perfor
 
 # O #
 
-
-
+Ohrvik, Ane & Guðmundsdóttir, Aðalheiður (auths) (2015).  'Magic and Texts: An Introduction' (pp. 7 - 14) in Amundsen, Arne Bugge (ed.), *et al.* (2015). *ARV: Nordic Yearbook of Folklore - Special Issue: Magic and Texts*, Vol. 70. Uppsala, Sweden: The Royal Gustavus Adolphus Academy. ISSN 0066-8176. Source: xxx (accessed: Wednesday, June 25, 2025)
 
 
 
