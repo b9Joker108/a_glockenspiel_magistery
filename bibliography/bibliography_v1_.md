@@ -1,4 +1,4 @@
-Bibliography
+# References and Bibliography #
 
 
 
@@ -41,28 +41,28 @@ Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished 
 
 
 
-H
+# H #
 
 
 
 
 
-I
-
-
-
-
-
-
-J
+# I #
 
 
 
 
 
 
+# J #
 
-K
+
+
+
+
+
+
+# K #
 
 
 Kraus, Nicholas (2023). 'The Glorious Glockenspiel: A Guide to Greatness in Playing and Performing'. Nicholas Khatchadourian, Publisher. eBook. ASIN B0C3W3TF8K. NB: I have this text on the 'Play Books' Android application.
@@ -85,36 +85,36 @@ Source: https://www.amazon.com.au/Glorious-Glockenspiel-Greatness-Playing-Perfor
 
 
 
-L
+# L #
 
 
 
 
-M
+# M #
 
 
 
-N
-
-
-
-
-
-O
+# N #
 
 
 
 
 
-
-P
+# O #
 
 
 
 
 
 
-Q
+# P #
+
+
+
+
+
+
+# Q #
 
 
 
@@ -122,22 +122,23 @@ Q
 
 
 
-R
+# R #
 
 
 
 
 
 
-S
+# S #
 
 Singh, Dr. Meikam Thoiba (2023). 'Hindustani Classical Music and Its Principles' in *ShodhKosh: Journal of Visual and Performing Arts*, Vol. 4, No. 2, Jul - Dec, 2023, pp. 247 - 258. NB: This researcher and author has a profound overview of the Indian artistic and aesthetic tradition(s), historical abd contemporary. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Singh%2C%20Dr.%20Meikam%20Thoiba%20(2023).%20'Hindustani%20Classical%20Music%20and%20Its%20Principles'.pdf (accessed: Saturday, June 14, 2025)
 
 
 
 
-T
+# T #
 
+Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in 'Prabuddha Bharata or Awakened India: Perspectives on Vedanta', Vol. 115, No. 1, January, 2010. Kolkata, India: Advaita Ashrama. Source: https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha Bharata/Year 2010/01PB-Jan2010.pdf (accessed: Tuesday, June 24, 2025)
 
 
 
@@ -155,33 +156,33 @@ Urban, Hugh B. (1998). 'The Torment of Secrecy: Ethical and Epistemological Prob
 
 
 
-V
+# V #
 
 
 
 
 
 
-W
+# W #
 
 
 
 
 
-X
+# X #
 
 
 
 
 
 
-Y
+# Y #
 
 
 
 
 
-Z
+# Z #
 
 
 
