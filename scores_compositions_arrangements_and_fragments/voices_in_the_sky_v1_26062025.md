@@ -1,0 +1,4 @@
+# Voices in the Sky #
+
+I have secured two (2) scores of Hayward's 'Voices in the Sky' (VITS). It will be a pure delight to arrangev score and engrave for orkestral klokkenspel and my voice. I may even quill a few more verses. This song brings to heart and mind the exquisite medicine bundle of many precious and holy things and the epiphany of complex emotions. It reminds me of 'The Blue Bird [of Happiness]' with Shirley Temple, filmed as a response to the beloved 'The Wizard of Oz' (TWoOZ). I find Temple saccharin and grinding in everything but this. To me, in this performance, Temple is a revelation. The storyteller in me even holds it in greater esteem than TWoOZ. To me, it invokes the importance of telling the stories, the teaching stories and particularly, telling the stories of the Ancestors. VITS is empowered songwriting. To me, it is a *magnum opus* and I invoke all denotations of the term and collapse them into unity with precision and purpose.
+
