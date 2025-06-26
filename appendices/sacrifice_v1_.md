@@ -1,5 +1,96 @@
 # Sacrifice #
 
+Now, could please investigate the related, three great horse sacrifices: Indo-Iranian, Sanskritic and Germanic, Old Norse and Scandinavian that all diverged from a point of origin
+
+Here is a comparative investigation of the three great horse sacrifices—Indo-Iranian (Sanskritic), Iranian, and Germanic (Old Norse/Scandinavian)—tracing their divergence from a shared Proto-Indo-European ritual origin and highlighting their unique developments:
+
+## **Proto-Indo-European Origins**
+
+- **Common Root:**  
+  Comparative mythology and archaeology indicate a Proto-Indo-European (PIE) tradition of horse sacrifice, deeply tied to kingship, cosmic order, and the relationship between ruler and divine power[1][2][4][5].
+- **Cosmological Role:**  
+  The horse was symbolically linked to the sun, sovereignty, and the transition between worlds (life/death, darkness/light)[3][4].
+- **Ritual Function:**  
+  Horse sacrifice served as a means to legitimize rulership, ensure fertility and prosperity, and maintain cosmic or social order[1][4][5].
+
+## **1. Indo-Iranian (Sanskritic/Vedic) – The Aśvamedha**
+
+- **Name:**  
+  *Aśvamedha* (Sanskrit: अश्वमेध)
+- **Script:**  
+  Vedic Sanskrit (Devanagari and earlier Brahmi scripts)
+- **Ritual Structure:**  
+  - Performed by powerful kings to assert sovereignty.
+  - A consecrated stallion was released to wander for a year, followed by warriors; territories traversed could challenge the king's claim.
+  - After the journey, the horse was ritually sacrificed, accompanied by elaborate rites involving priests, the royal family, and symbolic acts (e.g., the queen spending the night with the horse, then miming intercourse as a fertility rite)[1].
+- **Purpose:**  
+  To establish the king’s undisputed rule, seek progeny, and ensure prosperity.
+- **Cosmic Symbolism:**  
+  The horse represented the sun and cosmic order, with the ritual paralleling the sun’s journey and the renewal of sovereignty[1][3][7].
+
+## **2. Iranian (Avestan and Later)**
+
+- **Script:**  
+  Avestan script, later Pahlavi and Persian scripts.
+- **Ritual Context:**  
+  - The Avesta and later texts mention horse and cattle sacrifices, especially in the context of major festivals or as offerings to deities like Mithra and Ahura Mazda[6][7].
+  - Rituals often involved mass animal sacrifices, sometimes including horses, to secure divine favor, especially for kings and heroes.
+- **Distinct Features:**  
+  - The Iranian tradition retained the horse’s high status but gradually shifted emphasis from actual horse sacrifice to symbolic or substitute offerings, under Zoroastrian reform.
+  - Funerary horse sacrifices persisted among Scythians and Sarmatians (Iranian-speaking steppe peoples), where horses were buried with elite warriors and kings, reflecting beliefs in the horse as a psychopomp and status symbol[7].
+- **Cosmic and Social Role:**  
+  - The horse was associated with light, the sun, and the transition to the afterlife, as well as with royal power and legitimacy[3][7].
+
+## **3. Germanic (Old Norse/Scandinavian)**
+
+- **Name:**  
+  *Blót* (Old Norse), specifically *hestablót* (horse sacrifice)
+- **Script:**  
+  Runic alphabets (Elder and Younger Futhark), later Latin script.
+- **Ritual Structure:**  
+  - Horse sacrifices were central to major communal feasts (e.g., Yule, harvest), and sometimes in kingship or temple contexts[4].
+  - The horse was slaughtered, its blood sprinkled on altars, idols, and participants, and the meat consumed in a sacred feast.
+  - Archaeological finds (e.g., at Old Uppsala) show horse bones associated with cultic sites and elite burials[4][7].
+- **Purpose:**  
+  To secure fertility, prosperity, and divine favor for the community and its leaders.
+- **Cosmic Symbolism:**  
+  The horse was linked to the sun, the world tree, and shamanic journeys—sometimes depicted as a steed for gods or the dead[4][5].
+- **Kingship:**  
+  In some accounts, kings were inaugurated with horse sacrifices, and in rare cases, horse blood was ritually consumed or even bathed in by the king as a sign of divine investiture.
+
+## **Comparative Table**
+
+| Tradition         | Name/Term      | Script         | Ritual Focus                  | Social/Cosmic Role                | Surviving Evidence                |
+|-------------------|---------------|----------------|-------------------------------|------------------------------------|------------------------------------|
+| Indo-Iranian      | Aśvamedha     | Sanskrit       | Royal sovereignty, fertility  | Sun, kingship, cosmic renewal      | Vedic texts, historical records    |
+| Iranian           | —             | Avestan/Pahlavi| Divine favor, funerary, kings | Sun, afterlife, royal legitimacy   | Avesta, burials, Greek accounts    |
+| Germanic/Norse    | Hestablót     | Runic/Latin    | Communal fertility, kingship  | Sun, world tree, shamanic travel   | Sagas, archaeology, classical texts|
+
+## **Key Points of Divergence and Commonality**
+
+- **Common Origin:**  
+  All three traditions reflect a PIE horse sacrifice ritual tied to kingship, cosmic order, and the sun[1][2][4][5].
+- **Divergence:**  
+  - **Indo-Iranian/Sanskritic:** Preserved as a highly formalized royal ritual (Aśvamedha), with elaborate symbolism and political function.
+  - **Iranian:** Retained horse sacrifice in both royal and funerary contexts, but Zoroastrian reforms reduced its prominence; funerary horse burials remained among steppe Iranians[6][7].
+  - **Germanic/Scandinavian:** Evolved into communal and seasonal rituals, with the horse as a central sacrificial animal for fertility and social cohesion, and retained in kingship rites[4][5].
+- **Transformation:**  
+  With the spread of Abrahamic religions, horse sacrifice was suppressed or transformed, surviving only in vestigial or symbolic forms in folk memory and ritual[2][4].
+
+**Summary:**  
+The great horse sacrifices of Indo-Iranian (Sanskritic), Iranian, and Germanic/Scandinavian cultures all descend from a Proto-Indo-European ritual complex linking the horse to kingship, cosmic order, and the divine. Each tradition developed distinct forms and meanings, but all retained the horse’s central role as a mediator between the human and the sacred, a symbol of sovereignty, and a participant in rites of renewal and legitimacy[1][2][4][5][7].
+
+Citations:
+[1] Ashvamedha - Wikipedia https://en.wikipedia.org/wiki/Ashvamedha
+[2] Horse sacrifice - Wikipedia https://en.wikipedia.org/wiki/Horse_sacrifice
+[3] The Horse in Indo-Iranian Mythology - jstor https://www.jstor.org/stable/25608360
+[4] [PDF] The Great Indo-European Horse Sacrifice - uu .diva http://uu.diva-portal.org/smash/get/diva2:1435564/FULLTEXT02.pdf
+[5] Horse Worship/Sacrifice (proto-indo-european related): mythical union of Ruling Elite/Kingship and the Horse https://www.academia.edu/118379930/Horse_Worship_Sacrifice_proto_indo_european_related_mythical_union_of_Ruling_Elite_Kingship_and_the_Horse
+[6] [PDF] The Analysis of Sacrificial Rituals in Iran Based on Avesta and ... https://d-nb.info/1192199847/34
+[7] The Glorious Horses, Evolution of horse in Indo-Iranian, before and after migration https://socialhistory.ihcs.ac.ir/article_4073.html?lang=en
+[8] Do we have any idea how the Ancient, Pre-Zoroastrian Indo-Iranian ... https://www.reddit.com/r/IndoEuropean/comments/g5hlzz/do_we_have_any_idea_how_the_ancient/
+
+
 
 Now, investigate Sacrifice, in its multiple denotations in the languages and scripts in the Ancient Near East pre-, during and post-Christ as Lamb
 
