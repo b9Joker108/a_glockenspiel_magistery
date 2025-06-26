@@ -1,5 +1,72 @@
 # Sacrifice #
 
+Please give me a ranging academic survey of the term "Sacrifice" (DO NOT EXTEND BEYOND ITS NATIVE LINGUISTIC CONTEXT): etymology, scripts, polysemy, historicity, semantic field, symbolism, signification, iconography, attestations, archaeology, pronunciations.
+
+## Academic Survey of "Sacrifice" (Native Linguistic Context Only)
+
+### **Etymology**
+- **English "sacrifice"** comes from Middle English *sacrifice*, from Old French *sacrifice*, from Latin *sacrificium*—a compound of *sacrum* (“sacred, holy, sacrifice”) and *facere* (“to do, to make”).  
+- *Sacrum* is from *sacer* (“devoted to a deity, holy, sacred”), ultimately tracing to Proto-Indo-European *seh₂k-* (“ceremony, ritual; to make sacred”) and *facere* from PIE *dʰeh₁-* (“to do, to put, to place”)[3][8].
+
+### **Pronunciation**
+- Modern English: /ˈsækrɪfaɪs/
+
+### **Scripts**
+- Latin alphabet in all attested historic and modern forms in English and its Romance and Latin antecedents.
+
+### **Polysemy and Semantic Field**
+- **Primary meanings in English:**
+  - The act of offering something (life, object) to a deity.
+  - The object or life offered.
+  - In Christianity, the consecration of the Eucharist.
+- **Extended meanings:**
+  - Giving up something valued for the sake of another.
+  - In sports/games: a deliberate loss for strategic gain.
+
+### **Historicity and Attestations**
+- **Earliest English attestations:** Middle English texts (13th–14th c.), already borrowing from Old French and Latin.
+- **Latin:** *Sacrificium* is found in Classical and Late Latin religious, legal, and literary texts, always denoting ritual offering to the gods[3].
+- **Christian usage:** Adopted for the Eucharist and Christ’s atoning death.
+
+### **Symbolism and Signification**
+- **Core symbolism:** The act of making something sacred by giving it up or destroying it in honor of a deity.
+- **Christianity:** Sacrifice becomes the supreme act of love and redemption (Christ’s crucifixion as the ultimate *sacrificium*).
+
+### **Iconography**
+- **Classical/Medieval art:** Depictions of altars, priests, animals (lambs, bulls), and ritual implements.
+- **Christian art:** The lamb (Agnus Dei), the cross, chalice, and altar symbolize Christ’s sacrifice.
+
+### **Archaeology**
+- **Material evidence:** Altars, inscribed votive offerings, remains of sacrificial animals, and temple complexes across the Greco-Roman world and in Christian churches.
+
+### **Summary Table**
+
+| Aspect        | Native Context (English/Latin)                |
+|---------------|----------------------------------------------|
+| Etymology     | Latin *sacrificium* < *sacrum* + *facere*    |
+| Pronunciation | /ˈsækrɪfaɪs/                                 |
+| Script        | Latin alphabet                               |
+| Polysemy      | Ritual offering, object offered, self-denial  |
+| Historicity   | Attested from Middle English, Classical Latin |
+| Symbolism     | Making sacred, devotion, atonement           |
+| Signification | Ritual, religious, and metaphorical           |
+| Iconography   | Altars, lambs, chalices, crosses             |
+| Archaeology   | Altars, animal remains, inscriptions         |
+
+**In sum:**  
+“Sacrifice” in its native English/Latin context is a richly layered term, rooted in the act of making something sacred through ritual offering, with deep symbolic, religious, and cultural resonance from antiquity to the present[3][8].
+
+Citations:
+[1] Reconstruction:Proto-Germanic/blōtą https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/bl%C5%8Dt%C4%85
+[2] Proto-Germanic folklore https://en.wikipedia.org/wiki/Proto-Germanic_folklore
+[3] sacrifice https://en.wiktionary.org/wiki/sacrifice
+[4] Blót https://en.wikipedia.org/wiki/Bl%C3%B3t
+[5] A question about a phrase construction in Proto-Germanic ... https://www.reddit.com/r/AncientGermanic/comments/no0we7/a_question_about_a_phrase_construction_in/
+[6] Germanic etymology : List with all references https://starlingdb.org/cgi-bin/etymology.cgi?single=1&basename=%2Fdata%2Fie%2Fgermet&text_number=+++130&root=config
+[7] Etymological Dictionary of Proto-Germanic https://www.docdroid.net/file/download/WZ5e55Z/etymological-dictionary-of-proto-germanic-gus-kroonen-pdf.pdf
+[8] Sacrifice etymology in English https://cooljugator.com/etymology/en/sacrifice
+
+
 Now, could please investigate the related, three great horse sacrifices: Indo-Iranian, Sanskritic and Germanic, Old Norse and Scandinavian that all diverged from a point of origin
 
 Here is a comparative investigation of the three great horse sacrifices—Indo-Iranian (Sanskritic), Iranian, and Germanic (Old Norse/Scandinavian)—tracing their divergence from a shared Proto-Indo-European ritual origin and highlighting their unique developments:
