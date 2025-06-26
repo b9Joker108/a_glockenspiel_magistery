@@ -1337,4 +1337,22 @@ Citations:
 
 
 
+# A Major / F# Minor #
+
+Here’s the one-octave F♯ natural minor scale (key signature: F♯, C♯, G♯), from the tonic up to the next tonic and back down:
+
+• Ascending:  
+  F♯ – G♯ – A – B – C♯ – D – E – F♯  
+
+• Descending:  
+  F♯ – E – D – C♯ – B – A – G♯ – F♯  
+
+Interval pattern (asc): W–H–W–W–H–W–W  
+(desc is the reverse)  
+
+—  
+
+If you’d like to explore the harmonic or melodic variants in F♯ minor (e.g. raising the 7th or both 6th/7th degrees), or need fingerings/mapping for your 37-tone glockenspiel or MIDI, let me know!
+
+
 
