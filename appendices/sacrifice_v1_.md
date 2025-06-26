@@ -67,6 +67,63 @@ Citations:
 [8] Sacrifice etymology in English https://cooljugator.com/etymology/en/sacrifice
 
 
+Now, please investigate the PIE deity, the Mad or Ecstatic Horse Mother.
+
+There is strong evidence for a Proto-Indo-European (PIE) “Mad” or “Ecstatic Horse Mother” goddess—a powerful, liminal, and sometimes wild female deity associated with horses, sovereignty, fertility, and transformation. While her exact name is debated, her presence is widely attested in the mythologies of Indo-European descendant cultures.
+
+## **Etymology and Reconstructed Name**
+- Scholars reconstruct a PIE horse goddess as *H₁eḱwoneh₂* (“Horse Mother” or “Great Mare”), from the root *h₁éḱwos* (“horse”)[4].
+- The augmentative and feminine suffixes are seen in later theonyms like Epona (Gaulish), Macha (Irish), and Rhiannon (Welsh)[4][3].
+
+## **Scripts and Attestations**
+- No direct PIE script exists; evidence is comparative, based on later Indo-European texts (Latin, Greek, Sanskrit, Celtic, Old Norse) and iconography[1][3][4].
+
+## **Polysemy and Semantic Field**
+- The Horse Mother is a goddess of horses, land, sovereignty, fertility, and often the boundary between wildness and civilization[2][3][5].
+- She is sometimes ecstatic, mad, or liminal—linked to altered states, prophecy, or wildness (as with Macha’s madness in Irish myth, or Demeter’s “Erinys”/frenzied mare aspect in Greek myth)[3][5].
+
+## **Symbolism and Signification**
+- **Fertility and Sovereignty:** She grants kingship or sovereignty through union (literal or symbolic) with the king or chosen hero[5].
+- **Ecstasy and Liminality:** Her madness or wildness represents the untamed forces of nature and the transformative power of the sacred feminine[2][5].
+- **Psychopomp/Afterlife:** She sometimes leads souls to the afterlife, as seen in Epona and Rhiannon[3].
+
+## **Iconography**
+- Depicted as a mare, a woman with horses, or enthroned with horse imagery (e.g., Epona with foals and cornucopia)[3][5].
+- Associated with fertility symbols (grain, cornucopia) and sometimes with ecstatic or frenzied rites.
+
+## **Archaeological and Historic Evidence**
+- Horse burials and horse-associated female figures appear in Bronze and Iron Age Europe, with parallels in Vedic India and the ancient Near East[6][7].
+- Inscriptions and coins from Gaul, Britain, and Iberia depict the horse goddess Epona[3][5].
+- Rock art and ritual horse masks (e.g., Welsh Mari Lwyd) preserve her symbolism into modern times[5].
+
+## **Key Reflexes in Indo-European Cultures**
+| Culture         | Name/Title        | Attributes/Role                       |
+|-----------------|-------------------|---------------------------------------|
+| Gaulish/Roman   | Epona             | Horse protector, fertility, afterlife |
+| Irish           | Macha             | Madness, sovereignty, childbirth      |
+| Welsh           | Rhiannon          | Horses, sovereignty, otherworld       |
+| Greek           | Demeter Erinys    | Mare form, fertility, vengeance       |
+| Indic           | Equine goddesses (see Madhavi) | Sovereignty, transformation   |
+
+## **Summary**
+The PIE “Mad” or “Ecstatic Horse Mother” is a reconstructed goddess whose echoes are found in Epona, Macha, Rhiannon, Demeter Erinys, and others. She is a liminal, sovereign, and transformative figure—sometimes ecstatic or mad—granting fertility, kingship, and passage between worlds. Her cult and symbolism are visible archaeologically, linguistically, and in the mythic record across Indo-European cultures[2][3][4][5].
+
+> “The idea of a horse as a deity of the land, sovereignty and fertility can be seen in many cultures with Indo-European roots… The Horse Queen… could grant sovereignty rights to humans by uniting with them (literally or symbolically), through ingestion, or intercourse.”[5]
+
+Citations:
+[1] Proto-Indo-European mythology https://en.wikipedia.org/wiki/Proto-Indo-European_mythology
+[2] 7. The Ancient Horse Goddess https://celticsource.online/lessons/7-the-ancient-horse-goddess/
+[3] Epona https://en.wikipedia.org/wiki/Epona
+[4] List of Proto-Indo-European deities - Myth and Folklore Wiki https://mythus.fandom.com/wiki/List_of_Proto-Indo-European_deities
+[5] The Mari Lwyd and the horse queen : palimpsests of Ancient ideas. https://repository.uwtsd.ac.uk/id/eprint/401/
+[6] Horses and the Heavens https://www.archaeology.org/issues/181-features/horses/3347-horses-role-in-myth-and-religion
+[7] The Emergence of an Indo-European Horse Culture https://www.celticwebmerchant.com/en/blogs/info/the-emergence-of-an-indo-european-horse-culture/
+[8] The Story of the Horse - Horses and the Heavens - Archaeology Magazine - July/August 2015 https://archaeology.org/issues/july-august-2015/collection/horses-role-in-myth-and-religion/the-story-of-the-horse/
+[9] Full text of "Proto-Indo-European Aryan Homeland of the Great Mother Goddess: Neolithic village of Tumba Madžari in Skopje, Macedonia" https://archive.org/stream/TumbaMadzari/TheGreatMotherGoddessFromToumbaMadari_djvu.txt
+[10] Proto-Indo-European religion https://infogalactic.com/info/Indo-European_mythology
+
+
+
 Now, could please investigate the related, three great horse sacrifices: Indo-Iranian, Sanskritic and Germanic, Old Norse and Scandinavian that all diverged from a point of origin
 
 Here is a comparative investigation of the three great horse sacrifices—Indo-Iranian (Sanskritic), Iranian, and Germanic (Old Norse/Scandinavian)—tracing their divergence from a shared Proto-Indo-European ritual origin and highlighting their unique developments:
