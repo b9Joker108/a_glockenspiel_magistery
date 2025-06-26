@@ -1355,4 +1355,24 @@ Interval pattern (asc): W–H–W–W–H–W–W
 If you’d like to explore the harmonic or melodic variants in F♯ minor (e.g. raising the 7th or both 6th/7th degrees), or need fingerings/mapping for your 37-tone glockenspiel or MIDI, let me know!
 
 
+Here’s the basic F♯ minor triad arpeggio—one octave up and back down:
 
+• Ascending:  
+  F♯ – A – C♯ – F♯  
+
+• Descending:  
+  F♯ – C♯ – A – F♯  
+
+Want to expand?  
+- Natural vs. harmonic vs. melodic minor arpeggios:  
+  • Harmonic minor: F♯–A–C♯–E♯–F♯ ↔ F♯–E♯–C♯–A–F♯  
+  • Melodic minor (asc): F♯–A–C♯–E♯–F♯; (desc) same as natural minor  
+- 7th-chord arpeggios (e.g. F♯ m⁷: F♯–A–C♯–E)  
+- Inversions: play A–C♯–F♯ or C♯–F♯–A for smoother voice leading
+
+Practice tips:  
+1. Map these tones on your 37-tone glockenspiel—mark the F♯, A and C♯ bars, then the E♯ slot for harmonic/melodic variants.  
+2. Try sequenced arpeggio loops in Ardour (via ArdourControl/TouchOSC) at different speeds and time signatures.  
+3. Explore rhythmic displacements: play the arpeggio starting on an off-beat or across barlines.
+
+What intrigues you most—extended arpeggio patterns, chord-tone soloing ideas, or crafting a mantra-inspired glockenspiel ostinato? Let’s dive deeper.
