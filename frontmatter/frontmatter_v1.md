@@ -9,7 +9,7 @@
 <div align="center">
   ༺ ༼&emsp;ཤྲཱི &emsp; ཤྲཱི&emsp;༽ ༻
 </div>
-
+<br>
 <p align="center">
   <img src="https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/resources/assets/images/odhinn_stone_altar_theurgy.jpg" alt="Descriptive alt text" />
 </p>
