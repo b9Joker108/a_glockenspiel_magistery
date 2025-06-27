@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://your.domain/path/to/image.png" alt="Descriptive alt text" />
+  <img src="resources/assets/images/odhinn_stone_altar_theurgy.jpg" alt="Descriptive alt text" />
 </p>
 
 # Frontmatter #
