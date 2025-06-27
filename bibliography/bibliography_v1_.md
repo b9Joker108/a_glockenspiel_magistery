@@ -115,6 +115,11 @@ Ohrvik, Ane & Guðmundsdóttir, Aðalheiður (auths.) (2015). 'Magic and Texts: 
 
 # P #
 
+* Pearson, Bruce (auth.); Anderson, Gerald (ed.) & Forque, Charles (ed.) (1982). 'Best in Class: Comprehensive Band Method - Book 1: Percussion (Drums & Mallets)'. San Diego, California,U.S.A.: Kjos West (Neil A. Kjos Jr., Publisher). ISBN 0849758491
+
+**Purport:**
+This has much useful information which I may use to inform the practical scoring and engraving of drills and etudes.
+
 * Prema-dasa & Sundara-gopala-dasa (trans.); & Madhava-priya-dasa & Sanatana-dasa (eds.) & *et al.* (2016). 'Vishuddha Chaitanyavani: An Anthology of Hari-Katha - Vol. 1'. First edition. (NB: With an Introduction by Bhakti-Vijnana-Bharati.). Delhi, Delhi, India: Vishuddha Chaitanya Vani Association (Sanatana-das). Source: xxx (accessed: Wednesday, June 25, 2025)
 
 **Purport:**
