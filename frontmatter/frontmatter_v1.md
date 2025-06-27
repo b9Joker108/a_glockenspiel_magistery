@@ -65,7 +65,7 @@ In IAST transliteration: **Ṣaḍbhuja Nṛtya Gaṇapati**
 #### Middle Left Hand - Pasha (Noose)
 - **Sanskrit**: पाश (pāśa)
 - **IAST**: pāśa
-- **Meaning**: Noose, snare, or lasso [16][14]
+- **Meaning**: Noose, Snare, Lasso or Lariat  [16][14]
 - **Symbolism**: Represents the ability to bring devotees closer to the divine and prevent them from straying from the righteous path [14]
 
 #### Lower Left Hand - Modaka
