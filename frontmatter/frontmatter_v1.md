@@ -1,5 +1,5 @@
 <div align="center">
-   ༼&emsp;༽
+  ༺ ༼&emsp;༽ ༻
 </div>
 <div align="center">
   ༺ ༼&emsp;ཤྲཱི &emsp;༽ ༻
