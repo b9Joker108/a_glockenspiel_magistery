@@ -10,6 +10,10 @@
   ༺ ༼&emsp;ཤྲཱི &emsp; ཤྲཱི&emsp;༽ ༻
 </div>
 
+<p align="center">
+  <img src="https://your.domain/path/to/image.png" alt="Descriptive alt text" />
+</p>
+
 # Frontmatter #
 
 All of this will be rigorously edited and progressively rewritten as I progress in skill acquisition. It is my way to have extensive, even exhaustive Frontmatter. Cut to the chase and go directly to Chapter One if you wish to commence experiential, practical and pragmatic glockenspiel kirtan and bhajan sadhana and return to the Frontmatter and Introduction at your leisure and in due course. This work was commenced in order to realise my others in which I have invested so much endeavour. So many devotees said  it is time you learnt to lead kirtana and bhajana. I just did not feel worthy. A Nepali devotee asked for permission to mentor me. I heard it with my Divine Ear. I would have cherished it. I heard too, that permission was denied. As a result and due to malicious gossip and a measure of envy, the Nepali devotee became unfavourable and endeavoured to put icky-yucky Leech-Locks upon me, but they had first worked the same rite a number of times in its positive aspect, as did other pujaris. As a result of the working of the rite in its unfavourable aspect, people started to attack and turn on me unbidden and for no reason at every turn. As a result, I abandoned everything except what I could carry and I fled fleet-featherfoot. The devotee did this in the direct gaze of my beloved Archa-Vigraha and in the line-of-sight of my empowered Gurudeva Maharajji's Murti. I forgive without reservation. It was all a misunderstanding. I entreat, that others too forgive and will ever-petition for same.
