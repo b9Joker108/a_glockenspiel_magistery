@@ -14,7 +14,7 @@ All of this will be rigorously edited and progressively rewritten as I progress 
 
 ## Invocation ## 
 
-### Sri Vacchari Devi ###
+### Sri Vachhari Devi ###
 
 Source: https://www.poonam-mistry.com/?pgid=j8ka1bbr-80f09634-534a-440a-9bd2-d9c7675c3761
 
