@@ -115,7 +115,7 @@ Ohrvik, Ane & Guðmundsdóttir, Aðalheiður (auths.) (2015). 'Magic and Texts: 
 
 # P #
 
-* Pearson, Bruce (auth.); Anderson, Gerald (ed.) & Forque, Charles (ed.) (1982). 'Best in Class: Comprehensive Band Method - Book 1: Percussion (Drums & Mallets)'. San Diego, California,U.S.A.: Kjos West (Neil A. Kjos Jr., Publisher). ISBN 0849758491
+* Pearson, Bruce (auth.); Anderson, Gerald (ed.) & Forque, Charles (ed.) (1982). 'Best in Class: Comprehensive Band Method - Book 1: Percussion (Drums & Mallets)'. San Diego, California, U.S.A.: Kjos West (Neil A. Kjos Jr., Publisher). ISBN 0849758491
 
 **Purport:**
 This has much useful information which I may use to inform the practical scoring and engraving of drills and etudes.
