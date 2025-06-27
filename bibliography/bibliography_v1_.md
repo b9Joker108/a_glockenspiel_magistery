@@ -164,7 +164,9 @@ Urban, Hugh B. (1998). 'The Torment of Secrecy: Ethical and Epistemological Prob
 
 # V #
 
+* Whaley, Garwood (1974). 'Fundamental Studies for Mallet'. New York, N.Y., U.S.A.: JR Publications, LLC (Joel Rothman).
 
+Purport: I have a reallybgood feeling and intuition about this volume, its author, arranger and publisher.
 
 
 
