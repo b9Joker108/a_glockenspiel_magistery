@@ -2,7 +2,7 @@
   ༺ ༼&emsp;ཤྲཱི &emsp;༽ ༻
 </div>
 <div align="center">
-  ༺ ༼&emsp;ཤྲཱི ཤྲཱི&emsp;༽ ༻
+  ༺ ༼&emsp;ཤྲཱི &emsp; ཤྲཱི&emsp;༽ ༻
 </div>
 
 # Frontmatter #
