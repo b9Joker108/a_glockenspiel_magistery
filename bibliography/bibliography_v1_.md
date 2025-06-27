@@ -99,6 +99,10 @@ Source: https://www.amazon.com.au/Glorious-Glockenspiel-Greatness-Playing-Perfor
 
 # M #
 
+* Moore, Prof. Jeffrey M. (2001). 'Percussion Techniques for Instrumental Music Educator'. Orlando, Florida, U.S.A.: University of Central Florida (College of Arts and Sciences Department of Music). 
+
+**Purport:**
+...
 
 
 # N #
