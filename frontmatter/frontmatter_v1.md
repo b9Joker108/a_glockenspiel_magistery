@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="resources/assets/images/odhinn_stone_altar_theurgy.jpg" alt="Descriptive alt text" />
+  <img src="[resources/assets/images/odhinn_stone_altar_theurgy.jpg](https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/resources/assets/images/odhinn_stone_altar_theurgy.jpg)" alt="Descriptive alt text" />
 </p>
 
 # Frontmatter #
