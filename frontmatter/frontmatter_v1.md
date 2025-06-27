@@ -1,5 +1,6 @@
-<div align="center">༺ ༼  ཤྲཱི  ཤྲཱི  ཤྲཱི  ༽ ༻</div>
-
+<div align="center">
+  ༺ ༼&emsp;ཤྲཱི ཤྲཱི ཤྲཱི&emsp;༽ ༻
+</div>
 
 # Frontmatter #
 
