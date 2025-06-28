@@ -220,6 +220,13 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 
 **Purport:** I have secured a few works by ISKCON for Harmonium. They all have virtues. This one has been well executed.
 
+### RICH, E. ###
+
+* Rich, Ellora Nimbkar (2023). 'Seið "\[Seidhr] the Magic Words Two Case Studies in Old Norse Etymology'. MA thesis  in Viking & Medieval Norse Studies. Faculty of Icelandic & Comparative Cultural Studies, School of Humanities. Reykjavík, Iceland: University of Iceland.
+
+**Purport:**
+With the name of 'Nimbkar', they are likely of Vaishnava stock.
+
 ### ROPER, J. ###
 
 * Roper, Jonathan (2011). "Metre in the Old English 'Metrical' Charms'" (pp. 116 - 121) in Mikhailova, Tatyana A.; Roper, Jonathan; Toporkov, Andrey L. & Nikolayev, Dmitry S. (eds.) (2011). *Charms, Charmers and Charming: Oral Charms in Structural and Comparative Light*. Proceedings of the Conference of the International Society for Folk Narrative Research’s (ISFNR) Committee on Charms, Charmers and Charming 27–29th October, 2011, Moscow, Russia. Moscow, Russia: The Russian Foundation for Basic Research. ISBN 9785986042763. Source: https://www.isfnr.org/files/Moscow_meeting_book.pdf (accessed: Sunday, June 29, 2025)
