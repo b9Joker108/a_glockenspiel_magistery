@@ -210,9 +210,12 @@ Purport: I have a really good feeling and intuition about this volume, its autho
 
 # W #
 
+e## WHITTALL, A. ###
 
+* Whittall, Arnold (1999). 'Musical Composition in the Twentieth Century'. First edition. Oxford, Oxon, England, U.K.: Oxford University Press. ISBN 0198166842 (hbk.)
 
-
+**Purport:**
+An excellent reference work on some generally Modern composers, Modern in the technical denotation and may be understood as the Western Musical Tradition of the Modern Era as heir to the Western Classical Musical Tradition proper.
 
 # X #
 
