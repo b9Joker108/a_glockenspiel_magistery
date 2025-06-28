@@ -47,6 +47,15 @@ Fennimore, Kevin (auth.) (2024). 'How to Play the Glockenspiel for Beginners: Th
 
 # G #
 
+### GAULDIN. R. ###
+
+* Gauldin, Robert (2004, 1997). 'Harmonic Practice: In Tonal Music'. Second edition. New York, N.Y., U.S.A.: W. W. Norton & Company, Inc. ISBN 0393976661. 
+
+**Purport:**
+...
+
+### GUPTA. S, *et al.* ###
+
 Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished Compendium Called the Yogarnava' in the *Journal of Indian Philosophy*, Vol. 50, 2022, pp. 345 - 385. Heidelberg, Germany: Springer Nature. DOI: https://doi.org/10.1007/s10781-022-09504-6 Source: https://link.springer.com/article/10.1007/s10781-022-09504-6 (accessed: Monday, June 16, 2025)
 
 
