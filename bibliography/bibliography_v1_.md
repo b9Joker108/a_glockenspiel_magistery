@@ -19,7 +19,10 @@ Authorship Unattributed (n.d.). 'Glockenspiel: Level One'. NB: No publication de
 
 Bastien, Jane Smisor; Bastien, Lisa & Bastien, Lori (1999). 'Bastien Piano For Adults - A Beginning Course: Lessons, Theory, Technic, Sight Reading - Book 1'. San Diego, California, U.S.A.: Kjos Music Press. KJOS: Neil A. KJOS Music Company, Distributor. ISBN 0849773024. NB: The RCSCC with their No. "108" for 'Scarborough Fair' led me to this volume which is pure platinum, bejewelled and sublime filigree for our purposes. It constitutes a sound refresher for my lapsed pianoforte skillset. Mrs Hutchins would lament. But, the volume for the most part, is directly transferable, applicable and easily reworkable and adaptable to the glockenspiel. It is effectively, exactly what I was looking for, but was unsure how to find. Most of the published works on the glockenspiel are 'Mickey Mouse' and juvenilia, compared to the musicality and pedagogy that produced and is invested in this work. It should be noted, that it is of its time and dated. That said, at a glance, I have determined without reservation, that it is a premium and accomplished work and will be a foundation for my Western musicality point-of-[re]entry. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Bastien%2C%20J.%20S.%20(auth.)%2C%20et%20al.%20(1999).%20Bastien%20Piano%20For%20Adults%20-%20A%20Beginning%20Course%20-%20Lessons%2C%20Theory%2C%20Technic%2C%20Sight%20Rea...pdf (accessed: Saturday, June 14, 2025)
 
+* Barlow, Harold & Morgenstern, Sam (comps.) (1975, 1945). 'A Dictionary of Musical Themes: The Music of More Than 10,000 Themes'. With an Introduction by John Erskine. Revised Edition. (NB: First edition published in 1945.). New York, N.Y., U.S.A.: Crown Publishers, Inc. ISBN 0517524465.
 
+**Purport:**
+This work will be invaluable as a reference.
 
 # C #
 
