@@ -5,4 +5,4 @@ Dedication: To my Mother, Rita Ivy Lynn (b. 1950) born in either Sherwood or Not
 https://www.litcharts.com/poetry/adrienne-rich/aunt-jennifer-s-tigers
 
 
-Possibly a Tonal composition with lyrical arrangement and setting, a Tone Poem, with expressive poetically and dramatocally voiced, performative spoken-word or see if a lyrical melody manifests and presents itself from the Well-of-Sound.
+Possibly a Tonal composition with lyrical arrangement and setting, a Tone Poem, with expressive poeticalily and dramatically voiced, a performative spoken-word, with The Bells, or see if a lyrical melody manifests and presents itself from the Well-of-Sound.
