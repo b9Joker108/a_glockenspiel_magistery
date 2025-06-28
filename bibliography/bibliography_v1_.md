@@ -194,9 +194,12 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 
 **Purport:** I have secured a few works by ISKCON for Harmonium. They all have virtues. This one has been well executed.
 
-* Rovang, Paul R. (2023). 'The Archetype of the Dying and Rising God in World Mythology'. Lanham, Maryland, U.S.A.: Lexington Books (an imprint of The Rowman & Littlefield Publishing Group, Inc.). ISBN 9781666917093 (ebook)
+### ROVANG, P. ###
 
-**Purport:** ...
+* Rovang, Paul R. (2023). 'The Archetype of the Dying and Rising God in World Mythology'. London, England, U.K.: Lexington Books (an imprint of The Rowan & Littlefield Publishing Group, Inc.). ISBN 9781666917093 (ebook). 
+
+**Purport:** 
+...
 
 
 # S #
