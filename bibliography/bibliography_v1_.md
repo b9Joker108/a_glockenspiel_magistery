@@ -225,7 +225,7 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 * Rich, Ellora Nimbkar (2023). 'Seið \[Seidhr] the Magic Words Two Case Studies in Old Norse Etymology'. MA thesis in Viking & Medieval Norse Studies. Faculty of Icelandic & Comparative Cultural Studies, School of Humanities. Reykjavík, Iceland: University of Iceland.
 
 **Purport:**
-With the name of 'Nimbkar', they are likely of Vaishnava stock.
+With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ellora Caves) generally, they are likely of Vaishnava stock.
 
 ### ROPER, J. ###
 
