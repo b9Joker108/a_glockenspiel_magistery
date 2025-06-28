@@ -1376,3 +1376,48 @@ Practice tips:
 3. Explore rhythmic displacements: play the arpeggio starting on an off-beat or across barlines.
 
 What intrigues you most—extended arpeggio patterns, chord-tone soloing ideas, or crafting a mantra-inspired glockenspiel ostinato? Let’s dive deeper.
+
+## E Major / C# Minor ##
+
+For my glockenspiel bhajana, I am working on E Major / C# Minor on the Circle of Fifths. Please generate one octave scales and arpeggios for each of them, both ascending and descending please.
+
+Here are the one-octave scales and arpeggios for E Major and its relative, C♯ Minor. You can play them on your glockenspiel ascending and then immediately reverse for the descent.
+
+E Major (4 ♯)
+Scale (ascending):  
+E – F♯ – G♯ – A – B – C♯ – D♯ – E  
+
+Scale (descending):  
+E – D♯ – C♯ – B – A – G♯ – F♯ – E  
+
+Arpeggio (ascending):  
+E – G♯ – B – E  
+
+Arpeggio (descending):  
+E – B – G♯ – E  
+
+---
+
+C♯ Minor (relative minor of E Major; 4 ♯)
+(Natural) Scale (ascending):  
+C♯ – D♯ – E – F♯ – G♯ – A – B – C♯  
+
+Scale (descending):  
+C♯ – B – A – G♯ – F♯ – E – D♯ – C♯  
+
+Arpeggio (ascending):  
+C♯ – E – G♯ – C♯  
+
+Arpeggio (descending):  
+C♯ – G♯ – E – C♯  
+
+---
+
+Tip for practice:  
+• Keep a steady pulse, even when flipping directions.  
+• Accent the first note of each bar (especially on your arpeggio “returns”) to internalize the tonic.  
+• Once comfortable, try the C♯ melodic minor (raise B→B♯ on the way up) for a more “devotional” color:  
+    Ascending: C♯–D♯–E–F♯–G♯–A–B♯–C♯  
+    Descending: C♯–B–A–G♯–F♯–E–D♯–C♯  
+
+Enjoy weaving these into your bhajana!
