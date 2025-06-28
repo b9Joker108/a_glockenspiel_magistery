@@ -244,7 +244,14 @@ Purport: I have a really good feeling and intuition about this volume, its autho
 
 # W #
 
-e## WHITTALL, A. ###
+### WAGNER, J. ###
+
+* Wagner, Joseph (auth.) & Moore, Douglas (ed.) (1959). 'Orchestration: A Practical Handbook'. New York, N.Y., U.S.A.: McGraw-Hill Series in Music. McGraw-Hill Book Company, Inc.
+
+**Purport:**
+...
+
+### WHITTALL, A. ###
 
 * Whittall, Arnold (1999). 'Musical Composition in the Twentieth Century'. First edition. Oxford, Oxon, England, U.K.: Oxford University Press. ISBN 0198166842 (hbk.)
 
