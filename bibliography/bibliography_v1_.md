@@ -102,6 +102,12 @@ Source: https://www.amazon.com.au/Glorious-Glockenspiel-Greatness-Playing-Perfor
 
 # M #
 
+* Martineau, Jason (2008). 'The Elements of Music: Melody, Rhythm & Harmony'. First U.S. edition of 2008. New York, N.Y., U.S.A.: Bloomsbury U.S.A. (Bloomsbury is a trademark of Bloomsbury Publishing Plc.). ISBN 9780802716828.
+
+**Purport:** 
+
+This work has a most useful and refined schematic, grapheme and/or infographic of the Circle of Fifths which will be one of the principal sources to support the formulation and codification ofvmy own.
+
 ### Moore, J. ###
 
 * Moore, Prof. Jeffrey M. (2001). 'Percussion Techniques for the Instrumental Music Educator'. Orlando, Florida, U.S.A.: University of Central Florida (College of Arts and Sciences Department of Music). 
