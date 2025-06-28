@@ -46,8 +46,12 @@ Canadian Department of National Defence (CDND) (attr.) (2008). 'Canadian Cadet O
 
 # D #
 
-Doorman, Eric Robert (2009). 'Pieces of Vac: A Study of the Letters of the Sanskrit Alphabet and Their Metaphysical Role in the Emanation of Manifest Reality as Described in Select Hindu Tantras'. Thesis. San Francisco, California, U.S.A.: California Institute of Integral Studies. UMI Number 1466061. Source: https://archive.org/details/astudyofthelettersofthesanskritalphabetericrobertdormanthesistantras_202003_488_D (accessed: Saturday, June 21, 2025)
+### DOORMAN, E. ###
 
+* Doorman, Eric Robert (2009). 'Pieces of Vac: A Study of the Letters of the Sanskrit Alphabet and Their Metaphysical Role in the Emanation of Manifest Reality as Described in Select Hindu Tantras'. Thesis. San Francisco, California, U.S.A.: California Institute of Integral Studies. UMI Number 1466061. Source: https://archive.org/details/astudyofthelettersofthesanskritalphabetericrobertdormanthesistantras_202003_488_D (accessed: Saturday, June 21, 2025)
+
+**Purport:**
+...
 
 # E #
 
@@ -56,7 +60,12 @@ Doorman, Eric Robert (2009). 'Pieces of Vac: A Study of the Letters of the Sansk
 
 # F #
 
-Fennimore, Kevin (auth.) (2024). 'How to Play the Glockenspiel for Beginners: The Ultimate Guide to Learning, Playing, and Becoming Proficient at the Instrument'. Independently published. ASIN B0D9RBCC2W. ISBN 9798333607935. 
+### FENNIMORE, K. ###
+
+* Fennimore, Kevin (auth.) (2024). 'How to Play the Glockenspiel for Beginners: The Ultimate Guide to Learning, Playing, and Becoming Proficient at the Instrument'. Independently published. ASIN B0D9RBCC2W. ISBN 9798333607935. 
+
+**Purport:**
+...
 
 # G #
 
@@ -107,9 +116,11 @@ Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished 
 
 # K #
 
+### KRAUS, N. ###
 
-Kraus, Nicholas (2023). 'The Glorious Glockenspiel: A Guide to Greatness in Playing and Performing'. Nicholas Khatchadourian, Publisher. eBook. ASIN B0C3W3TF8K. NB: I have this text on the 'Play Books' Android application.
+* Kraus, Nicholas (2023). 'The Glorious Glockenspiel: A Guide to Greatness in Playing and Performing'. Nicholas Khatchadourian, Publisher. eBook. ASIN B0C3W3TF8K. NB: I have this text on the 'Play Books' Android application.
 
+**Purport:**
 Amazon writeup:
 
 "The Glorious Glockenspiel: A Guide to Greatness in Playing and Performing" is an extensive guide that provides a comprehensive overview of the Glockenspiel, covering everything from the instrument's history and basic music theory to advanced playing techniques and performance tips. This book is suitable for both beginners and experienced musicians who are interested in learning or improving their Glockenspiel skills.
@@ -126,7 +137,7 @@ Overall, "The Glorious Glockenspiel: A Guide to Greatness in Playing and Perform
 
 Source: https://www.amazon.com.au/Glorious-Glockenspiel-Greatness-Playing-Performing-ebook/dp/B0C3W3TF8K 
 
-
+In truth, the work is somewhat useful, but mediocre.
 
 # L #
 
@@ -135,18 +146,20 @@ Source: https://www.amazon.com.au/Glorious-Glockenspiel-Greatness-Playing-Perfor
 
 # M #
 
+### MARTINEAU, J. ###
+
 * Martineau, Jason (2008). 'The Elements of Music: Melody, Rhythm & Harmony'. First U.S. edition of 2008. New York, N.Y., U.S.A.: Bloomsbury U.S.A. (Bloomsbury is a trademark of Bloomsbury Publishing Plc.). ISBN 9780802716828.
 
 **Purport:** 
 
 This work has a most useful and refined schematic, grapheme and/or infographic of the Circle of Fifths which will be one of the principal sources to support the formulation and codification of my own.
 
-### MIKHAILOVA, T. ###
+### MIKHAILOVA, T.; *et al.* ###
 
-* Mikhailova, Tatyana A.; Roper, Jonathan; Toporkov, Andrey L. & Nikolayev, Dmitry S. (eds.) (2011). *Charms, Charmers and Charming: Oral Charms in Structural and Comparative Light*. Proceedings of the Conference of the International Society for Folk Narrative Research’s (ISFNR) Committee on Charms, Charmers and Charming 27–29th October, 2011, Moscow, Russia. Moscow, Russia: The Russian Foundation for Basic Research. ISBN 9785986042763. Source: https://www.isfnr.org/files/Moscow_meeting_book.pdf (accessed: Sunday, June 29, 2025)
+* Mikhailova, Tatyana A.; Roper, Jonathan; Toporkov, Andrey L. & Nikolayev, Dmitry S. (eds.) (2011). 'Charms, Charmers and Charming: Oral Charms in Structural and Comparative Light'. Proceedings of the Conference of the International Society for Folk Narrative Research’s (ISFNR) Committee on Charms, Charmers and Charming 27–29th October, 2011, Moscow, Russia. Moscow, Russia: The Russian Foundation for Basic Research. ISBN 9785986042763. Source: https://www.isfnr.org/files/Moscow_meeting_book.pdf (accessed: Sunday, June 29, 2025)
 
 **Purport:**
-...
+All the articles within this volume need to be entered in the Bibliography individually in due course.
 
 ### MOORE, J. ###
 
