@@ -139,9 +139,16 @@ Source: https://www.amazon.com.au/Glorious-Glockenspiel-Greatness-Playing-Perfor
 
 **Purport:** 
 
-This work has a most useful and refined schematic, grapheme and/or infographic of the Circle of Fifths which will be one of the principal sources to support the formulation and codification ofvmy own.
+This work has a most useful and refined schematic, grapheme and/or infographic of the Circle of Fifths which will be one of the principal sources to support the formulation and codification of my own.
 
-### Moore, J. ###
+### MIKHAILOVA, T. ###
+
+* Mikhailova, Tatyana A.; Roper, Jonathan; Toporkov, Andrey L. & Nikolayev, Dmitry S. (eds.) (2011). *Charms, Charmers and Charming: Oral Charms in Structural and Comparative Light*. Proceedings of the Conference of the International Society for Folk Narrative Research’s (ISFNR) Committee on Charms, Charmers and Charming 27–29th October, 2011, Moscow, Russia. Moscow, Russia: The Russian Foundation for Basic Research. ISBN 9785986042763. Source: https://www.isfnr.org/files/Moscow_meeting_book.pdf (accessed: Sunday, June 29, 2025)
+
+**Purport:**
+...
+
+### MOORE, J. ###
 
 * Moore, Prof. Jeffrey M. (2001). 'Percussion Techniques for the Instrumental Music Educator'. Orlando, Florida, U.S.A.: University of Central Florida (College of Arts and Sciences Department of Music). 
 
@@ -194,9 +201,18 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 
 # R #
 
+### RAMANUJACHARYA-DASA ###
+
 * Ramanujacharya-dasa (auth. & arr.) (1995). 'A Vaishnava Harmonium and Singing Method: Based on the Traditional North Indian System of Music - Part One'. Chatsworth, South Africa: ISKCON (Sri Sri Radha-Radhanatha Mandir, Durban, South Africa).
 
 **Purport:** I have secured a few works by ISKCON for Harmonium. They all have virtues. This one has been well executed.
+
+### ROPER, J. ###
+
+* Roper, Jonathan (2011). "Metre in the Old English 'Metrical' Charms'" (pp. 116 - 121) in Mikhailova, Tatyana A.; Roper, Jonathan; Toporkov, Andrey L. & Nikolayev, Dmitry S. (eds.) (2011). *Charms, Charmers and Charming: Oral Charms in Structural and Comparative Light*. Proceedings of the Conference of the International Society for Folk Narrative Research’s (ISFNR) Committee on Charms, Charmers and Charming 27–29th October, 2011, Moscow, Russia. Moscow, Russia: The Russian Foundation for Basic Research. ISBN 9785986042763. Source: https://www.isfnr.org/files/Moscow_meeting_book.pdf (accessed: Sunday, June 29, 2025)
+
+**Purport:**
+...
 
 ### ROVANG, P. ###
 
