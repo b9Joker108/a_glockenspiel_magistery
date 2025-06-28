@@ -71,9 +71,9 @@ Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished 
 
 # H #
 
-### HINDESMITH, P. ###
+### HINDEMITH, P. ###
 
-* Hindesmith, Paul (1949, 1946). 'Elementary Training for Musicians'. Second Edition (Revised in 1949). London, England, U.K.: Schott & Co. Ltd. London. ISBN 0901938165.
+* Hindemith, Paul (1949, 1946). 'Elementary Training for Musicians'. Second Edition (Revised in 1949). London, England, U.K.: Schott & Co. Ltd. London. ISBN 0901938165.
 
 **Purport:**
 ...
