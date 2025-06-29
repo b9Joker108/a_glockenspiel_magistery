@@ -98,6 +98,13 @@ Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished 
 **Purport:**
 ...
 
+### HOPKINS, S. ###
+
+Hopkins, Steven Paul (2002). 'Singing the Body of God: The Hymns of Vedantadeshika in Their South Indian Tradition'. New York, N.Y., U.S.A.: Oxford University Press, Inc. ISBN 0195127358.
+
+**Purport:**
+...
+
 
 # I #
 
