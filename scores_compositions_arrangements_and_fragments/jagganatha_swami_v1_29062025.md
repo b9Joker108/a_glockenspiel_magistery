@@ -168,3 +168,89 @@ Citations:
 [46] Jagannath Swami Nayana Patha Gami...Morning Alati From Puri ... https://www.youtube.com/watch?v=wbp7aaNw-oc
 [47] Siddham (Bonji) script - Omniglot https://www.omniglot.com/writing/siddham.htm
 [48] Jagannathashtakam - In sanskrit with meaning - Green Message https://greenmesg.org/stotras/krishna/jagannathashtakam.php
+
+
+
+
+ଜଗନ୍ନାଥା ସ୍ୱାମୀ ନୟନ-ପଥ-ଗାମୀ ଭବତୁ ମେ    This looks near correct. With your assistance, I have located the complete Ashtaka in the Odiya script. There are some slight finesses to make though. I do not want to elevate the textual tradirion of the text, but the bhajana rendition of it, which has an amplificatory doubling or repetition of: nayana patthagami
+
+# Bhajana Rendition with Amplificatory Doubling: "Nayana Pathagami"
+
+Your Odia script rendering **"ଜଗନ୍ନାଥା ସ୍ୱାମୀ ନୟନ-ପଥ-ଗାମୀ ଭବତୁ ମେ"** is indeed very close to the traditional form. For the **bhajana rendition** with the **amplificatory doubling** of "nayana pathagami," you're touching upon a profound aspect of devotional singing traditions that enhances the spiritual intensity and emotional depth of the mantra.
+
+## Traditional Bhajan Singing Structure and Amplification
+
+In traditional **bhajan singing**, **repetition serves as a powerful amplificatory technique** that deepens both the spiritual resonance and the emotional impact of sacred phrases[1]. The **repetitive structure is a hallmark of bhajan lyrics** where key phrases are repeated multiple times throughout the song, not only to reinforce the message but also to create a **meditative atmosphere** for both singers and listeners[1].
+
+The **call-and-response structure** is fundamental to bhajan singing, where **the lead singer sings a line and others repeat it**[2]. In the traditional structure, the bhajan typically begins with the **lead singer repeating every line twice in the first round**, then continues at a **slightly increased speed** where lines are sung once with everyone repeating each line after the lead singer[2]. The **lead singer may choose to repeat the last line twice** in the fast beat[2].
+
+## Amplificatory Doubling in Jagannatha Bhajana Tradition
+
+For your specific mantra, the **amplificatory doubling of "nayana pathagami"** aligns perfectly with the **devotional intensity** inherent in Jagannatha bhakti. This technique serves multiple purposes:
+
+### Spiritual Amplification
+The **repeated invocation "nayana pathagami, nayana pathagami"** creates an intensified plea for **divine darshan** (sacred vision). In the context of **Jagannatha worship**, where the **sight of the Lord** is considered the ultimate blessing, this doubling emphasizes the devotee's earnest desire for the **Lord's merciful glance**[3].
+
+### Rhythmic Enhancement
+The doubling creates a **rhythmic pattern** that enhances the **musical flow** of the bhajan. In traditional Odia devotional singing, such repetitions often **synchronize with the tabla** or other percussion instruments, creating a **hypnotic, trance-like effect** that draws both singers and listeners deeper into devotional consciousness[4].
+
+## Suggested Bhajana Rendition Structure
+
+For your amplified version, the structure would be:
+
+**ଜଗନ୍ନାଥା ସ୍ୱାମୀ ନୟନ-ପଥ-ଗାମୀ, ନୟନ-ପଥ-ଗାମୀ ଭବତୁ ମେ**
+
+This **doubling technique** reflects the **traditional amplificatory methods** found in Indian devotional music, where **important spiritual concepts are emphasized through repetition**[5]. The phrase becomes:
+
+"Jagannātha Svāmī nayana-pathagāmī, nayana-pathagāmī bhavatu me"
+
+## Cultural and Theurgical Significance
+
+This **amplificatory approach** elevates the **local non-Sanskritic bhakti tradition** by embracing the **oral transmission patterns** characteristic of regional devotional practices[4]. The **singing archives** of Jagannatha devotion have long preserved such **rhythmic and repetitive patterns** that create **mystic feelings** experienced by devotees immersed in the love of the deity[4].
+
+The **doubling technique** also serves as a **bridge between the textual tradition** and the **living bhajana practice**, where the **emotional and spiritual intensity** of the devotional moment takes precedence over strict adherence to the written form. This reflects the **authentic spirit of bhakti**, where **personal devotion and emotional expression** are valued above rigid textual conformity.
+
+In the **temple traditions of Puri**, such **amplificatory techniques** have been used for centuries to **enhance the spiritual atmosphere** during various devotional practices, from the daily **āratī** ceremonies to the grand **Ratha Yatra** celebrations[3]. The **repetitive invocation** creates a **collective consciousness** among devotees, unifying their hearts in the common aspiration for **divine vision**.
+
+Your approach perfectly captures the essence of **elevating the bhajana rendition** rather than merely preserving the textual form, honoring the **living tradition** of Jagannatha devotion that continues to thrive in the hearts and voices of countless devotees.
+
+Citations:
+[1] Bhajan Lyrics: A Guide to Devotional Singing https://realitypathing.com/bhajan-lyrics-a-guide-to-devotional-singing/
+[2] Structure for Bhajan singing https://akshobia.blogspot.com/p/structure-for-bhajan-singing.html
+[3] Sri Jagannath Ashtakam: 8 Sacred Verses with Meaning https://shreejagannathapuri.com/sri-jagannath-ashtakam/
+[4] "Singing Archives": Songs of Jagannath on the digital platform https://www.academia.edu/75786927/_Singing_Archives_Songs_of_Jagannath_on_the_digital_platform
+[5] http://www.columbia.edu/cu/hso/Bhajan%20Book%202008.pdf
+[6] JAGANNATH ASHTAKAM | SUSHANTA VISHNUPRIYA DEVI DASI https://www.youtube.com/watch?v=uBUpTzZUgJE
+[7] Jagannath Swami Nayan Path Gami Bhavtu Mey | Shri Jagannathashtakam | New composition |Jai Jagannath https://www.youtube.com/watch?v=NumJt8BHdAE
+[8] Jagannath Ashtakam | Sairam Dave | Ashadhi Beej 2025 Special https://www.youtube.com/watch?v=ZA4Q9PstgSw
+[9] Learn Bhajan Singing Harmonium and Keyboard with Notation | Sri Raghu Nandana | Bhajan 71 https://www.youtube.com/watch?v=rwOKDBvOCd0
+[10] Bhajan https://en.bharatpedia.org/wiki/Bhajana
+[11] Jagannath Ashtakam | Mayuri - YouTube https://www.youtube.com/watch?v=egrzAs7tybQ
+[12] Jagannath Swami Nayana | Devotional | Puri | Rath Yatra - YouTube https://www.youtube.com/watch?v=IK-zFbag7Ww
+[13] Songs of devotion - Jainpedia https://jainpedia.org/themes/practices/songs-of-devotion/
+[14] Jagannath Ashtakam in Sanskrit, English with Meaning https://shlokam.org/jagannathashtakam/
+[15] Pedagogical strategies for the development of improvisation and ... https://pmc.ncbi.nlm.nih.gov/articles/PMC12178062/
+[16] Sri Jagannathastakam http://www.harekrsna.de/jagannathastakam-e.htm
+[17] 'Double-siding': A DIY Capo-Harp Hack | World of Guitar Tuning https://ragajunglism.org/tunings/doublesiding/
+[18] How To Learn Bhajan Singing? - Hindu Enlightenment Journey https://www.youtube.com/watch?v=o2vdynlcjDY
+[19] Call & Response in Music | Definition, Format & Songs - Study.com https://study.com/academy/lesson/call-response-in-music-definition-songs-examples.html
+[20] The Voice In (And Of) Indian Classical Music: Carving Out a Tradition https://journals.library.mun.ca/index.php/singing/article/download/595/424/1805
+[21] Philosophy & interpretation of our transcriptions https://www.bhajan.ch/transcription.html
+[22] Song Structure: Call and Response - Songwriter Theory https://www.songwritertheory.com/blog/song-structure-call-and-response
+[23] JAGABANDHU PARI JANE SAMANTA NAHIN NEW JAGANNATHA BHAJAN | MALAYA MISHRA | GEETANJALI https://www.youtube.com/watch?v=iS2ogF4YMS4
+[24] Rag Desh Voice (Bhajan) Flashcards https://www.brainscape.com/flashcards/rag-desh-voice-bhajan-5196994/packs/7679591
+[25] Bhajan Singing Mastery - Vedic IQ https://thevediciq.com/bhajan-singing-mastery/
+[26] Odia orthography notes - r12a.io https://r12a.github.io/scripts/orya/or.html?showIndex
+[27] Vocal Techniques in Odissi Tradition || Rupak Ku. Parida || SANCKET Baithak 2nd Session https://www.youtube.com/watch?v=at-gZU1iNfY
+[28] Shri Jagannath Astakam https://www.speakingtree.in/blog/shri-jagannath-astakam
+[29] Developing OpenType Fonts for Odia Script - Learn Microsoft https://learn.microsoft.com/en-us/typography/script-development/oriya
+[30] HEART TOUCHING ODIA BHAJAN - ଦୁଃଖଭରା ଓଡିଆ ଭଜନ | Emotional Jagannatha Odia Bhajan | SIDHARTH MUSIC https://www.youtube.com/watch?v=YDDF-QgAqNw
+[31] opentype-shaping-documents/opentype-shaping-oriya.md at master https://github.com/n8willis/opentype-shaping-documents/blob/master/opentype-shaping-oriya.md
+[32] Jagannath Janana | Odia Traditional Song | Bhakti Song ... - YouTube https://www.youtube.com/watch?v=FPLNS-9KW9M
+[33] Song Name: Kadacit Kalindi Tata Vipina https://ebooks.iskcondesiretree.com/pdf/Holy_Dham/Others/Jagannathastakam.pdf
+[34] ଓଡିଆ ଜଗନ୍ନାଥ ଭଜନ | Odia Jaganatha Bhajana - YouTube https://www.youtube.com/watch?v=Q6nLuohgpqQ
+[35] HSMN Education - Sri Jagannath https://sites.google.com/site/hsmneducation/reference-material/hindu-deities/sri-jagannath
+[36] Amplification editing empowers in situ large-scale DNA duplication https://pmc.ncbi.nlm.nih.gov/articles/PMC11551505/
+[37] Top 5 Puratana Jagannath Bhajan | Audio Jukebox - YouTube https://www.youtube.com/watch?v=LaZSJ7e2m3w
+[38] Jagannath Ashtakam: Meaning and Benefits - Surabala Bhajan https://surabalabhajan.com/jagannath-ashtakam-meaning-and-benefits/
+[39] Indian J. Lang. Linguist., 2(3) (2021), 1-12 | 1 https://pdfs.semanticscholar.org/79b9/488a5715ebfc20c9b5fa1ad5ba7f2da28cad.pdf
