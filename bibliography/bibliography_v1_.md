@@ -37,7 +37,15 @@ This work will be invaluable as a reference.
 
 Canadian Department of National Defence (CDND) (attr.) (2008). 'Canadian Cadet Organizations: Military Band - Music Proficiency Levels Qualification Standard'. Canadian National Defence Headquarters (CNDHQ), Ottawa, Ontario, Canada: Youth Programs Development, Canadian Department of National Defence (CDND). A-CR-CCP-910/PG-001. Source:  https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/CDND%20(attr.)(2008).%20Canadian%20Cadet%20Organizations%20-%20Military%20Band%20-%20Music%20Proficiency%20Levels%20Qualification%20Standard.pdf (accessed: Sunday, June 15, 2025)
 
-### Czerny, C.; *et al.* ###
+### CZERNY, C. ###
+
+Czerny, Carl (1833). ‘125 Passagenübungen, Op. 261:
+Études élémentaires pour le piano-forte, classées dans un ordre progressif et soigneusement doigtées; calculées pour obtenir la légèreté et l’indépendance des doigts et faciliter l’enseignement des jeunes élèves \[German & French; English: 125 Exercises in Passage-playing, Op. 261: Elementary Studies for the Pianoforte, Arranged in Progressive Order and Carefully Fingered; Designed to Achieve Lightness and Independence of the Fingers and Facilitate the Instruction of Young Pupils]’. Book One. Paris, France: A. Farrenc. Source: https://archive.org/details/imslp-exercises-in-passage-playing-op261-czerny-carl (accessed: Monday, June 30, 2025)
+
+**Purport:**
+...
+
+### CZERNY, C.; *et al.* ###
 
 * Czerny, Carl (comp.) & Ruthardt, Adolf (rev.) (n.d.). 'Hundert Übungsstücke: Opus 139 \[German; English: 'One Hundred Etudes: Work 139']'. Frankfurt am Main, Hesse, Germany: C.F. Peters Frankfurt.
 
