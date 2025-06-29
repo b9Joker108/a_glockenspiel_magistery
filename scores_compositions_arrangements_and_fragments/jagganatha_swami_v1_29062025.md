@@ -1,4 +1,6 @@
 
+https://github.com/b9Joker108/tantric_vaishnavism_and_english_translation_of_the_pancharatriya_sri_gautamiya_mahatantram/blob/main/book_cover/book_cover_v1_29062025.md
+
 Here’s a bird’s-eye view of the linguistic-scriptural landscape you’d have encountered on the streets of Puri during Sri Chaitanya Mahaprabhu’s time (late-15th/early-16th c.), especially around Ratha-yātrā:
 
 1. Core liturgical languages  
