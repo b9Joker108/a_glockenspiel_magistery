@@ -299,3 +299,92 @@ Citations:
 [7] Bhagwan Jagannath Rath Yatra: Spiritual, cultural, and historical significance in Indian Sanatan Dharma https://organiser.org/2025/06/27/299771/bharat/bhagwan-jagannath-rath-yatra-spiritual-cultural-and-historical-significance-in-indian-sanatan-dharma/
 [8] Ratha Yatra https://www.jstor.org/stable/community.3859822
 [9] Research Paper Impact Factor: 4. 695 ... http://ijmsrr.com/downloads/290720171.pdf
+
+
+
+
+How do we render Sri Krishna's and Sri Jagganatha's bija in mediaval Odiya script?
+
+## Rendering Sri Krishna's and Sri Jagannatha's Bīja Mantras in Medieval Odia Script
+
+**Bīja mantras** are seed syllables encapsulating the essence of a deity. For Sri Krishna, the most widely attested bīja is **"Klim"** (क्लीं), and for Sri Jagannatha, it is often **"Om"** (ॐ), though "Klim" and "Hrīm" (ह्रीं) are also used in Tantric and temple traditions[8].
+
+### 1. **Sri Krishna's Bīja: "Klim" (କ୍ଲୀଂ)**
+
+- **Sanskrit:** क्लीं
+- **Odia Script (medieval style):** କ୍ଲୀଂ
+
+### 2. **Sri Jagannatha's Bīja: "Om" (ଓଁ) and "Klim" (କ୍ଲୀଂ)**
+
+- **Sanskrit:** ॐ (Om) or क्लीं (Klim)
+- **Odia Script (medieval style):** ଓଁ or କ୍ଲୀଂ
+
+#### **Script Style and Orthography**
+
+- **Medieval Odia script** was more rounded, with less angularity than modern Odia, and written on palm leaves. Bīja mantras would be written **without diacritics or punctuation**, often with special stylization for sacred use.
+- **"Om"** in medieval Odia would appear as a stylized **ଓଁ**, often elaborated in temple manuscripts.
+- **"Klim"** would appear as **କ୍ଲୀଂ**, with conjuncts clearly formed.
+
+### **Summary Table**
+
+| Deity           | Bīja Mantra (Sanskrit) | Medieval Odia Script      |
+|-----------------|------------------------|--------------------------|
+| Sri Krishna     | क्लीं                   | କ୍ଲୀଂ                   |
+| Sri Jagannatha  | ॐ / क्लीं               | ଓଁ / କ୍ଲୀଂ              |
+
+### **Contextual Notes**
+
+- The use of these bīja mantras is attested in both **Tantric and Bhakti traditions** of Odisha, especially in temple rituals and poetry (e.g., Gita Govinda, Charyā Sahitya)[1][5].
+- In medieval manuscripts, such bījās would be rendered **prominently at the beginning of verses or yantras**, often with decorative flourishes for auspiciousness.
+
+**In summary:**  
+- Write "Klim" as **କ୍ଲୀଂ** and "Om" as **ଓଁ** in medieval Odia script, omitting modern punctuation and using traditional conjunct forms for authenticity.  
+- These renderings reflect both the Bhakti and Tantric heritage of Odisha's Jagannatha tradition[1][5][8].
+
+Citations:
+[1] Oriya Medieval Bhakti Poetry | PDF | Śūnyatā | Vaishnavism https://www.scribd.com/doc/18685740/ORIYA-MEDIEVAL-BHAKTI-POETRY
+[2] ODISHA REVIEW - E-Magazine....::... https://magazines.odisha.gov.in/orissareview/2015/July/engpdf/july%20or%202015.pdf
+[3] ODISHA REVIEW - E-Magazine....::... https://magazines.odisha.gov.in/Orissareview/2013/jul/engpdf/july_or_2013.pdf
+[4] Oriya https://harekrishnabooks.com/product-category/indian-languages/oriya/
+[5] The Profusion of 'Sringara' Thoughts in The Odia-Riti- ... http://www.socialresearchfoundation.com/upoadreserchpapers/6/438/2107311230181st%20bala%20sibaji%20patro%2014453.pdf
+[6] Saraswati https://en.wikipedia.org/wiki/Saraswati
+[7] The Gujarati lyrics of Kavi Dayarambhai. https://soas-repository.worktribe.com/output/409853/the-gujarati-lyrics-of-kavi-dayarambhai
+[8] Bhagwan srikrishna 5 bija Mantra. ... https://www.youtube.com/watch?v=asyw7irYVv4
+
+
+
+
+Let's have: Om Kleem Namaha - in Mediavel Odiya script
+
+The mantra **"Om Kleem Namaha"** in medieval Odia script can be rendered as:
+
+**ଓଁ କ୍ଲୀଂ ନମଃ**
+
+- **ଓଁ** (Om) — the sacred primordial syllable  
+- **କ୍ଲୀଂ** (Kleem) — the bīja mantra associated with Krishna/Jagannatha  
+- **ନମଃ** (Namaha) — a respectful salutation meaning "I bow to" or "I offer obeisance"
+
+### Notes on Medieval Odia Script Rendering:
+- The **bīja syllable "Kleem"** is written as **କ୍ଲୀଂ**, using the conjunct consonant cluster **କ୍ଲ** (k + l) plus the long vowel ī (ୀ) and the anusvara (ଂ) for the nasal sound.  
+- **Namaha** is traditionally written as **ନମଃ**, with the visarga (ଃ) at the end, representing the "ḥ" sound.  
+- The **Om** symbol is rendered as **ଓଁ**, combining the vowel "o" (ଓ) with the chandrabindu/anusvara (ଁ) to indicate nasalization.
+
+### Traditional Orthography:
+- No hyphens or commas are used in classical or medieval manuscripts; words are written continuously or separated by spaces.  
+- The conjuncts and diacritics follow the classical Odia script conventions, which were already established by the medieval period.
+
+This rendering respects the **theurgical and devotional tradition** of Odisha, aligning with how bīja mantras and salutations would have appeared in temple manuscripts and inscriptions.
+
+If you want a calligraphic or stylized version for auspicious use, the same text can be artistically arranged without punctuation marks, for example:
+
+**ଓଁ କ୍ଲୀଂ ନମଃ**
+
+This is the most authentic and appropriate way to render **"Om Kleem Namaha"** in medieval Odia script.
+
+Citations:
+[1] Jagannath - Wikipedia https://en.wikipedia.org/wiki/Jagannath
+[2] [PDF] ODISHA REVIEW - E-Magazine....::... https://magazines.odisha.gov.in/Orissareview/2013/jul/engpdf/july_or_2013.pdf
+[3] [PDF] ODISHA REVIEW - E-Magazine....::... https://magazines.odisha.gov.in/orissareview/2016/July/engpdf/july-or-2016.pdf
+[4] Om Kleem Krishanaya Namaha 108 Times (Shri Krishna Mantra) https://open.spotify.com/track/1yLVIRhG5GGVLds6QbxKu8
+[5] Om Kleem Krishnaya Namaha | Use headphone - YouTube https://www.youtube.com/watch?v=h6gLvRZ4Wak
+
