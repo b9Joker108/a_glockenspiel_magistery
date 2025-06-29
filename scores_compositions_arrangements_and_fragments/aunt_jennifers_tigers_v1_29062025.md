@@ -8,3 +8,6 @@ https://www.litcharts.com/poetry/adrienne-rich/aunt-jennifer-s-tigers
 
 
 Possibly a Tonal composition with lyrical arrangement and setting, a Tone Poem, with expressive poeticalily and dramatically voiced, a performative spoken-word, with The Bells, or see if a lyrical melody manifests and presents itself from the Well-of-Sound.
+
+
+https://en.wikipedia.org/wiki/Everybody_Knows_(Leonard_Cohen_song)
