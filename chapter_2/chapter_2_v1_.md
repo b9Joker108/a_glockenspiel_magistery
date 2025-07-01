@@ -58,10 +58,6 @@ Here is the detailed outline for Chapters 2 through 18.
 
 
 
-#### **Chapter 14: Sangeet as Seva: Music as Selfless Service**
-*   **14.1. The Karma Yoga of Performance**
-    *   14.1.1. Jnana: The philosophy of *Nishkama Karma* (action without attachment to the fruits) from the Bhagavad Gita, applied to music. The offering is the goal, not the quality of the offering.
-    *   14.1.2. Sadhana: The practice of *Arpanam* (offering). Before playing, consciously state: "This is not for my pleasure, but for Yours." After playing, do not judge the performance. Simply offer it and let it go.
 
 #### **Chapter 15: Nada Yoga: The Union Through Sound**
 *   **15.1. Ahata and Anahata Nada: The Struck and Unstruck Sound**
