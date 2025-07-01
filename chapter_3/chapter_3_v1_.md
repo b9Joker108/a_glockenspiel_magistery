@@ -1,5 +1,14 @@
 
-
+#### **Chapter 3: Laya Sadhana: The Architecture of Time**
+*   **3.1. The Taala-Mala: A Garland of Rhythmic Cycles**
+    *   3.1.1. Jnana: Expanding beyond Teentaal and Keherwa to Dadra (6), Rupak (7), Jhaptaal (10), and Ektaal (12).
+    *   3.1.2. Sadhana: Kinaesthetic immersion. Learning to walk, breathe, and clap these taalas. Playing simple swara patterns across these different cycles to feel how the rhythmic container changes the melodic meaning.
+*   **3.2. Kaala, Laya, and Jati: The Three Dimensions of Speed**
+    *   3.2.1. Jnana: Vilambit (slow), Madhya (medium), and Drut (fast) laya. The concept of Jati (rhythmic subdivisions - 3, 4, 5, 7, 9).
+    *   3.2.2. Sadhana: The "Rhythmic Accelerator." Practicing a single Alankar, starting in Vilambit Ektaal and smoothly transitioning to Madhya and then Drut Teentaal.
+*   **3.3. Lay-Kari: The Play of Rhythmic Virtuosity**
+    *   3.3.1. Jnana: Dugun (double), Tigun (triple), Chaugun (quadruple) speed patterns. The mathematics of *Tihai* (a rhythmic phrase repeated three times, culminating on Sam).
+    *   3.3.2. Sadhana: Scoring and practicing Tihais. A creative exercise: "Tell a one-sentence story that resolves on the third repetition." (e.g., "Krishna calls | Krishna calls | Krishna calls for Radha").
 
 
 
