@@ -244,7 +244,7 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 
 ### RAMANUJACHARYA-DASA ###
 
-* Ramanujacharya-dasa (auth. & arr.) (1995). 'A Vaishnava Harmonium and Singing Method: Based on the Traditional North Indian System of Music - Part One'. Chatsworth, South Africa: ISKCON (Sri Sri Radha-Radhanatha Mandir, Durban, South Africa).
+* Ramanujacharya-dasa (auth. & arr.) (1995). 'A Vaishnava Harmonium and Singing Method: Based on the Traditional North Indian System of Music - Part One'. Chatsworth, South Africa: ISKCON (Sri Sri Radha-Radhanatha Mandir, Durban, South Africa). Source: https://archive.org/details/avaishnavaharmoniumsingingmethod (accessed: Tuesday, July 01, 2025)
 
 **Purport:** I have secured a few works by ISKCON for Harmonium. They all have virtues. This one has been well executed.
 
