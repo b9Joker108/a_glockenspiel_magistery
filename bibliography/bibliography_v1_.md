@@ -207,7 +207,12 @@ All the articles within this volume need to be entered in the Bibliography indiv
 
 Ohrvik, Ane & Guðmundsdóttir, Aðalheiður (auths.) (2015). 'Magic and Texts: An Introduction' (pp. 7 - 14) in Amundsen, Arne Bugge (ed.), *et al.* (2015). *ARV: Nordic Yearbook of Folklore - Special Issue: Magic and Texts*, Vol. 70. Uppsala, Sweden: The Royal Gustavus Adolphus Academy. ISSN 0066-8176. Source: xxx (accessed: Wednesday, June 25, 2025)
 
+### OSER, Z.; *et al* ###
 
+Öser, Khenpo Zhenphen \[Tibetan: མཁན་པོ་ཞེན་འཕེན་འོད་ཟེར། ; EWTS: mkhan po zhen 'phen 'od zer] (auth. & comm.) & Valby, Jim (trans.) (2016, 2008). 'Ornament of the State of Samantabhadra: Commentary on the *All-Creating King, Pure Perfect Presence, Great Perfection of All Phenomena* - Volume One \[Tibetan: ཆོས་ཐམས་ཅད་རྫོགས་པ་ཆེན་པོ་བྱང་ཆུབ་ཀྱི་སེམས་ཀུན་བྱེད་རྒྱལ་པོའི་འགྲེལ་པ་ཀུན་བཟང་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ། ; EWTS: chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po'i 'grel pa kun bzang dgongs rgyan zhes bya ba bzhugs so]'. Second edition. Shelburne Falls, Massachusetts, U.S.A.: Jim Valby Publications. ISBN 9780982285404. Source: https://dn790002.ca.archive.org/0/items/JimValbyKunjedGyalpoSeriesVol1/Jim%20Valby%20-%20Kunjed%20Gyalpo%20Series%20%28Vol%201%29.pdf (accessed: Tuesday, July 01, 2025)
+
+**Purport:**
+...
 
 # P #
 
