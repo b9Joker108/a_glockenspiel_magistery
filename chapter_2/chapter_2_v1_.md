@@ -71,10 +71,7 @@ Here is the detailed outline for Chapters 2 through 18.
     *   17.1.1. Jnana: Associating specific ragas with specific *lilas* (divine pastimes) of Radha and Krishna. Raga Vasanta for the spring festival of Holi; Raga Desh for the monsoon rains in Vrindavan.
     *   17.1.2. Sadhana: Before playing a raga, read and meditate on a corresponding lila. Let the story guide your improvisation. You are not just playing notes; you are painting a scene from Vrindavan for your deities.
 
-#### **Chapter 18: Ananda-Lahari: The In-dwelling Wave of Bliss**
-*   **18.1. The Greater Siddhi: Sahaja-Sthiti**
-    *   18.1.1. Jnana: The state of "natural being," where the peace, devotion, and aesthetic bliss of the *sadhana* period permeates all of daily life. The music doesn't stop when the mallets are put down.
-    *   18.1.2. Sadhana: There is no new technique here. This chapter is a reflection on the integration of the entire path. The practice is to see the *laya* in your own heartbeat, the *raga* in the sounds of the world, and the presence of Radhe-Ballabha in every moment. The music has become you.
+
 
 ---
 **Appendices & Back Matter:**
