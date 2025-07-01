@@ -77,6 +77,13 @@ Czerny, Carl (1833). ‘125 Passagenübungen, Op. 261:
 
 # G #
 
+### GASSER, E. ###
+
+Gasser, Erika Anne (2007). 'Manhood, Witchcraft and Possession in Old and New England'. Dissertation for the Doctor of Philosophy degree. History & Women’s Studies. Ann Arbor, Michigan, U.S.A.: The University of Michigan. 
+
+**Purport:**
+...
+
 ### GAULDIN, R. ###
 
 * Gauldin, Robert (2004, 1997). 'Harmonic Practice: In Tonal Music'. Second edition. New York, N.Y., U.S.A.: W. W. Norton & Company, Inc. ISBN 0393976661. 
