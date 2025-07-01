@@ -219,9 +219,13 @@ All the articles within this volume need to be entered in the Bibliography indiv
 
 # N #
 
+### NIKOLSKY, A. ###
 
+Nikolsky, Aleksey (2020). 'The Pastoral Origin of Semiotically Functional Tonal Organization of Music' (pp. 1 - 45) in Sulikowski, Danielle (ed.); *et al.* (2020). *Frontiers: In Psychology; Evolutionary Psychology - Hypothesis & Theory*, Vol. 11, Article 1359, July, 2020. Lausanne, Switzerland: Frontiers Media SA. DOI: 10.3389/fpsyg.2020.01358.
 
+**Purport:**
 
+This accomplished work is one of the foundations for the upthrust of my Introduction.
 
 # O #
 
