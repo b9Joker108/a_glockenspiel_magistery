@@ -2980,8 +2980,99 @@ Citations:
 
 # K #
 
+### Kulning (Swedish) ###
 
+Kulning Swedish and Scandinavian art of calling cattle. Please tell me all about. Ensure all salient terms are in original scripts with romanisations and give etymological treatment. This is for my book on devotional glockenspiel, so academic register please.
 
+Certainly! Here is a comprehensive academic treatment of **kulning**—the Swedish and Scandinavian art of cattle calling—complete with salient terms in original scripts, romanisations, and etymological notes, tailored for inclusion in a scholarly work on devotional glockenspiel.
+
+## Kulning: The Scandinavian Art of Cattle Calling
+
+### 1. **Definition and Overview**
+
+**Kulning** (Swedish: **kulning**, pronounced [ˈkʉ̌ːlnɪŋ]; Norwegian: **kulokk** or **lokk**, pronounced [ˈkʉːlʊk] or [lʊkː]) is a traditional Scandinavian vocal technique used primarily by women to call livestock—particularly cattle, goats, and sheep—from mountain pastures (fäbodar) back to the homestead. The practice is most strongly associated with the forested and mountainous regions of Sweden (notably Dalarna, Jämtland, and Härjedalen), as well as parts of Norway.
+
+### 2. **Etymology and Terminology**
+
+- **Kulning** (Swedish):  
+  - From the verb **kula** (“to call (cattle)”), itself derived from a Germanic root meaning “to shout” or “to call out.”
+  - The noun **kulning** designates the act or art of calling.
+- **Lokk** (Norwegian, Nynorsk: **lokk**, Bokmål: **lokk**):  
+  - From the verb **lokke** (“to entice, to call, to lure”), related to Old Norse **loka** (“to close, to call together”).
+- **Kauk** (Norwegian dialectal):  
+  - A related term, from the verb **kauke** (“to shout, to yodel”), cognate with German **jauchzen** (“to rejoice, to yodel”).
+- **Fäbod** (Swedish):  
+  - Mountain pasture or summer farm, where kulning was traditionally performed.
+
+### 3. **Scripts and Romanisations**
+
+- **Swedish**: kulning  
+- **Norwegian**: kulokk, lokk, kauk  
+- **Original scripts**:  
+  - Swedish: **kulning**  
+  - Norwegian: **lokk**, **kulokk**, **kauk**
+
+### 4. **Musical and Acoustic Characteristics**
+
+Kulning is characterized by:
+- **High-pitched, loud, and clear tones** that can carry over long distances (sometimes several kilometers).
+- **Open-throated, head-voice technique** (similar to the Western classical “flageolet” or whistle register), but with greater volume and resonance.
+- **Melismatic ornamentation** and improvisation, often with distinctive glissandi and microtonal inflections.
+- **Non-lexical vocables** (e.g., “ho-ho”, “lo-lo”, “ku-ku”) as well as the names of individual animals.
+
+### 5. **Function and Social Context**
+
+- **Practical Function**: To summon livestock from distant pastures, communicate with other herders, or scare away predators.
+- **Social and Ritual Function**: Kulning is often performed solo by women, but also features in festivals, rituals, and, in modern times, as a performance art.
+- **Devotional and Liminal Aspects**: The act of kulning, performed at dawn or dusk, has been described as liminal—bridging the human and animal, the domestic and the wild, the sacred and the everyday.
+
+### 6. **Historical and Ethnomusicological Context**
+
+- **Origins**: Documented since the Middle Ages, but likely much older, with roots in ancient Germanic and Norse pastoral culture.
+- **Transmission**: Traditionally passed down orally from mother to daughter.
+- **Modern Revival**: Kulning has experienced a revival in Scandinavian folk music, world music, and even experimental and classical contexts.
+
+### 7. **Comparison with Other Traditions**
+
+- **Yodeling** (German: **Jodeln**): Similar technique, but with different melodic and rhythmic structures.
+- **Alpine and Balkan cattle calls**: Related practices exist across Eurasia, but kulning is unique in its melodic and timbral qualities.
+
+### 8. **Notable Practitioners and Recordings**
+
+- **Sofia Jannok**, **Åsa Jinder**, and **Susanne Rosenberg** are among the most prominent contemporary kulning performers.
+- Numerous recordings and video demonstrations are available on platforms such as YouTube, often showcasing the technique in natural settings.
+
+### 9. **Kulning and Devotional Music**
+
+For your work on devotional glockenspiel:
+- **Acoustic Parallels**: The glockenspiel’s bell-like, carrying timbre can evoke the ethereal and summoning qualities of kulning.
+- **Musical Adaptation**: Melodic motifs and intervallic leaps from kulning can be transposed to glockenspiel, creating a “calling” or “summoning” effect in devotional compositions.
+- **Ritual Resonance**: Both kulning and devotional bell music serve as liminal sonic bridges—calling, gathering, and sanctifying.
+
+## **Summary Table of Salient Terms**
+
+| Term      | Script     | Romanisation | Etymology/Notes                                      |
+|-----------|------------|--------------|------------------------------------------------------|
+| Kulning   | kulning    | kulning      | From Swedish *kula* (“to call cattle”)               |
+| Lokk      | lokk       | lokk         | Norwegian, from *lokke* (“to entice, call”)          |
+| Kulokk    | kulokk     | kulokk       | Norwegian, variant of *lokk*                         |
+| Kauk      | kauk       | kauk         | Norwegian dialectal, “to shout/yodel”                |
+| Fäbod     | fäbod      | fäbod        | Swedish, “mountain pasture”                          |
+
+### **References**
+
+- Rosenberg, Susanne. *Kulning: Vocal Technique and Tradition*. Stockholm: Royal College of Music, 2013.
+- Ling, Jan. *A History of European Folk Music*. Rochester: University of Rochester Press, 1997.
+- Ling, Jan. “Kulning—Swedish Cattle Calling.” *Yearbook for Traditional Music* 16 (1984): 42–56.
+- Nettl, Bruno. *Folk and Traditional Music of the Western Continents*. Prentice Hall, 1990.
+- [Svenska Akademiens Ordbok](https://www.saob.se/artikel/?seek=kulning&pz=1) (for etymology)
+
+If you would like notational examples, transcriptions, or further discussion on integrating kulning motifs into glockenspiel repertoire, please let me know!
+
+Citations:
+[1] Screenshot_20250701192051.jpg https://pplx-res.cloudinary.com/image/upload/v1751361727/user_uploads/4428017/a8298232-f05d-4e4f-b109-814d5f845e8d/Screenshot_20250701192051.jpg
+
+### END KULNING ###
 
 
 
