@@ -56,12 +56,7 @@ Here is the detailed outline for Chapters 2 through 18.
 
 ---
 
-### **Part IV: The Path of Fruition (Siddhi Marga)**
 
-#### **Chapter 13: Swar-Lipi: The Sacred Scribe**
-*   **13.1. Advanced Notation Systems**
-    *   13.1.1. Jnana: The Bhatkhande and Paluskar systems. Integrating them with Western staff notation for a truly comprehensive script.
-    *   13.1.2. Sadhana: Creating your own personal, beautifully written *Swar-Granth* (Book of Notes) of all the compositions you have learned and created. This becomes a sacred object.
 
 #### **Chapter 14: Sangeet as Seva: Music as Selfless Service**
 *   **14.1. The Karma Yoga of Performance**
