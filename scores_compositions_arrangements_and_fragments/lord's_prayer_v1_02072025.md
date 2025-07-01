@@ -1,21 +1,21 @@
-Dedication: To my paternal Nanna, Nrs Isabella Stenberg (nee Johns)
+Dedication: To my paternal Nanna, Nrs Isabella Stenberg (nee Johns) whose most beloved home and olace of residence was Kew/Camberwell, Victoria, Australia.
 
-The Lord's Prayer, also known as the Our Father, is a central Christian prayer found in the Gospels of Matthew and Luke. It is a model prayer taught by Jesus to his disciples, outlining key aspects of Christian prayer: adoration, petition, and a yearning for God's kingdom. The prayer expresses a desire for God's will to be done on earth as it is in heaven, for daily needs to be met, for forgiveness, and for deliverance from evil. 
+'The Lord's Prayer', also known as the 'Our Father', is a central Christian prayer found in the Gospels of Matthew and Luke. It is a model prayer taught by Jesus to His Disciples, outlining key aspects of Christian Prayer: Adoration, Petition, Protection and a Yearning for God's Kingdom. The Prayer expresses a desire for God's Will to be done on Earth as it is in Heaven, for daily needs to be met, for forgiveness, and for deliverance from evil. 
 
 **Traditional English:**
 
-"Our Father, who art in heaven, 
-hallowed be thy name; 
-thy kingdom come; 
-thy will be done, 
-on earth as it is in heaven. 
+"Our Father, who art in Heaven, 
+hallowed be Thy Name; 
+Thy Kingdom come; 
+Thy Will be done, 
+on Earth as it is in Heaven. 
 Give us this day our daily bread. 
 And forgive us our trespasses, 
 as we forgive those who trespass against us. 
 And lead us not into temptation; 
 but deliver us from evil. 
-For thine is the kingdom, 
-the power and the glory, 
+For Thine is The Kingdom, 
+the Power and the Glory, 
 for ever and ever. 
 Amen." 
 
