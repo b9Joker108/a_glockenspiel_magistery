@@ -248,6 +248,13 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 
 **Purport:** I have secured a few works by ISKCON for Harmonium. They all have virtues. This one has been well executed.
 
+### RASANANDA-DASA ###
+
+Rasananda-dasa \[Zuckerman, Hyman] (c2023). 'Proper Kirtana: According to the Vani of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada, His Disciples and Previous Acharyas'. Independently published. 
+
+**Purport:**
+...
+
 ### RICH, E. ###
 
 * Rich, Ellora Nimbkar (2023). 'Seið \[Seidhr] the Magic Words: Two Case Studies in Old Norse Etymology'. MA thesis in Viking & Medieval Norse Studies. Faculty of Icelandic & Comparative Cultural Studies, School of Humanities. Reykjavík, Iceland: University of Iceland.
