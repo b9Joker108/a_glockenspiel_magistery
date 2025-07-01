@@ -360,3 +360,57 @@ Citations:
 [1] Screenshot_20250701192051.jpg https://pplx-res.cloudinary.com/image/upload/v1751361727/user_uploads/4428017/a8298232-f05d-4e4f-b109-814d5f845e8d/Screenshot_20250701192051.jpg
 
 
+This is where the blocks were produced and may still be held: a 'dzom chos sgar par khang     Tell me everything you can find about it
+
+Certainly! Here’s a detailed overview of **a 'dzom chos sgar par khang** (ཨ་འཛོམས་ཆོས་སྒར་དཔར་ཁང་།), the block print house associated with the production of the *Seventeen Tantras* (rnying ma’i rgyud bcu bdun), including *Union of the Sun and Moon*.
+
+## a 'dzom chos sgar par khang  
+ཨ་འཛོམས་ཆོས་སྒར་དཔར་ཁང་།  
+a 'dzoms chos sgar par khang
+
+### **Name Breakdown**
+- **a 'dzom** (ཨ་འཛོམས་): Refers to A-’dzom, a prominent Nyingma monastic seat and region in eastern Tibet, associated with the A-’dzom ’Brug-pa lineage.
+- **chos sgar** (ཆོས་སྒར་): "Dharma encampment" or "religious encampment," a term used for monastic or retreat communities in Tibet.
+- **par khang** (དཔར་ཁང་): "Printing house" or "block print house."
+
+### **Historical Context**
+- **A-’dzom Chö Gar** (A-’dzom Dharma Encampment) is a major Nyingma institution in **Derge, Kham, eastern Tibet**.
+- The **par khang** (printing house) at A-’dzom Chö Gar is renowned for producing high-quality woodblock editions of important Nyingma scriptures, particularly during the late 19th and 20th centuries.
+- The *Seventeen Tantras* of the Dzogchen Upadesha cycle, including the *Union of the Sun and Moon*, were carved and printed here. These editions are known as the **A-’dzom blocks** (a 'dzoms par ma).
+
+### **Significance**
+- The A-’dzom blocks are considered among the most authoritative and widely used versions of the *Seventeen Tantras*. They have been reprinted in India (notably by Sanje Dorje in New Delhi, 1973–77) for use by the Tibetan diaspora and international scholars.
+- The **original woodblocks** are likely still preserved at the A-’dzom Chö Gar monastery, though access may be restricted due to location, political circumstances, and preservation concerns.
+
+### **Location**
+- **A-’dzom Chö Gar Monastery** is located in the historical region of **Derge** (སྡེ་དགེ་), Kham, eastern Tibet (now Dêgê County, Garzê Tibetan Autonomous Prefecture, Sichuan Province, PRC).
+- The printing house is part of the broader monastic complex.
+
+### **Role in Tibetan Printing**
+- The **par khang** at A-’dzom is one of several great Tibetan printing houses, alongside the famous Derge Parkhang (སྡེ་དགེ་དཔར་ཁང་) and others.
+- It specialized in Nyingma tantric texts and rare transmissions, especially those not widely available from central Tibetan sources.
+
+### **Contemporary Status**
+- The **blocks may still be held at the monastery**, though political and logistical factors can make direct access challenging.
+- Many block print editions from A-’dzom have been microfilmed, digitized, or reprinted in exile (notably in India and Nepal).
+- The **A-’dzom blocks** are sometimes referenced in academic catalogs as a mark of textual authenticity and lineage.
+
+### **References & Further Reading**
+- **BDRC (Buddhist Digital Resource Center):** Search for "a 'dzoms par ma" or "a 'dzom chos sgar" for digital records and scans.
+- **Gene Smith, Among Tibetan Texts** (Boston: Wisdom, 2001) — for context on Tibetan printing houses.
+- **Nyingma School of Tibetan Buddhism: Its Fundamentals and History** by Dudjom Rinpoche (trans. Gyurme Dorje) — for institutional history.
+- **TBRC/BDRC Work IDs:** W1KG13168 (Seventeen Tantras, A-’dzom blocks).
+
+### **EWTS Transliteration**
+- a 'dzoms chos sgar par khang
+
+**Summary Table**
+
+| Tibetan (Uchen)         | EWTS Transliteration        | English Translation           |
+|-------------------------|----------------------------|------------------------------|
+| ཨ་འཛོམས་ཆོས་སྒར་དཔར་ཁང་། | a 'dzoms chos sgar par khang | A-’dzom Chö Gar Printing House |
+
+**If you need more on the history, cataloging, or how to access prints from this par khang, let me know!**
+
+Citations:
+[1] Screenshot_20250701192051.jpg https://pplx-res.cloudinary.com/image/upload/v1751361727/user_uploads/4428017/a8298232-f05d-4e4f-b109-814d5f845e8d/Screenshot_20250701192051.jpg
