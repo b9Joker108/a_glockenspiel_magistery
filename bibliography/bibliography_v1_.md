@@ -274,6 +274,13 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 **Purport:**
 ...
 
+### ROSENBERG, S. ###
+
+Rosenberg, Susanne (2014). 'Kulning – An Ornamentation of the Surrounding Emptiness: About the Unique Scandinavian Herding Calls' (pp. 100 - 105) in Morrison, Jeff (ed.) (2014). *Voice and Speech Review*, Vol. 8, Issue 1. London, England, U.K.: Taylor & Francis Group. Source: https://doi.org/10.1080/23268263.2013.829712 (accessed: Wednesday, July 02, 2025)
+
+**Purport:**
+...
+
 ### ROVANG, P. ###
 
 * Rovang, Paul R. (2023). 'The Archetype of the Dying and Rising God in World Mythology'. London, England, U.K.: Lexington Books (an imprint of The Rowan & Littlefield Publishing Group, Inc.). ISBN 9781666917093 (ebook). 
