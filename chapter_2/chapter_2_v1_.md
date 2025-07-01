@@ -61,10 +61,7 @@ Here is the detailed outline for Chapters 2 through 18.
 
 
 
-#### **Chapter 16: Swar-Samadhi: Absorption in the Note**
-*   **16.1. Flow States and Trance Induction**
-    *   16.1.1. Jnana: The psychology of Mihaly Csikszentmihalyi's "Flow." The conditions for entering a state where action and awareness merge.
-    *   16.1.2. Sadhana: Designing your practice sessions to induce flow. The challenge must perfectly match your skill. The feedback must be immediate (the sound of the note). The focus must be absolute. This is the lesser *siddhi*: the ability to consistently achieve complete absorption in the act of making music.
+
 
 #### **Chapter 17: Lila-Smaranam: Remembering the Divine Play Through Music**
 *   **17.1. Raga as a Narrative Landscape**
