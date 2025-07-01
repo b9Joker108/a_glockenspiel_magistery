@@ -59,10 +59,7 @@ Here is the detailed outline for Chapters 2 through 18.
 
 
 
-#### **Chapter 15: Nada Yoga: The Union Through Sound**
-*   **15.1. Ahata and Anahata Nada: The Struck and Unstruck Sound**
-    *   15.1.1. Jnana: The yogic and tantric understanding of sound, from the external vibration (Ahata) to the internal, primordial hum of the cosmos (Anahata).
-    *   15.1.2. Sadhana: A meditation practice. After your musical session, sit in silence. Listen for the "sound behind the silence." Try to trace the resonance of the glockenspiel back into the stillness of your own consciousness.
+
 
 #### **Chapter 16: Swar-Samadhi: Absorption in the Note**
 *   **16.1. Flow States and Trance Induction**
