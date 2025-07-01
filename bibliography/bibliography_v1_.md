@@ -374,6 +374,13 @@ https://www.ifpindia.org/transcripts/pdf/T0656.pdf
 
 # V #
 
+### VEERARAGAVAN, A. ###
+
+Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவன்; IAST: Muṇaivar Ā. Vīrārākavaṉ] (ed.) (2015). Sri Vihagendra-Samhita: Sudarshana Mantra-Shastra \[Tamil: விஹகேந்திர சம்ஹிதா : சுதர்ஷண மந்திர ஷாஸ்திரம்; IAST: vihagendra-saṃhīta : sudarśana-mantra-śāstra]. Agama Pancharātriya. Thanjavur Sarasvati Mahal Publication No. 476. Saraswati Mahal Library and Research Centre of Maharaja Saraboji of Thanjavur, Thanjavur. (NB: Sanskrit rendered in Tamil script.). Ahmedabad, Gujarat, India: Saraswati Pustak Bhandar (Justice Siromani, Dr. A. Veeraragavan, M.A., B.L.I.S., Ph.D., Sanskrit Pandita). Source: https://archive.org/details/vihagendra-samhita-series-no.-476-thanjavur-sarasvati-mahal-series (accessed: Wednesday, July 02, 2025)
+
+**Purport:**
+...
+
 * Whaley, Garwood (1974). 'Fundamental Studies for Mallet'. New York, N.Y., U.S.A.: JR Publications, LLC (Joel Rothman).
 
 **Purport:**
