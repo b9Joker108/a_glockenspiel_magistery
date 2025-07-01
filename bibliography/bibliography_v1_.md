@@ -11,20 +11,31 @@
 **Purport:**
 Make time to read this complete issue and graze other issues in future.
 
-Authorship Unattributed (n.d.). 'Glockenspiel: Level One'. NB: No publication details, but as it makes reference to "cadets", it is produced by a martial company, marching band or comparable. A most useful and valuable resource for our purposes in designing a curriculum for a Western musical paradigm acquisition for glockenspiel. The document was initially sourced from - Source: https://www.amphion.ca/wp-content/uploads/2014/10/Glockenspiel-Level1.pdf (accessed: Saturday, June 14, 2025) in the following domain: Source: https://www.amphion.ca/ This website is home to the 136th Company(?) of the Royal Canadian Sea Cadet Corps (RCSCC), AMPHION, Nanaimo, British Colombia, Canada. But, there is no surety yet to assign this as an attribution. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Authorship%20Unattributed%20(n.d.).%20'Glockenspiel%20-%20Level%20One'.pdf  (accessed: Saturday, June 14, 2025)
+### ? ###
 
+* Authorship Unattributed (n.d.). 'Glockenspiel: Level One'. NB: No publication details, but as it makes reference to "cadets", it is produced by a martial company, marching band or comparable. A most useful and valuable resource for our purposes in designing a curriculum for a Western musical paradigm acquisition for glockenspiel. The document was initially sourced from - Source: https://www.amphion.ca/wp-content/uploads/2014/10/Glockenspiel-Level1.pdf (accessed: Saturday, June 14, 2025) in the following domain: Source: https://www.amphion.ca/ This website is home to the 136th Company(?) of the Royal Canadian Sea Cadet Corps (RCSCC), AMPHION, Nanaimo, British Colombia, Canada. But, there is no surety yet to assign this as an attribution. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Authorship%20Unattributed%20(n.d.).%20'Glockenspiel%20-%20Level%20One'.pdf  (accessed: Saturday, June 14, 2025)
 
+**Purport:**
+...
 
 # B #
 
 ### BASTIEN, J., *et al.* ###
 
-Bastien, Jane Smisor; Bastien, Lisa & Bastien, Lori (1999). 'Bastien Piano For Adults - A Beginning Course: Lessons, Theory, Technic, Sight Reading - Book 1'. San Diego, California, U.S.A.: Kjos Music Press. KJOS: Neil A. KJOS Music Company, Distributor. ISBN 0849773024. NB: The RCSCC with their No. "108" for 'Scarborough Fair' led me to this volume which is pure platinum, bejewelled and sublime filigree for our purposes. It constitutes a sound refresher for my lapsed pianoforte skillset. Mrs Hutchins would lament. But, the volume for the most part, is directly transferable, applicable and easily reworkable and adaptable to the glockenspiel. It is effectively, exactly what I was looking for, but was unsure how to find. Most of the published works on the glockenspiel are 'Mickey Mouse' and juvenilia, compared to the musicality and pedagogy that produced and is invested in this work. It should be noted, that it is of its time and dated. That said, at a glance, I have determined without reservation, that it is a premium and accomplished work and will be a foundation for my Western musicality point-of-[re]entry. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Bastien%2C%20J.%20S.%20(auth.)%2C%20et%20al.%20(1999).%20Bastien%20Piano%20For%20Adults%20-%20A%20Beginning%20Course%20-%20Lessons%2C%20Theory%2C%20Technic%2C%20Sight%20Rea...pdf (accessed: Saturday, June 14, 2025)
+* Bastien, Jane Smisor; Bastien, Lisa & Bastien, Lori (1999). 'Bastien Piano For Adults - A Beginning Course: Lessons, Theory, Technic, Sight Reading - Book 1'. San Diego, California, U.S.A.: Kjos Music Press. KJOS: Neil A. KJOS Music Company, Distributor. ISBN 0849773024. NB: The RCSCC with their No. "108" for 'Scarborough Fair' led me to this volume which is pure platinum, bejewelled and sublime filigree for our purposes. It constitutes a sound refresher for my lapsed pianoforte skillset. Mrs Hutchins would lament. But, the volume for the most part, is directly transferable, applicable and easily reworkable and adaptable to the glockenspiel. It is effectively, exactly what I was looking for, but was unsure how to find. Most of the published works on the glockenspiel are 'Mickey Mouse' and juvenilia, compared to the musicality and pedagogy that produced and is invested in this work. It should be noted, that it is of its time and dated. That said, at a glance, I have determined without reservation, that it is a premium and accomplished work and will be a foundation for my Western musicality point-of-[re]entry. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Bastien%2C%20J.%20S.%20(auth.)%2C%20et%20al.%20(1999).%20Bastien%20Piano%20For%20Adults%20-%20A%20Beginning%20Course%20-%20Lessons%2C%20Theory%2C%20Technic%2C%20Sight%20Rea...pdf (accessed: Saturday, June 14, 2025)
+
+**Purport:**
+...
+
+### BARLOW, H.; *et al* ###
 
 * Barlow, Harold & Morgenstern, Sam (comps.) (1975, 1945). 'A Dictionary of Musical Themes: The Music of More Than 10,000 Themes'. With an Introduction by John Erskine. Revised Edition. (NB: First edition published in 1945.). New York, N.Y., U.S.A.: Crown Publishers, Inc. ISBN 0517524465.
 
 **Purport:**
 This work will be invaluable as a reference.
+
+**Purport:**
+...
 
 ### BELKIN, A. ###
 
@@ -37,11 +48,17 @@ This work will be invaluable as a reference.
 
 Bock, Emmanuel (2010). '"If no Divells, no God": Devils, D(a)emons and Humankind on the Mediaeval and Early Modern English Stage'. Thesis. Durham, Stockton-on-Tees, England, U.K.: University of Durham. Source: http://etheses.dur.ac.uk/750/ (accessed: Tuesday, July 01, 2025)
 
+**Purport:**
+...
+
 # C #
 
 ### CANADIAN ... ###
 
-Canadian Department of National Defence (CDND) (attr.) (2008). 'Canadian Cadet Organizations: Military Band - Music Proficiency Levels Qualification Standard'. Canadian National Defence Headquarters (CNDHQ), Ottawa, Ontario, Canada: Youth Programs Development, Canadian Department of National Defence (CDND). A-CR-CCP-910/PG-001. Source:  https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/CDND%20(attr.)(2008).%20Canadian%20Cadet%20Organizations%20-%20Military%20Band%20-%20Music%20Proficiency%20Levels%20Qualification%20Standard.pdf (accessed: Sunday, June 15, 2025)
+* Canadian Department of National Defence (CDND) (attr.) (2008). 'Canadian Cadet Organizations: Military Band - Music Proficiency Levels Qualification Standard'. Canadian National Defence Headquarters (CNDHQ), Ottawa, Ontario, Canada: Youth Programs Development, Canadian Department of National Defence (CDND). A-CR-CCP-910/PG-001. Source:  https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/CDND%20(attr.)(2008).%20Canadian%20Cadet%20Organizations%20-%20Military%20Band%20-%20Music%20Proficiency%20Levels%20Qualification%20Standard.pdf (accessed: Sunday, June 15, 2025)
+
+**Purport:**
+...
 
 ### CZERNY, C. ###
 
@@ -106,7 +123,10 @@ Gasser, Erika Anne (2007). 'Manhood, Witchcraft and Possession in Old and New En
 
 ### GUPTA. S, *et al.* ###
 
-Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished Compendium Called the Yogarnava' in the *Journal of Indian Philosophy*, Vol. 50, 2022, pp. 345 - 385. Heidelberg, Germany: Springer Nature. DOI: https://doi.org/10.1007/s10781-022-09504-6 Source: https://link.springer.com/article/10.1007/s10781-022-09504-6 (accessed: Monday, June 16, 2025)
+* Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished Compendium Called the Yogarnava' in the *Journal of Indian Philosophy*, Vol. 50, 2022, pp. 345 - 385. Heidelberg, Germany: Springer Nature. DOI: https://doi.org/10.1007/s10781-022-09504-6 Source: https://link.springer.com/article/10.1007/s10781-022-09504-6 (accessed: Monday, June 16, 2025)
+
+**Purport:**
+...
 
 
 
@@ -121,7 +141,7 @@ Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished 
 
 ### HOPKINS, S. ###
 
-Hopkins, Steven Paul (2002). 'Singing the Body of God: The Hymns of Vedantadeshika in Their South Indian Tradition'. New York, N.Y., U.S.A.: Oxford University Press, Inc. ISBN 0195127358.
+* Hopkins, Steven Paul (2002). 'Singing the Body of God: The Hymns of Vedantadeshika in Their South Indian Tradition'. New York, N.Y., U.S.A.: Oxford University Press, Inc. ISBN 0195127358.
 
 **Purport:**
 ...
@@ -205,7 +225,12 @@ All the articles within this volume need to be entered in the Bibliography indiv
 
 # O #
 
-Ohrvik, Ane & Guðmundsdóttir, Aðalheiður (auths.) (2015). 'Magic and Texts: An Introduction' (pp. 7 - 14) in Amundsen, Arne Bugge (ed.), *et al.* (2015). *ARV: Nordic Yearbook of Folklore - Special Issue: Magic and Texts*, Vol. 70. Uppsala, Sweden: The Royal Gustavus Adolphus Academy. ISSN 0066-8176. Source: xxx (accessed: Wednesday, June 25, 2025)
+### OHRVIK, A,; *et al.* ###
+
+* Ohrvik, Ane & Guðmundsdóttir, Aðalheiður (auths.) (2015). 'Magic and Texts: An Introduction' (pp. 7 - 14) in Amundsen, Arne Bugge (ed.), *et al.* (2015). *ARV: Nordic Yearbook of Folklore - Special Issue: Magic and Texts*, Vol. 70. Uppsala, Sweden: The Royal Gustavus Adolphus Academy. ISSN 0066-8176. Source: xxx (accessed: Wednesday, June 25, 2025)
+
+**Purport:**
+...
 
 ### OSER, Z.; *et al* ###
 
@@ -255,7 +280,7 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 
 ### RASANANDA-DASA ###
 
-Rasananda-dasa \[Zuckerman, Hyman] (c2023). 'Proper Kirtana: According to the Vani of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada, His Disciples and Previous Acharyas'. Independently published. 
+* Rasananda-dasa \[Zuckerman, Hyman] (c2023). 'Proper Kirtana: According to the Vani of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada, His Disciples and Previous Acharyas'. Independently published. 
 
 **Purport:**
 ...
@@ -276,7 +301,7 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 
 ### ROSENBERG, S. ###
 
-Rosenberg, Susanne (2014). 'Kulning – An Ornamentation of the Surrounding Emptiness: About the Unique Scandinavian Herding Calls' (pp. 100 - 105) in Morrison, Jeff (ed.) (2014). *Voice and Speech Review*, Vol. 8, Issue 1. London, England, U.K.: Taylor & Francis Group. Source: https://doi.org/10.1080/23268263.2013.829712 (accessed: Wednesday, July 02, 2025)
+* Rosenberg, Susanne (2014). 'Kulning – An Ornamentation of the Surrounding Emptiness: About the Unique Scandinavian Herding Calls' (pp. 100 - 105) in Morrison, Jeff (ed.) (2014). *Voice and Speech Review*, Vol. 8, Issue 1. London, England, U.K.: Taylor & Francis Group. Source: https://doi.org/10.1080/23268263.2013.829712 (accessed: Wednesday, July 02, 2025)
 
 **Purport:**
 ...
@@ -314,7 +339,10 @@ This work is very well executed for a reference work.
 
 # T #
 
-Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in 'Prabuddha Bharata or Awakened India: Perspectives on Vedanta', Vol. 115, No. 1, January, 2010. Kolkata, India: Advaita Ashrama. Source:  https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha%Bharata/Year%2010/01PB-Jan2010.pdf(accessed: Tuesday, June 24, 2025)
+* Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in 'Prabuddha Bharata or Awakened India: Perspectives on Vedanta', Vol. 115, No. 1, January, 2010. Kolkata, India: Advaita Ashrama. Source:  https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha%Bharata/Year%2010/01PB-Jan2010.pdf(accessed: Tuesday, June 24, 2025)
+
+**Purport:**
+...
 
 
 
@@ -323,20 +351,30 @@ Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in 'Pra
 
 # U #
 
-Unknown (n.d.). 'Bhutashuddhyadi (Sanskrit: भूतशुद्ध्यादि; IAST: Bhūtaśuddyādi; alt. title: Sanskrit: भूतशुद्धिविधिः; Bhūtaśuddhividhi)', T. no. 656. Pondichéry [Pondicherry], India: Institut Français d’Indologie [French; English: French Institute of Pondicherry].
+### ? ###
+
+* Unknown (n.d.). 'Bhutashuddhyadi (Sanskrit: भूतशुद्ध्यादि; IAST: Bhūtaśuddyādi; alt. title: Sanskrit: भूतशुद्धिविधिः; Bhūtaśuddhividhi)', T. no. 656. Pondichéry [Pondicherry], India: Institut Français d’Indologie [French; English: French Institute of Pondicherry].
 https://www.ifpindia.org/transcripts/pdf/T0656.pdf
 
+**Purport:**
+...
 
-Urban, Hugh B. (1998). 'The Torment of Secrecy: Ethical and Epistemological Problems in the Study of Esoteric Traditions' in the *History of Religions*, Vol. 37, No. 3, Feb., 1998, pp. 209 - 248. Chicago, Illinois, U.S.A.: The University of Chicago Press.
 
+### URBAN, H. ###
 
+* Urban, Hugh B. (1998). 'The Torment of Secrecy: Ethical and Epistemological Problems in the Study of Esoteric Traditions' in the *History of Religions*, Vol. 37, No. 3, Feb., 1998, pp. 209 - 248. Chicago, Illinois, U.S.A.: The University of Chicago Press.
+
+**Purport:**
+...
 
 
 # V #
 
 * Whaley, Garwood (1974). 'Fundamental Studies for Mallet'. New York, N.Y., U.S.A.: JR Publications, LLC (Joel Rothman).
 
-Purport: I have a really good feeling and intuition about this volume, its author, arranger and publisher.
+**Purport:**
+
+I have a really good feeling and intuition about this volume, its author, arranger and publisher.
 
 
 
