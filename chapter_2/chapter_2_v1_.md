@@ -48,10 +48,7 @@ Here is the detailed outline for Chapters 2 through 18.
 
 
 
-#### **Chapter 10: Raga-Mala: The Garland of Ragas**
-*   **10.1. The Art of the Graceful Transition**
-    *   10.1.1. Jnana: Using pivot notes (*nyasa swaras*) and common phrases to move seamlessly from one raga to another.
-    *   10.1.2. Sadhana: Creating a short Raga-Mala: Yaman -> Bhupali -> Kedar. The goal is to make the transition points sound intentional and beautiful.
+
 
 #### **Chapter 11: Jugalbandi: The Divine Duet**
 *   **11.1. The Art of Listening and Responding**
