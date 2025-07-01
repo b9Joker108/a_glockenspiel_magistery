@@ -52,10 +52,7 @@ Here is the detailed outline for Chapters 2 through 18.
 
 
 
-#### **Chapter 12: Manasik Sadhana: The Inner Recital**
-*   **12.1. The Neuroscience of Auditory Imagery**
-    *   12.1.1. Jnana: How mental practice builds neural pathways just as effectively as physical practice.
-    *   12.1.2. Sadhana: Before sleeping, perform an entire raga or bhajan on your "inner glockenspiel" without moving a muscle. Visualize the movements, hear the notes, feel the emotion.
+
 
 ---
 
