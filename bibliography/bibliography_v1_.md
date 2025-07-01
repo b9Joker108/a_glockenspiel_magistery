@@ -274,6 +274,16 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 
 Singh, Dr. Meikam Thoiba (2023). 'Hindustani Classical Music and Its Principles' in *ShodhKosh: Journal of Visual and Performing Arts*, Vol. 4, No. 2, Jul - Dec, 2023, pp. 247 - 258. NB: This researcher and author has a profound overview of the Indian artistic and aesthetic tradition(s), historical abd contemporary. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Singh%2C%20Dr.%20Meikam%20Thoiba%20(2023).%20'Hindustani%20Classical%20Music%20and%20Its%20Principles'.pdf (accessed: Saturday, June 14, 2025)
 
+**Purport:** 
+...
+
+### SIVANANDA ###
+
+* Sivananda, Sri Swami (1967, 1958). 'Sadhana: A Text-Book of the Psychology and Practice of the Techniques to Spiritual Perfection'. Second edition. (NB: First edition published in 1958.). Sivanandanagar, Tehri-Garhwal, Uttar Pradesh, Himalayas, India: Divine Life Society (Swami Krishnananda).
+
+**Purport:** 
+...
+
 ## STRAUS, J. ###
 
 * Straus, Joseph N., *et al.* (2012, 2008, 2003). 'Elements of Music'. Third edition. Massachusetts, Boston, U.S.A.: Pearson. ISBN 9780205007097. 
