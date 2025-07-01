@@ -1,4 +1,4 @@
-Dedication: To my paternal Nanna, Nrs Isabella Stenberg (nee Johns) whose most beloved home and olace of residence was Kew/Camberwell, Victoria, Australia.
+Dedication: To my paternal Nanna, Mrs Isabella Stenberg (nee Johns) whose most beloved home and olace of residence was Kew/Camberwell, Victoria, Australia.
 
 'The Lord's Prayer', also known as the 'Our Father', is a central Christian prayer found in the Gospels of Matthew and Luke. It is a model prayer taught by Jesus to His Disciples, outlining key aspects of Christian Prayer: Adoration, Petition, Protection and a Yearning for God's Kingdom. The Prayer expresses a desire for God's Will to be done on Earth as it is in Heaven, for daily needs to be met, for forgiveness, and for deliverance from evil. 
 
