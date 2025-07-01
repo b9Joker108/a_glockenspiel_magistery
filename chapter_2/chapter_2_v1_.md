@@ -50,10 +50,7 @@ Here is the detailed outline for Chapters 2 through 18.
 
 
 
-#### **Chapter 11: Jugalbandi: The Divine Duet**
-*   **11.1. The Art of Listening and Responding**
-    *   11.1.1. Jnana: The roles of lead and accompaniment. The *sawaal-jawaab* (question-answer) paradigm.
-    *   11.1.2. Sadhana: Practicing with a recording of another instrumentalist. Try to "answer" their phrases. This develops responsive musicality. The ultimate Jugalbandi is with the Divine, responding to the "music" of inspiration.
+
 
 #### **Chapter 12: Manasik Sadhana: The Inner Recital**
 *   **12.1. The Neuroscience of Auditory Imagery**
