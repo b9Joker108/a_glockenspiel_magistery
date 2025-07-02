@@ -348,6 +348,10 @@ This researcher and author has a profound overview of the Indian artistic and ae
 **Purport**
 This work is very well executed for a reference work.
 
+
+Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography'. Routledge Library Editions: Hinduism - Vol. 6. (NB: First published in 1985 by Routledge & Kegan Paul PLC, London, England, U.K.). Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429053849 (Vol. 6) (ebk).
+
+
 # T #
 
 * Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in 'Prabuddha Bharata or Awakened India: Perspectives on Vedanta', Vol. 115, No. 1, January, 2010. Kolkata, India: Advaita Ashrama. Source:  https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha%Bharata/Year%2010/01PB-Jan2010.pdf(accessed: Tuesday, June 24, 2025)
