@@ -303,6 +303,13 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 **Purport:**
 ...
 
+### ROSCOE, B. ###
+
+* Roscoe, Brett Trevor (2014). 'Sagacious Liminality: The Boundaries of Wisdom in Old English and Old Norse-Icelandic Literature'. Dissertation. PhD (Philosophy). Graduate Program in English Language and Literature. Kingston, Ontario, Canada: Queen’s University.  
+
+**Purport:**
+...
+
 ### ROSENBERG, S. ###
 
 * Rosenberg, Susanne (2014). 'Kulning – An Ornamentation of the Surrounding Emptiness: About the Unique Scandinavian Herding Calls' (pp. 100 - 105) in Morrison, Jeff (ed.) (2014). *Voice and Speech Review*, Vol. 8, Issue 1. London, England, U.K.: Taylor & Francis Group. Source: https://doi.org/10.1080/23268263.2013.829712 (accessed: Wednesday, July 02, 2025)
