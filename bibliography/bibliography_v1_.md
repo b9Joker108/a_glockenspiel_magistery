@@ -421,7 +421,7 @@ https://www.ifpindia.org/transcripts/pdf/T0656.pdf
 * Viswanathan, T. & Allen, Matthew Harp (2004). 'Music in South India: Experiencing Music, Expressing Culture - The Karṇāṭak \[Alt.: Carnatic, Karnatic] Concert Tradition and Beyond'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 0195145917 (pbk.)
 
 **Purport:**
-This work and this series are notable for a number of reasons. It should constitute a structural and standard reference. [Tanjore 'Viswa' Viswanathan](https://en.wikipedia.org/wiki/T._Viswanathan) (1927 – 2002) was a Carnatic flautist and musician who specialized in the '[venu](https://en.wikipedia.org/wiki/Venu)' or 'murali' (Sanskrit: वेणु, IAST: vēṇu; मुरळि; IAST: muraḷi), an instrument attested in the [Rig Veda](https://en.wikipedia.org/wiki/Rigveda).
+This work and this series are notable for a number of reasons. It should constitute a structural and standard reference. [Tanjore 'Viswa' Viswanathan](https://en.wikipedia.org/wiki/T._Viswanathan) (1927 – 2002) was a [Carnatic](https://en.wikipedia.org/wiki/Carnatic_music) flautist and musician who specialized in the '[venu](https://en.wikipedia.org/wiki/Venu)' or 'murali' (Sanskrit: वेणु, IAST: vēṇu; मुरळि; IAST: muraḷi), an instrument attested in the [Rig Veda](https://en.wikipedia.org/wiki/Rigveda). Viswa comes from a family and lineage of Indian performative adepts or cultural royalty.
 
 # W #
 
