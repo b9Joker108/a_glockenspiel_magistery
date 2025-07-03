@@ -411,7 +411,23 @@ https://www.ifpindia.org/transcripts/pdf/T0656.pdf
 
 ### VEERARAGAVAN, A. ###
 
-Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவன்; IAST: Muṇaivar Ā. Vīrārākavaṉ] (ed.) (2015). Sri Vihagendra-Samhita: Sudarshana Mantra-Shastra \[Tamil: விஹகேந்திர சம்ஹிதா : சுதர்ஷண மந்திர ஷாஸ்திரம்; IAST: vihagendra-saṃhīta : sudarśana-mantra-śāstra]. Agama Pancharātriya. Thanjavur Sarasvati Mahal Publication No. 476. Saraswati Mahal Library and Research Centre of Maharaja Saraboji of Thanjavur, Thanjavur. (NB: Sanskrit rendered in Tamil script.). Ahmedabad, Gujarat, India: Saraswati Pustak Bhandar (Justice Siromani, Dr. A. Veeraragavan, M.A., B.L.I.S., Ph.D., Sanskrit Pandita). Source: https://archive.org/details/vihagendra-samhita-series-no.-476-thanjavur-sarasvati-mahal-series (accessed: Wednesday, July 02, 2025)
+* Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவன்; IAST: Muṇaivar Ā. Vīrārākavaṉ] (ed.) (2015). Sri Vihagendra-Samhita: Sudarshana Mantra-Shastra \[Tamil: விஹகேந்திர சம்ஹிதா : சுதர்ஷண மந்திர ஷாஸ்திரம்; IAST: vihagendra-saṃhīta : sudarśana-mantra-śāstra]. Agama Pancharātriya. Thanjavur Sarasvati Mahal Publication No. 476. Saraswati Mahal Library and Research Centre of Maharaja Saraboji of Thanjavur, Thanjavur. (NB: Sanskrit rendered in Tamil script.). Ahmedabad, Gujarat, India: Saraswati Pustak Bhandar (Justice Siromani, Dr. A. Veeraragavan, M.A., B.L.I.S., Ph.D., Sanskrit Pandita). Source: https://archive.org/details/vihagendra-samhita-series-no.-476-thanjavur-sarasvati-mahal-series (accessed: Wednesday, July 02, 2025)
+
+**Purport:**
+...
+
+### VISWANATHAN, T.; *et al* ###
+
+* Viswanathan, T. & Allen, Matthew Harp (2004). 'Music in South India: Experiencing Music, Expressing Culture - The Karṇāṭak \[Alt.: Carnatic, Karnatic] Concert Tradition and Beyond'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 0195145917 (pbk.)
+
+**Purport:**
+This work and this series are notable for a number of reasons. It should constitute a structural and standard reference.
+
+# W #
+
+### WAGNER, J. ###
+
+* Wagner, Joseph (auth.) & Moore, Douglas (ed.) (1959). 'Orchestration: A Practical Handbook'. New York, N.Y., U.S.A.: McGraw-Hill Series in Music. McGraw-Hill Book Company, Inc.
 
 **Purport:**
 ...
@@ -422,18 +438,6 @@ Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவ�
 
 **Purport:**
 I have a really good feeling and intuition about this volume, its author, arranger and publisher.
-
-
-
-
-# W #
-
-### WAGNER, J. ###
-
-* Wagner, Joseph (auth.) & Moore, Douglas (ed.) (1959). 'Orchestration: A Practical Handbook'. New York, N.Y., U.S.A.: McGraw-Hill Series in Music. McGraw-Hill Book Company, Inc.
-
-**Purport:**
-...
 
 ### WHITTALL, A. ###
 
