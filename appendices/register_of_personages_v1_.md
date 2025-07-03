@@ -488,6 +488,36 @@ Citations:
 
 # E #
 
+### ERICKSON, Milton H. ###
+
+Milton Erickson the grandsire of Clinical Hypnotherapy was also the point of origin of this sensory multimodality that has been applied in Embodied Musicality?
+
+Milton H. Erickson is widely recognized as the foundational figure in clinical hypnotherapy, pioneering approaches that revolutionized psychotherapy through the creative use of language, indirect suggestion, and the strategic engagement of the client’s own resources[1][3][5][6]. However, whilst Erickson’s work deeply emphasized **multisensory awareness**, individual experience, and the utilization of all available channels of communication—including nonverbal cues, body language, and metaphor—he is not the direct point of origin for the concept of **sensory multimodality** as it is now articulated in embodied musicality or contemporary music pedagogy.
+
+**Erickson’s Innovations and Multimodality in Therapy:**
+- **Nonverbal Communication:** Erickson’s own recovery from polio heightened his sensitivity to nonverbal signals and “body memories,” leading him to recognize the therapeutic power of bodily awareness and sensory experience[2][5].
+- **Utilization Approach:** He was famous for “utilizing” every aspect of a client’s experience—verbal, nonverbal, sensory, and even cultural background—to facilitate change, which foreshadows later multimodal and embodied approaches[1][2][3][6].
+- **Indirect Suggestion and Experiential Arousal:** His methods often involved engaging multiple senses and layers of experience through metaphor, storytelling, and experiential tasks, encouraging clients to access inner resources through all available modalities[1][3][5].
+
+**However, the specific application of “sensory multimodality” in the sense used in embodied music cognition and pedagogy—where learning cycles deliberately integrate singing, moving, playing, notating, and improvising—arises from different intellectual traditions:**
+- **Music education methodologies** (Dalcroze, Kodály, Orff) and **embodied cognition** research in neuroscience and philosophy are the primary sources for the structured, multimodal approaches now foundational in music pedagogy.
+- **Erickson’s influence** is more indirect: his legacy is in the therapeutic value of engaging the whole person, the creative use of all sensory and communicative channels, and the centrality of experience and individuality in learning and change[3][4][5].
+
+**In summary:**  
+Milton Erickson’s clinical innovations anticipated and inspired later developments in multimodal and embodied approaches, but he is not the direct point of origin for the structured sensory multimodality now applied in embodied musicality. Instead, his work provided a philosophical and methodological precedent for **valuing multisensory, individualized, and experiential engagement**—principles that have since been developed and formalized in other fields, including music education and embodied cognition[1][2][3][5][6].
+
+Citations:
+[1] Milton Erickson and Ericksonian Hypnosis - https://gettherapybirmingham.com/milton-erickson-and-ericksonian-hypnosis/
+[2] Milton Erickson, MD on Strategic Multicultural Psychotherapy https://catalog.erickson-foundation.org/item/milton-erickson-md-strategic-multicultural-psychotherapy
+[3] The Contributions of Milton Erickson to Modern Clinical ... https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003449126-8/contributions-milton-erickson-modern-clinical-hypnosis-roxanna-erickson-klein-daniel-short
+[4] Milton Erickson Through the Eyes of His Daughter https://www.psychotherapy.net/blog/title/12-things-you-didn-t-know-about-milton-h.-erickson-and-his-daughter-betty-alice-erickson
+[5] Milton erickson techniques https://cdn.prod.website-files.com/672508028c20261f202f0b6c/67b0a882ac26ee049c6edb19_gikokipexopifaduki.pdf
+[6] Milton H. Erickson | Open Library https://openlibrary.org/authors/OL953652A/Milton_H._Erickson
+[7] The Therapy of Milton Erickson - an appreciation by John ... https://www.slideshare.net/slideshow/the-therapy-of-milton-erickson-an-appreciation-by-john-marsden/27209455
+[8] N EW SLE TT ER https://www.erickson-foundation.org/s/Vol-21-No-3.pdf
+
+### END ERIKSON ###
+
 # F #
 
 # G #
