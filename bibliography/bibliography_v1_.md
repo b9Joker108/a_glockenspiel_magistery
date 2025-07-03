@@ -134,7 +134,7 @@ Gasser, Erika Anne (2007). 'Manhood, Witchcraft and Possession in Old and New En
 
 ### HEIDE, E. ###
 
-* Heide, Eldar (2011). 'Holy Islands and the Otherworld. Places beyond Water' (pp. 57 - 80) in Jørgensen, Torstein & Jaritz, Gerhard (eds.) (2011). *Isolated Islands in Medieval Nature, Culture and Mind*. The Muhu \[Island] Proceedings No. 2. CEU \[Central European University] Medievalia Vol. 14. First edition. Budapest, Hungary: Central European University Press. ISBN 9786155053245. 
+* Heide, Eldar (2011). 'Holy Islands and the Otherworld. Places beyond Water' (pp. 57 - 80) in Jørgensen, Torstein & Jaritz, Gerhard (eds.) (2011). \*Isolated Islands in Medieval Nature, Culture and Mind*. The Muhu \[Island] Proceedings No. 2. CEU \[Central European University] Medievalia Vol. 14. First edition. Budapest, Hungary: Central European University Press. ISBN 9786155053245. 
 
 **Purport:**
 ...
