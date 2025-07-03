@@ -333,6 +333,11 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 **Purport:** 
 ...
 
+### RUCKERT, G. ###
+* Ruckert, George E. (2004). 'Music in North India: Experiencing Music, Expressing Culture'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 0195139933 (pbk.) 
+
+**Purport:** 
+...
 
 # S #
 
