@@ -22,10 +22,10 @@ Make time to read this complete issue and graze other issues in future.
 
 ### BASTIEN, J., *et al.* ###
 
-* Bastien, Jane Smisor; Bastien, Lisa & Bastien, Lori (1999). 'Bastien Piano For Adults - A Beginning Course: Lessons, Theory, Technic, Sight Reading - Book 1'. San Diego, California, U.S.A.: Kjos Music Press. KJOS: Neil A. KJOS Music Company, Distributor. ISBN 0849773024. NB: The RCSCC with their No. "108" for 'Scarborough Fair' led me to this volume which is pure platinum, bejewelled and sublime filigree for our purposes. It constitutes a sound refresher for my lapsed pianoforte skillset. Mrs Hutchins would lament. But, the volume for the most part, is directly transferable, applicable and easily reworkable and adaptable to the glockenspiel. It is effectively, exactly what I was looking for, but was unsure how to find. Most of the published works on the glockenspiel are 'Mickey Mouse' and juvenilia, compared to the musicality and pedagogy that produced and is invested in this work. It should be noted, that it is of its time and dated. That said, at a glance, I have determined without reservation, that it is a premium and accomplished work and will be a foundation for my Western musicality point-of-[re]entry. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Bastien%2C%20J.%20S.%20(auth.)%2C%20et%20al.%20(1999).%20Bastien%20Piano%20For%20Adults%20-%20A%20Beginning%20Course%20-%20Lessons%2C%20Theory%2C%20Technic%2C%20Sight%20Rea...pdf (accessed: Saturday, June 14, 2025)
+* Bastien, Jane Smisor; Bastien, Lisa & Bastien, Lori (1999). 'Bastien Piano For Adults - A Beginning Course: Lessons, Theory, Technic, Sight Reading - Book 1'. San Diego, California, U.S.A.: Kjos Music Press. KJOS: Neil A. KJOS Music Company, Distributor. ISBN 0849773024.  Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Bastien%2C%20J.%20S.%20(auth.)%2C%20et%20al.%20(1999).%20Bastien%20Piano%20For%20Adults%20-%20A%20Beginning%20Course%20-%20Lessons%2C%20Theory%2C%20Technic%2C%20Sight%20Rea...pdf (accessed: Saturday, June 14, 2025)
 
 **Purport:**
-...
+The [RCSCC](https://en.wikipedia.org/wiki/Royal_Canadian_Sea_Cadets) with their No. "108" for '[Scarborough Fair](https://en.wikipedia.org/wiki/Scarborough_Fair_(ballad))' led me to this volume which is pure platinum, bejewelled and sublime filigree for our purposes. It constitutes a sound refresher for my lapsed pianoforte skillset. Mrs Hutchins would lament. But, the volume for the most part, is directly transferable, applicable and easily reworkable and adaptable to the glockenspiel. It is effectively, exactly what I was looking for, but was unsure how to find. Most of the published works on the glockenspiel are 'Mickey Mouse' juvenilia compared to the sound musicality and tested and tried pedagogy that produced and is invested in this work. It should be noted, that it is of its time and dated. That said, at a glance, I have determined without reservation, that it is a premium and accomplished work and will be a foundation for my Western musicality point-of-\[re]entry.
 
 ### BARLOW, H.; *et al* ###
 
@@ -46,7 +46,7 @@ This work will be invaluable as a reference.
 
 ### BOCK, E. ###
 
-Bock, Emmanuel (2010). '"If no Divells, no God": Devils, D(a)emons and Humankind on the Mediaeval and Early Modern English Stage'. Thesis. Durham, Stockton-on-Tees, England, U.K.: University of Durham. Source: http://etheses.dur.ac.uk/750/ (accessed: Tuesday, July 01, 2025)
+* Bock, Emmanuel (2010). '"If no Divells, no God": Devils, D(a)emons and Humankind on the Mediaeval and Early Modern English Stage'. Thesis. Durham, Stockton-on-Tees, England, U.K.: University of Durham. Source: http://etheses.dur.ac.uk/750/ (accessed: Tuesday, July 01, 2025)
 
 **Purport:**
 ...
@@ -62,8 +62,7 @@ Bock, Emmanuel (2010). '"If no Divells, no God": Devils, D(a)emons and Humankind
 
 ### CZERNY, C. ###
 
-Czerny, Carl (1833). ‘125 Passagenübungen, Op. 261:
-Études élémentaires pour le piano-forte, classées dans un ordre progressif et soigneusement doigtées; calculées pour obtenir la légèreté et l’indépendance des doigts et faciliter l’enseignement des jeunes élèves \[German & French; English: 125 Exercises in Passage-playing, Op. 261: Elementary Studies for the Pianoforte, Arranged in Progressive Order and Carefully Fingered; Designed to Achieve Lightness and Independence of the Fingers and Facilitate the Instruction of Young Pupils]’. Book One. Paris, France: A. Farrenc. Source: https://archive.org/details/imslp-exercises-in-passage-playing-op261-czerny-carl (accessed: Monday, June 30, 2025)
+* Czerny, Carl (1833). ‘125 Passagenübungen, Op. 261: Études élémentaires pour le piano-forte, classées dans un ordre progressif et soigneusement doigtées; calculées pour obtenir la légèreté et l’indépendance des doigts et faciliter l’enseignement des jeunes élèves \[German & French; English: 125 Exercises in Passage-playing, Op. 261: Elementary Studies for the Pianoforte, Arranged in Progressive Order and Carefully Fingered; Designed to Achieve Lightness and Independence of the Fingers and Facilitate the Instruction of Young Pupils]’. Book One. Paris, France: A. Farrenc. Source: https://archive.org/details/imslp-exercises-in-passage-playing-op261-czerny-carl (accessed: Monday, June 30, 2025)
 
 **Purport:**
 ...
@@ -102,7 +101,7 @@ Czerny, Carl (1833). ‘125 Passagenübungen, Op. 261:
 
 ### GASSER, E. ###
 
-Gasser, Erika Anne (2007). 'Manhood, Witchcraft and Possession in Old and New England'. Dissertation for the Doctor of Philosophy degree. History & Women’s Studies. Ann Arbor, Michigan, U.S.A.: The University of Michigan. 
+* Gasser, Erika Anne (2007). 'Manhood, Witchcraft and Possession in Old and New England'. Dissertation for the Doctor of Philosophy degree. History & Women’s Studies. Ann Arbor, Michigan, U.S.A.: The University of Michigan. 
 
 **Purport:**
 ...
@@ -134,7 +133,7 @@ Gasser, Erika Anne (2007). 'Manhood, Witchcraft and Possession in Old and New En
 
 ### HEIDE, E. ###
 
-* Heide, Eldar (2011). 'Holy Islands and the Otherworld. Places beyond Water' (pp. 57 - 80) in Jørgensen, Torstein & Jaritz, Gerhard (eds.) (2011). *Isolated Islands in Medieval Nature, Culture and Mind*. The Muhu \[Island] Proceedings No. 2. CEU \[Central European University] Medievalia Vol. 14. First edition. Budapest, Hungary: Central European University Press. ISBN 9786155053245. 
+* Heide, Eldar (2011). 'Holy Islands and the Otherworld: Places Beyond Water' (pp. 57 - 80) in Jørgensen, Torstein & Jaritz, Gerhard (eds.) (2011). *Isolated Islands in Medieval Nature, Culture and Mind*. The Muhu \[Island] Proceedings No. 2. CEU \[Central European University] Medievalia Vol. 14. First edition. Budapest, Hungary: Central European University Press. ISBN 9786155053245. 
 
 **Purport:**
 ...
@@ -248,7 +247,7 @@ This accomplished work is one of the foundations for the upthrust of my Introduc
 
 ### OSER, Z.; *et al* ###
 
-Öser, Khenpo Zhenphen \[Tibetan: མཁན་པོ་ཞེན་འཕེན་འོད་ཟེར། ; EWTS: mkhan po zhen 'phen 'od zer] (auth. & comm.) & Valby, Jim (trans.) (2016, 2008). 'Ornament of the State of Samantabhadra: Commentary on the *All-Creating King, Pure Perfect Presence, Great Perfection of All Phenomena* - Volume One \[Tibetan: ཆོས་ཐམས་ཅད་རྫོགས་པ་ཆེན་པོ་བྱང་ཆུབ་ཀྱི་སེམས་ཀུན་བྱེད་རྒྱལ་པོའི་འགྲེལ་པ་ཀུན་བཟང་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ། ; EWTS: chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po'i 'grel pa kun bzang dgongs rgyan zhes bya ba bzhugs so]'. Second edition. Shelburne Falls, Massachusetts, U.S.A.: Jim Valby Publications. ISBN 9780982285404. Source: https://dn790002.ca.archive.org/0/items/JimValbyKunjedGyalpoSeriesVol1/Jim%20Valby%20-%20Kunjed%20Gyalpo%20Series%20%28Vol%201%29.pdf (accessed: Tuesday, July 01, 2025)
+* Öser, Khenpo Zhenphen \[Tibetan: མཁན་པོ་ཞེན་འཕེན་འོད་ཟེར། ; EWTS: mkhan po zhen 'phen 'od zer] (auth. & comm.) & Valby, Jim (trans.) (2016, 2008). 'Ornament of the State of Samantabhadra: Commentary on the *All-Creating King, Pure Perfect Presence, Great Perfection of All Phenomena* - Volume One \[Tibetan: ཆོས་ཐམས་ཅད་རྫོགས་པ་ཆེན་པོ་བྱང་ཆུབ་ཀྱི་སེམས་ཀུན་བྱེད་རྒྱལ་པོའི་འགྲེལ་པ་ཀུན་བཟང་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ། ; EWTS: chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po'i 'grel pa kun bzang dgongs rgyan zhes bya ba bzhugs so]'. Second edition. Shelburne Falls, Massachusetts, U.S.A.: Jim Valby Publications. ISBN 9780982285404. Source: https://dn790002.ca.archive.org/0/items/JimValbyKunjedGyalpoSeriesVol1/Jim%20Valby%20-%20Kunjed%20Gyalpo%20Series%20%28Vol%201%29.pdf (accessed: Tuesday, July 01, 2025)
 
 **Purport:**
 ...
@@ -358,9 +357,12 @@ This researcher and author has a profound overview of the Indian artistic and ae
 **Purport**
 This work is very well executed for a reference work.
 
+### STUTLEY, M. ###
 
 Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography'. Routledge Library Editions: Hinduism - Vol. 6. (NB: First published in 1985 by Routledge & Kegan Paul PLC, London, England, U.K.). Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429053849 (Vol. 6) (ebk).
 
+**Purport**
+...
 
 # T #
 
@@ -402,10 +404,11 @@ Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவ�
 **Purport:**
 ...
 
+### WHALEY, G. ###
+
 * Whaley, Garwood (1974). 'Fundamental Studies for Mallet'. New York, N.Y., U.S.A.: JR Publications, LLC (Joel Rothman).
 
 **Purport:**
-
 I have a really good feeling and intuition about this volume, its author, arranger and publisher.
 
 
