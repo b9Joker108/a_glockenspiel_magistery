@@ -336,6 +336,13 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 
 # S #
 
+### SANYAL, R.; *et al* ###
+
+* Sanyal, Ritwik & Widdess, Richard (2004). 'Dhrupad: Tradition and Performance in Indian Music'. SOAS Musicology Series. New York, N.Y., U.S.A.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781003347453 (ebk).
+
+**Purport:** 
+...
+
 ### SINGH, M. ###
 
 * Singh, Dr. Meikam Thoiba (2023). 'Hindustani Classical Music and Its Principles' in *ShodhKosh: Journal of Visual and Performing Arts*, Vol. 4, No. 2, Jul - Dec, 2023, pp. 247 - 258. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Singh%2C%20Dr.%20Meikam%20Thoiba%20(2023).%20'Hindustani%20Classical%20Music%20and%20Its%20Principles'.pdf (accessed: Saturday, June 14, 2025)
