@@ -1,6 +1,6 @@
 
 
-![Watch on YouTube](https://youtu.be/DnK4jY8J84k?si=1najrk-mTZMy2Wc_)
+[![Watch on YouTube](https://youtu.be/DnK4jY8J84k?si=1najrk-mTZMy2Wc_)
 
 Om Namah Shivaya Shantaya
 
