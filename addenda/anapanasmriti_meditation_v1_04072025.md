@@ -1,3 +1,84 @@
+That was really good, but no investigate it in non-Bauddhadharma traditions.
+
+**Ānāpānasati** (mindfulness of breathing) is often associated with Buddhist meditation, but breath awareness practices are widespread and deeply rooted in many non-Buddhist (non-Bauddhadharma) spiritual and contemplative traditions worldwide. Below is a technical, cross-cultural survey suitable for a lexical entry, with emphasis on parallels and distinctions outside Buddhism.
+
+## Breath Awareness Meditation in Non-Buddhist Traditions
+
+### 1. **Hindu Traditions**
+
+- **Prāṇāyāma:**  
+  In classical Yoga (Patañjali Yoga Sūtras), breath regulation (prāṇāyāma) is the fourth limb (aṅga) of aṣṭāṅga yoga, essential for controlling prāṇa (vital energy). Techniques include nāḍī-śodhana (alternate nostril), kumbhaka (breath retention), and sūrya-bhedana (right-nostril breathing). While prāṇāyāma often involves more manipulation than ānāpānasati, the meditative observation of breath (sahaja prāṇāyāma) is also practiced, especially in Advaita Vedānta and Tantric lineages, as a means for mental stillness and self-realization[6].
+
+- **Tamil Siddha and Sant Traditions:**  
+  Medieval Indian saints and Siddhas emphasized breath awareness as a vehicle for higher realization, often linking each breath to the remembrance of God or the recitation of sacred names[6].
+
+- **Jainism:**  
+  Jain contemplative traditions debate the efficacy of breathing exercises, but some sects use breath awareness as a tool for mental purification and non-attachment[6].
+
+- **Sikhism:**  
+  The Guru Granth Sahib encourages devotees to maintain awareness of breath and to remember the divine name with each inhalation and exhalation[6].
+
+### 2. **Sufi Islam**
+
+- **Dhikr with Breath Awareness:**  
+  Sufi meditation (muraqaba) often incorporates breath awareness, especially in the Naqshbandi order, where silent dhikr (remembrance of God) is synchronized with the breath. Practitioners may mentally recite a divine name (e.g., “Allāh”) or a phrase (e.g., “lā ilāha illā Allāh”) with each inhalation and exhalation. This practice is meant to unify body, mind, and spirit in the remembrance of the divine[5][6].
+
+- **Chilla and Khalwat:**  
+  Extended solitary retreats (chilla-nashini, khalwat) may involve intensive breath-focused dhikr, often under the guidance of a spiritual master[5].
+
+### 3. **Christianity**
+
+- **Hesychasm (Eastern Orthodox Christianity):**  
+  The Hesychast tradition, especially on Mount Athos, employs the “Jesus Prayer” (“Lord Jesus Christ, Son of God, have mercy on me, a sinner”) coordinated with the breath. Practitioners often focus attention at the heart or navel (sometimes called “navel-gazing” by critics) and synchronize the prayer with inhalation and exhalation to cultivate inner stillness (hesychia) and unceasing prayer[5][6].
+
+- **Western Christian Mysticism:**  
+  Breath awareness is sometimes used in contemplative prayer, with phrases or scriptural passages repeated in rhythm with the breath[5].
+
+### 4. **Taoism and Chinese Traditions**
+
+- **Daoist Breath Cultivation:**  
+  Breath awareness (tu-na, “inhaling and exhaling”) is central to Daoist meditation and qigong. Practitioners observe the breath’s natural flow or guide it through the body’s meridians to harmonize qi (vital energy), calm the mind, and promote longevity. The focus is often on the lower dantian (below the navel), paralleling the Buddhist and Zen hara[6].
+
+- **Chinese Ch’an and Japanese Zen:**  
+  While rooted in Buddhism, Ch’an and Zen also reflect Daoist influences. Breath awareness (zuòchán/zazen) is practiced by concentrating on the breath at the hara (below the navel), fostering presence and mental stillness[6].
+
+### 5. **Comparative Abrahamic Practices**
+
+- **Jewish Mysticism:**  
+  Some Kabbalistic and Hasidic practices use breath awareness in conjunction with the recitation of divine names or scriptural verses, though this is less systematized than in Sufism or Hesychasm[5].
+
+- **Christian Breath Prayer:**  
+  In Western Christianity, “breath prayers” involve silently repeating a short prayer phrase in rhythm with the breath, often as a form of contemplative centering[5].
+
+### 6. **Technical Parallels and Distinctions**
+
+| Tradition       | Technique                      | Object of Focus        | Purpose/Goal                       | Distinctive Feature                |
+|-----------------|-------------------------------|------------------------|-------------------------------------|-------------------------------------|
+| Hindu Yoga      | Prāṇāyāma, breath awareness   | Breath, prāṇa          | Control of mind, energy, realization| Often includes breath manipulation  |
+| Sufism          | Dhikr with breath             | Divine name, breath    | Union with God, remembrance         | Silent or vocal, synchronized       |
+| Hesychasm       | Jesus Prayer with breath      | Prayer phrase, breath  | Inner stillness, unceasing prayer   | Focus at heart/navel, repetition    |
+| Taoism          | Tu-na, qigong                 | Breath, qi             | Harmony, longevity, tranquility     | Energy circulation, dantian focus   |
+| Sikhism         | Naam Simran with breath       | Divine name, breath    | Remembrance, spiritual purity       | Continuous remembrance              |
+| Jainism         | Breath awareness              | Breath                 | Purification, detachment            | Debated, less emphasized            |
+| Christianity    | Breath prayer                 | Short prayer, breath   | Centering, contemplation            | Silent, personal phrase             |
+
+### 7. **Summary**
+
+Breath awareness is a **universal meditative alphabet**—a foundational technique found across Hindu, Sufi, Christian, Taoist, Sikh, Jain, and other traditions, each adapting it to their own metaphysical aims and ritual forms. While technical details (such as breath manipulation, focus points, or integration with prayer) vary, the core principle remains: **the breath as a bridge between body, mind, and spirit, and as a vehicle for presence, stillness, and transformation**[5][6].
+
+If you require a more detailed technical breakdown for a specific tradition or wish to relate these practices to musical breath phrasing for glockenspiel, let me know.
+
+Citations:
+[1] Anapanasati https://en.wikipedia.org/wiki/Anapanasati
+[2] 16 Types of Meditation Techniques and Practices https://www.headspace.com/meditation/techniques
+[3] A monk once gave me this advice about breathing ... https://www.reddit.com/r/Meditation/comments/138iec5/a_monk_once_gave_me_this_advice_about_breathing/
+[4] 11 Meditation Styles and Techniques Explained https://mindfulminutes.com/meditation-styles-techniques-explained/
+[5] Breath Awareness in Different Traditions https://de.scribd.com/document/115783128/Breath-Awareness-in-Different-Traditions
+[6] BREATHE AWARENESS - The Yoga Institute https://theyogainstitute.org/breathe-awareness
+[7] The History and Origins of Mindfulness https://positivepsychology.com/history-of-mindfulness/
+[8] 5 Breathing Meditations https://www.lionsroar.com/5-breathing-meditations/
+
+
 Please tell me all about Anapanasati Meditation in as much technical detail as possible for a lexical entry in my book on glockenspiel.
 
 **Ānāpānasati Meditation** (Pāli: Ānāpānasati, Sanskrit: Ānāpānasmṛti) is the Buddhist practice of mindfulness of breathing, regarded as both a foundational and advanced meditation system in the Theravāda, Mahāyāna, and Vajrayāna traditions. Below is a **technical, comprehensive lexical entry** suitable for your book:
