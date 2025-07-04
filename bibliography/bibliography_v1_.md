@@ -60,6 +60,13 @@ This work will be invaluable as a reference.
 **Purport:**
 ...
 
+### CAUSLEY, C.; *et al.* ###
+
+* Causley, Charles (ed. & comp.) & Świderska, Barbara (illus.) (1982, 1980, 1978, 1977, 1975, 1974). 'The Puffin Book of Magic Verse: Chosen & Introduced by Charles Causley'. Harmondsworth, Middlesex, England, U.K.: Puffin Books (Penguin Books Ltd.). ISBN 9780140306606. 
+
+**Purport:**
+This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Acknowledgments.
+
 ### CZERNY, C. ###
 
 * Czerny, Carl (1833). ‘125 Passagenübungen, Op. 261: Études élémentaires pour le piano-forte, classées dans un ordre progressif et soigneusement doigtées; calculées pour obtenir la légèreté et l’indépendance des doigts et faciliter l’enseignement des jeunes élèves \[German & French; English: 125 Exercises in Passage-playing, Op. 261: Elementary Studies for the Pianoforte, Arranged in Progressive Order and Carefully Fingered; Designed to Achieve Lightness and Independence of the Fingers and Facilitate the Instruction of Young Pupils]’. Book One. Paris, France: A. Farrenc. Source: https://archive.org/details/imslp-exercises-in-passage-playing-op261-czerny-carl (accessed: Monday, June 30, 2025)
@@ -179,6 +186,13 @@ This work will be invaluable as a reference.
 
 
 # K #
+
+### KÕIVA, M.; *et al.* ###
+
+* Kõiva, Mare & Kuperjanov, Andres (eds.) (2003). 'Folklore: An Electronical Journal of Folklore', Vol. 24, October, 2003. Tartu, Estonia: FB and Media Group of LM (Folk Belief and Media Group of Estonian Literary Museum). Source: https://www.folklore.ee/folklore/vol24/ (accessed: Friday, July 04, 2025)
+
+**Purport:**
+...
 
 ### KRAUS, N. ###
 
@@ -313,6 +327,16 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ellora Caves) generally, they are likely of Vaishnava stock.
 
 ### ROPER, J. ###
+
+* Roper, Jonathan (2003). 'English Orature, English Literature: The Case of Charms' (pp. 50 - 61) in Kõiva, Mare & Kuperjanov, Andres (eds.) (2003). *Folklore: An Electronical Journal of Folklore*, Vol. 24, October, 2003. Tartu, Estonia: FB and Media Group of LM (Folk Belief and Media Group of Estonian Literary Museum). Source: https://www.folklore.ee/folklore/vol24/engcharm.pdf (accessed: Friday, July 04, 2025)
+
+**Purport:**
+...
+
+* Roper, Jonathan (2003). 'Towards a Poetics, Rhetorics and Proxemics of Verbal Charms' (pp. 7 - 49) in Kõiva, Mare & Kuperjanov, Andres (eds.) (2003). *Folklore: An Electronical Journal of Folklore*, Vol. 24, October, 2003. Tartu, Estonia: FB and Media Group of LM (Folk Belief and Media Group of Estonian Literary Museum). Source: https://www.folklore.ee/folklore/vol24/verbcharm.pdf (accessed: Friday, July 04, 2025)
+
+**Purport:**
+...
 
 * Roper, Jonathan (2011). "Metre in the Old English 'Metrical' Charms'" (pp. 116 - 121) in Mikhailova, Tatyana A.; Roper, Jonathan; Toporkov, Andrey L. & Nikolayev, Dmitry S. (eds.) (2011). *Charms, Charmers and Charming: Oral Charms in Structural and Comparative Light*. Proceedings of the Conference of the International Society for Folk Narrative Research’s (ISFNR) Committee on Charms, Charmers and Charming 27–29th October, 2011, Moscow, Russia. Moscow, Russia: The Russian Foundation for Basic Research. ISBN 9785986042763. Source: https://www.isfnr.org/files/Moscow_meeting_book.pdf (accessed: Sunday, June 29, 2025)
 
