@@ -67,6 +67,13 @@ This work will be invaluable as a reference.
 **Purport:**
 This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Acknowledgments.
 
+### CLAYTON, M. ###
+
+* Clayton, Martin (2000). 'Time in Indian Music: Rhythm, Metre, and Form in North Indian Rag Performance'. Oxford Monographs on Music. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 0198166869.
+
+**Purport:**
+...
+
 ### CZERNY, C. ###
 
 * Czerny, Carl (1833). ‘125 Passagenübungen, Op. 261: Études élémentaires pour le piano-forte, classées dans un ordre progressif et soigneusement doigtées; calculées pour obtenir la légèreté et l’indépendance des doigts et faciliter l’enseignement des jeunes élèves \[German & French; English: 125 Exercises in Passage-playing, Op. 261: Elementary Studies for the Pianoforte, Arranged in Progressive Order and Carefully Fingered; Designed to Achieve Lightness and Independence of the Fingers and Facilitate the Instruction of Young Pupils]’. Book One. Paris, France: A. Farrenc. Source: https://archive.org/details/imslp-exercises-in-passage-playing-op261-czerny-carl (accessed: Monday, June 30, 2025)
