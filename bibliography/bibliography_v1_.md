@@ -362,6 +362,13 @@ This researcher and author has a profound overview of the Indian artistic and ae
 **Purport:** 
 ...
 
+### SNYDER, E. ###
+
+* Snyder, Edward D. (1930). 'Hypnotic Poetry: A Study of Trance-Inducing Technique in Certain Poems and its Literary Significance'. With a Foreword by James H. Leuba. Philadelphia, Pennsylvania, U.S.A.: University of Pennsylvania Press. 
+
+**Purport:** 
+...
+
 ## STRAUS, J. ###
 
 * Straus, Joseph N., *et al.* (2012, 2008, 2003). 'Elements of Music'. Third edition. Massachusetts, Boston, U.S.A.: Pearson. ISBN 9780205007097. 
