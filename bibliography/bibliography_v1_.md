@@ -262,6 +262,13 @@ Nikolsky, Aleksey (2020). 'The Pastoral Origin of Semiotically Functional Tonal 
 **Purport:**
 This accomplished work is one of the foundations for the upthrust of my Introduction.
 
+### NOPPE, A. ###
+
+* Noppe, Alex (2006). 'Jazz Improvisation 1: Handbook - C Instruments. Kingston, Pennsylvania, U.S.A.: Performing Arts Institute. 
+
+**Purport:**
+Noppe is BRILLIANT!
+
 # O #
 
 ### OHRVIK, A,; *et al.* ###
