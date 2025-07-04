@@ -1511,7 +1511,9 @@ His life was a volcanic eruption of *sahaja-prema* (spontaneous divine love). Th
 
 Thank you for this correction. It brings the discussion to a much more accurate and nuanced level, recognizing the raw, spontaneous power of the original Chaitanya movement before it was channeled into competing theological and institutional frameworks.
 
+# Charms, Invocations, Spells, Prayers and Songs #
 
+Causley (1982: p. 15) states: 
 
-
+> "ALL poetry is magic. It is a spell against insensitivity, failure of imagination, ignorance, and barbarism. The way that a good poem 'works' on a a reader is as mysterious, as hard to explain, as the possible working of a charm or spell. A poem is much more than a mere arrangement of words on paper, or on the tongue. Its hints, suggestions, the echoes it sets off in the mind, and its omissions (what a poet decides to leave out is often just as important as what he puts in) all join up with the reader's thoughts and feelings and make a kind of magical union.
 
