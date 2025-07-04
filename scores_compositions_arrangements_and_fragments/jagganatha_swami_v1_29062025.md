@@ -1,5 +1,6 @@
+<div align="center">༺ ༼ ସ୍ରୀଂ ༽ ༼ ହ୍ରୃୀଂ ༽ ༼ କ୍ଲୀଂ ༽ ༻</div>
+<div align="center">༺ ༼ ଜଗନ୍ନାଥ ସ୍ୱାମୀ ନୟନପଥଗାମୀ ନୟନପଥଗାମୀ ଭବତୁ ମେ ༽ ༻</div>
 
-ଜଗନ୍ନାଥ ସ୍ୱାମୀ ନୟନପଥଗାମୀ ନୟନପଥଗାମୀ ଭବତୁ ମେ
 
 
 
@@ -388,3 +389,42 @@ Citations:
 [4] Om Kleem Krishanaya Namaha 108 Times (Shri Krishna Mantra) https://open.spotify.com/track/1yLVIRhG5GGVLds6QbxKu8
 [5] Om Kleem Krishnaya Namaha | Use headphone - YouTube https://www.youtube.com/watch?v=h6gLvRZ4Wak
 
+Medieval-Puri (Kaliṅga) Odia Seed Syllables (Bījās)
+
+Here are the three bījās set in Odia script. To see them in the medieval-Kaliṅga style, apply a Kalinga/Utkal font.
+
+- Balabhadra (Srīṁ):  
+`odisha
+ସ୍ରୀଂ
+`
+
+- Subhadrā (Hṛīṁ):  
+`odisha
+ହ୍ରୃୀଂ
+`
+
+- Jagannātha (Klīṁ):  
+`odisha
+କ୍ଲୀଂ
+`
+
+---
+
+Rendering Tips
+
+In HTML/CSS you can force a Kalinga-style font for that medieval feel:
+
+`html
+<style>
+  .kalinga { 
+    font-family: "Kalinga","Utkal","Noto Sans Oriya"; 
+    font-size: 2em; 
+  }
+</style>
+
+<p class="kalinga">ସ୍ରୀଂ</p>
+<p class="kalinga">ହ୍ରୃୀଂ</p>
+<p class="kalinga">କ୍ଲୀଂ</p>
+`
+
+In your document editor, simply select an Odia typeface named “Kalinga,” “Utkal,” or anything with “Mediaeval-Puri” styling.
