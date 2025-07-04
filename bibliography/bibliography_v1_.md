@@ -400,6 +400,13 @@ This researcher and author has a profound overview of the Indian artistic and ae
 **Purport:** 
 ...
 
+### STORMS, G. ###
+
+* Storms, Godfrid (1948). 'Anglo-Saxon Magic'. Dissertation for the degree of Doctor of Letters and Philosophy. Faculty of Theology. Radboud University of Nijmegen, Netherlands. The Hague, Netherlands: Martinus Nijhoff.
+
+**Purport:** 
+...
+
 ## STRAUS, J. ###
 
 * Straus, Joseph N., *et al.* (2012, 2008, 2003). 'Elements of Music'. Third edition. Massachusetts, Boston, U.S.A.: Pearson. ISBN 9780205007097. 
