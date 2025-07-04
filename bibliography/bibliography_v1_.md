@@ -131,6 +131,13 @@ This work will be invaluable as a reference.
 
 # H #
 
+### HALEY, J. ###
+
+* Haley, Jay (ed.) (1967). 'Advanced Techniques of Hypnosis and Therapy: Selected Papers of Milton H. Erickson, M.D.'. New York, N.Y., U.S.A.: Grune & Stratton (a subsidiary of Harcourt Brace Jovanovich, Publishers). ISBN 0808901699.
+
+**Purport:**
+...
+
 ### HEIDE, E. ###
 
 * Heide, Eldar (2011). 'Holy Islands and the Otherworld: Places Beyond Water' (pp. 57 - 80) in Jørgensen, Torstein & Jaritz, Gerhard (eds.) (2011). *Isolated Islands in Medieval Nature, Culture and Mind*. The Muhu \[Island] Proceedings No. 2. CEU \[Central European University] Medievalia Vol. 14. First edition. Budapest, Hungary: Central European University Press. ISBN 9786155053245. 
