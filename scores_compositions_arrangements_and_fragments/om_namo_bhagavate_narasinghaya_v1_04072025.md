@@ -1,3 +1,6 @@
+[![Watch the video](https://img.youtube.com/vi/mY1CWAo8GOo/hqdefault.jpg)](https://youtu.be/mY1CWAo8GOo?si=3YP-5konmOOG9yEG)
+
+
 Oṁ namo bhagavate narasiṁhāya namas tejas-tejase āvir-āvirbhava
 
 vajra-nakha vajra-daṁṣṭra karmāśayān randhaya randhaya tamo grasa
