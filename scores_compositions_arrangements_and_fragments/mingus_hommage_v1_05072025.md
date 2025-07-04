@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Charles_Mingus
 
 # Goodbye Porkpie Hat #
 
-Lyrics by Joni Mitchell. I have secured a score. Need to arrange, score and engrave with Lilypond.
+Lyrics by Joni Mitchell. I have secured Mitchell's 'Head' score. Need to arrange, score and engrave with Lilypond.
 
 Here's a transcription of the song from Joni's Mingus recording in lead sheet form. The band substitutes and reharmonizes a lot so each verse Joni sings has different chords behind it. Charles Mingus was known for using a lot of dominant chords in his writing, especially altered dominants and this was the prevalent harmonic language in late 50's and early 60's New York jazz. The melody at letter B and C is derived from the John Handy tenor sax solo on the Mingus, Ah, Um album from 1959. Re: Mingus' 'Goodbye Porkpie Hat'. Please explain in detail and extrapolate.
 
@@ -126,3 +126,36 @@ Citations:
 [6] Good Bye Pork Pie Hat (Charlie Mingus) https://jazzatelier.com/2009/04/02/good-bye-pork-pie-hat-charlie-mingus/
 [7] Goodbye Pork Pie Hat - Charles Mingus' texture https://www.reddit.com/r/musictheory/comments/ar5890/goodbye_pork_pie_hat_charles_mingus_texture/
 [8] Goodbye Pork Pie Hat, arr. Alan Baylock – Score & Sound https://www.youtube.com/watch?v=21MvWf5KG_Y
+
+
+What is a 'Head' score?
+
+A **"head" score** in jazz refers to the written representation of a tune’s **main theme or melody**—the "head"—along with its chord progression (the "changes"). This is most commonly presented as a **lead sheet**: a single staff showing the melody, chord symbols, and sometimes lyrics, but not a full arrangement or orchestration[1][5][6].
+
+### Key Features of a Head Score
+
+- **Melody:** The principal, recurring theme of the piece, usually played at the beginning and end of a jazz performance.
+- **Chord Changes:** The harmonic structure over which the head and subsequent improvisations are played.
+- **Form:** The head typically outlines the form of the tune (e.g., 12-bar blues, 32-bar AABA), which is repeated for solos and returns[1][4][6].
+- **Minimal Notation:** Unlike a classical score, a head score or lead sheet does not provide detailed arrangements for each instrument; it leaves interpretation, accompaniment, and improvisation to the performers[5][8].
+- **Usage:** In performance, musicians play the head as written at the start ("in"), improvise over the chord changes for several choruses, and then restate the head at the end ("out")[2][4][5].
+
+### Context
+
+- **Jazz Tradition:** The head is the anchor for improvisation, providing both melodic and harmonic reference points throughout a performance[1][2][4].
+- **Lead Sheet vs. Full Score:** A head score is not a conductor’s score (which includes all parts); it is a concise, flexible document designed for quick communication among jazz musicians[5][8].
+
+**In summary:**  
+A "head" score is a lead sheet containing the main melody and chord changes of a jazz tune, serving as the structural and thematic basis for performance and improvisation[1][5][6].
+
+Citations:
+[1] Head (music) https://en.wikipedia.org/wiki/Head_(music)
+[2] Thinking in Jazz - "A Very Structured Thing https://jazzprofiles.blogspot.com/2015/08/a-very-structured-thing-jazz.html
+[3] deBreved Jazz Notation – The Default https://www.timusic.net/debreved/jazz-notation/
+[4] Introduction to Jazz - TJPS https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/intro-to-jazz/
+[5] How is it possible to compose jazz when improvisation ... https://www.ethanhein.com/wp/2011/how-is-it-possible-to-compose-jazz-when-improvisation-is-an-essential-component/
+[6] The Structure Of A Jazz Standard - Jazz Newbie https://jazznewbie.com/the-structure-of-a-jazz-standard/
+[7] Jazz Form and Structure in Standards https://www.jazzadvice.com/lessons/never-get-lost-in-chord-changes-hear-form-anticipate-chords/
+[8] What's the difference between Scores, Charts, and Lead ... https://www.reddit.com/r/Jazz/comments/rx4re4/whats_the_difference_between_scores_charts_and/
+[9] 50 Must-Know Jazz Standards: Learn These ... https://www.learnjazzstandards.com/blog/50-jazz-standards-you-need-to-know/
+[10] What is Head in Music? + JazzMan Cameo!! https://www.youtube.com/watch?v=mj0Y9i6SlUQ
