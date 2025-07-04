@@ -4,7 +4,7 @@ Om Namah Shivaya Shantaya
 
 Kaarana Traya Hetave
 
-Nivedita Sarva Lokaaya
+Mula Nivedita Sarva Lokaaya
 
 Niraalambaaya Tejase   Please render line-by-line in Devanagari, IAST and English. Try and locate point-of-origin.
 
