@@ -10,6 +10,82 @@ Sri [Bhairava](https://en.wikipedia.org/wiki/Bhairava) (Sanskrit: भैरव, 
 
 # C #
 
+### CAUSLEY, Charles ###
+
+Causley, Charles (poet/writer) tell me all about them for my book. Academic register.
+
+**Charles Causley (1917–2003): Academic Overview**
+
+Charles Stanley Causley CBE FRSL was a major twentieth-century British poet, writer, and educator, whose work is distinguished by its formal clarity, narrative strength, and deep engagement with Cornish culture and folklore[1][2][3][6][8]. Born in Launceston, Cornwall, on 24 August 1917, Causley’s upbringing in this region profoundly shaped his literary sensibility and thematic concerns[3][5][6].
+
+### Early Life and Education
+
+Causley’s early life was marked by personal loss: his father, a World War I veteran, died of war-related injuries when Charles was seven[2][3][6]. Raised by his mother in Launceston, he left school at sixteen to work as a clerk, later serving in the Royal Navy as a coder during World War II—an experience that would inform much of his later poetry and prose[3][5][6].
+
+### Literary Career and Poetic Style
+
+Causley’s first published play appeared when he was nineteen, and after the war, he trained as a teacher, returning to teach in his hometown[6]. His debut poetry collection, *Farewell, Aggie Weston* (1951), was followed by *Survivor’s Leave* (1953) and the critically acclaimed *Union Street* (1957), which featured an introduction by Edith Sitwell[6]. Causley’s poetry is characterized by:
+
+- **Traditional Forms:** He is renowned for reviving the ballad and narrative verse, often employing rhyme, metre, and song-like structures[1][2][3][5][6].
+- **Cornish Identity:** His work is deeply rooted in Cornish landscape, history, and legend, contributing significantly to the preservation and celebration of Cornish culture[5][6][7].
+- **Visionary and Christian Themes:** Causley’s poetry frequently explores spiritual, mystical, and Christian motifs, reflecting both personal faith and broader existential questions[1][6].
+- **Simplicity and Directness:** His language is noted for its clarity and accessibility, making his poetry popular among both adult and child readers[2][3][6].
+- **Children’s Literature:** From the 1970s, Causley published extensively for children, combining playful sound patterns with narrative depth[6].
+
+### Broader Literary Contributions
+
+Beyond poetry, Causley wrote short stories (notably *Hands to Dance* and *Skylark*), radio plays, libretti, and essays, and edited several poetry anthologies[3][6]. He contributed regularly to literary magazines and was a respected poetry reader and educator, touring widely as a British Council representative[4][6].
+
+### Recognition and Legacy
+
+Causley’s achievements were widely recognized:
+- **Queen’s Gold Medal for Poetry** (1967)
+- **Cholmondeley Award** (1971)
+- **Commander of the Order of the British Empire (CBE)** (1986)
+- **Fellow of the Royal Society of Literature** (1958)
+- **Honorary Doctorate from Exeter University** (1977)
+- **Heywood Hill Literary Prize** (2000)[1][2][6][8]
+
+He was appointed a Bard of the Cornish Gorsedd in 1955, affirming his cultural significance in Cornwall[6]. Esteemed contemporaries such as Ted Hughes, Philip Larkin, and Seamus Heaney praised his work, and he was described by Hughes as one of the “best loved and most needed” poets of his era[2][6].
+
+### Personal Character and Death
+
+Causley was known for his modesty and commitment to his community, living most of his life in Launceston and caring for his mother until her death[6]. He retired early from teaching in 1976 to focus on writing, and died in Launceston on 4 November 2003, where he is buried beside his mother[1][3][6][8].
+
+### Selected Works
+
+- *Farewell, Aggie Weston* (1951)
+- *Survivor’s Leave* (1953)
+- *Union Street* (1957)
+- *Collected Poems, 1951–1997*
+- *Collected Poems for Children*
+- Notable individual poems: “Timothy Winters,” “Eden Rock,” “Green Man in the Garden”[3][5]
+
+### Academic Significance
+
+Causley’s poetry is of scholarly interest for its:
+- Synthesis of regional identity and universal themes
+- Mastery of traditional forms in a modern context
+- Exploration of war, loss, faith, and childhood
+- Influence on both adult and children’s literature
+
+His work is widely anthologized, studied in educational curricula, and continues to be the subject of literary criticism and cultural studies[2][3][6][8].
+
+**References:**  
+[1][2][3][4][5][6][8]
+
+Citations:
+[1] Charles Causley | EBSCO Research Starters https://www.ebsco.com/research-starters/biography/charles-causley
+[2] Charles Causley https://poetryarchive.org/poet/charles-causley/
+[3] Charles Causley https://en.wikipedia.org/wiki/Charles_Causley
+[4] About Charles Causley https://causleytrust.org/centenary/
+[5] Charles Causley Biography | Poet https://www.poetrysoup.com/charles_causley/biography
+[6] Biography - The Charles Causley Trust - WordPress.com https://thecharlescausleytrust.wordpress.com/biography/charles-causley-2/
+[7] Charles Causley - A life in Poems http://cornishbirdblog.com/charles-causley/
+[8] Causley, Charles Stanley (1917–2003), poet https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-92911
+
+### END CAUSLEY, Charles ###
+
 ### Chaitanya Mahaprabhu ###
 
 ...
