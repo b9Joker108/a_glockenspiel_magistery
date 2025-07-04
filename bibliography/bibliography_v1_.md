@@ -229,7 +229,6 @@ In truth, the work is somewhat useful, but mediocre.
 * Martineau, Jason (2008). 'The Elements of Music: Melody, Rhythm & Harmony'. First U.S. edition of 2008. New York, N.Y., U.S.A.: Bloomsbury U.S.A. (Bloomsbury is a trademark of Bloomsbury Publishing Plc.). ISBN 9780802716828.
 
 **Purport:** 
-
 This work has a most useful and refined schematic, grapheme and/or infographic of the Circle of Fifths which will be one of the principal sources to support the formulation and codification of my own.
 
 ### MIKHAILOVA, T.; *et al.* ###
@@ -254,7 +253,6 @@ All the articles within this volume need to be entered in the Bibliography indiv
 Nikolsky, Aleksey (2020). 'The Pastoral Origin of Semiotically Functional Tonal Organization of Music' (pp. 1 - 45) in Sulikowski, Danielle (ed.); *et al.* (2020). *Frontiers: In Psychology; Evolutionary Psychology - Hypothesis & Theory*, Vol. 11, Article 1359, July, 2020. Lausanne, Switzerland: Frontiers Media SA. DOI: 10.3389/fpsyg.2020.01358.
 
 **Purport:**
-
 This accomplished work is one of the foundations for the upthrust of my Introduction.
 
 # O #
@@ -437,8 +435,7 @@ Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography
 
 ### ? ###
 
-* Unknown (n.d.). 'Bhutashuddhyadi (Sanskrit: भूतशुद्ध्यादि; IAST: Bhūtaśuddyādi; alt. title: Sanskrit: भूतशुद्धिविधिः; Bhūtaśuddhividhi)', T. no. 656. Pondichéry [Pondicherry], India: Institut Français d’Indologie [French; English: French Institute of Pondicherry].
-https://www.ifpindia.org/transcripts/pdf/T0656.pdf
+* Unknown (n.d.). 'Bhutashuddhyadi (Sanskrit: भूतशुद्ध्यादि; IAST: Bhūtaśuddhyādi; alt. title: Sanskrit: भूतशुद्धिविधिः; Bhūtaśuddhividhi)', T. no. 656. Pondichéry \[Pondicherry], India: Institut Français d’Indologie \[French; English: French Institute of Pondicherry]. Source: https://www.ifpindia.org/transcripts/pdf/T0656.pdf (accessed: Friday, July 04, 2025)
 
 **Purport:**
 ...
