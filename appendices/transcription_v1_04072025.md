@@ -1,22 +1,24 @@
 # How to Transcribe from a Recording #
 
-"Transcription can be one of the most valuable ways to learn jazz. All of the book learning you can ever do will never compare to the amount of information you can get from a single recording. While there are many books of transcribed solos available, the real value is in doing the work, and you will not learn nearly as much by playing off of someone else's transcription. Here are some basic steps to follow:
+Noppe (2006: p. 32): 
 
-1. Listen to the tune! Before ever picking up a pencil or your horn, you should be intricately familiar with the tune and the solo you are about to work on. Listen not just to the notes and rhythms, but also to dynamics, articulation, inflection, and what the rhythm section is doing.
-
-2. Plot out the form of the tune. How many choruses does the soloist play? How many bars in each chorus? Is the form AABA? ABAC? Blues? Rhythm Changes? Sketch out empty space in your manuscript book that shows the form, drawing double bars often to delineate new sections. Make sure to leave enough space to fill in the solo.
-
-3. If you can get the chord changes, it will be extremely helpful. For more advanced transcribers, try to figure them out by ear. If you are having a difficult time, look up the changes to the tune in a fake book. Beware of inaccuracies-use a reliable source!
-
-4. I recommend working in sections from here, 8 or 16 bars at a time. That will allow you to focus on smaller parts of the form while still seeing quick results.
-
-5. Figure out the rhythm of the solo. You might want to sketch it into your transcription or make notation on some scrap paper. If it helps, tap your hand or your foot. Saying the beats out lead also helps in more complicated solos.
-
-6. Figure out the pitches for the rhythms you just identified. You may need to play the recording a number of times to hear them. A quick trigger finger on the "Pause" button will help considerably. You will probably need your horn or a piano to help here. If you are having trouble, look to the chord changes for guidance. Does what you're hearing fit?
-
-7. Add dynamics, articulations, and inflections. Be thorough and specific, adding word descriptions such as "Lay back" when necessary. Try to capture as much of the artist's sound in your transcription as possible.
-
-8. Play your work with and without the recording. Memorize it. Analyze it. Borrow licks and use them in your own solos. Learn them in all 12 keys. You will be amazed at how much you can get out of each transcribed solo!"
+> "Transcription can be one of the most valuable ways to learn jazz. All of the book learning you can ever do will never compare to the amount of information you can get from a single recording. While there are many books of transcribed solos available, the real value is in doing the work, and you will not learn nearly as much by playing off of someone else's transcription. Here are some basic steps to follow:
+>
+> 1. Listen to the tune! Before ever picking up a pencil or your horn, you should be intricately familiar with the tune and the solo you are about to work on. Listen not just to the notes and rhythms, but also to dynamics, articulation, inflection, and what the rhythm section is doing.
+>
+> 2. Plot out the form of the tune. How many choruses does the soloist play? How many bars in each chorus? Is the form AABA? ABAC? Blues? Rhythm Changes? Sketch out empty space in your manuscript book that shows the form, drawing double bars often to delineate new sections. Make sure to leave enough space to fill in the solo.
+>
+> 3. If you can get the chord changes, it will be extremely helpful. For more advanced transcribers, try to figure them out by ear. If you are having a difficult time, look up the changes to the tune in a fake book. Beware of inaccuracies-use a reliable source!
+>
+> 4. I recommend working in sections from here, 8 or 16 bars at a time. That will allow you to focus on smaller parts of the form while still seeing quick results.
+>
+> 5. Figure out the rhythm of the solo. You might want to sketch it into your transcription or make notation on some scrap paper. If it helps, tap your hand or your foot. Saying the beats out lead also helps in more complicated solos.
+>
+> 6. Figure out the pitches for the rhythms you just identified. You may need to play the recording a number of times to hear them. A quick trigger finger on the "Pause" button will help considerably. You will probably need your horn or a piano to help here. If you are having trouble, look to the chord changes for guidance. Does what you're hearing fit?
+>
+> 7. Add dynamics, articulations, and inflections. Be thorough and specific, adding word descriptions such as "Lay back" when necessary. Try to capture as much of the artist's sound in your transcription as possible.
+>
+> 8. Play your work with and without the recording. Memorize it. Analyze it. Borrow licks and use them in your own solos. Learn them in all 12 keys. You will be amazed at how much you can get out of each transcribed solo!"
 
 Do NOT LOSE OR DEPRECATE ANY CONTENT. Just elevate to prestige dialect and academic register and amplify and extend and apply all to my Orchestral Glockenspiel of 3 octaves: C5 - C8. Remember to make it music inclusive, not Jazz-specific.
 
