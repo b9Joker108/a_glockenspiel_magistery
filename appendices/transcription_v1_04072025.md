@@ -1,5 +1,9 @@
 # How to Transcribe from a Recording #
 
+Noppe, Alex (2006). 'Jazz Improvisation 1: Handbook - C Instruments. Kingston, Pennsylvania, U.S.A.: Performing Arts Institute. 
+
+Noppe is BRILLIANT!
+
 Noppe (2006: p. 32): 
 
 > "Transcription can be one of the most valuable ways to learn jazz. All of the book learning you can ever do will never compare to the amount of information you can get from a single recording. While there are many books of transcribed solos available, the real value is in doing the work, and you will not learn nearly as much by playing off of someone else's transcription. Here are some basic steps to follow:
