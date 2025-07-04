@@ -439,6 +439,13 @@ This work and this series are notable for a number of reasons. It should constit
 
 # W #
 
+## WADE, B. ###
+
+* Wade, Bonnie C. (2004). 'Thinking Musically: Experiencing Music, Expressing Culture'. Global Music Series. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195136647.
+
+**Purport:**
+This professor and scholar constitutes a Touchstone for our purposes.
+
 ### WAGNER, J. ###
 
 * Wagner, Joseph (auth.) & Moore, Douglas (ed.) (1959). 'Orchestration: A Practical Handbook'. New York, N.Y., U.S.A.: McGraw-Hill Series in Music. McGraw-Hill Book Company, Inc.
