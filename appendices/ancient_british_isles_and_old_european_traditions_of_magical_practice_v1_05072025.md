@@ -1,4 +1,4 @@
-# Ancient English and Old European Traditions of Magical Practice #
+# Ancient, Old and Mediaeval Magical Practice(s) of the British Isles and Europe #
 
 
 I did not ask about Wiccan Traditions. Focus on my specific request and amplify with precision and survey the field.
