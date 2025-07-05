@@ -261,11 +261,43 @@ All the articles within this volume need to be entered in the Bibliography indiv
 
 ### MORELLI, J. ###
 
-* Morrelli, Jeremy (?) (c2008). 'The Eight Doha Treasures: A Text that Clearly Teaches the Mahamudra Instructions'. Unfinished draft. Independently published. Source: https://kipdf.com/the-eight-doha-treasures-a-text-that-clearly-teaches-the-mah-mudr-instructions_5ac270fe1723ddfdefd740c7.html (accessed: Saturday, July 05, 2025)
+* Morrelli, Jeremy (attr.) (c2008). 'The Eight Doha Treasures: A Text that Clearly Teaches the Mahamudra Instructions'. Unfinished draft. Independently published. Source: https://kipdf.com/the-eight-doha-treasures-a-text-that-clearly-teaches-the-mah-mudr-instructions_5ac270fe1723ddfdefd740c7.html (accessed: Saturday, July 05, 2025)
 
 **Purport:**
-This draft document has been well-crafted. I secured the circa date from excavating document properties and metadata. I don't remember how, where or when I came by it. It is fortuitous, that I had made a note of the prospective author's name, as an attribution, as is my habit (if possible) with unsigned works. I am not sure if this attribution is true and correct. The Eight Doha Treasures appears in Tibetan under the title  
-Do ha mdzad ces bya ba phyag rgya chen po’i man ngag (“Treasury of Dohas: Esoteric Instructions on Mahāmudrā”) as text no. 4 in Volume 7 of the gDams Ngag Rin po che’i Mdzod anthology.  In all the major colophons (Tengyur, Indian Mahāmudrā Collection, Tsibri Parma edition) it’s explicitly ascribed to the Indian mahasiddha Saraha and was translated into Tibetan by Vairocanarakṣita. The Tibetan edition was first printed from the Dpal spungs (Derge) block-prints, issued by Dilgo Khyentse Rinpoche in 1979, and reprinted by Shechen Publications in New Delhi in 1999. In modern Western renderings the “Eight Doha Treasures” is presented as a compilation of eight separate doha-style teachings on view, meditation, conduct and result. The first and title piece, “The Mahāmudrā Instructions (The Doha Treasure),” is attributed to Saraha (sometimes called Śāvara or Śavaripa), and the subsequent treasures carry dohas by Virūpa, Ṭīlopa, Kṣapa, Maitrīpa, Nāropa and others: each translated variously by Vairocanarakṣita or later Tibetan lotsawas such as Mar-pa Chos-kyi Blo-gros. 
+This draft document has been well-crafted. I secured the tentative date from excavating the document properties and metadata. I don't remember how, where or when I came by the document. It is fortuitous that I had made a note of the prospective author's name, as an attribution, as is my habit (if possible) with unsigned works. I am not sure if this attribution is true and correct. 'The Eight Doha Treasures' (Tibetan: དོ་ཧ་མཛད་ཆེས་བྱ་བ་ཕྱག་རྒྱ་ཆེན་པོའི་མན་ངག ; Wylie: do ha mdzad ces bya ba phyag rgya chen po'i man ngag) appears in Tibetan under the title Do ha mdzad ces bya ba phyag rgya chen po’i man ngag (“Treasury of Dohas: Esoteric Instructions on Mahāmudrā”) as text no. 4 in Volume 7 of the gDams Ngag Rin po che’i Mdzod anthology.  In all the major colophons (Tengyur, Indian Mahāmudrā Collection, Tsibri Parma edition) it’s explicitly ascribed to the Indian Mahasiddha Saraha and was translated into Tibetan by Vairocanarakṣita. The Tibetan edition was first printed from the Dpal spungs (Derge) block-prints, issued by Dilgo Khyentse Rinpoche in 1979, and reprinted by Shechen Publications in New Delhi in 1999. In modern Western renderings the “Eight Doha Treasures” is presented as a compilation of eight separate doha-style teachings on view, meditation, conduct and result. The first and title piece, “The Mahāmudrā Instructions (The Doha Treasure),” is attributed to Saraha (sometimes called Śāvara or Śavaripa), and the subsequent treasures carry dohas by Virūpa, Ṭīlopa, Kṣapa, Maitrīpa, Nāropa and others: each translated variously by Vairocanarakṣita or later Tibetan lotsawas such as Mar-pa Chos-kyi Blo-gros. Relationship Between the 1999 Shechen Edition and the Derge Imprint. Shechen Publications’ 1999 New Delhi print of the gDams Ngag Rin Poche’i Mdzod (18 volumes) was issued as an enlarged reprint of the 1979 edition prepared by Dilgo Khyentse Rinpoche. That 1979 edition itself was typeset from the dpal spungs (Derge) woodblock prints, which were the canonical Tibetan‐xylograph source for these texts.
+
+**How the Editions Relate**
+
+- Dilgo Khyentse Rinpoche’s 1979 edition used the original Derge (dpal spungs) xylographs as its source.  
+- The 1999 Shechen Publications print is not a fresh resetting from those blocks but an enlarged, corrected reissue of the 1979 version.  
+- Textually, it remains faithful to the Derge tradition, though it may include additional prefaces, indexes or errata that Dilgo Khyentse and Shechen editors introduced.
+
+The 1999 Shechen Publications edition in New Delhi is indeed rooted in the Derge woodblock tradition, but strictly speaking it is an enlarged reprint of the Dilgo Khyentse Rinpoche 1979 edition—rather than a new imprint cut directly from the original Derge blocks.
+
+**Clarifying “Enlarged” in the 1999 Shechen Reprint**
+
+When bibliographers label a work an “enlarged edition,” it rarely means just one thing. In the case of Shechen Publications’ 1999 reprint of the gDams Ngag Rin Poche’i Mdzod, “enlarged” covers both layout and content enhancements:
+
+1. Physical Layout and Typography
+- Slightly larger page dimensions than the original Derge blocks  
+- A more open two-column setting with increased margins  
+- Marginal catch-words and folio numbers in a clearer, bigger typeface  
+
+2. Expanded Editorial Apparatus
+- New forewords and prefaces (e.g. by Dilgo Khyentse Rinpoche)  
+- Comprehensive tables of contents at volume and section levels  
+- Indexes of titles, Tibetan headwords and Sanskrit equivalents  
+- Errata sheets and corrigenda not present in the xylographs  
+
+**How to Verify in Your Copy**
+1. Inspect the colophon (usually at the end of vol. 18): it will mention page-size, typeface notes and lists of added material.  
+2. Compare the first few folios with a Derge facsimile (e.g., the TBRC scans) to see differences in layout and front-matter.  
+
+**Where to Go from Here**
+If you’re diving deep into textual history, you might next:  
+- Contrast Shechen’s additions with the Narthang and Xining block-print editions  
+- Trace how the editorial notes affect reading Mahāmudrā instructions  
+- Explore digital editions (TBRC/Asian Classics Input Project) for searchable texts and variant colophons
 
 **Intertextuality**
 
