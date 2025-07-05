@@ -252,6 +252,12 @@ All the articles within this volume need to be entered in the Bibliography indiv
 **Purport:**
 ...
 
+### MUSTANOJA, T.; *et al.* ###
+
+* Mustanoja, Tauno F.;  Wis, Marjatta & Välikangas, Olli (eds.) (1985). 'Neuphilologische Mitteilungen: Bulletin de la Société Néophilologique \[French & German; English: Communications in Modern Philology: Bulletin of the Modern Language Society]', Vol 86 \[Roman Num.: LXXXVI], Issue 2, 1985. Helsinki, Finland: Société Néophilologique \[French; English: Modern Language Society].
+
+**Purport:**
+...
 
 # N #
 
@@ -494,6 +500,13 @@ This professor and scholar constitutes a Touchstone for our purposes.
 
 **Purport:**
 ...
+
+### WESTON, L. ###
+
+* Weston, L.M.C. (1985). 'The Language of Magic in Two Old English Metrical Charms' (pp. 176 - 186) in Mustanoja, Tauno F.;  Wis, Marjatta & Välikangas, Olli (eds.) (1985). *Neuphilologische Mitteilungen: Bulletin de la Société Néophilologique \[French & German; English: Communications in Modern Philology: Bulletin of the Modern Language Society]*, Vol 86 \[Roman Num.: LXXXVI], Issue 2, 1985. Helsinki, Finland: Société Néophilologique \[French; English: Modern Language Society].
+
+**Purport:**
+An excellent work of scholarship that signals revisionism and apologetics in the discouse of Mediaeval Magical Traditions and their cultural intersections.
 
 ### WHALEY, G. ###
 
