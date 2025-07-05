@@ -259,6 +259,18 @@ All the articles within this volume need to be entered in the Bibliography indiv
 **Purport:**
 ...
 
+### MORELLI, J. ###
+
+* Morrelli, Jeremy (?) (c2008). 'The Eight Doha Treasures: A Text that Clearly Teaches the Mahamudra Instructions'. Unfinished draft. Independently published. Source: https://kipdf.com/the-eight-doha-treasures-a-text-that-clearly-teaches-the-mah-mudr-instructions_5ac270fe1723ddfdefd740c7.html (accessed: Saturday, July 05, 2025)
+
+**Purport:**
+This draft document has been well-crafted. I secured the circa date from excavating document properties and metadata. I don't remember how, where or when I came by it. It is fortuitous, that I had made a note of the prospective author's name, as an attribution, as is my habit (if possible) with unsigned works. I am not sure if this attribution is true and correct. The Eight Doha Treasures appears in Tibetan under the title  
+Do ha mdzad ces bya ba phyag rgya chen po’i man ngag (“Treasury of Dohas: Esoteric Instructions on Mahāmudrā”) as text no. 4 in Volume 7 of the gDams Ngag Rin po che’i Mdzod anthology.  In all the major colophons (Tengyur, Indian Mahāmudrā Collection, Tsibri Parma edition) it’s explicitly ascribed to the Indian mahasiddha Saraha and was translated into Tibetan by Vairocanarakṣita. The Tibetan edition was first printed from the Dpal spungs (Derge) block-prints, issued by Dilgo Khyentse Rinpoche in 1979, and reprinted by Shechen Publications in New Delhi in 1999. In modern Western renderings the “Eight Doha Treasures” is presented as a compilation of eight separate doha-style teachings on view, meditation, conduct and result. The first and title piece, “The Mahāmudrā Instructions (The Doha Treasure),” is attributed to Saraha (sometimes called Śāvara or Śavaripa), and the subsequent treasures carry dohas by Virūpa, Ṭīlopa, Kṣapa, Maitrīpa, Nāropa and others: each translated variously by Vairocanarakṣita or later Tibetan lotsawas such as Mar-pa Chos-kyi Blo-gros. 
+
+**Intertextuality**
+
+https://dnz.tsadra.org/index.php/Wylie:Do_ha_mdzad_ces_bya_ba_phyag_rgya_chen_po%27i_man_ngag (accessed: Saturday, July 05, 2025)
+
 ### MUSTANOJA, T.; *et al.* ###
 
 * Mustanoja, Tauno F.;  Wis, Marjatta & Välikangas, Olli (eds.) (1985). 'Neuphilologische Mitteilungen: Bulletin de la Société Néophilologique \[French & German; English: Communications in Modern Philology: Bulletin of the Modern Language Society]', Vol 86 \[Roman Num.: LXXXVI], Issue 2, 1985. Helsinki, Finland: Société Néophilologique \[French; English: Modern Language Society].
