@@ -111,6 +111,13 @@ This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Ack
 **Purport:**
 ...
 
+### FISHER, R. ###
+
+* Fisher, Rebecca (2011). 'Writing Charms: The Transmission and Performance of Charms in Anglo-Saxon England'.  Ph.D. dissertation. Sheffield, England, U.K.: University of Sheffield. Source: https://etheses.whiterose.ac.uk/id/eprint/14572/1/555937.pdf (accessed: Saturday, July 05, 2025)
+
+**Purport:**
+Worthwhile.
+
 # G #
 
 ### GASSER, E. ###
