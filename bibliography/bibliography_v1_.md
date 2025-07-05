@@ -501,6 +501,13 @@ This professor and scholar constitutes a Touchstone for our purposes.
 **Purport:**
 ...
 
+### WARD, J. ###
+
+* Ward, J. O. (1980). 'Witchcraft and Sorcery in the Later Roman Empire and the Early Middle Ages' (pp. 93 - 108) in *Prudentia*, Vol. 12, 1980. 
+
+**Purport:**
+I have not yet been able to secure this. My weirdly attuned magical sense constituted by academic, practitioner, practical and experiential rigour and acumen signals that this work, from a defunct New Zealand journal, is worth the chase. By memory, I feel it may be Issue 2. But, that needs to be determined.
+
 ### WESTON, L. ###
 
 * Weston, L.M.C. (1985). 'The Language of Magic in Two Old English Metrical Charms' (pp. 176 - 186) in Mustanoja, Tauno F.;  Wis, Marjatta & Välikangas, Olli (eds.) (1985). *Neuphilologische Mitteilungen: Bulletin de la Société Néophilologique \[French & German; English: Communications in Modern Philology: Bulletin of the Modern Language Society]*, Vol 86 \[Roman Num.: LXXXVI], Issue 2, 1985. Helsinki, Finland: Société Néophilologique \[French; English: Modern Language Society].
