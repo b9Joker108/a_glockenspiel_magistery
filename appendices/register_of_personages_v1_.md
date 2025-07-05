@@ -1339,7 +1339,7 @@ Citations:
 
 ### WESTON, L.M.C. ###
 
-**L.M.C. Weston** is a significant figure in the study of creolization, syncretism, and the anthropology of religion and culture. Below is a detailed survey of L.M.C. Weston’s contributions, theoretical frameworks, and relevance for your book’s focus on religio-cultural traditions as continua of pidgin and creole forms, marked by conservatism.
+[**L.M.C. Weston**](https://en.wikipedia.org/wiki/Lisa_M._C._Weston) (D.O.B. ?) is a significant figure in the study of creolization, syncretism, and the anthropology of religion and culture. Below is a detailed survey of L.M.C. Weston’s contributions, theoretical frameworks, and relevance for your book’s focus on religio-cultural traditions as continua of pidgin and creole forms, marked by conservatism.
 
 ## Survey of L.M.C. Weston’s Work
 
