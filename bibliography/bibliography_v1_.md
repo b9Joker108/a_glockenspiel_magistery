@@ -595,7 +595,12 @@ An excellent reference work on some generally Modern composers, Modern in the te
 
 # Z #
 
+### ZIMMERMAN, S. ###
 
+* Zimmermann, Sebastien (2023). 'Runic Cryptography in Early Epigraphic Period (200-700)' (pp. 190-198) in Dahlke, Carola & Göggerle, Matthias (eds.) (2023). *HistoCrypt 2023: Proceedings of the 6th International Conference on Historical Cryptology HistoCrypt 2023*. Conference: June, 20-22, 2023,  Munich. NEALT Proceedings Series No. 50. Linköping Electronic Conference Proceedings No. 195. University of Tartu, Tartu, Estonia: Northern European Association for Language Technology (NEALT) in conjunction with DSpace at Tartu University Library (University of Tartu, Estonia). DOI: https://doi.org/10.3384/ecp195 ISBN 9789180751346 (PDF). Source: https://ecp.ep.liu.se/index.php/histocrypt (accessed: Sunday, July 06, 2025)  
+
+**Purport:**
+...
 
 # To Be Files #
 
