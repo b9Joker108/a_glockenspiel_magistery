@@ -104,6 +104,13 @@ This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Ack
 
 # F #
 
+### FARHAT, H. ###
+
+* Farhat, Hormoz (2004, 1990). 'The Dastgah Concept in Persian Music'. Cambridge Studies in Ethnomusicology. (NB: Based on the Farhat's Ph.D. dissertation, 1965, University of California, Los Angeles, California, U.S.A.). Cambridge, England, U.K.: Cambridge University Press. ISBN 0521542065 (pbk).
+
+**Purport:**
+...
+
 ### FENNIMORE, K. ###
 
 * Fennimore, Kevin (auth.) (2024). 'How to Play the Glockenspiel for Beginners: The Ultimate Guide to Learning, Playing, and Becoming Proficient at the Instrument'. Independently published. ASIN B0D9RBCC2W. ISBN 9798333607935. 
