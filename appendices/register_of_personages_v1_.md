@@ -719,6 +719,64 @@ Citations:
 
 # H #
 
+### HOOD, Mantle (1918-2005) ###
+
+**Mantle Hood (1918–2005)** was a pioneering American ethnomusicologist whose influence fundamentally shaped the discipline’s global contours and methodologies. Best known for founding the Institute (now Department) of Ethnomusicology at UCLA and for his concept of “bi-musicality,” Hood’s scholarship, teaching, and fieldwork catalyzed the emergence of ethnomusicology as a rigorous, intercultural, and interdisciplinary field[1][2][5][8].
+
+## Biography
+
+Born in Springfield, Illinois, Hood began his musical journey with piano, clarinet, and saxophone, performing in jazz clubs before World War II. After serving in Europe during the war, he enrolled at UCLA, initially studying agriculture before shifting to music. He trained in composition under Ernst Toch, earning a B.A. (1951) and M.A. (1953) in music[7].
+
+A Fulbright fellowship took Hood to the University of Amsterdam, where he studied with Jaap Kunst, a foundational figure in ethnomusicology. Hood’s doctoral dissertation, *The Nuclear Theme as a Determinant of Patet in Javanese Music* (1954), was a landmark in the analytical study of Javanese gamelan, proposing that modal systems (pathet) were shaped by the melodic contour of the *balungan* (structural theme)[7].
+
+Returning to UCLA, Hood began teaching in 1956 and, by 1960, had established the Institute of Ethnomusicology. This program became the largest and most influential of its kind, training a generation of scholars who would found programs at major universities worldwide[1][5][8]. After leaving UCLA in 1975, Hood established a graduate program in ethnomusicology at the University of Maryland, Baltimore County[5].
+
+## Major Works
+
+| Title                                                          | Year   | Description/Significance                                                                                                   |
+|---------------------------------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------|
+| *The Nuclear Theme as a Determinant of Patet in Javanese Music*| 1954   | Doctoral dissertation; foundational analysis of Javanese modal systems[7][9].                                              |
+| *The Ethnomusicologist*                                       | 1971   | Seminal methodological treatise outlining the field’s research questions and approaches[5].                                 |
+| *Music in Indonesia*                                          | 1972   | Comprehensive textbook and survey of Indonesian music, especially gamelan[9].                                               |
+| *Atumpan* (film)                                              | 1960s  | Ethnographic documentary on African drumming, influential in music education[5].                                            |
+| *Trompin’ the Wraparound* (novel)                             | 2002   | Fictional work set in post-Civil War Illinois, reflecting Hood’s literary interests[9].                                     |
+
+## Themes and Theoretical Contributions
+
+### 1. **Bi-Musicality**
+Hood’s most influential theoretical innovation is the concept of **bi-musicality**: the proposition that ethnomusicologists should learn to perform the music of the cultures they study, not just analyze or observe it[1][2][5][8]. This was a radical departure from the prevailing armchair scholarship and is now foundational to ethnomusicological fieldwork and pedagogy. Bi-musicality fosters deeper cultural empathy, analytical acuity, and respect for musical “others.”
+
+### 2. **Fieldwork and Cultural Immersion**
+Hood insisted that students study music in situ—immersing themselves in the social, ritual, and performative contexts of the music. His own fieldwork in Indonesia (1957–1958) set a model for participant-observation and established enduring scholarly ties with Javanese musicians and institutions[3].
+
+### 3. **Interdisciplinarity**
+Hood’s vision for ethnomusicology blended musicology, anthropology, linguistics, and area studies. He championed the study of music as culture and as a social process, not merely as a sonic artifact[4][8].
+
+### 4. **Institution Building**
+Through founding the UCLA Institute of Ethnomusicology, Hood institutionalized ethnomusicology as an academic discipline in the United States, mentoring students who would themselves become leading scholars and program founders globally[1][5][6].
+
+## Contextualisation and Importance
+
+Mantle Hood’s legacy lies in his transformation of ethnomusicology from a marginal pursuit into a robust, methodologically sophisticated academic discipline. His advocacy for bi-musicality and immersive fieldwork redefined standards for research, teaching, and cultural engagement. Hood’s scholarship on Javanese gamelan remains foundational, and his institutional vision has shaped the field’s evolution for decades. He was also a past president of the Society for Ethnomusicology, underscoring his leadership and influence[5].
+
+Hood’s work is characterized by a profound respect for musical diversity and a commitment to understanding music as a living, dynamic facet of human culture. His insistence on learning “from within” continues to inspire ethnomusicologists and musicians worldwide.
+
+**References:**  
+[1][2][3][4][5][6][7][8][9]
+
+Citations:
+[1] Mantle Hood - the Academic Senate - University of California https://senate.universityofcalifornia.edu/_files/inmemoriam/html/mantlehood.htm
+[2] Mantle Hood - Wikipedia https://en.wikipedia.org/wiki/Mantle_Hood
+[3] Introduction to the Mantle Hood Collection - Ethnomusicology https://www.ethnomusicology.amdigital.co.uk/Explore/Essays/Yamin
+[4] Ethnomusicology Pioneer Mantle Hood - The Washington Post https://www.washingtonpost.com/archive/local/2005/08/09/ethnomusicology-pioneer-mantle-hood/916ed497-67eb-4999-a9a8-1f7bf5c5b3f8/
+[5] Department of Ethnomusicology https://ethnomusicologyreview.ucla.edu/newsevents/news/hood.htm
+[6] Mantle Hood papers now available online https://ethnomusicologyreview.ucla.edu/content/mantle-hood-papers-now-available-online
+[7] Mantle Hood - Wikipedia, la enciclopedia libre https://es.wikipedia.org/wiki/Mantle_Hood
+[8] Mantle Hood, 87; Professor, Pioneer in Studying World's Music and ... https://www.latimes.com/archives/la-xpm-2005-aug-09-me-hood9-story.html
+[9] Mantle Hood, 87, dies https://www.international.ucla.edu/asia/article/27769
+[10] Mantle Hood, 87, dies - Article .::. UCLA International Institute https://international.ucla.edu/institute/article/27769
+
+### END HOOD ###
 
 # I #
 
