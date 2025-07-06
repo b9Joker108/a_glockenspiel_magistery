@@ -522,6 +522,14 @@ Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography
 
 # V #
 
+### VARNEY, J.; *et al* ###
+
+* Varney, John (auth.); Labović; Biljana (direc.); Skyler, Peyton (anim.), Gendler, Alex (ed.) & Anderson, Addison (narr.) (c2014). 'A Different Way to Visualize Rhythm'. A TED Ed. Animation. Source: 
+https://youtu.be/2UphAzryVpY?si=kLxD9wYTa-zgNrFH (accessed: Sunday, July 06, 2025); Source: https://ed.ted.com/lessons/a-different-way-to-visualize-rhythm-john-varney (accessed: Sunday, July 06, 2025)
+
+**Purport:**
+This circular, cyclical and periodic rhythmic visualization paradigm is most useful as it unshackles rhythm from the tyrrany of the linearity of Western musical conceptions and scoring notation systems of rhythm and timing structures. This paradigm has distinct advantages in perceiving, with immediacy, the similarities in diverse musical traditions and styles and may provide a point-of-entry or conceptual teaching tool for rhythm that is more intuitive and more easily graspable for some tham more traditional modes of pedagogy and schema.
+
 ### VEERARAGAVAN, A. ###
 
 * Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவன்; IAST: Muṇaivar Ā. Vīrārākavaṉ] (ed.) (2015). Sri Vihagendra-Samhita: Sudarshana Mantra-Shastra \[Tamil: விஹகேந்திர சம்ஹிதா : சுதர்ஷண மந்திர ஷாஸ்திரம்; IAST: vihagendra-saṃhīta : sudarśana-mantra-śāstra]. Agama Pancharātriya. Thanjavur Sarasvati Mahal Publication No. 476. Saraswati Mahal Library and Research Centre of Maharaja Saraboji of Thanjavur, Thanjavur. (NB: Sanskrit rendered in Tamil script.). Ahmedabad, Gujarat, India: Saraswati Pustak Bhandar (Justice Siromani, Dr. A. Veeraragavan, M.A., B.L.I.S., Ph.D., Sanskrit Pandita). Source: https://archive.org/details/vihagendra-samhita-series-no.-476-thanjavur-sarasvati-mahal-series (accessed: Wednesday, July 02, 2025)
