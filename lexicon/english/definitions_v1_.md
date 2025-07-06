@@ -4293,6 +4293,139 @@ Samgita-Yoga (IAST: Saṅgīta-yoga; Devanagari: संगीत योग): The
 
 Saptak (सप्तक) in Indian Classical Music** literally means “group of seven” (सप्त = seven), referring to the seven (7) swaras (Sa, Re, Ga, Ma, Pa, Dha, Ni). In practice, a **saptak** is equivalent to an **octave** in Western music, though the Indian system is fundamentally modal and microtonal. The three (3) principal saptaks and their notation are: **Mandra Saptak** (lower octave), with dots below; **Madhya Saptak** (middle octave), with no dors; and **Taar Saptak** (upper octave), with dots above. 
 
+
+### SELF-SOVEREIGNTY (POLITICAL PHILOSOPHY)
+
+https://en.wikipedia.org/wiki/Swaraj  Please write a dedicated piece for my glockenspiel grimoire on the concept of 'self sovereignty' (Sanskrit: xxx; IAST: xxx; Hindi: xxx; IAST: xxx; Bengali: xxx; IAST: xxx; Tibetan: xxx; EWTS: xxx; Chinese: xxx; xxxx), its historicity and development, precursers and influences, philosophy, worldview, etc. Prestige dialect. Academic register.
+
+## Self-Sovereignty: Swarāj and Its Multilingual Renderings
+
+| Language   | Script/Term                | Transliteration (IAST/EWTS/Pinyin) | Notes                                  |
+|------------|----------------------------|-------------------------------------|----------------------------------------|
+| Sanskrit   | स्वराज्य                   | svarājya                           | Also स्वराज (svarāja)                  |
+| Hindi      | स्वराज्य / आत्म-संप्रभुता   | svarājya / ātm-samprabhutā          | Also स्वतंत्रता (svatantrata)          |
+| Bengali    | স্বরাজ্য / আত্ম-সার্বভৌমত্ব  | svarājya / ātma-sārbabhaumatva      | Also সার্বভৌমত্ব (sārbabhaumatva)      |
+| Tibetan    | རང་དབང་                   | rang dbang                          | “Self-power,” “autonomy,” “sovereignty”|
+| Chinese    | 自主 / 主权                  | zìzhǔ / zhǔquán                     | “Autonomy” / “sovereignty”             |
+
+## I. Conceptual Foundations
+
+### Etymology and Core Meaning
+
+- **Sanskrit:** *Swarājya* (स्वराज्य, svarājya) combines *sva* (“self”) and *rājya* (“rule, kingdom”), denoting “self-rule” or “self-sovereignty.” The term is attested in classical texts and was revitalized in the modern era as a rallying cry for independence and self-governance[1][2].
+- **Hindi/Bengali:** The term is directly inherited as *svarājya* (स्वराज्य / স্বরাজ্য), with additional modern compounds such as *ātm-samprabhutā* (आत्म-संप्रभुता) and *ātma-sārbabhaumatva* (আত্ম-সার্বভৌমত্ব), both meaning “self-sovereignty” or “self-determination”[3][4][5][6].
+- **Tibetan:** རང་དབང་ (*rang dbang*) literally means “self-power” or “autonomy,” and is the standard term for both personal and collective sovereignty in Buddhist and political discourse.
+- **Chinese:** 自主 (*zìzhǔ*, “self-mastery”) and 主权 (*zhǔquán*, “sovereignty”) are the principal terms, with the former emphasizing autonomy and the latter, state sovereignty[7][8][9].
+
+## II. Historicity and Development
+
+### Ancient and Classical Roots
+
+- **Vedic and Upanishadic Thought:** The concept of self-sovereignty is implicit in the Upanishadic ideal of *ātman* (आत्मन्)—the self as the ultimate locus of agency, freedom, and realization[10]. The *Brihadaranyaka Upanishad* equates self-rule with the realization of one’s true nature, which is both individual and universal.
+- **Dharmashastra and Political Theory:** Classical Indian treatises, such as the *Arthashastra*, discuss sovereignty (*samprabhutā*, *svatantrata*) as both a personal and collective ideal, linking the ruler’s autonomy to the ethical self-mastery of the individual.
+
+### Medieval and Early Modern Developments
+
+- **Kashmir Shaivism:** The doctrine of *svātantrya* (स्वातन्त्र्य, “absolute freedom” or “sovereignty”) in Kashmir Shaivism articulates the divine as the ultimate self-sovereign, whose will is the source of all manifestation[11].
+- **Bengal Renaissance:** Bengali intellectuals and reformers, drawing on both Sanskritic and Islamic traditions, articulated *svarājya* and *sārbabhaumatva* as ideals of cultural and political self-determination[12][13].
+
+### Modern Era and Anti-Colonial Movements
+
+- **Swaraj in Indian Independence:** The term *Swaraj* was popularized by Maharshi Dayanand Saraswati and later by Mahatma Gandhi, who redefined it as not merely political independence but as a comprehensive philosophy of self-governance, decentralization, and moral self-mastery[1].
+    - Gandhi’s Swaraj is “self-rule” at every level: individual, village, and nation. It is both a political and spiritual ideal, equated with *moksha* (liberation) and the sovereignty of the people[1].
+- **Tibetan and Chinese Contexts:** In Tibetan, *rang dbang* is used for both personal autonomy and the collective right to self-determination, especially in the context of debates over Tibetan sovereignty and autonomy within China[14][15][16][17]. In Chinese, *zìzhǔ* and *zhǔquán* have been central to discourses on national independence and the rights of minority nationalities[8][18][9].
+
+## III. Precedents and Influences
+
+- **Indigenous Polities:** The ideal of self-sovereignty is reflected in the decentralized, community-based governance of ancient Indian republics (*ganarājya*), Himalayan polities, and village assemblies.
+- **Buddhist Philosophy:** The doctrine of *self-mastery* (Pali: attāhi attano nātho, “the self is one’s own master”) is foundational in Buddhist ethics and is echoed in Tibetan and Himalayan Buddhist discourse on autonomy and liberation.
+- **Western Political Thought:** The modern articulation of self-sovereignty in South and East Asia was influenced by Enlightenment ideas of autonomy, Rousseau’s social contract, and the principle of self-determination in international law, but was always refracted through indigenous philosophical and ethical frameworks[18].
+
+## IV. Philosophy and Worldview
+
+### Integral Self-Rule
+
+- **Personal Level:** Self-sovereignty is first and foremost the mastery of the self—ethical autonomy, self-discipline, and the capacity for self-governance. Gandhi insisted that “Swaraj begins with the individual,” and that true freedom is inseparable from self-restraint and self-realization[1].
+- **Collective Level:** At the level of community and nation, self-sovereignty is realized through participatory, decentralized governance, where power “resides in the people” and is exercised through mutual aid, consensus, and non-hierarchical structures.
+- **Spiritual Dimension:** In its fullest sense, self-sovereignty is equated with *moksha* (liberation), the realization of one’s true nature as free, autonomous, and undivided from the whole[1][10][11].
+
+### Critique of the State
+
+- Gandhi and other theorists of Swaraj were deeply skeptical of centralized, bureaucratic state power, which they saw as alienating and ultimately corrosive of true freedom. The ideal is a stateless or minimally governed society, where each person is “his own ruler” and the community is self-sustaining[1].
+
+## V. Summary Table: Key Terms
+
+| Concept             | Sanskrit         | Hindi           | Bengali         | Tibetan         | Chinese         |
+|---------------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| Self-sovereignty    | स्वराज्य         | स्वराज्य / आत्म-संप्रभुता | স্বরাজ্য / আত্ম-সার্বভৌমত্ব | རང་དབང་ (rang dbang) | 自主 (zìzhǔ) / 主权 (zhǔquán) |
+| Self-rule           | स्वराज           | स्वराज           | স্বরাজ           | རང་དབང་         | 自主             |
+| Autonomy            | स्वायत्तता        | स्वायत्तता        | স্বায়ত্ততা        | རང་དབང་         | 自治 (zìzhì)      |
+| Sovereignty         | सम्प्रभुता        | सम्प्रभुता        | সার্বভৌমত্ব        | རང་དབང་         | 主权 (zhǔquán)    |
+
+## VI. Conclusion
+
+The concept of self-sovereignty—*swarājya*, *rang dbang*, *zìzhǔ*—is a multidimensional ideal, encompassing personal mastery, collective autonomy, and spiritual liberation. Its historicity is marked by a continuous dialogue between indigenous traditions and global currents, from Vedic and Buddhist philosophy to anti-colonial struggle and modern political theory. At its heart, self-sovereignty is the affirmation of the individual and the community as the true locus of power, dignity, and freedom[1][11][2][10][8][9].
+
+**References:**  
+[1] Swaraj - Wikipedia  
+[11] Svatantrya - Wikipedia  
+[3] Sovereignty: meaning in Hindi  
+[4] sovereignty meaning in Bengali  
+[2] Sanskrit - Dictionary  
+[10] Ātman (Hinduism)  
+[5] Self Sovereignty Meaning In Bengali  
+[7] Translation of "sovereign" into Chinese  
+[6] Self Sovereignty Meaning In Hindi  
+[8] FEATURED | Chinese Construct of Sovereignty by Amrita Jash  
+[12] Nation state and Bangladesh: An analysis  
+[16] the case concerning tibet tibet's sovereignty and the tibetan ...  
+[18] © Koninklijke Brill NV, Leiden, 2019 | DOI:10.1163/  
+[17] Tibetan independence movement  
+[9] The word "sovereignty" in Chinese - Forumosa
+
+Citations:
+[1] Swaraj - Wikipedia https://en.wikipedia.org/wiki/Swaraj
+[2] Sanskrit - Dictionary https://www.learnsanskrit.cc/translate?search=%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D
+[3] Sovereignty: meaning in Hindi - Meaning of Sovereignty: in Hindi https://dict.hinkhoj.com/sovereignty:-meaning-in-hindi.words
+[4] sovereignty meaning in Bengali | sovereignty translation in Bengali - Shabdkosh https://www.shabdkosh.com/dictionary/english-bengali/sovereignty/sovereignty-meaning-in-bengali
+[5] Self Sovereignty Meaning In Bengali - বাংলা অর্থ - UpToWord https://uptoword.com/en/self-sovereignty-meaning-in-bengali
+[6] Self Sovereignty Meaning In Hindi - हिंदी अर्थ - UpToWord https://uptoword.com/en/self-sovereignty-meaning-in-hindi
+[7] Translation of "sovereign" into Chinese https://glosbe.com/en/zh/sovereign
+[8] FEATURED | Chinese Construct of Sovereignty by Amrita Jash https://www.indrastra.com/2015/11/FEATURED-Chinese-Construct-of-Sovereignty-by-Amrita-Jash-0448.html?m=1
+[9] The word "sovereignty" in Chinese - Forumosa https://tw.forumosa.com/t/the-word-sovereignty-in-chinese/54843
+[10] Ātman (Hinduism) https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)
+[11] Svatantrya https://en.wikipedia.org/wiki/Svatantrya
+[12] Nation state and Bangladesh: An analysis https://ijnss.org/wp-content/uploads/2022/12/IJNSS-V9I3-1-PP-01-07.pdf
+[13] Language as a Discourse of Legitimate Power: Bengali-Muslim Political and https://papers.iafor.org/wp-content/uploads/papers/ecss2015/ECSS2015_15684.pdf
+[14] Tibetan sovereignty debate https://en.wikipedia.org/wiki/Tibetan_sovereignty_debate
+[15] Memorandum on Geniune Autonomy for the Tibetan people - Central Tibetan Administration https://tibet.net/important-issues/sino-tibetan-dialogue/memorandum-on-geniune-autonomy-for-the-tibetan-people/
+[16] the case concerning tibet tibet's sovereignty and the tibetan ... https://www.tibetjustice.org/reports/sovereignty/the_case_concerning_tibet-updated2013.pdf
+[17] Tibetan independence movement https://en.wikipedia.org/wiki/Tibetan_independence_movement
+[18] © Koninklijke Brill NV, Leiden, 2019 | DOI:10.1163/​ https://brill.com/previewpdf/display/book/9789004380578/BP000004.xml
+[19] Cultura. International Journal of Philosophy of Culture and Axiology 15(2)/2018: 53-72 https://www.ingentaconnect.com/contentone/plg/cultura/2018/00000015/00000002/art00004?crawler=true&mimetype=application%2Fpdf
+[20] Autonomy Meaning In Hindi | Svāyattatā स्वायत्तता | English to Hindi Dictionary https://www.urdupoint.com/dictionary/english-to-hindi/autonomy-meaning-in-hindi/7240.html
+[21] sovereign meaning in Bengali | sovereign translation in Bengali - Shabdkosh https://www.shabdkosh.com/dictionary/english-bengali/sovereign/sovereign-meaning-in-bengali
+[22] One and All: Introduction | Stanford University Press https://www.sup.org/books/asian-studies/one-and-all/excerpt/introduction
+[23] sovereignty meaning in Hindi - Shabdkosh.com https://www.shabdkosh.com/dictionary/english-hindi/sovereignty/sovereignty-meaning-in-hindi
+[24] Memorandum on Genuine Autonomy for the Tibetan People https://savetibet.org/advocacy/memorandum-on-genuine-autonomy-for-the-tibetan-people/
+[25] Acharya Shunya: Sovereign Self https://resources.soundstrue.com/transcript/acharya-shunya-sovereign-self/?print=print
+[26] self-governing meaning in Bengali - Shabdkosh.com https://www.shabdkosh.com/dictionary/english-bengali/self-governing/self-governing-meaning-in-bengali
+[27] Ātman (Buddhism) https://en.wikipedia.org/wiki/%C4%80tman_(Buddhism)
+[28] self-determination and sovereignty - Translation into Chinese https://context.reverso.net/translation/english-chinese/self-determination+and+sovereignty
+[29] Identity politics and the Bengali–Bangladeshi dichotomy is ... https://en.banglaoutlook.org/analysis/235664
+[30] Tibet: “Self-determination”? or Determination by ... https://countercurrents.org/2025/07/tibet-self-determination-or-determination-by-imperialism-and-its-notorious-pawn-the-dalai-lama/
+[31] sovereignty and self-determination - Translation into Chinese https://context.reverso.net/translation/english-chinese/sovereignty+and+self-determination
+[32] SOVEREIGNTY AS A MOTOR OF GLOBAL CONCEPTUAL ... https://www.cambridge.org/core/journals/modern-intellectual-history/article/sovereignty-as-a-motor-of-global-conceptual-travel-sanskritic-equivalents-of-law-in-bengali-discursive-production/5EFD77C3394358103BFB1AE64B85FB75
+[33] The Legal Status of Tibet https://www.culturalsurvival.org/publications/cultural-survival-quarterly/legal-status-tibet
+[34] Theorizing a Bengali Nation: Abul Hashim and the United ... https://doingsociology.org/2024/09/21/theorizing-a-bengali-nation-abul-hashim-and-the-united-bengal-movement-1937-1947-by-sucharita-sen-2024-a-review-by-krishnayan-das/
+[35] The Question of Tibet https://www.cfr.org/backgrounder/question-tibet
+[36] Sovereignty - China Media Project https://chinamediaproject.org/the_ccp_dictionary/sovereignty/
+[37] Self and Sovereignty https://dl.islamic-sources.com/en/filebase/E-Books/Humanities/Self-and-Sovereignity.pdf
+[38] Beijing Wants to Erase Tibet's Name. Don't Let Them. https://www.journalofdemocracy.org/online-exclusive/beijing-wants-to-erase-tibets-name-dont-let-them/
+[39] SELF-GOVERNING in Traditional Chinese - Cambridge Dictionary https://dictionary.cambridge.org/dictionary/english-chinese-traditional/self-governing
+
+## END SELF-SOVEREIGNTY ###
+
 ### Shanta Rasa ###
 
 Shanta rasa, also known as shantarasa, is a concept in Indian aesthetics, particularly within the framework of Navarasa (nine emotions). It signifies a state of tranquility, peace, serenity, equanimity and quietude and though its position and state as a primary rasa is contentious, it is often proffered as the ninth rasa. It may be concomitant or associated with a feeling of detachment and liberation and some contend that it may be reached through the experience of other rasas. Though, there are a suite of other positions and contentions. Shanta rasa translates to "peaceful sentiment" or "tranquility" in Sanskrit. In the traditional framework of Navarasa, shanta rasa is often considered the ninth rasa, added by later authors, building upon the eight primary rasas. Abhinavagupta, a prominent figure in rasa theory, believed that shanta rasa underlies all other rasas, representing the ultimate state of peace and serenity that may be reached through them. It is contended by some that it is not a rasa that can be directly portrayed, but rather, a state that emerges from the experience of other intense emotions. It's like a substratum, the stillness of the ocean beneath the waves of various emotions. Shanta rasa is associated with a feeling of liberation, detachment and the realization of one's true nature. It is linked to concepts like Vairagya (detachment) and Sthitaprajna (steadfast wisdom). In some schools of Vaishnavism, the Gaudiya Vaishnava Sampradaya specifically, Shanta rasa is oft-considered a neutral love for the divine and is associated with devotional practices and the concept of Paramatma. It is often depicted in narratives of great yogis achieving enlightenment or in the portrayal of serene natural landscapes. Regardless, there is much that may be considered exceptionalism in the case, nature, arrising, experience and provenance of this rasa in relation to the canonocal and principal eight. Some, may even perceive Sri Krishna's attesting and expounding its purview in the Sri Bhagavada Gita.
