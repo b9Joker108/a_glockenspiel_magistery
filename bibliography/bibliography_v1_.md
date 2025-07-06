@@ -44,6 +44,13 @@ This work will be invaluable as a reference.
 **Purport:**
 ...
 
+### BELL, C. ###
+
+* Bell, Christopher (2020). 'Tibetan Demonology: Elements in Religion and Violence'. Cambridge Elements: Elements in Religion and Violence series: edited by Lewis, James R. & Kitts, Margo. University Printing House, Cambridge, England, U.K.: Cambridge University Press (a part of the University of Cambridge). DOI: 10.1017/9781108670715. ISBN 9781108712675 (pbk).
+
+**Purport:**
+This is a valuable work for our purposes and it has been well produced.
+
 ### BOCK, E. ###
 
 * Bock, Emmanuel (2010). '"If no Divells, no God": Devils, D(a)emons and Humankind on the Mediaeval and Early Modern English Stage'. Thesis. Durham, Stockton-on-Tees, England, U.K.: University of Durham. Source: http://etheses.dur.ac.uk/750/ (accessed: Tuesday, July 01, 2025)
