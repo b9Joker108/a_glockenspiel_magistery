@@ -2488,6 +2488,230 @@ Citations:
 
 # H #
 
+### HEART CONNECTION (TIBETAN) ###
+
+Thay was good, but cultivating the "heart connection" is how practitioners esoterically connect with their Guru and Yidam, as well. Focus on all the Tibetan terms that can explicitly be rendered: "heart connection", maybe heart continuum, etc.?
+
+## The "Heart Connection" in Esoteric Guru and Yidam Practice: Tibetan Terms and Context
+
+Cultivating a "heart connection" is central to Vajrayāna and Himalayan Buddhist practice, especially in the esoteric relationship with the **Guru** (bla ma, བླ་མ་) and **Yidam** (yi dam, ཡི་དམ་). This connection is not merely emotional but is described in precise Tibetan terms that denote direct, experiential, and transformative links at the core of spiritual realization.
+
+### Key Tibetan Terms for "Heart Connection" and Related Concepts
+
+| English Term         | Tibetan Script           | Wylie Transliteration         | Context/Usage                                                                 |
+|----------------------|-------------------------|------------------------------|-------------------------------------------------------------------------------|
+| Heart connection     | སྙིང་འབྲེལ་              | snying 'brel                 | Direct, intimate link between disciple and Guru/Yidam; esoteric transmission  |
+| Heart-essence        | སྙིང་ཐིག་                | snying thig                  | "Heart-drop" or "heart-essence"; core Dzogchen teachings, ultimate pith      |
+| Heart continuum      | སྙིང་རྒྱུད་               | snying rgyud                 | Continuum of the heart; sometimes used for mindstream or tantric continuity   |
+| Heart of the matter  | སྙིང་པོ་                 | snying po                    | Essence, pith, or core; also used for "Heart Sutra" (shes rab snying po)      |
+| Compassion           | སྙིང་རྗེ་                 | snying rje                   | Noble heart, compassion; basis for genuine connection                         |
+| Mindstream           | སེམས་རྒྱུད་               | sems rgyud                   | Mental continuum, sometimes rendered as "heart-mind continuum"                |
+| Blessing/Transmission| བྱིན་རླབས་                | byin rlabs                   | Blessing, often described as flowing from Guru’s heart to disciple’s heart    |
+
+### 1. **སྙིང་འབྲེལ་ (snying 'brel): Heart Connection**
+
+- **Literal meaning:** "Heart connection" or "heart link."
+- **Usage:** Refers to the esoteric, non-conceptual bond between practitioner and Guru or Yidam, established through devotion, meditation, and transmission. This connection is considered the channel through which blessings (byin rlabs) and realization flow[1].
+- **In practice:** The heart connection is cultivated in Guru Yoga (bla ma'i rnal 'byor), where the disciple visualizes merging their heart with the Guru’s enlightened mind, and in Yidam practice, where the practitioner unites their heart with the deity’s wisdom mind[2][3].
+
+### 2. **སྙིང་ཐིག་ (snying thig): Heart-Essence**
+
+- **Literal meaning:** "Heart-drop" or "heart-essence."
+- **Usage:** In Dzogchen, snying thig denotes the innermost, most secret teachings—direct, experiential instructions that are transmitted "from heart to heart" (སྙིང་སྙིང་གི་བརྒྱུད་པ་, snying snying gi brgyud pa)[4].
+- **Significance:** The heart-essence is the pith of realization, often transmitted in a direct, wordless manner from Guru to disciple.
+
+### 3. **སྙིང་རྒྱུད་ (snying rgyud): Heart Continuum**
+
+- **Literal meaning:** "Heart continuum" or "heart tantra."
+- **Usage:** Refers to the unbroken stream of the heart’s wisdom or the continuity of realization. In tantric literature, rgyud (continuum) is used for both "tantra" and "continuity," emphasizing the ongoing, living connection of realization[5].
+- **Related term:** སེམས་རྒྱུད་ (sems rgyud, "mindstream")—sometimes used interchangeably, but snying rgyud emphasizes the heart’s role as the locus of transmission and realization[6][7].
+
+### 4. **ཡི་དམ་ (yi dam): Yidam and the Heart Oath**
+
+- **Etymology:** "Yidam" is a contraction of ཡིད་ཀྱི་དམ་ཚིག་ (yid kyi dam tshig), meaning "oath of the mind" or "sacred bond of the mind"[8][9][3].
+- **Esoteric connection:** The practitioner forms a heart connection with the Yidam through visualization, mantra, and identification, binding their mind and heart to the enlightened qualities of the deity. This is described as a "choiceless choice of the heart," a deep, intuitive resonance[3].
+
+### 5. **སྙིང་རྗེ་ (snying rje): Compassion as Heart Openness**
+
+- **Literal meaning:** "Noble heart" or "compassion."
+- **Usage:** The cultivation of snying rje is foundational for opening the heart to the Guru, Yidam, and all beings, enabling the heart connection to be genuine and transformative[10].
+
+## Summary Table: Tibetan Terms for Esoteric Heart Connection
+
+| English                | Tibetan Script      | Wylie Transliteration   | Esoteric Context                                      |
+|------------------------|--------------------|------------------------|-------------------------------------------------------|
+| Heart connection       | སྙིང་འབྲེལ་         | snying 'brel           | Direct link with Guru/Yidam, channel for blessings    |
+| Heart-essence          | སྙིང་ཐིག་           | snying thig            | Dzogchen pith, direct transmission                    |
+| Heart continuum        | སྙིང་རྒྱུད་          | snying rgyud           | Continuity of realization, tantra as heart continuum  |
+| Mindstream             | སེམས་རྒྱུད་          | sems rgyud             | Mental continuum, sometimes "heart-mind continuum"    |
+| Heart of the matter    | སྙིང་པོ་            | snying po              | Essence, pith, core                                   |
+| Compassion             | སྙིང་རྗེ་            | snying rje             | Noble heart, basis for genuine connection             |
+| Blessing/Transmission  | བྱིན་རླབས་           | byin rlabs             | Flow of realization from Guru’s heart                 |
+
+## Contextualization
+
+- **Guru Yoga and Heart Connection:** The practice of Guru Yoga centers on establishing a snying 'brel (heart connection) with the Guru, seen as the living embodiment of enlightenment. This connection is the channel for blessings (byin rlabs) and realization, often described as a "meeting of hearts" or "heart-to-heart transmission"[2][11].
+- **Yidam Practice:** The relationship with the Yidam is formalized through the yid kyi dam tshig (oath of the mind), but the esoteric connection is experienced as a snying 'brel—a heart resonance or continuum that transforms the practitioner’s identity into that of the deity[8][9][3].
+- **Tantric Continuum:** The term rgyud (continuum, tantra) underscores that these connections are not static but are living, dynamic streams of realization, maintained and deepened through practice[5][6].
+
+**In sum:**  
+The esoteric "heart connection" in Himalayan Buddhism is rendered in Tibetan as **སྙིང་འབྲེལ་ (snying 'brel)**, with related terms such as **སྙིང་ཐིག་ (snying thig)** and **སྙིང་རྒྱུད་ (snying rgyud)** denoting the heart-essence and heart continuum. These terms articulate the living, experiential bond between practitioner, Guru, and Yidam—a bond that is the very axis of Vajrayāna realization[2][8][9][5][3][4][10][11].
+
+Citations:
+[1] Teaching on the Essence of Dependent Origination - Lotsawa House https://www.lotsawahouse.org/tibetan-masters/chokgyur-dechen-lingpa/essence-of-dependent-origination
+[2] Guru Yoga: the heart of Vajrayana? https://www.dharmawheel.net/viewtopic.php?t=2725
+[3] What is a Yidam? | Lion's Roar https://www.lionsroar.com/dharma-dictionary-yidam/
+[4] Survey of Nyingtik Yabzhi and Longchen Nyingtik https://www.lotsawahouse.org/tibetan-masters/dezhung-rinpoche/nyingtik-yabzhi-longchen-nyingtik-survey
+[5] rgyud https://rywiki.tsadra.org/index.php/rgyud
+[6] Mindstream - Wikipedia https://en.wikipedia.org/wiki/Mindstream
+[7] Mindstream - Tibetan Buddhist Encyclopedia https://tibetanbuddhistencyclopedia.com/en/index.php/Mindstream
+[8] A yidam is a type of tutelary or meditational deity https://tibetanbuddhistencyclopedia.com/en/index.php?title=A_yidam_is_a_type_of_tutelary_or_meditational_deity
+[9] What is a Yidam?! https://tibetanbuddhistencyclopedia.com/en/index.php?title=What_is_a_Yidam%3F%21
+[10] Noble Caring And Compassionate Heart - Samye Institute https://www.samyeinstitute.org/nlncnd/noble-caring-and-compassionate-heart/
+[11] Gurus grace is talked very much in Tibetan Buddhism - Reddit https://www.reddit.com/r/TibetanBuddhism/comments/1gzgd1q/gurus_grace_is_talked_very_much_in_tibetan/
+[12] Yidam: Significance and symbolism https://www.wisdomlib.org/concept/yidam
+[13] Dzogchen https://en.wikipedia.org/wiki/Dzogchen
+[14] Continuum vs. Teachings - Buddha-Nature - Tsadra Foundation https://buddhanature.tsadra.org/index.php/Articles/Continuum_vs._Teachings
+[15] Reliance on the Guru's mind alone: What is our heart ... https://kadampaworkingdad.com/2013/12/12/reliance-on-the-gurus-mind-alone-what-is-our-heart-practice/
+[16] Translations of the term "heart" - Dharma Wheel https://www.dharmawheel.net/viewtopic.php?t=30428
+[17] Glossary of Buddhist Terms: Letters K - O https://kadampa.org/reference/glossary-of-buddhist-terms-k-o
+[18] [PDF] Introduction to the Heart Sutra https://www.khandrorinpoche.org/wp-content/uploads/2015/01/JKR-Introduction-to-the-Heart-Sutra.pdf
+[19] Yidam - Wikipedia https://en.wikipedia.org/wiki/Yidam
+[20] Devotion Pierces My Heart https://unfetteredmind.org/devotion-pierces-my-heart/
+[21] mind - English-Tibetan Dictionary of Key Spiritual Terms https://www.gsungrab.org/etdkst/wylie/entries/mind.htm
+[22] Yidam - Rigpa Wiki https://www.rigpawiki.org/index.php?title=Yidam
+[23] What Is Guru-Yoga? http://studybuddhism.com/en/advanced-studies/lam-rim/student-teacher-relationship/theory-and-practice-of-guru-yoga/what-is-guru-yoga
+[24] Skandha - Wikipedia https://en.wikipedia.org/wiki/Skandha
+[25] Yidam, The Root Of Siddhi (powers) - Tibet Dharma https://tibetdharma.com/yidam-the-root-of-siddhi-powers/
+[26] Buddhist Advice Column: Will I recognise my guru when we ... https://davidmichie.substack.com/p/buddhist-advice-column-will-i-recognise
+[27] Teachings on the Heart Sutra | Lama Yeshe Wisdom Archive https://www.lamayeshe.com/article/teachings-heart-sutra
+[28] The Heart-mantra of Dependent Origination (rten... - Goodreads https://www.goodreads.com/quotes/414476-the-heart-mantra-of-dependent-origination-rten--brel-snying-po-which-liberat
+[29] The Enlightened Heart of Buddhahood https://www.scribd.com/document/255460679/The-Enlightened-Heart-of-Buddhahood
+[30] [PDF] Tibetan-Terms-Shedra-2021.pdf - Mangala Shri Bhuti https://mangalashribhuti.org/wp-content/uploads/2022/08/Tibetan-Terms-Shedra-2021.pdf
+[31] [PDF] The Cosmic Symbolism of the Refuge Tree and the Archetypal Guru https://www.freebuddhistaudio.com/texts/lecturetexts/106_The_Cosmic_Symbolism_of_the_Refuge_Tree_and_Archeypal_Guru.pdf
+[32] The Enlightened Heart of Buddhahood - Buddha-Nature https://buddhanature.tsadra.org/index.php/Books/The_Enlightened_Heart_of_Buddhahood
+[33] Tibetan 'wind' and 'wind' illnesses: towards a multicultural approach ... https://pmc.ncbi.nlm.nih.gov/articles/PMC3384002/
+[34] Glossary - Medicine and Memory in Tibet - NCBI Bookshelf https://www.ncbi.nlm.nih.gov/books/NBK546477/
+[35] mkha' 'gro snying thig - Rangjung Yeshe Wiki - Dharma Dictionary https://rywiki.tsadra.org/index.php/mkha'_'gro_snying_thig
+[36] The Uttara-tantra: The Sublime Continuum? — The Book of Dzyan http://prajnaquest.fr/blog/the-uttara-tantra-the-sublime-continuum/
+
+
+
+Himalayan Bauddhadharma speaks of the importance of cultivating a "heart connection". Please investigate, survey and contextualise. Use Tibetan text, Wylie, etc., for all technical and salient terms. Academic register. Prestige dialect.
+
+## The "Heart Connection" in Himalayan Bauddhadharma: A Survey and Contextualisation
+
+### 1. Introduction: The Centrality of the Heart
+
+In Himalayan Buddhist traditions, the cultivation of a "heart connection" is not merely a metaphor but a doctrinal, experiential, and soteriological imperative. The term "heart" in this context is rendered in Tibetan as **སྙིང་ (snying)**, with related compounds such as **སྙིང་རྗེ་ (snying rje, compassion)**, **སྙིང་ཐིག་ (snying thig, heart-essence)**, and **སྙིང་པོ་ (snying po, essence/core)**. These terms are foundational in both Mahāyāna and Vajrayāna (including Dzogchen) discourses, where the heart is the locus of wisdom, compassion, and ultimate realization[1][2][3].
+
+### 2. Lexical and Doctrinal Foundations
+
+#### 2.1. Tibetan Terms and Wylie Transliteration
+
+| English           | Tibetan Script      | Wylie Transliteration   | Salient Usage/Context                |
+|-------------------|--------------------|------------------------|--------------------------------------|
+| Heart             | སྙིང་              | snying                 | Physical heart, seat of emotion, essence |
+| Compassion        | སྙིང་རྗེ་          | snying rje             | Loving-kindness, compassion          |
+| Heart-Essence     | སྙིང་ཐིག་          | snying thig            | "Heart-drop," core Dzogchen teachings|
+| Heart Sutra       | ཤེས་རབ་སྙིང་པོ་    | shes rab snying po     | "Heart of Wisdom" (Prajñāpāramitāhṛdaya) |
+| Bodhicitta        | བྱང་ཆུབ་སེམས་      | byang chub sems        | Awakened mind/heart-mind             |
+
+#### 2.2. The Heart as Moral, Emotional, and Spiritual Core
+
+- In Buddhist usage, **སྙིང་ (snying)** is the seat of moral action, sincerity, affection, courage, and the very pith or essence of the Dharma[1].
+- The phrase **སྙིང་རྗེ་ (snying rje)**, "compassion," is central to Mahāyāna and Vajrayāna ethics, denoting the altruistic motivation that underpins the bodhisattva path.
+
+### 3. Heart Connection in Practice and Doctrine
+
+#### 3.1. Bodhicitta: The Awakened Heart-Mind
+
+- **Bodhicitta** (སེམས་, sems; བྱང་ཆུབ་སེམས་, byang chub sems) is the "heart-mind of awakening," the altruistic intention to attain enlightenment for the benefit of all beings.
+- The cultivation of bodhicitta is described as generating a profound "heart connection" (སྙིང་འབྲེལ་, snying 'brel) with all sentient beings, rooted in empathy and universal responsibility[4][5][6].
+
+#### 3.2. Snying Thig (སྙིང་ཐིག་): The Heart-Essence in Dzogchen
+
+- The **sNying thig** ("Heart-Essence") corpus, especially within the Nyingma tradition, represents the most esoteric and direct teachings of Dzogchen (རྫོགས་ཆེན་, rdzogs chen)[2][7][3].
+- These teachings emphasize direct, non-conceptual realization of the nature of mind, often described as a "heart-to-heart" transmission (སྙིང་སྙིང་གི་བརྒྱུད་པ་, snying snying gi brgyud pa) between master and disciple.
+- The sNying thig tradition is marked by visionary practices, sky-gazing meditation, and the experiential recognition of the "innate heart of awareness" (རང་རིག་སྙིང་, rang rig snying)[2][7].
+
+#### 3.3. The Heart Sutra (ཤེས་རབ་སྙིང་པོ་, shes rab snying po)
+
+- The **Heart Sutra** is a core Mahāyāna text, its Tibetan title literally meaning "The Heart of Transcendent Wisdom."
+- The "heart" here signifies the essence (སྙིང་པོ་, snying po) of prajñā (wisdom), pointing to the non-dual realization that underlies all phenomena[8][9].
+
+### 4. The "Doctrine of the Heart" vs. "Doctrine of the Head"
+
+- Tibetan Buddhist sources distinguish between the **"Doctrine of the Heart"** (སྙིང་ལུགས་, snying lugs) and the **"Doctrine of the Head"** (མགོ་ལུགས་, mgo lugs)[10][11].
+    - The "Doctrine of the Heart" represents the esoteric, intuitive, and compassionate path, prioritizing direct experience, inner wisdom, and the cultivation of bodhicitta.
+    - The "Doctrine of the Head" is the exoteric, intellectual, and analytical approach, valuable but incomplete without the integration of the heart’s wisdom and compassion.
+- In Vajrayāna, realization is said to be incomplete without the "heart connection"—the lived, embodied experience of compassion and wisdom.
+
+### 5. Ritual, Transmission, and the Heart
+
+- In Himalayan Buddhist ritual, the **heart** is often invoked as the seat of blessing and transmission. The phrase **སྙིང་སྙིང་གི་བརྒྱུད་པ་ (snying snying gi brgyud pa)** refers to the most intimate, direct transmission of realization from master to disciple, bypassing mere intellectual understanding[2].
+- The **sNying thig** cycle is renowned for its emphasis on visionary and experiential practices that cultivate this heart connection, both with the teacher and with the ultimate nature of mind.
+
+### 6. Summary Table: Key Terms and Concepts
+
+| Concept/Term         | Tibetan (Script)         | Wylie Transliteration      | Context/Significance                        |
+|----------------------|-------------------------|---------------------------|---------------------------------------------|
+| Heart                | སྙིང་                  | snying                    | Core, seat of emotion, essence              |
+| Compassion           | སྙིང་རྗེ་              | snying rje                | Loving-kindness, altruism                   |
+| Heart-Essence        | སྙིང་ཐིག་              | snying thig               | Dzogchen’s most secret teachings            |
+| Heart Sutra          | ཤེས་རབ་སྙིང་པོ་        | shes rab snying po        | Essence of wisdom, core Mahāyāna text       |
+| Bodhicitta           | བྱང་ཆུབ་སེམས་          | byang chub sems           | Awakened heart-mind, altruistic intention   |
+| Heart Transmission   | སྙིང་སྙིང་གི་བརྒྱུད་པ་  | snying snying gi brgyud pa| Direct, experiential transmission           |
+| Doctrine of the Heart| སྙིང་ལུགས་              | snying lugs               | Esoteric, compassionate, intuitive path     |
+
+### 7. Conclusion: The Heart Connection as Soteriological and Experiential Core
+
+The cultivation of a "heart connection" in Himalayan Bauddhadharma is not a peripheral sentiment but the very axis of spiritual practice and realization. Whether articulated as **bodhicitta** (བྱང་ཆུབ་སེམས་), the **sNying thig** (སྙིང་ཐིག་) teachings of Dzogchen, or the lived compassion of **snying rje** (སྙིང་རྗེ་), the heart is the locus where wisdom and compassion unite, and where the ultimate transmission of the Dharma occurs. This "heart connection" is cultivated through meditation, ritual, and direct relationship with teachers and all sentient beings, and is regarded as the indispensable ground of authentic realization in the Himalayan Buddhist world[1][2][10][11][3].
+
+Citations:
+[1] heart - English-Tibetan Dictionary of Key Spiritual Terms https://www.gsungrab.org/etdkst/wylie/entries/heart.htm
+[2] Tantric Visionary Yoga in Medieval India and Tibet and the Origins ... https://escholarship.org/uc/item/5np416qt
+[3] Snying thig: Significance and symbolism https://www.wisdomlib.org/concept/snying-thig
+[4] seven points of cause and effect - Lama Yeshe Wisdom Archive | https://www.lamayeshe.com/glossary/seven-points-cause-and-effect
+[5] Semde - Wikipedia https://en.wikipedia.org/wiki/Semde
+[6] Bodhicitta: the Perfection of Dharma - Mandala Publications - FPMT https://fpmt.org/mandala/archives/older/mandala-issues-for-1996/july/bodhicitta-the-perfection-of-dharma/
+[7] Tantric Visionary Yoga in Medieval India and Tibet and the Origins of the https://escholarship.org/content/qt5np416qt/qt5np416qt_noSplash_1b590d0339073250cbda82daebf2b175.pdf?t=ssyeu4
+[8] The Heart Sutra | ཤེས་རབ་སྙིང་པོ། ། | Sherab Nyingpo with English Translation - thongdrol.org https://www.youtube.com/watch?v=Zxwc0kdasZE
+[9] Heart Sutra https://en.wikipedia.org/wiki/Heart_Sutra
+[10] Appendix 1 [by JB] | Introduction to Agni Yoga: a Summary https://bookdown.org/becerra_je/IAY-VBA/appendix-1-by-jb.html
+[11] Appendix [by JB] | Introduction to Agni Yoga: a Summary https://bookdown.org/becerra_je/IAY-VBA/appendix-by-jb.html
+[12] Buddhist researchers seek to reveal link between heart, mind https://www.lionsroar.com/buddhist-researcher-heart-mind/
+[13] The Profound Wisdom of the Heart Sutra: An Introductory Exploration https://www.namchak.org/community/blog/heart-sutra-intro/
+[14] Tibetan Buddhist Glossary - Namchak Community https://www.namchak.org/community/blog/tibetan-buddhist-glossary/
+[15] The Heart Sutra: Commentary on Text (1) - buddhanet.net https://www.buddhanet.net/e-learning/heartl01/
+[16] Tibetan Buddhism https://en.wikipedia.org/wiki/Tibetan_Buddhism
+[17] Translations of the term "heart" - Dharma Wheel https://www.dharmawheel.net/viewtopic.php?t=30428
+[18] Heart Sūtra Outline - Lotsawa House https://www.lotsawahouse.org/tibetan-masters/ngulchu-dharmabhadra/heart-sutra-outline
+[19] Towards Sacred Traditions of Himalayan Buddhism https://www.insidehimalayas.com/sacred-traditions-of-himalayan-buddhism/
+[20] Dzogchen - Wikipedia https://en.wikipedia.org/wiki/Dzogchen
+[21] Tag: Heart Connections - Buddha Within https://buddhawithin.org.uk/tag/heart-connections/
+[22] 06. 心 Heart-真佛宗TBSN https://en.tbsn.org/guidem/detail/1327/06._%E5%BF%83_Heart.html
+[23] the five chakras, three channels and two drops of Tantric Buddhism ... https://buddhaweekly.com/lighting-the-inner-fire-subtle-body-as-the-path-to-enlightenment-the-five-chakras-three-channels-and-two-drops-of-tantric-buddhism-and-their-practice/
+[24] The Heart Sutra - Dharmanet https://dharmanet.org/heart-sutra-2/
+[25] Tibetan Glossary https://www.wisdomlib.org/buddhism/book/the-great-chariot/d/doc83079.html
+[26] Dhammapada: Translation of Dharma Verses with the Tibetan Text https://www.booktopia.com.au/dhammapada-translation-of-dharma-verses-with-the-tibetan-text-dge-dun-chos-phel/ebook/9780898005332.html
+[27] Tibetan 'wind' and 'wind' illnesses: towards a multicultural approach ... https://pmc.ncbi.nlm.nih.gov/articles/PMC3384002/
+[28] What is Bodhicitta? - The Wisdom Experience https://wisdomexperience.org/wisdom-article/what-is-bodhicitta/
+[29] UC Berkeley https://escholarship.org/content/qt5np416qt/qt5np416qt.pdf?t=ssyeu4
+[30] [PDF] Tibetan-Terms-Shedra-2021.pdf - Mangala Shri Bhuti https://mangalashribhuti.org/wp-content/uploads/2022/08/Tibetan-Terms-Shedra-2021.pdf
+[31] Bodhicitta - Tsadra Commons https://commons.tsadra.org/index.php/Bodhicitta
+[32] Longchen Nyingthig - Wikipedia https://en.wikipedia.org/wiki/Longchen_Nyingthig
+[33] Om mani padme hum - Wikipedia https://en.wikipedia.org/wiki/Om_mani_padme_hum
+[34] How to Say the Refuge Prayer in Tibetan - YoWangdu https://www.yowangdu.com/tibetan-buddhism/refuge-prayer.html
+[35] Snying thig system: Significance and symbolism https://www.wisdomlib.org/concept/snying-thig-system
+[36] Wylie and classical pronunciation : r/tibetanlanguage - Reddit https://www.reddit.com/r/tibetanlanguage/comments/k62bnf/wylie_and_classical_pronunciation/
+[37] bodhicitta - Buddha-Nature - Tsadra Foundation https://buddhanature.tsadra.org/index.php/Key_Terms/bodhicitta
+
+
+
+
+### END HEART CONNECTION ###
+
 ### Henotheism ###
 
 Please provide a ranging and rigirous academic survey on Henotheism and its etic and emic historical development from as many technical discourse areas and academic fields as possible. It is a lexical entry for an encyclopaedic addendum of my little work on theurgical glockenspiel
