@@ -469,6 +469,13 @@ This researcher and author has a profound overview of the Indian artistic and ae
 **Purport:** 
 ...
 
+### STONE, R. ###
+
+* Stone, Ruth M. (ed.) (2009, 2008, 2000). 'The Garland Handbook of African Music'. Second edition. \[NB: 'The Garland Handbook of African Music', second edition, is an abridged paperback edition of 'Africa, Vol. 1' of 'The Garland Encyclopedia of World Music' (Garland Publishing, 2000), with the addition of a new article, 'Exploring African Music', as well as articles by: Alex Perullo, Gregory Barz, Judah Cohen, Daniel B. Reed, Jeffrey A. Summit, Jane Goodman and Clara Henderson. The Reed article is adapted from previous publication by Indiana University Press, used by permission. Unless otherwise noted, all interior illustrations were provided by the authors of articles and sections in this Handbook. (Taylor & Francis e-Library, 2009 & Routledge, 2008) ]. Taylor & Francis e-Library & Routledge (an imprint of the Taylor & Francis Group). ISBN 9780203927878 (ebk). 
+
+**Purport:** 
+...
+
 ### STORMS, G. ###
 
 * Storms, Godfrid (1948). 'Anglo-Saxon Magic'. Dissertation for the degree of Doctor of Letters and Philosophy. Faculty of Theology. Radboud University of Nijmegen, Netherlands. The Hague, Netherlands: Martinus Nijhoff.
