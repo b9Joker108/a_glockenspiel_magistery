@@ -208,9 +208,9 @@ Worthwhile.
 **Purport:**
 ...
 
-### KOSKOFF, E.; *et al* ###
+### KOSKOFF, E.; *et al.* ###
 
-* Koskoff, Ellen (exec. ed.); *et al* (2008). 'The Concise Garland Encyclopedia of World Music: Vol. 2, The Middle East, South Asia, East Asia & Southeast Asia'. New York, N.Y., U.S.A.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780415994040 (vol. 2 hbk)
+* Koskoff, Ellen (exec. ed.); *et al.* (2008). 'The Concise Garland Encyclopedia of World Music: Vol. 2, The Middle East, South Asia, East Asia & Southeast Asia'. New York, N.Y., U.S.A.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780415994040 (vol. 2 hbk)
 
 **Purport:**
 ...
