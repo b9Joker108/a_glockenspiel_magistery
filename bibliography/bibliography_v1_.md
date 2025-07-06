@@ -208,6 +208,13 @@ Worthwhile.
 **Purport:**
 ...
 
+### KOSKOFF, E.; *et al* ###
+
+* Koskoff, Ellen (exec. ed.); *et al* (2008). 'The Concise Garland Encyclopedia of World Music: Vol. 2, The Middle East, South Asia, East Asia & Southeast Asia'. New York, N.Y., U.S.A.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780415994040 (vol. 2 hbk)
+
+**Purport:**
+...
+
 ### KRAUS, N. ###
 
 * Kraus, Nicholas (2023). 'The Glorious Glockenspiel: A Guide to Greatness in Playing and Performing'. Nicholas Khatchadourian, Publisher. eBook. ASIN B0C3W3TF8K. NB: I have this text on the 'Play Books' Android application.
