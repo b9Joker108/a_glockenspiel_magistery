@@ -6644,6 +6644,109 @@ Citations:
 
 Teental is a common rhythmic cycle (tala) in Hindustani classical music, consisting of sixteen (16) beats divided into four (4) equal sections of four (4) beats each (4+4+4+4). It is one of the most popular and versatile taals, suitable for various tempos and styles of music. The cycle is counted using clapping and waving hands, with the first beat marked as the "sum" (the starting point of the cycle). There are three claps (tali) and one hand wave (khali) within the cycle. Teental is versatile and is used in both fast (drut) and slow (vilambit) tempos. Teental is a fundamental and widely used rhythmic foundation for compositions and improvisations in both vocal and instrumental performances.
 
+### THAATS ###
+
+All Ragas have been derived from one of the following 10 Thaats: Bilaval - SA RE GA MA PA DHA NI SA. - All pure notes Kalyan - SA RE GA MA' PA DHA NI SA. - MA' tivra Khamaj - SA RE GA MA PA DHA ni SA. - ni komal Bhairav - SA re GA MA PA dha NI SA. - re and dha komal Poorvi - SA re GA MA' PA dha NI SA. - re and dha komal and MA' tivra Marva - SA re GA MA' PA DHA NI SA. - re komal and MA' tivra Kafi - SA RE ga MA PA DHA ni SA. - ga and ni komal Asavari - SA RE ga MA PA dha ni SA. - ga, dha and ni komal Bhairavi - SA re ga MA PA dha ni SA. - re, ga, dha and ni komal Todi - SA re ga MA' PA dha NI SA. - re, ga and dha komal and MA' tivra
+
+In **Hindustani classical music**, all ragas are classified under one of ten main **thaats** (IAST: thāṭ) (parent scales), a system formalized by [Pandit Vishnu Narayan Bhatkhande](https://en.wikipedia.org/wiki/Vishnu_Narayan_Bhatkhande)(1860-1936) [2][6]. Each thaat is a specific arrangement of the seven notes (*Sa Re Ga Ma Pa Dha Ni*) and serves as a framework for grouping ragas[1][3][7]. Here are the **10 primary thaats** with their characteristic notes:
+
+| Thaat      | Notes (with alterations)                      | Note Characteristics                  |
+|------------|----------------------------------------------|---------------------------------------|
+| Bilawal    | SA RE GA MA PA DHA NI SA'                     | All **shuddh** (natural) notes        |
+| Kalyan     | SA RE GA MA' PA DHA NI SA'                    | **Tivra Ma** (sharp Ma)               |
+| Khamaj     | SA RE GA MA PA DHA **ni** SA'                 | **Komal Ni** (flat Ni)                |
+| Bhairav    | SA **re** GA MA PA **dha** NI SA'             | **Komal Re, Komal Dha**               |
+| Poorvi     | SA **re** GA MA' PA **dha** NI SA'            | **Komal Re, Komal Dha, Tivra Ma**     |
+| Marwa      | SA **re** GA MA' PA DHA NI SA'                | **Komal Re, Tivra Ma**                |
+| Kafi       | SA RE **ga** MA PA DHA **ni** SA'             | **Komal Ga, Komal Ni**                |
+| Asavari    | SA RE **ga** MA PA **dha ni** SA'             | **Komal Ga, Komal Dha, Komal Ni**     |
+| Bhairavi   | SA **re ga** MA PA **dha ni** SA'             | **Komal Re, Komal Ga, Komal Dha, Komal Ni** |
+| Todi       | SA **re ga** MA' PA **dha** NI SA'            | **Komal Re, Komal Ga, Komal Dha, Tivra Ma** |
+
+- **Shuddh** = natural note
+- **Komal** = flat note
+- **Tivra** = sharp note
+
+**Key points about thaats:**
+- Each thaat contains exactly seven notes in ascending order[3][7].
+- No thaat has both the natural and altered version of the same note[3][7].
+- Thaats are theoretical frameworks; ragas derived from them may use fewer than seven notes or have additional rules and characteristic phrases[3][4][6].
+- The thaat system is foundational for learning and categorizing ragas in Hindustani music[1][2][6].
+
+Citations:
+[1] Thaat Classification System in Hindustani Music - Sur Sangat https://www.sursangatacademy.com/blog/thaat-classification-system-in-hindustani-music
+[2] Thaats in Hindustani music system - Sāyujya https://saayujya.com/index.php/2021/03/23/thaats-in-hindustani-music-system/
+[3] Thaat - Wikipedia https://en.wikipedia.org/wiki/Thaat
+[4] A Western Musician's Guide to Thaats, Raags, and Modes https://www.classicalweekly.org/p/understanding-indian-classical-scales
+[5] [PDF] Thaat and Mela: Foundations of Indian Classical Music https://theacademic.in/wp-content/uploads/2025/05/109.pdf
+[6] The Science of Thaat: Decoding Parent Scales in Indian Classical ... https://krishnamusicschool.com/thaat-in-indian-classical-music/
+[7] Thaat - Wikiwand https://www.wikiwand.com/en/articles/Thaat
+[8] Different Kinds of Ragas by Scale (thaat) - Raag Hindustani https://raag-hindustani.com/Scales3.html
+[9] What is Thaat? Learn Music With Ustad Faheem Mazhar | Indian Classical Music https://www.youtube.com/watch?v=OXi68FoUxwA
+[10] Thaat Raag System In Indian Classical Music | Music Tutorial | Sitar Lessons https://www.youtube.com/watch?v=hkN-WkVH7wE
+
+
+| Thaat      | Notes (with alterations)                      | Note Characteristics                  |
+|------------|----------------------------------------------|---------------------------------------|
+| Bilawal    | SA RE GA MA PA DHA NI SA'                     | All **shuddh** (natural) notes        |
+| Kalyan     | SA RE GA MA' PA DHA NI SA'                    | **Tivra Ma** (sharp Ma)               |
+| Khamaj     | SA RE GA MA PA DHA **ni** SA'                 | **Komal Ni** (flat Ni)                |
+| Bhairav    | SA **re** GA MA PA **dha** NI SA'             | **Komal Re, Komal Dha**               |
+| Poorvi     | SA **re** GA MA' PA **dha** NI SA'            | **Komal Re, Komal Dha, Tivra Ma**     |
+| Marwa      | SA **re** GA MA' PA DHA NI SA'                | **Komal Re, Tivra Ma**                |
+| Kafi       | SA RE **ga** MA PA DHA **ni** SA'             | **Komal Ga, Komal Ni**                |
+| Asavari    | SA RE **ga** MA PA **dha ni** SA'             | **Komal Ga, Komal Dha, Komal Ni**     |
+| Bhairavi   | SA **re ga** MA PA **dha ni** SA'             | **Komal Re, Komal Ga, Komal Dha, Komal Ni** |
+| Todi       | SA **re ga** MA' PA **dha** NI SA'            | **Komal Re, Komal Ga, Komal Dha, Tivra Ma** |
+
+- **Shuddh** = natural note
+- **Komal** = flat note
+- **Tivra** = sharp note   you didn't differentiate the annotations
+
+You are correct that my previous table did not clearly differentiate the **notations** for shuddh (natural), komal (flat), and tivra (sharp) notes as per standard Hindustani classical conventions. Here’s the **accurate annotation system** used in thaat notation:
+
+- **Capital letters** (S R G M P D N): **Shuddh** (natural) notes
+- **Lowercase letters** (r, g, d, n): **Komal** (flat) notes
+- **M** with an apostrophe or sharp (M’ or M#): **Tivra** (sharp) Ma
+
+Below is the corrected table using these conventions[5][7]:
+
+| Thaat      | Notes (with alterations) | Note Characteristics |
+|------------|-------------------------|----------------------|
+| Bilawal    | S R G M P D N S'        | All shuddh (natural) notes |
+| Kalyan     | S R G M# P D N S'       | Tivra Ma (sharp Ma) |
+| Khamaj     | S R G M P D n S'        | Komal Ni (flat Ni) |
+| Bhairav    | S r G M P d N S'        | Komal Re, Komal Dha |
+| Poorvi     | S r G M# P d N S'       | Komal Re, Komal Dha, Tivra Ma |
+| Marwa      | S r G M# P D N S'       | Komal Re, Tivra Ma |
+| Kafi       | S R g M P D n S'        | Komal Ga, Komal Ni |
+| Asavari    | S R g M P d n S'        | Komal Ga, Komal Dha, Komal Ni |
+| Bhairavi   | S r g M P d n S'        | Komal Re, Komal Ga, Komal Dha, Komal Ni |
+| Todi       | S r g M# P d N S'       | Komal Re, Komal Ga, Komal Dha, Tivra Ma |
+
+**Key:**
+- **S** = Sa (shuddh)
+- **r, g, d, n** = Komal Re, Ga, Dha, Ni
+- **M#** = Tivra Ma (sharp Ma) (NB: May also be annotated with M', but this is ambiguous given that it also demarcates the order of pitch.
+- **S'** = Sa of the higher octave
+
+This is the standard way to notate thaats and their note characteristics in Hindustani classical music[5][7].
+
+Citations:
+[1] Thaat - Wikipedia https://en.wikipedia.org/wiki/Thaat
+[2] Thaat Classification System in Hindustani Music - Sur Sangat https://www.sursangatacademy.com/blog/thaat-classification-system-in-hindustani-music
+[3] Thaats | Azimuth - WordPress.com https://johncarlosbaez.wordpress.com/2024/01/22/thaats/
+[4] Thaat: Bhatkhande's Base Scales | Hindustani Raga Index https://ragajunglism.org/ragas/thaat/
+[5] Thaat Raag System In Indian Classical Music | Music Tutorial | Sitar Lessons https://www.youtube.com/watch?v=hkN-WkVH7wE
+[6] Thaat - Wikiwand https://www.wikiwand.com/en/articles/Thaat
+[7] Hindustani Classical Music - musicmaster.in https://musicmaster.in/blog/hindustani-classical-music/
+[8] Guru Shishya Parampara Series Episode 6 ( INTRODUCTION OF SWAR AND THAAT) https://www.youtube.com/watch?v=9wcHjUN6U3s
+[9] Indian classical music - Wikipedia https://en.wikipedia.org/wiki/Indian_classical_music
+[10] Thaat and Moods Explained! | PDF - Scribd https://fr.scribd.com/document/412451810/Thaat-and-Moods-Explained
+
+
+### END THAAT ###
+
 ## Tone ##
 
 ...
