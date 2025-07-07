@@ -15,7 +15,7 @@ Bradbury (1976b: p. 113) in the voice of "MELISSA TOAD, WITCH" (p. 113) [proffer
 
 > '"A Witch is born out of the true hungers of her time,"....'
 
-Drawn from the short story potboiler: *Drink Entire: Against the Madness of Crowds* (1976)
+Drawn from the potboiler short story: *Drink Entire: Against the Madness of Crowds* (1976)
 
 [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012), the celebrated American author, explored themes of witches and witchcraft in several of his works, often blending them with nostalgia, fantasy, and subtle horror. While he did not write extensively on witches in the academic or folkloric sense, his fiction includes memorable portrayals that have become classics in American literature.
 
