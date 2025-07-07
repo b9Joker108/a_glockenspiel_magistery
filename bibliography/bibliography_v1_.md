@@ -60,12 +60,12 @@ This is a valuable work for our purposes and it has been well produced.
 
 ### BRADBURY, R. ###
 
-* Bradbury, Ray (1976). 'Drink Entire: Against the Madness of Crowds' in *Gallery \[magazine]*, April, 1976; and subsequently collected in: Bradbury, Ray (1977). *Where Robot Mice and Robot Men Run Round in Robot Towns: New Poems, Both Light and Dark*. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394422066.
+* Bradbury, Ray (1976a). 'Drink Entire: Against the Madness of Crowds' in *Gallery [magazine]*, April, 1976 and subsequently collected in Bradbury, Ray (1976b). *Long After Midnight: 22 Hauntings and Celebrations*. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394479424. 
 
 **Purport:**
 ...
 
-* Bradbury, Ray (1977). 'Where Robot Mice and Robot Men Run Round in Robot Towns: New Poems, Both Light and Dark'. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394422066.
+* Bradbury, Ray (1976b). 'Long After Midnight: 22 Hauntings and Celebrations'. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394479424. 
 
 **Purport:**
 ...
