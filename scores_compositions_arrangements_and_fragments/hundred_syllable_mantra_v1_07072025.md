@@ -1326,7 +1326,7 @@ If you need **specific quotations, more focused bibliography, or links to digiti
 Citations:
 [1] 1002626945.jpg https://pplx-res.cloudinary.com/image/upload/v1751879942/user_uploads/4428017/2f8a8115-23ec-462a-be23-e23159f56c0a/1002626945.jpg
 
-I was contemplating whether to initiate this specific Hundred Syllable Mantra project or not. It was incited with certainty by the 'Vajra Speech' (Tibetan: རྡོ་རྗེ་གསུང་ ; Wylie: rdo rje gsung) of Tulku Urgyen Rinpoche, refer Urgyen, *et al* (2001: p.13).
+I was contemplating whether to initiate this specific Hundred Syllable Mantra project or not. It was incited with certainty by the 'Vajra Speech' (Tibetan: རྡོ་རྗེ་གསུང་ ; Wylie: rdo rje gsung) \[NB: Uchen should probably have a possessive attribute] of Tulku Urgyen Rinpoche, refer Urgyen, *et al* (2001: p.13).
 
 ### References ###
 
