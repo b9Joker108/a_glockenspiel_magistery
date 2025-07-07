@@ -11,7 +11,7 @@ Sri [Bhairava](https://en.wikipedia.org/wiki/Bhairava) (Sanskrit: भैरव, 
 
 ### BRADBURY, Ray ###
 
-Bradbury (1976b: p. 113) in the voice of "MELISSA TOAD, WITCH" (p. 113) proffers: 
+Bradbury (1976b: p. 113) in the voice of "MELISSA TOAD, WITCH" (p. 113) [proffers](https://en.wikipedia.org/wiki/Proffer): 
 
 > '"A Witch is born out of the true hungers of her time,"....'
 
