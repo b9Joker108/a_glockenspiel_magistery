@@ -324,6 +324,13 @@ If you’re diving deep into textual history, you might next:
 
 https://dnz.tsadra.org/index.php/Wylie:Do_ha_mdzad_ces_bya_ba_phyag_rgya_chen_po%27i_man_ngag (accessed: Saturday, July 05, 2025)
 
+### MUKHERJI, T. ###
+
+* Mukherji, Tarapada (1963). ‘The Old Bengali Language and Text’. Calcutta, India: University of Calcutta. Source: https://archive.org/details/oldbengalilanguageandtext/mode/2up (accessed: Friday, June 07, 2024)
+
+**Purport:**<br>
+The ‘Charyagiti’ (xxx) or ‘Charyapada’ (xxx), is a compendium of lyrical song-poem wisdom-verses in a hybrid complex of languages, often referred to simply as Old Bengali, in the Old Bengali script. Recent scholarship, has defined the language complex further. It contains the earliest known, open discourse and extant Sahajīya text, or literary example of what is known as the Twilight Language. This work draws principally upon the Charyagiti in its historical analysis and survey of the language and the text.
+
 ### MUSTANOJA, T.; *et al.* ###
 
 * Mustanoja, Tauno F.;  Wis, Marjatta & Välikangas, Olli (eds.) (1985). 'Neuphilologische Mitteilungen: Bulletin de la Société Néophilologique \[French & German; English: Communications in Modern Philology: Bulletin of the Modern Language Society]', Vol 86 \[Roman Num.: LXXXVI], Issue 2, 1985. Helsinki, Finland: Société Néophilologique \[French; English: Modern Language Society].
