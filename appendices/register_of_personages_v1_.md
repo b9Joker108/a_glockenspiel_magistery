@@ -17,6 +17,10 @@ Sri [Bhairava](https://en.wikipedia.org/wiki/Bhairava) (Sanskrit: भैरव, 
 
 Bradbury also wrote short stories that touch on witches and the supernatural. In his collection ["The October Country" (1955)](https://en.wikipedia.org/wiki/The_October_Country), stories like "The Homecoming" and "The Jar" include characters and settings reminiscent of classic gothic and witchy Americana. His famous story ["The Halloween Tree" (1972)](https://en.wikipedia.org/wiki/The_Halloween_Tree) is a celebration of Halloween’s history and mythos, including references to witches as part of the holiday’s ancient traditions. Bradbury’s poetic and evocative style often treats witches less as literal figures and more as symbols of mystery, fear, and the unknown, reflecting both the allure and the cultural anxieties surrounding witchcraft.
 
+**Intertextuality:**
+
+* Bradbury, Ray (1976). 'Drink Entire: Against the Madness of Crowds' in *Gallery \[magazine]*, April, 1976; and subsequently collected in: Bradbury, Ray (1977). *Where Robot Mice and Robot Men Run Round in Robot Towns: New Poems, Both Light and Dark*. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394422066.
+
 ### END BRADBURY ###
 
 # C #
