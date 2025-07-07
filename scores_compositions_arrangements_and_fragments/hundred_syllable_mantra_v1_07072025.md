@@ -1325,3 +1325,41 @@ If you need **specific quotations, more focused bibliography, or links to digiti
 
 Citations:
 [1] 1002626945.jpg https://pplx-res.cloudinary.com/image/upload/v1751879942/user_uploads/4428017/2f8a8115-23ec-462a-be23-e23159f56c0a/1002626945.jpg
+
+I was contemplating whether to initiate this specific Hundred Syllable Mantra project or not. It was incited with certainty by the 'Vajra Speech' (Tibetan: རྡོ་རྗེ་གསུང་ ; Wylie: rdo rje gsung) of Tulku Urgyen Rinpoche, refer Urgyen, *et al* (2001: p.13).
+
+### References ###
+
+* Urgyen, Tulku (auth.); Kunsang, Erik Pema \[a.k.a. Schmidt, Erik Hein] (trans.); Schmidt, Marcia Binder (comp.) & Tweed, Michael (ed.) (2001). 'Vajra Speech: Pith Instructions for the Dzogchen Yogi'. With a Preface by Erik and Marcia. (NB: Translated from an undated and unspecified Tibetan text or compendium of text excerpts from multiple sources and/or oral transcriptions.). First edition. Greenview Garden, Hong Kong: Rangjung Yeshe Publications. ISBN 9627341444 (pbk) 
+
+**Purport:**
+...
+
+
+
+Tibetan Title and Text Location
+
+The original Tibetan title of Tulku Urgyen’s Vajra Speech is:
+
+རྡོ་རྗེ་གསུང་  
+(Wylie: rdo rje gsung)
+
+You can access the full Tibetan text in these places:
+
+- Rangjung Yeshe Publications (1993 Tibetan edition)  
+  A stand-alone Tibetan edition was published in Gangtok, Sikkim by Karma Thekchen Chöling.  
+
+- Tibetan Buddhist Resource Center (TBRC)  
+  Work ID: W1PD57509  
+  Browse online at https://www.tbrc.org/#!rid=W1PD57509  
+
+- Tibetan Buddhist Digital Library & Archives (TBDLA)  
+  Search for “rdo rje gsung” to find scanned pages of the Tibetan script.  
+
+—  
+
+Further Avenues
+
+- Compare the Tibetan pith-instruction style of rdo rje gsung with Longchenpa’s Precious Treasury of Pith Instructions (Tib. ཡོངས་སུ་མཛེས་པའི་མདོ་བཟང་, thugs rje snying po) to see parallels in Dzogchen exhortations.  
+- Explore other “gsung” works by Tulku Urgyen (e.g. དཔེ་ཆེན་གསུང་, pe chen gsung) for how “speech” functions as a genre label in his corpus.  
+- Look up the lineage’s oral transmission histories to understand how these pith words were compiled from Tulku Urgyen’s students’ notes.
