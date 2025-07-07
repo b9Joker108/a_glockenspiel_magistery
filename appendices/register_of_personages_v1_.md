@@ -11,6 +11,10 @@ Sri [Bhairava](https://en.wikipedia.org/wiki/Bhairava) (Sanskrit: भैरव, 
 
 ### BRADBURY, Ray ###
 
+Bradbury (1976b: p. 113): 
+
+> '"A Witch is born out of the true hungers of her time,"....'.
+
 [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012), the celebrated American author, explored themes of witches and witchcraft in several of his works, often blending them with nostalgia, fantasy, and subtle horror. While he did not write extensively on witches in the academic or folkloric sense, his fiction includes memorable portrayals that have become classics in American literature.
 
 **Most notably, Bradbury’s novel ["Something Wicked This Way Comes" (1962)](https://en.wikipedia.org/wiki/Something_Wicked_This_Way_Comes_(novel)) features elements of witchcraft and dark carnival magic.** The novel’s antagonist, Mr. Dark, and his traveling carnival are steeped in supernatural menace, with motifs of enchantment, curses, and the manipulation of time and desire—echoing themes common in witchcraft lore. Though the story centers more on dark magic than traditional witches, the atmosphere and events evoke the archetype of the witch as a wielder of forbidden power.
@@ -19,7 +23,7 @@ Bradbury also wrote short stories that touch on witches and the supernatural. In
 
 **Intertextuality:**
 
-* Bradbury, Ray (1976). 'Drink Entire: Against the Madness of Crowds' in *Gallery \[magazine]*, April, 1976; and subsequently collected in: Bradbury, Ray (1977). *Where Robot Mice and Robot Men Run Round in Robot Towns: New Poems, Both Light and Dark*. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394422066.
+* Bradbury, Ray (1976a). 'Drink Entire: Against the Madness of Crowds' in *Gallery [magazine]*, April, 1976 and subsequently collected in Bradbury, Ray (1976b). *Long After Midnight: 22 Hauntings and Celebrations*. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394479424. 
 
 ### END BRADBURY ###
 
