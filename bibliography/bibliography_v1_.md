@@ -641,6 +641,13 @@ I have a really good feeling and intuition about this volume, its author, arrang
 **Purport:**
 An excellent reference work on some generally Modern composers, Modern in the technical denotation and may be understood as the Western Musical Tradition of the Modern Era as heir to the Western Classical Musical Tradition proper.
 
+### WILKE, A.; *et al.* ###
+
+* Wilke, Annette & Moebus, Oliver (2011). 'Sound and Communication: An Aesthetic Cultural History of Sanskrit Hinduism'. Religion and Society: Vol. 41 edited by: Benavides, Gustavo; von Stuckrad, Kocku; & Sullivan, Winnifred Fallers. Berlin, Germany: De Gruyter (Walter de Gruyter GmbH & Co. KG, Berlin). ISBN 9783110181593. 
+
+**Purport:**
+This volume is wealth.
+
 # X #
 
 
