@@ -18,6 +18,13 @@ Make time to read this complete issue and graze other issues in future.
 **Purport:**
 ...
 
+### AVTAR, R. ###
+
+* Avtar, Ram 'Vir' (2006). 'Theory of Indian Ragas'. New Delhi, India: Pankaj Publications. ISBN 9788187155317.
+
+**Purport:**
+...
+
 # B #
 
 ### BASTIEN, J., *et al.* ###
