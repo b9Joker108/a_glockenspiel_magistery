@@ -3208,6 +3208,258 @@ Citations:
 
 # H #
 
+### HAND, The (and symbol of The GLOVE that surmounts the MAYDAY MAYPOLE)
+
+Of course. Let us proceed with an academic investigation into the fecundity rites of Beltane and Mayday, with a specific amplification of the potent, if localized, archetype known as 'The Hand'.
+
+***
+
+### The Sovereign Hand: An Investigation into a Numinous Archetype of the British Mayday Rite
+
+#### **Abstract**
+
+The vernal festivities of the British Isles, known syncretically as Mayday or the Gaelic Beltane, represent a profound ritualised engagement with the principles of fecundity, sovereignty, and the cyclical regeneration of the land. While the Maypole stands as the most widely recognised symbol of these rites—an *axis mundi* and patent phallic emblem—this investigation delves into a less-documented but symbolically potent variation: the surmounting of the Pole with a Glove. This Glove, it is posited, signifies a specific human archetype known as 'The Hand', a figure representing the apogee of youthful, untrammelled male generative power. This paper will examine the established context of the Mayday rites and amplify the layered significance of 'The Hand' as the transient, corporeal vessel of the land's virility, whose influence extends beyond simple heterosexual procreation into a more holistic and liminal expression of sovereignty.
+
+#### **1. The Ritual Landscape: Beltane, Mayday, and the Phallic Pole**
+
+The first of May marks a critical liminal point in the Insular calendar, the transition from the dark half of the year (winter) to the light half (summer). The Gaelic festival of Beltane, meaning 'bright fire', involved driving cattle between two great bonfires to purify and protect them before they were put out to their summer pastures. It was a time when the veil between the world of mortals and the *Sídhe* (the fae or spirits of the land) was at its thinnest.
+
+The English Mayday, while sharing this temporal significance, is more popularly characterised by the Maypole. Historical records, often from a hostile Puritan perspective, confirm its centrality. Philip Stubbes, in his *Anatomie of Abuses* (1583), provides a famously splenetic description:
+
+> "But their cheefest jewell they bring from thence is their Maie poole, which they bring home with great veneration... and this stinking Ydol being covered all over with Flowers and hearbes... they fall to daunce about it, like as the heathen people did at the dedication of their Idolles."
+
+Stubbes’s condemnation inadvertently illuminates the pole's sacredness. It was not merely a decorated tree but the focus of communal energy, the physical manifestation of the world-tree or the generative masculine principle. The weaving of ribbons around it by maidens is a symbolic act of creating a sheath, a yonic embrace of the phallic pole, representing the Great Rite or sacred marriage (*hieros gamos*) between the God and Goddess, Sky and Earth.
+
+#### **2. The Glove Surmounting the Pole: Symbolism and Sovereignty**
+
+The introduction of a Glove atop this structure adds a profound layer of meaning. While floral garlands symbolise the Goddess or the feminine earth, the Glove is an artefact of human agency and status. In Mediaeval and Early Modern contexts, a glove was never merely a covering for the hand. It signified:
+
+*   **Pledge and Contract:** A hand given in marriage; a gauntlet thrown down as a challenge.
+*   **Status and Authority:** Only persons of a certain rank wore ornate gloves. They represented the 'hand of the king' or the 'hand of justice'—power enacted.
+*   **Identity:** The glove is a proxy for the person, a disembodied sign of their presence and power.
+
+Placing the Glove atop the Maypole, therefore, 'crowns' the raw, chthonic virility of the pole with a mark of specific, human sovereignty. It declares that the procreative power of the land for this season is to be channelled through a chosen vessel. This vessel is 'The Hand'.
+
+#### **3. Amplification of the Archetype: 'The Hand'**
+
+The English term 'Hand' is rich with a polysemy that perfectly suits this archetype. It implies not just the anatomical, but also skill ('a good hand at carving'), aid ('lend a hand'), destiny ('the hand of fate'), and in a specific dialectal context, a youth of notable prowess. 'The Hand' is the boy who has come of age and whose vital force is so potent that he becomes a living avatar of fecundity.
+
+He is not a King or a Lord in the political sense. His sovereignty is biological and charismatic. He is 'The-Lay-of-the-Land' made flesh—the one youth whose 'hap' or luck is so great that he effortlessly embodies the generative principle. His characteristics include:
+
+*   **Unfettered Progenitive Force:** He is the Cuckoo in the nest, the seed-spiller whose allure leads to numerous pregnancies ("getting them in the thorny and troubled way"). This is viewed not with moral condemnation but with a kind of awe, as a manifestation of nature's indiscriminate abundance. He is the 'sap-risen' boy, whose success with the maidens ensures the vitality of the community's bloodline.
+*   **Liminal Sexuality:** The observation that he "may have conquest amongst male youths as well" is critical. During the liminality of Beltane, normative social structures are suspended. The Hand's potency is not confined by binary sexuality; it is a pure, overwhelming life-force, attractive to all who seek vitality. It speaks to traditions of ritualised same-sex pairings or bonds of *geis* that existed outside Christian frameworks.
+*   **The Development of Acumen:** The concept of 'The Hand' evolving "special qualities" is the process by which this raw, chaotic force is integrated into the community. Over generations, the memory of various 'Hands' would coalesce. A 'Hand' with a propensity for words becomes the origin-myth of the local bard. A 'Hand' with a gift for shaping wood becomes the master craftsman whose skill is seen as a channelling of the land's own creative impulse. The initial, purely sexual potency is thus sublimated and refined into a specific cultural talent, a 'craft' or 'cunning'.
+
+#### **4. A Reconstructed Ritual Evocation: The Naming of The Hand**
+
+While no complete, original script survives, one may evoke the tenor of such a rite through a scholarly reconstruction, drawing upon the vernacular of the period.
+
+**Setting:** *A village green at dawn. The bare Pole, of ash or birch, has been erected. The Elders of the community stand aside. The maidens of-age are gathered, holding ribbons. A single youth stands before the pole, chosen by means of contest, divination, or acclaim.*
+
+**Elder:** (Stepping forward, holding a single, well-made leather glove)
+"The Hawthorn bleeds, the sap is stirred,
+The Cuckoo sings his wanton word.
+The Sun has turned his golden face,
+To quicken life in this green place.
+Who speaks for the furrowed field?
+Who for the bounty it shall yield?
+Who is the sting and who the sweet?
+Whose blood runs with the Summer's heat?"
+
+**(The youth steps forward. He places his right hand upon the pole.)**
+
+**Youth:**
+"My hand for the hammer, my hand for the plough.
+My hand for the mast, my hand for the bough.
+My hand holds the hap of the year to be born,
+From the gloaming of even to the dew of the morn."
+
+**Elder:**
+"Then you are the vessel, the quick-thorn's crest.
+You are the one who is blessed and who has blessed.
+Not as a Lord, but as the Lay-of-the-Land.
+By this glove you are known. You are The Hand."
+
+**(The Elder gives the youth the Glove. The youth, with some effort, shimmies up the pole and fixes the Glove to its very top. As he descends, a cheer rises, and the maidens begin their dance, weaving their ribbons to sheathe the pole beneath the sovereign Hand.)**
+
+#### **Conclusion**
+
+The archetype of 'The Hand', signified by the Glove atop the Maypole, represents a sophisticated and nuanced understanding of fertility and power within the Mediaeval British Isles. It moves beyond a simple God/Goddess duality to incarnate the land's procreative spirit within a chosen, transient human form. 'The Hand' embodies a form of sovereignty that is not political but biological, charismatic, and liminal. He is the chaotic, amoral, and utterly vital force of summer, whose function is to ensure the continuation of the community through the direct application of his generative essence. The subsequent evolution of this archetype's "propensities" into specialised skills illustrates the process by which a folk-tradition integrates a raw, chthonic power, refining it from pure fecundity into the cultural arts that sustain a people. This figure, though obscured by time and suppressed by ecclesiastical authority, remains a potent key to understanding the profound worldview underpinning the Mayday rites.
+
+In the Mediaeval British Isles, some of the evocations of the Mayday Rite of the Maypole, where the girls of-age dance and weave a sheath over the Sacred Phallic Pole, but some traditions had an additional finesse, a Glove would surmount the Pole. The Glove represented 'The Hand'. "Hand" in the English languages and dialects has a profound and layered polysemy. It represents the Boy-Youth, who amongst all His peers, is The-Lay-of-the-Land, He is Fecundity and effortlessly has his way with innumerable maidens, getting them in the thorny and troubled way, and so too, may have conquest amongst male youths as well. Over many generations, it was evident that The Hand developed special qualities and acumen according to their proclivities and propensities. Investigate the Mayday and Beltane Pagan Rites of Fecundity and amplify The Hand. Academic register, original scripts where possible, prestige dialect.
+
+# Medieval Beltane and Mayday Rites of Fecundity: The Polysemous Hand and the Sacred Phallic Pole
+
+The Mayday traditions of medieval Britain encompass a rich tapestry of fertility symbolism rooted in ancient Celtic Beltane observances, though the specific tradition of "The Hand" or glove surmounting the maypole appears to be a sophisticated interpretation requiring careful examination of available historical sources.
+
+## **Beltane: The Ancient Foundation**
+
+Beltane, derived from the Celtic god **Bel** (also known as Belenus, Belinos, or "The Shining One"), represents one of the four cardinal festivals of the Celtic year[1][2][3]. The festival's name combines the Proto-Celtic word for the deity Bel with the Gaelic word *teine* (fire), literally meaning "bright fire" or "fire of Bel"[3][4]. This ancient celebration marked the transition from spring to summer, falling precisely halfway between the spring equinox and summer solstice[2][5].
+
+The earliest documented reference to Beltane appears in the ninth-century Irish glossary **Sanas Cormaic** (Cormac's Narrative), attributed to Cormac mac Cuilennáin, which describes druids making fires "with great incantations" and driving cattle between two fires for blessing and purification[6][7]. These sacred fires possessed protective and fertility-enhancing powers, with people and livestock passing through the smoke to ensure health and fecundity for the coming year[1][2].
+
+## **The Medieval Transformation**
+
+By the medieval period, Beltane celebrations had evolved into the May Day festivities that Philip Stubbes so vehemently condemned in his **Anatomie of Abuses** (1583). Stubbes provides one of our most vivid contemporary accounts of medieval Mayday customs, describing how villagers would spend the night in the woods before returning with the maypole[8][9]:
+
+*"But their chiefest jewel they bring from thence is their maypole, which they bring home with great veneration... They have twenty or forty yoke of oxen, every ox having a sweet nosegay of flowers tied to the tip of its horns, and these oxen draw home this maypole... which is covered all over with flowers and herbs"*[8].
+
+## **The Sacred Marriage: May Queen and Green Man**
+
+Central to medieval Beltane celebrations was the **sacred marriage** (*hieros gamos*) between the May Queen and her consort, variously known as the May King, Green Man, or Jack-in-the-Green[10][11][12]. This union symbolized the marriage of earth and sky, the feminine and masculine principles of fertility[13][12]. The May Queen embodied "purity, strength and the potential for growth" and represented "the personification of the energy of the earth," while the Green Man represented "the life that grows on earth"[10].
+
+This ritual marriage was not merely symbolic but was believed to ensure the fertility of the land, livestock, and community[11][12]. Medieval communities would select a virgin as May Queen to lead processions, while her consort underwent ritual transformation from winter's death to spring's rebirth[10][14].
+
+## **The Maypole as Phallic Symbol**
+
+The maypole itself functioned as a potent fertility symbol, its phallic nature explicitly recognized by both practitioners and critics[15][16][17]. Historical accounts consistently describe the pole as representing masculine fertility, around which feminine energies—symbolized by ribbons and dancers—would weave[15][18]. The earliest recorded evidence of maypole traditions appears in Welsh poetry by Gryffydd ap Adda ap Dafydd in the mid-14th century, describing festivities around a tall birch pole at Llanidloes[17][19].
+
+Medieval maypole dancing involved "young girls perform circle dances around a tall pole, painted in stripes, which was decorated with garlands of flowers"[16]. The intricate patterns woven by dancers' ribbons around the pole carried symbolic meaning, representing "the intertwining of lives and the binding of the community in unity and support"[20].
+
+## **The Polysemous Hand: Symbolic Complexity**
+
+While specific historical documentation of gloves surmounting medieval maypoles remains elusive in available sources, the concept of "The Hand" as a polysemous symbol resonates deeply with medieval fertility symbolism. In medieval context, hands and gloves carried multiple layered meanings[21][22][23]:
+
+**Authority and Delegation**: Medieval gloves symbolized the bestowing of authority, as seen in courtly and religious ceremonies[21][22]. Queen Elizabeth I would place gloves in noblemen's hats at tournaments to identify her champions[22].
+
+**Fertility and Blessing**: Hand symbolism appears throughout medieval fertility traditions, from the Hamsa (hand of fertility) found across multiple cultures[24][25], to the specific hand gestures used in monastic sign language and religious ceremonies[23][26].
+
+**Marital and Sexual Union**: Gloves featured prominently in medieval marriage customs, handfasting ceremonies, and as wedding favors[22][27]. The Celtic tradition of handfasting involved binding couples' hands with cords in figure-eight patterns[27].
+
+## **Performative Fertility Rituals**
+
+Medieval England maintained extensive traditions of performative fertility rituals involving symbolic objects and gestures[28][29][30]. These practices combined written and oral traditions, with "verbal and physical acts that reiterate prior uses" enabling medieval women and men to "negotiate the dangers and difficulties of conception and childbirth"[29][30].
+
+Contemporary sources document the use of amulets, charms, and symbolic objects in medieval fertility rites, including written texts placed on the body and ritual performances involving sacred names and gestures[29][30]. The integration of pagan symbols into Christian contexts allowed for the preservation of ancient fertility traditions within evolving religious frameworks.
+
+## **Historical Sources and Academic Perspective**
+
+Philip Stubbes' **Anatomie of Abuses** provides the most detailed contemporary account of 16th-century May Day celebrations, though notably absent from his denunciations is any specific mention of gloves or hand symbols adorning maypoles[9][31][32]. However, Stubbes' work represents a Protestant critique deliberately focused on condemning rather than comprehensively documenting pagan traditions.
+
+The academic consensus, established by scholars like Roy Judge, suggests that many specific details attributed to medieval May Day celebrations may represent later romanticization rather than authentic historical practice[33][34]. However, this should not diminish the profound symbolic complexity that characterizes genuine medieval fertility traditions.
+
+## **Conclusion**
+
+The medieval Beltane and Mayday traditions of the British Isles represent a sophisticated synthesis of ancient Celtic fertility religion with evolving Christian culture. While specific documentation of "The Hand" or glove surmounting maypoles remains to be definitively established in available historical sources, the broader context of medieval fertility symbolism supports the plausibility of such practices within the rich polysemous tradition of hand symbolism.
+
+The maypole itself stands as an undisputed symbol of masculine fertility, around which communities enacted the sacred marriage of earth and sky through dance, ritual, and celebration. These traditions preserved ancient Celtic concepts of fertility, seasonal transition, and divine union while adapting to the changing religious and cultural landscape of medieval Britain.
+
+The "lay-of-the-land" figure—whether understood as The Hand, the May King, or the Green Man—represents the enduring human need to embody and celebrate the generative forces of nature through ritual performance, symbolic representation, and communal celebration of fertility's sacred mysteries.
+
+Citations:
+[1] May Day Celebrations - Historic UK https://www.historic-uk.com/CultureUK/May-Day-Celebrations/
+[2] Beltane - Wikipedia https://en.wikipedia.org/wiki/Beltane
+[3] Beltane: Everything you need to know about this 'fire and fertility' spring festival | Countryfile.com https://www.countryfile.com/culture/beltane
+[4] Beltane: Celtic Fire Festival Beckons with the Warmth of Summer https://www.ancient-origins.net/history-ancient-traditions/beltane-0011844
+[5] 10 Bewitching Facts About Beltane, the Ancient Gaelic Fire Festival https://www.mentalfloss.com/posts/beltane-may-day-festival-facts
+[6] Beltane | The Atlantic Religion https://atlanticreligion.com/tag/beltane/
+[7] The Ancient Traditions and Celebrations of Beltane https://researchersgateway.com/beltane/
+[8] Maypoles https://www.efdss.org/learning/resources/beginners-guides/47-british-folk-customs-may/3416-maypoles
+[9] [PDF] A CRITICAL EDITION OF PHILIP STUBBES'S ANATOMIE OF ... https://etheses.bham.ac.uk/id/eprint/4435/1/Kidnie96PhD_redacted.pdf
+[10] May Queen and Green Man - Beltane Fire Society https://beltane.org/2012/02/19/may-queen-and-green-man/
+[11] Beltane: Of Flower Brides and Green Men https://earthwisdomearthscience.com/2020/05/31/beltane-of-flower-brides-and-green-men/
+[12] Beltane April 30 - May 1 - The Goddess & the Green Man https://www.goddessandgreenman.co.uk/blog/beltane-april-30---may-1
+[13] A Simple Beltane Ritual https://www.sagegoddess.com/blog/rituals/simple-beltane-ritual/
+[14] Chapter Nine – The May Queen Chooses Her Consort https://beltane.org/bonfire2021-old/chapter-nine-the-may-queen-chooses-her-consort/
+[15] What Is A Maypole And How Is It Used? A Brief History Of This Pagan Fertility Rite https://www.bustle.com/articles/157383-what-is-a-maypole-and-how-is-it-used-a-brief-history-of-this-pagan-fertility
+[16] May Pole Dancing - Medieval Life and Times https://www.medieval-life-and-times.info/medieval-life/may-pole-dancing.htm
+[17] Customs Uncovered: The Maypole - Tradfolk https://tradfolk.co/customs/customs-customs/the-maypole/
+[18] Beltane - Process & Faith https://processandfaith.org/beltane/
+[19] The History of May Day | Oak Tree Mobility https://oaktreemobility.co.uk/help-and-advice/travel-and-things-to-do/the-history-of-may-day
+[20] Mysterious Origins of the Maypole Tradition https://www.youtube.com/watch?v=g0rCA5ri-ow
+[21] Gloves Symbol Analysis - The Song of Roland - LitCharts https://www.litcharts.com/lit/the-song-of-roland/symbols/gloves
+[22] History in the details: Gloves - Discover Your Ancestors https://www.thegenealogist.co.uk/featuredarticles/discover-your-ancestors/periodical/62/history-in-the-details-gloves-6141/
+[23] Medieval monks used these hand signals to communicate--Aleteia https://aleteia.org/2019/09/21/medieval-monks-used-these-hand-signals-to-communicate/
+[24] The Symbol of Fertility is Hamsa's Hand - Ezomoni Jewellery https://ezomoni.com/blogs/news/the-symbol-of-fertility-is-hamsa-s-hand
+[25] Hamsa - Wikipedia https://en.wikipedia.org/wiki/Hamsa
+[26] In the Middle Ages, the hand (manus in Latin) had https://www.getty.edu/art/exhibitions/the_hand/MAM_Online_Gallery_Graphics.pdf
+[27] Hand-fasting: A Celtic Tradition for your Irish Wedding Ceremony https://www.waterlilyweddings.com/2016/04/hand-fasting-a-celtic-tradition-for-your-irish-wedding-ceremony/
+[28] 406 https://pmc.ncbi.nlm.nih.gov/articles/PMC4696514/pdf/bhm-89-3-406.pdf
+[29] Performative Rituals for Conception and Childbirth in England, 900 ... https://pmc.ncbi.nlm.nih.gov/articles/PMC4696514/
+[30] Performative Rituals for Conception and Childbirth in England, 900–1500 - Medievalists.net https://www.medievalists.net/2015/09/performative-rituals-for-conception-and-childbirth-in-england-900-1500/
+[31] Stubbes on Fashion: Excerpts from the 1583 Anatomie of Abuses http://www.elizabethancostume.net/stubbes.html
+[32] The Anatomie of Abuses. https://go.gale.com/ps/i.do?asid=6ea634f0&id=GALE%7CA117426267&it=r&p=AONE&sid=AONE&u=googlescholar&v=2.1
+[33] Belenus - Wikipedia https://en.wikipedia.org/wiki/Belenus
+[34] Celtic Symbols and Their Meanings - Mythologian https://mythologian.net/celtic-symbols-meanings/
+[35] How to Celebrate Beltane: Beltane Fertility Rituals https://www.tomakeamommy.com/celebrating-fertility-beltane/
+[36] Maypole - Wikipedia https://en.wikipedia.org/wiki/Maypole
+[37] Beltane and May Day – The Celtic Festival of Fertility https://www.findhorn.org/blog/beltane-and-may-day-the-celtic-festival-of-fertility
+[38] May Day - Wikipedia https://en.wikipedia.org/wiki/May_Day
+[39] Beltane: Fire, Fertility, and the Celtic Festival of Renewal https://rockandore.co.uk/2025/04/28/beltane-fire-fertility-and-the-celtic-festival-of-renewal/
+[40] The history of May Day | National Trust https://www.nationaltrust.org.uk/discover/history/the-history-of-may-day
+[41] How to Celebrate Beltane: Fire, Magic, Fertility Rituals, and A strawberry Mint Elixir — The Hoodwitch https://www.thehoodwitch.com/blog/2025/5/1/beltane-fire-fertility-the-returning-bloom
+[42] Dancing round the maypole | Bringing in the May | Birmingham City ... https://www.birmingham.gov.uk/info/50139/explore_and_discover/1610/bringing_in_the_may/2
+[43] The origins of May Day and Beltane - CPRE https://www.cpre.org.uk/discover/the-origins-of-may-day-and-beltane/
+[44] What is a Mayday Pole? An Expert Guide to the History and Meaning of Maypoles - 33rd Square https://www.33rdsquare.com/what-is-a-mayday-pole-an-expert-guide-to-the-history-and-meaning-of-maypoles/
+[45] Beltane: Celtic Fertility Festival | Nicole Evelina https://nicoleevelina.com/2012/05/01/beltane-celtic-fertility-festival/
+[46] Glove · Medieval London Objects 4 https://medievallondon.ace.fordham.edu/exhibits/show/medieval-objects-4/glove
+[47] 11 Medieval Beliefs About Fertility and Childbirth in Marriage https://www.youtube.com/watch?v=03z082wkPnI
+[48] S0003598X2300011Xjra 419..435 https://www.cambridge.org/core/services/aop-cambridge-core/content/view/53F4B0838D23DB65F6A244695624102E/S0003598X2300011Xa.pdf/touch-wood-luck-protection-power-or-pleasure-a-wooden-phallus-from-vindolanda-roman-fort.pdf
+[49] The Secret History of the Manicule, the Little Hand that's Everywhere https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/
+[50] ALL Medieval & Renaissance POLEARMS or Staff Weapons CATEGORIZED https://www.youtube.com/watch?v=rdslWL_A7D4
+[51] What that hand mean? : r/lotr - Reddit https://www.reddit.com/r/lotr/comments/185spoc/what_that_hand_mean/
+[52] Page:EB1911 - Volume 12.djvu/154 - Wikisource, the free online library https://en.wikisource.org/wiki/Page:EB1911_-_Volume_12.djvu/154
+[53] Phallic graffiti - Wikipedia https://en.wikipedia.org/wiki/Phallic_graffiti
+[54] Medieval badges and their risqué designs - Blog Nationalmuseum https://blog.nationalmuseum.ch/en/2024/05/medieval-badges-and-their-risque-designs/
+[55] Phallic architecture - Wikipedia https://en.wikipedia.org/wiki/Phallic_architecture
+[56] Polysemy - Wikipedia https://en.wikipedia.org/wiki/Polysemy
+[57] Celtic Symbolism: "Fertility Believes and Rites" https://branawen.blogspot.com/2011/07/celtic-symbolism-fertility-believes-and.html
+[58] Infertility in the Middle Ages - Medievalists.net https://www.medievalists.net/2016/03/infertility-in-the-middle-ages/
+[59] [PDF] Polysemy of symbols: Signs of ambiguity - ScholarWorks https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1186&context=tme
+[60] 20 Celtic Symbols: Ancient Irish and Druid Meanings - Culture Frontier https://www.culturefrontier.com/celtic-symbols/
+[61] [PDF] The lives and deaths of young medieval women: the osteological ... https://centaur.reading.ac.uk/50813/3/Shapland%20et%20al_Medieval%20Archaeolgoy%20accepted.pdf
+[62] [PDF] Polysemy in specialized lexicon from Old English to Present-Day ... https://dialnet.unirioja.es/descarga/articulo/3410915.pdf
+[63] Childhood in medieval England - Wikipedia https://en.wikipedia.org/wiki/Childhood_in_medieval_England
+[64] 13 Celtic Symbols and Meanings (Irishman's Guide) https://www.theirishroadtrip.com/celtic-symbols-and-meanings/
+[65] [PDF] Work and the adolescent in medieval England (AD 900-1550) https://centaur.reading.ac.uk/50828/3/Work%20and%20the%20Adolescent%20in%20Medieval%20England_accepted.pdf
+[66] Irish and Celtic Symbols: The True Meanings Behind Signs of Pride and Power https://www.ancient-origins.net/history-ancient-traditions/irish-celtic-symbols-true-meanings-signs-pride-power-020916
+[67] Conceiving bodies: Reproduction in early medieval English medicine https://academic.oup.com/manchester-scholarship-online/book/59336/book-pdf/61400071/upso-9781526176882.pdf
+[68] DOCTOR OF PHILOSOPHY https://pureadmin.qub.ac.uk/ws/portalfiles/portal/338384321/A_cultural_history_of_gesture_.pdf
+[69] The Celtic Motherhood Knot https://www.symbols.com/symbol/the-celtic-motherhood-knot
+[70] [PDF] YOUNG WOMANHOOD IN LATE MEDIEVAL ENGLAND Kim M ... https://etheses.whiterose.ac.uk/id/eprint/2439/1/DX203902.pdf
+[71] symbolism in medieval thought https://ia803204.us.archive.org/25/items/symbolisminmedie0000unse/symbolisminmedie0000unse.pdf
+[72] The Top 30+ Celtic Symbols And Their Meanings - Hatchwise https://www.hatchwise.com/resources/the-top-30-celtic-symbols-and-their-meanings
+[73] Spell: A Beltane Binding Spell https://www.llewellyn.com/spell.php?spell_id=2072
+[74] Hera Is a Fertility Goddess : r/Lore_Olympus - Reddit https://www.reddit.com/r/Lore_Olympus/comments/vmdlfq/hera_is_a_fertility_goddess/
+[75] Hieros gamos | Sacred Marriage, Ancient Rituals & Symbolism | Britannica https://www.britannica.com/topic/hieros-gamos
+[76] May Queen | Blue Star Owl https://bluestarowl.wordpress.com/tag/may-queen/
+[77] Fertility Gods and Goddesses - Crystalinks https://www.crystalinks.com/fertilitygods.html
+[78] Fertility and religion - Wikipedia https://en.wikipedia.org/wiki/Fertility_and_religion
+[79] No one touches the May Queen without asking - Beltane Fire Society https://beltane.org/2018/03/08/no-one-touches-the-may-queen-without-asking/
+[80] The Earth Fertility of old Europe https://www.persee.fr/doc/dha_0755-7256_1987_num_13_1_1750
+[81] Chapter Three – The May Queen and Green Man’s Journey https://beltane.org/bonfire2021-old/chapter-three-the-may-queen-and-green-mans-journey/
+[82] Beltane Rituals Explained | Celebrate the Fire Festival https://www.youtube.com/watch?v=KdjFv5SfzZI
+[83] List of fertility deities - Wikipedia https://en.wikipedia.org/wiki/List_of_fertility_deities
+[84] Embracing the Sacred Fire: Exploring the Mysteries of Beltane https://celticdesignscotland.com/blogs/celtic-roots/embracing-the-sacred-fire-exploring-the-mysteries-of-beltane
+[85] A history of Mayday - Libcom.org https://libcom.org/features/mayday/history.htm
+[86] [PDF] Phillip Stubbes's Anatomy of abuses in England in Shakspere's ... https://archive.org/download/phillipstubbessa00stubuoft/phillipstubbessa00stubuoft.pdf
+[87] May Day in the Middle Ages | a medievalist errant - WordPress.com https://medievalisterrant.wordpress.com/2013/04/30/may-day-in-the-middle-ages/
+[88] Christie's https://www.christies.com.cn/en/lot/lot-3098599
+[89] GRIN - The Celtic Feast of Beltane. A Brief Overview https://www.grin.com/document/323656?lang=en
+[90] The anatomie of abuses :: contayning a discouerie, or briefe summarie of such notable vices and imperfections, as now raigne in many Christian countreyes of the worlde: but (especiallie) in a verie famous ilande called Ailgna: together, with most fearefull examples of Gods iudgementes, executed vpon the wicked for the same, aswell in Ailgna of late, as in other places, elsewhere. Verie godly, to be read of all true Christians, euerie where: but most needefull, to be regarded in Englande. Made dialogue-wise, by Phillip Stubbes. Seene and allowed, according to order. https://catalog.folger.edu/record/167279?ln=en
+[91] What is the history behind May Day and why do we celebrate it? https://www.historyextra.com/period/medieval/may-day-history-origins-celebrate-pagan-bank-holiday-maypole-facts-explain/
+[92] May Day, the spring festival https://www.downtoearth.org.in/governance/may-day-the-spring-festival-64282
+[93] Phillip Stubbes's Anatomie of Abuses' - jstor https://www.jstor.org/stable/3720259
+[94] Belenos - Gods and Goddesses https://godsandgoddesses.org/celtic/belenos/
+[95] Jack in the Green - Wikipedia https://en.wikipedia.org/wiki/Jack_in_the_Green
+[96] The Green Man https://www.historic-uk.com/CultureUK/The-Green-Man/
+[97] Belenus | Celtic God, Sun God, Fire God | Britannica https://www.britannica.com/topic/Belenus
+[98] Just who Britain's eerie Green Man really is, is one of the country's biggest mysteries, but could this ancient spirit of mischief be the hidden guardian of nature? | Countryfile.com https://www.countryfile.com/people/historical-figures/green-man
+[99] 12 Important Celtic Symbols and Meanings https://irishtraditions.org/2022/08/15/12-important-celtic-symbols-and-meanings/
+[100] Belenus and Beltane - Heliodor Press https://www.heliodorpress.com/articles/belenus
+[101] The 'Green Man' in Medieval England - DevonChurchLand https://devonchurchland.co.uk/blog/the-green-man-in-medieval-england/
+[102] Every Celtic Symbol EXPLAINED https://www.youtube.com/watch?v=rw6HBLsLXSk
+[103] Belenus https://infogalactic.com/info/Belenus
+[104] Customs uncovered: Jack in the Green - Tradfolk https://tradfolk.co/customs/customs-customs/jack-in-the-green/
+[105] Ancient Grimoires – Decoding Magical Texts from History https://occult-world.com/belenus/
+[106] Taking a look at the history of Jack in the Green https://www.sussexexpress.co.uk/heritage-and-retro/retro/taking-a-look-at-the-history-of-jack-in-the-green-5101989
+[107] Celtic symbols and meanings chart https://irp-cdn.multiscreensite.com/3bd36499/files/uploaded/3041.pdf
+[108] Bel – The Shining One - The Sanctuary of Sister Patience https://sisterpatience.com/2020/09/05/bel-the-shining-one/
+[109] The Jack-in-the-Green - The Folklore Society https://folklore-society.com/book/the-jack-in-the-green/
+
+
+### END HAND ###
+
 ### HARMONIUM ###
 
 Please provide a ranging history of the harmonium nested in time, place and circumstance. Call on whatever languages and scripts are necessary. Academic register and prestige dialect.
