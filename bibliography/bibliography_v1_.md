@@ -276,8 +276,12 @@ In truth, the work is somewhat useful, but mediocre.
 
 # L #
 
+### LEWIS, B. ###
 
+* Lewis, Brenda Ralph (2001). 'Ritual Sacrifice: A Concise History (An Illustrated History)'. Phoenix Mill, Thrupp, Stroud, Gloucestershirev England, U.K.: Sutton Publishing. ISBN 1750927070.
 
+**Purport:**
+This work is strong and there is such silence around it.
 
 # M #
 
