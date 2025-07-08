@@ -3210,6 +3210,8 @@ Citations:
 
 ### HAND, The (and symbol of The GLOVE that surmounts the MAYDAY MAYPOLE)
 
+Paxson (2005: pp. 182-183)
+
 Of course. Let us proceed with an academic investigation into the fecundity rites of Beltane and Mayday, with a specific amplification of the potent, if localized, archetype known as 'The Hand'.
 
 ***
