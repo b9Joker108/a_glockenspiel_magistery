@@ -116,6 +116,13 @@ This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Ack
 
 # D #
 
+### DHANDAPANI, M.; *et al.* ###
+
+Dhandapani, Dr. M. N. & Pattammal, D. (2007, 2002, 1991, 1984). 'Ragapravaham: Index to Carnatic Ragas (Revised & Enlarged)'. Fourth edition. (NB: First edition published in 1984 by Higginbothams.). Royapettah, Madras, India: The Karnatic Music Book Center.
+
+**Purport:**
+...
+
 ### DOORMAN, E. ###
 
 * Doorman, Eric Robert (2009). 'Pieces of Vac: A Study of the Letters of the Sanskrit Alphabet and Their Metaphysical Role in the Emanation of Manifest Reality as Described in Select Hindu Tantras'. Thesis. San Francisco, California, U.S.A.: California Institute of Integral Studies. UMI Number 1466061. Source: https://archive.org/details/astudyofthelettersofthesanskritalphabetericrobertdormanthesistantras_202003_488_D (accessed: Saturday, June 21, 2025)
