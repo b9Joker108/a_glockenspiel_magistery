@@ -313,6 +313,13 @@ This work is strong and there is such silence around it.
 
 # M #
 
+### MAGISTRA, C. ###
+
+* Magistra (Þegnestre), Cynehilda (2021). 'Writing in Runes (with a linguist)'. Independently published: Source: https://medievalhomecompanion.com/wp-content/uploads/2021/03/writing-in-runes-with-a-linguist.pdf (accessed: Wednesday, July 09, 2025)
+
+**Purport:**<br>
+...
+
 ### MARTINEAU, J. ###
 
 * Martineau, Jason (2008). 'The Elements of Music: Melody, Rhythm & Harmony'. First U.S. edition of 2008. New York, N.Y., U.S.A.: Bloomsbury U.S.A. (Bloomsbury is a trademark of Bloomsbury Publishing Plc.). ISBN 9780802716828.
