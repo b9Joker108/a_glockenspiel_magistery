@@ -199,6 +199,13 @@ Worthwhile.
 
 # H #
 
+### HADA, M.; *et al.* ###
+
+* Hada, Madhav & Trikha, Pradeep (2025). 'Lal Ded: A Living Tradition of Bhakti Poetry in Kashmir' (pp. 177-188) in *Indian Literature*, Jan.-Feb., Vol. 69, No. 1, 345, 2005. Sahitya Akademi. Source: https://www.jstor.org/stable/10.2307/27361730 (accessed: Wednesday, July 09, 2025)  
+
+**Purport:**<br>
+...
+
 ### HALEY, J. ###
 
 * Haley, Jay (ed.) (1967). 'Advanced Techniques of Hypnosis and Therapy: Selected Papers of Milton H. Erickson, M.D.'. New York, N.Y., U.S.A.: Grune & Stratton (a subsidiary of Harcourt Brace Jovanovich, Publishers). ISBN 0808901699.
