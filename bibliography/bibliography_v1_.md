@@ -587,6 +587,11 @@ Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography
 **Purport:**
 ...
 
+* Urban, Hugh B. (2023). 'Tantra in South Asia' (pp. 1-21) in the 'Oxford Research Encyclopedia of Asian History [Online]', April 19, 2023. Source: https://doi.org/10.1093/acrefore/9780190277727.013.726 (accessed: Wednesday, July 09, 2025). Source: https://www.academia.edu/100590752/Tantra_in_South_Asia (accessed: Wednesday, July 09, 2025)
+
+**Purport:**
+This is quite useful as it is relatively recent and amongst other things, ventures a brief survey of the way English scholarship has endeavoured to progressively define 'tantra' and what it signifies and points to.
+
 ### URGYEN, T.; *et al.* ###
 
 * Urgyen, Tulku (auth.); Kunsang, Erik Pema \[a.k.a. Schmidt, Erik Hein] (trans.); Schmidt, Marcia Binder (comp.) & Tweed, Michael (ed.) (2001). 'Vajra Speech: Pith Instructions for the Dzogchen Yogi'. With a Preface by Erik and Marcia. (NB: Translated from an undated and unspecified Tibetan text or compendium of text excerpts from multiple sources and/or oral transcriptions.). First edition. Greenview Garden, Hong Kong: Rangjung Yeshe Publications. ISBN 9627341444 (pbk) 
