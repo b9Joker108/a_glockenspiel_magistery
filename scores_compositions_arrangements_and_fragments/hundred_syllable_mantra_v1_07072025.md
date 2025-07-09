@@ -1,3 +1,8 @@
+[![Watch the video](https://img.youtube.com/vi/uGXGNJypkzA/hqdefault.jpg)](https://youtu.be/uGXGNJypkzA?si=8mlZhGuqateKpkTX)
+
+
+
+
 Siddham transliteration
 
 oṃ va jra sa ttva sa ma yam a nu
