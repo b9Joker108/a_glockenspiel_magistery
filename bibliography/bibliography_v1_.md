@@ -419,6 +419,13 @@ Noppe is BRILLIANT!
 
 # P #
 
+### PARPOLA, A. ###
+
+* Parpola, Asko (1999). 'Vac as a Goddess of Victory in the Veda and Her Relation to Durga' (pp. 101–143) in *Zinbun: Memoirs of the Research Institute for Humanistic Studies*, Vol. 34, №2, 1999. Kyoto, Japan: Kyoto University. Source: https://archive.org/details/parpola-asko-1999.-vac-as-a-goddess-of-victory-in-the-veda-and-her-relation-to-durga (accessed: Tuesday, August 06, 2024)
+
+**Purport:**<br>
+...
+
 ### PEARSON, B., *et al.* ###
 
 * Pearson, Bruce (auth.); Anderson, Gerald (ed.) & Forque, Charles (ed.) (1982). 'Best in Class: Comprehensive Band Method - Book 1: Percussion (Drums & Mallets)'. San Diego, California, U.S.A.: Kjos West (Neil A. Kjos Jr., Publisher). ISBN 0849758491
