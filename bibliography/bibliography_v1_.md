@@ -558,6 +558,12 @@ This researcher and author has a profound overview of the Indian artistic and ae
 **Purport**
 This work is very well executed for a reference work.
 
+### STRICKMANN, M. ###
+
+* Strickmann, Michel (auth.) & Faure, Bernard (ed.) (2002). 'Chinese Magical Medicine'. Asian Religions & Cultures: Edited by Carl Bielefeldt & Bernard Faure. Stanford, California, U.S.A.: Stanford University Press. ISBN 0804739404 (pbk.: alk. paper).
+
+**Purport** This is a watershed and landmark study in the literature and is invaluable for our purposes.
+
 ### STUTLEY, M. ###
 
 Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography'. Routledge Library Editions: Hinduism - Vol. 6. (NB: First published in 1985 by Routledge & Kegan Paul PLC, London, England, U.K.). Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429053849 (Vol. 6) (ebk).
