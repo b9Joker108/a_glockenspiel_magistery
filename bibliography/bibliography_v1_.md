@@ -440,6 +440,13 @@ Noppe is BRILLIANT!
 **Purport:**<br>
 ...
 
+### PAYNE, R.; *et al.* ###
+
+* Payne, Richard K. & Hayes, Glen A. (eds.) (2024). 'Oxford Handbook of Tantric Studies'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780197549902 (epub) 
+
+**Purport:**<br>
+Not one dedicated article on either the Pancharatra or Vaikhanasa. One on Vaishnava Sahajiya and one on Bhutashuddhi (BS) gives some treatment to the Pancharatra and has a valuable bibliography. This article on the BS and the one by Flood, plus the dedicated primary resource on BS, should be enough to support a well-rounded presentation.
+
 ### PEARSON, B., *et al.* ###
 
 * Pearson, Bruce (auth.); Anderson, Gerald (ed.) & Forque, Charles (ed.) (1982). 'Best in Class: Comprehensive Band Method - Book 1: Percussion (Drums & Mallets)'. San Diego, California, U.S.A.: Kjos West (Neil A. Kjos Jr., Publisher). ISBN 0849758491
