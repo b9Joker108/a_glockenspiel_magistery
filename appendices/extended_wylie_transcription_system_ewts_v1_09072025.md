@@ -113,3 +113,107 @@ Citations:
 [8] Requirements for Tibetan Text Layout and Typography - W3C https://www.w3.org/TR/2024/DNOTE-tlreq-20240515/
 [9] Unit 1: The alphabet - tibetanlanguage.school https://tibetanlanguage.school/learn/standard-tibetan/unit-1/
 [10] [PDF] An Introduction to Tibetan Prefixes | FPMT https://fpmt.org/wp-content/uploads/sites/2/2007/08/an_introduction_to_tibetan_prefixes.pdf
+
+What about head letters?
+
+Excellent question. In the context of **EWTS (Extended Wylie Transliteration Scheme)** and Tibetan script, the concept of **"head letters"** (མགོ་ཡིག་ *mgo yig*) refers to the *root* or *main* consonant in a stacked syllable—the central axis around which prefixes, superscripts, subscripts, and suffixes are arranged.
+
+### Head Letters in EWTS
+
+#### 1. **Definition and Function**
+- The **head letter** is the principal consonant of a Tibetan syllable, determining its dictionary order and primary phonetic value.
+- In stacks, the head letter is the *middle* or *main* consonant, with other letters stacked above (superscripts), below (subscripts), before (prefixes), or after (suffixes).
+
+#### 2. **Representation in EWTS**
+- **EWTS does not use a special marker or notation for head letters**; rather, it preserves the order of Tibetan script, transliterating from left to right (prefix → superscript → head/root → subscript → vowel → suffix → second suffix).
+- The head letter is simply written in its proper position within the EWTS syllable.
+
+#### 3. **Example:**
+Take your example:  
+རྡོར (rdor)
+
+- **Prefix:** ར (r)
+- **Superscript:** none
+- **Head letter:** ད (d)
+- **Subscript:** ོ (o) is a vowel, not a subscript here; but if there were a subscript, it would follow the head letter.
+- **Vowel:** ོ (o)
+- **Suffix:** ར (r)
+
+In EWTS:  
+**rdor**  
+- r = prefix  
+- d = head letter  
+- o = vowel  
+- r = suffix
+
+#### 4. **EWTS Order Recap**
+EWTS syllable structure follows the order:
+```
+[prefix][superscript][head][subscript][vowel][suffix][second suffix]
+```
+- *Example:* གྲྭ (grwa)
+  - g = prefix
+  - r = superscript
+  - w = subscript
+  - a = inherent vowel
+
+#### 5. **Special Cases**
+- **Non-standard stacks** or extended Sanskrit stacks in EWTS may use the plus sign (+) to clarify the stack, but the head letter is still in the central position.
+- **Full-form letters** (R, W, Y) are used when those letters appear in full form atop a stack, not as head letters.
+
+### Summary Table
+
+| Tibetan Syllable | EWTS | Head Letter | Example Breakdown         |
+|------------------|------|-------------|--------------------------|
+| རྡོར           | rdor | ད (d)      | r (prefix), d (head), o (vowel), r (suffix) |
+| སྐྱེ           | skye | ཀ (k)      | s (prefix), k (head), y (subscript), e (vowel) |
+| བརྒྱ           | brgya| ག (g)      | b (prefix), r (superscript), g (head), y (subscript), a (vowel) |
+
+### **Conclusion**
+- **EWTS does not mark head letters specially**; it maintains the Tibetan orthographic order, in which the head letter is always in its canonical position.
+- The head letter is thus always identifiable by its place in the EWTS sequence, following the rules of Tibetan syllable construction.
+
+If you need a detailed chart or further examples for your appendix, let me know!
+
+
+What about hyphenated syllables in compounds?
+
+In **EWTS** (Extended Wylie Transliteration Scheme), **hyphens are not used** to join syllables in compounds or multi-syllabic words. Instead, **syllables are separated by spaces**. This follows the conventions of both standard Wylie and EWTS, and is consistent with the structure of written Tibetan, where syllables are separated by the *tsek* (་) mark and not by hyphens[4][7].
+
+### Key Points
+
+- **No Hyphens:**  
+  EWTS does **not** use hyphens between syllables in compounds, words, or names.
+- **Spaces Between Syllables:**  
+  Each Tibetan syllable is transliterated and separated by a space. For example, རྒྱལ་ཁབ is rendered as `rgyal khab` in EWTS, not `rgyal-khab`[4][7].
+- **No Periods or Other Delimiters:**  
+  The period is reserved for special disambiguation cases (e.g., to separate two consonants that would otherwise be read as a stack), not for syllable separation[7].
+- **Reflects Tibetan Orthography:**  
+  This practice mirrors Tibetan script, where syllables are visually separated by the *tsek* (་), but words are not separated by spaces or hyphens[3][6].
+
+### Style Guide Confirmation
+
+> “For Tibetan transliteration, use Wylie transliteration, with syllables rendered with spaces (no hyphens or periods) between them.”  
+> — Wisdom Style Guide[4]
+
+### Example
+
+| Tibetan Script | EWTS Transliteration |
+|----------------|---------------------|
+| རྒྱལ་ཁབ        | rgyal khab          |
+| བོད་ཀྱི་        | bod kyi             |
+
+**In summary:**  
+EWTS requires spaces—not hyphens—between syllables in compounds. Hyphens are not standard and should be avoided in EWTS transliteration[4][7].
+
+Citations:
+[1] Tibetan https://www.languagesgulper.com/eng/Tibetan.html
+[2] Tibetan orthography notes https://r12a.github.io/scripts/tibt/bo.html
+[3] Tibetan script https://en.wikipedia.org/wiki/Tibetan_script
+[4] Wisdom-Style-Guide.pdf https://wisdomexperience.org/wp-content/uploads/2019/06/Wisdom-Style-Guide.pdf
+[5] Microsoft Word - Lhasa L2new-2010.doc https://www2.lawrence.edu/fast/sungk/Lhasa_L2new-2010.pdf
+[6] Unit 2: Adjacent letters https://tibetanlanguage.school/learn/standard-tibetan/unit-2/
+[7] Wylie https://rywiki.tsadra.org/index.php/Wylie
+[8] A PHONETIC DESCRIPTION OF TIBETAN https://www.umin.ac.jp/memorial/rilp-tokyo/R10/R10_127.pdf
+[9] APhonologicalHistoryofAmdoTib... https://eprints.soas.ac.uk/32127/1/A_Phonological_History_of_Amdo_Tibetan_R.pdf
+[10] UAX #14: Unicode Line Breaking Algorithm https://unicode.org/reports/tr14/tr14-27.html
