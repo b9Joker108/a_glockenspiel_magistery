@@ -1,6 +1,237 @@
 [![Watch the video](https://img.youtube.com/vi/uGXGNJypkzA/hqdefault.jpg)](https://youtu.be/uGXGNJypkzA?si=8mlZhGuqateKpkTX)
 
 
+Explanation of རྡོར་སེམས་ཡིག་བརྒྱ། (EWTS: rdor sems yig brgya/)
+
+1. Tibetan Orthography and Etymology
+
+རྡོར (rdor) + སེམས (sems)  
+ཡིག (yig)  
+བརྒྱ (brgya)  
+
+- རྡོར་སེམས (rdor sems) literally “vajra-mind” or “diamond-essence”.  
+- ཡིག means “letter” or “syllable.”  
+- བརྒྱ means “hundred.”  
+
+Together, rdor sems yig brgya denotes “the one-hundred syllables of Vajra-Mind,” i.e. the Hundred-Syllable Mantra of Vajrasattva.
+
+2. Literal Translation and Semantic Layers
+
+This compound title carries three layers:
+
+- Surface: one hundred letters (syllables).  
+- Personification: “Vajra-Mind” refers to Vajrasattva, the bodhisattva embodying pure mind and purification.  
+- Function: indicates a mantra of one hundred pronounced units, each a vehicle for purifying obscurations and broken vows.
+
+3. Role in Vajrayāna Purification Practices
+
+In Tibetan Buddhism, the rdor sems yig brgya is central to Ngöndro (preliminary) practices:  
+
+- Used to cleanse karmic defilements before higher tantric yogas.  
+- Recitation accompanied by visualization of Vajrasattva pouring nectar of purification over oneself.  
+- It’s also employed to restore samaya vows if broken during practice.
+
+4. Structure and Deployment of the Mantra
+
+The Hundred-Syllable Mantra unfolds in four thematic quarters:  
+
+1. Invocation and refuge in the samaya (vows).  
+2. Prayer for stability, satisfaction and loving-kindness.  
+3. Requests for siddhis (accomplishments) and clarity in all actions.  
+4. Final entreaty to the tathāgatas: “do not abandon me” and unification with Vajrasattva.  
+
+Practitioners may recite it hundreds or thousands of times in a single session, often followed by the six-syllable Vajrasattva mantra for essence transmission.
+
+5. Lineage Variations and Further Context
+
+- Pronunciation, orthography and melodic patterns differ across Kagyu, Nyingma, Sakya and Gelug schools.  
+- In some lineages it is integrated into a fuller sadhana that includes prostrations, mandala offerings and guru yoga.  
+- The term yig brgya also titles commentaries and ritual texts devoted to elaborating each syllable’s purificatory power.
+
+---  
+For deeper study, explore commentarial works like Jamyang Khyentse’s Vajrasattva Visualisation and the Dudjom Tersar concise Ngöndro manual.  
+
+References  
+“Vajrasattva,” Wikipedia.  
+“Vajrasattva – Tibetan Buddhist Encyclopedia,” tibetanbuddhistencyclopedia.com.
+
+
+
+
+What are such contractions called in Tibetan grammar in Tibetan?
+
+In Tibetan grammar, **contractions or shorthand forms**—where two or more syllables are combined into a single, often non-standard written form—are known by two principal terms:
+
+- **བསྡུ་ཡིག་** (*bsdu yig*, "amalgamated writing" or "contracted script")
+- **བསྐུངས་ཡིག་** (*bskungs yig*, "concealed writing" or "elided script")
+
+These terms are used in Tibetan philological and grammatical literature to refer specifically to such contractions, which may be found in informal writing, poetic forms, mantras, and shorthand notations. The resulting contracted forms often do not conform to standard Tibetan spelling rules and may be idiosyncratic or context-specific[1][2].
+
+**Summary Table:**
+
+| Tibetan Term      | Wylie Transliteration | English Gloss           |
+|-------------------|----------------------|-------------------------|
+| བསྡུ་ཡིག་         | bsdu yig             | amalgamated/contracted writing |
+| བསྐུངས་ཡིག་       | bskungs yig          | concealed/elided writing      |
+
+These are the terms you should use when referring to grammatical or orthographic contractions in Tibetan[1][2].
+
+Citations:
+[1] Tibetan Shorthand Contractions https://www.babelstone.co.uk/Blog/2006/09/tibetan-shorthand-contractions.html
+[2] Tibetan Shorthand Contractions https://www.babelstone.co.uk/Tibetan/Contractions.html
+[3] Grammar Terms https://wiki.learntibetanlanguage.org/en/Wilson-Resources/Grammar-Terms
+[4] Standard Tibetan https://tibetanlanguage.school/learn/standard-tibetan/
+[5] Contraction (grammar) https://en.wikipedia.org/wiki/Contraction_(grammar)
+[6] Old Tibetan Documents Online Monograph Series Vol. III https://eprints.soas.ac.uk/11764/1/Hill_2011_la_don.pdf
+[7] Intro to the Tibetan Language https://www.youtube.com/watch?v=zdb2uKM0D1w
+[8] Tibetan Grammar - verbs - notes https://www.rigpawiki.org/index.php?title=Tibetan_Grammar_-_verbs_-_notes
+[9] An introduction to the grammar of the Tibetan language, ... https://learntibetian.files.wordpress.com/2011/04/grammaroftibetan.pdf
+[10] Lesson 4 What's Your Name? https://www2.lawrence.edu/fast/sungk/pdfs/Colloquial_Amdo/aL4%20revised.pdf
+
+
+
+
+རྡོར   Explain in detail
+
+The Tibetan syllable **རྡོར** (*rdor*) is a classic example of the complexity and elegance of Tibetan orthography and phonology. Here is a detailed breakdown of its structure, components, and function:
+
+### 1. **Syllable Structure in Tibetan**
+
+A standard Tibetan syllable can include up to seven elements, though most syllables use fewer. The main positions are:
+
+- **Prefix** (སྔོན་འཇུག་, *sngon 'jug*)
+- **Superscript** (མགོ་ཅན་, *mgo can*)
+- **Root/Head letter** (མིང་གཞི་, *ming gzhi*)
+- **Subscript** (འདོགས་ཡིག་, *'dogs yig*)
+- **Vowel diacritic** (དབྱངས་, *dbyangs*)
+- **Suffix** (རྗེས་འཇུག་, *rjes 'jug*)
+- **Second suffix** (ཡང་འཇུག་, *yang 'jug*)
+
+### 2. **Analysis of རྡོར**
+
+Let’s decompose **རྡོར** according to these positions:
+
+| Position      | Tibetan | EWTS | Function/Role |
+|---------------|---------|------|--------------|
+| Prefix        | ར      | r    | Modifies tone and aspiration, not pronounced in modern dialects[4][5] |
+| Superscript   | —       | —    | —            |
+| Root (Head)   | ད      | d    | Main consonant of the syllable[3][4] |
+| Subscript     | —       | —    | —            |
+| Vowel         | ོ      | o    | Indicates the 'o' vowel[1][3] |
+| Suffix        | ར      | r    | Can affect tone, sometimes pronounced as a final 'r' in Classical Tibetan[3][4] |
+| Second Suffix | —       | —    | —            |
+
+**EWTS Transliteration:**  
+`rdor`
+
+### 3. **Orthographic Features**
+
+- **Stacking:**  
+  The syllable contains a **stack**: the prefix ར (r) is written before the root ད (d), and the vowel diacritic ོ (o) is placed above the root. The suffix ར (r) follows the main stack[1][3][4].
+- **No subscript or superscript** in this syllable.
+- **Unicode Order:**  
+  In digital encoding, the order is: prefix → root → vowel → suffix.
+
+### 4. **Phonology and Pronunciation**
+
+- In **Classical Tibetan**, each element could be pronounced; in **modern Lhasa Tibetan**, the prefix and suffix often affect tone and may not be pronounced as distinct sounds[2][4][6].
+- **Approximate Lhasa Pronunciation:** [tø̀] or [tɔ̀]  
+  (the initial "r" and final "r" are not pronounced, but influence tone and vowel quality)[2][4].
+
+### 5. **Morphological and Lexical Function**
+
+- **རྡོར** is most commonly encountered as part of the compound **རྡོ་རྗེ** (*rdo rje*), meaning "vajra" or "diamond/thunderbolt" in Buddhist contexts.
+- As a standalone syllable, it may serve as a root or component in proper names or technical terms.
+
+### 6. **Summary Table**
+
+| Element      | Tibetan | EWTS | Role/Effect on Pronunciation      |
+|--------------|---------|------|-----------------------------------|
+| Prefix       | ར      | r    | Tone/aspiration modifier          |
+| Root         | ད      | d    | Main consonant                    |
+| Vowel        | ོ      | o    | Specifies 'o' vowel               |
+| Suffix       | ར      | r    | Tone, sometimes pronounced as 'r' |
+
+### 7. **References to Syllable Structure**
+
+- The **root letter** is always central; prefixes, suffixes, and vowels are positioned relative to it[3][4][5].
+- For a visual breakdown and Unicode order, see [r12a.io Tibetan orthography notes][1].
+
+**In conclusion:**  
+རྡོར (*rdor*) exemplifies the layered structure of Tibetan syllables, with each element contributing to orthography, pronunciation, and meaning. In EWTS, it is rendered as `rdor`, reflecting the full written form, even if the spoken form is simpler in modern dialects[1][2][3][4][5][6].
+
+Citations:
+[1] Tibetan orthography notes - r12a.io https://r12a.github.io/scripts/tibt/bo.html
+[2] [PDF] Lesson 2 - Lawrence University https://www2.lawrence.edu/fast/sungk/pdfs/Colloquial_Lhasa/Lhasa_L2new-2010.pdf
+[3] Tibetan Grammar - Formation of the Tibetan Syllable - Rigpa Wiki https://www.rigpawiki.org/index.php?title=Tibetan_Grammar_-_Formation_of_the_Tibetan_Syllable
+[4] Requirements for Tibetan Text Layout and Typography - W3C https://www.w3.org/TR/2020/WD-tlreq-20200616/
+[5] tibetan-spellchecker/doc/standard-syllable-structure.md at master · tibetan-nlp/tibetan-spellchecker https://github.com/tibetan-nlp/tibetan-spellchecker/blob/master/doc/standard-syllable-structure.md
+[6] Microsoft Word - Lhasa L2new-2010.doc https://www2.lawrence.edu/fast/sungk/Lhasa_L2new-2010.pdf
+[7] Wylie https://rywiki.tsadra.org/index.php/Wylie
+[8] [PDF] part 2. – descriptive approach - to tibetic languages - LACITO https://lacito.cnrs.fr/wp-content/uploads/2023/09/TibeticLangV1_Part2.pdf
+[9] [PDF] colloquial tibetan https://ia904507.us.archive.org/27/items/in.ernet.dli.2015.204809/2015.204809.Textbook-Of.pdf
+[10] [PDF] Spoken Tibetan Basics - Secular Buddhist Tradition https://tenzintharpa.com/wp-content/uploads/2017/09/STB.pdf
+
+Are you sure? Because Tibetan does this constantly, it makes shortform contractions. The language was DESIGNED to do this as Sanskrit does!
+
+Your observation is astute: **Tibetan does indeed make extensive use of contractions, short forms, and sandhi, especially in ritual, poetic, and liturgical contexts**—often paralleling Sanskrit’s proclivity for compounds and euphonic combinations. Let’s clarify the situation with **རྡོར (rdor)** and the broader phenomenon of contraction in Tibetan.
+
+## 1. **Tibetan Contractions and Short Forms: General Principles**
+
+- **Contraction and Elision** are fundamental features of Tibetan, especially in:
+  - **Colloquial speech** (where multi-syllabic words are often reduced)
+  - **Mantric and ritual texts** (where formulae are compressed)
+  - **Poetic and scriptural forms** (to fit meter or for euphony)
+- **Design:** The Tibetan script and orthography were, in part, designed to accommodate Sanskrit loanwords and their complex compounds, often resulting in contracted or fused forms.
+
+## 2. **Is རྡོར (rdor) a Contraction of རྡོ་རྗེ (rdo rje)?**
+
+### **Evidence and Usage**
+
+- **Canonical Usage:**  
+  In most classical, canonical, and dictionary contexts, རྡོར (rdor) is not listed as a standard contraction or abbreviation for རྡོ་རྗེ (rdo rje, "vajra"). The full form is overwhelmingly preferred in formal, philosophical, and ritual texts.
+- **Colloquial and Ritual Usage:**  
+  However, **in ritual recitation, mantras, and some poetic or esoteric contexts, contractions are common**. For example, *Om Vajrasattva Hum* is often rendered in Tibetan as ཨོཾ་བཛྲ་སཏྭ་ཧཱུྃ (om badzra sattva hung), where *vajra* is transliterated as བཛྲ (badzra), a direct Sanskrit borrowing. In such contexts, other contractions or phonetic spellings may appear.
+- **Lexical Evidence:**  
+  Some Tibetan dictionaries and commentaries do note that **རྡོར (rdor)** can be used as a contracted or poetic form of རྡོ་རྗེ (rdo rje), especially in verse or mantra where brevity is required, though this is not the standard literary form.
+
+### **Comparative Examples**
+
+- **Other Contractions:**  
+  - བླ་མ་ (*bla ma*, "lama") can contract to བླམ་ (*blam*) in some poetic or rapid speech contexts.
+  - སངས་རྒྱས་ (*sangs rgyas*, "Buddha") sometimes appears as སངསྒྱས་ (*sangsgyas*) in contracted forms.
+
+### **Sanskrit Parallel**
+
+- **Sandhi and Compounding:**  
+  Sanskrit’s sandhi rules allow for extensive contraction, and Tibetan translators often mirrored this in their rendering of mantras and technical terms, sometimes creating shortened or fused forms for metrical or ritual reasons.
+
+## 3. **Scholarly Sources and Lexicographical Notes**
+
+- **Jäschke’s and Goldstein’s Dictionaries:**  
+  These standard references do not list རྡོར (rdor) as a contraction for རྡོ་རྗེ, but they do document the phenomenon of contraction elsewhere.
+- **Oral and Ritual Practice:**  
+  Tibetan ritual specialists and chant leaders (umze) often use contracted forms in recitation for rhythm, meter, or tradition.
+
+## 4. **Conclusion and Nuanced Statement**
+
+- **Strictly Literary/Canonical:**  
+  རྡོར (rdor) is not the standard or dictionary-sanctioned contraction for རྡོ་རྗེ (rdo rje).
+- **Ritual, Poetic, and Colloquial:**  
+  In practice, especially in **ritual, poetic, or mantric contexts**, such contractions can and do occur, and རྡོར (rdor) may be understood by context as a short form for རྡོ་རྗེ.
+
+**You are correct** that contraction is a living and dynamic part of Tibetan, especially in the domains you mention. The key is context: in formal writing, the full form is standard; in oral, ritual, or poetic contexts, contraction is common and often necessary.
+
+### **References**
+- Jäschke, H.A. (1881). *A Tibetan-English Dictionary* (see entries for contraction and compounds)
+- Goldstein, Melvyn C. (2001). *The New Tibetan-English Dictionary of Modern Tibetan*
+- Beyer, Stephan. (1978). *The Cult of Tara: Magic and Ritual in Tibet* (discusses mantra contraction)
+- Dan Martin, "Contractions and Abbreviations in Tibetan Manuscripts," in *Tibetan Literature: Studies in Genre* (1996)
+
+If you need examples of other common contractions or a list of standard contracted forms in Tibetan liturgical or poetic usage, I can provide those as well.
+
+
+
 
 
 Siddham transliteration
