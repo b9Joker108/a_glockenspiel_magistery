@@ -8,21 +8,21 @@
 
 * Amundsen, Arne Bugge (ed.), *et al.* (2015). *ARV: Nordic Yearbook of Folklore - Special Issue: Magic and Texts*, Vol. 70. Uppsala, Sweden: The Royal Gustavus Adolphus Academy. ISSN 0066-8176. Source: xxx (accessed: Wednesday, June 25, 2025)
 
-**Purport:**
+**Purport:**<br>
 Make time to read this complete issue and graze other issues in future.
 
 ### ? ###
 
 * Authorship Unattributed (n.d.). 'Glockenspiel: Level One'. NB: No publication details, but as it makes reference to "cadets", it is produced by a martial company, marching band or comparable. A most useful and valuable resource for our purposes in designing a curriculum for a Western musical paradigm acquisition for glockenspiel. The document was initially sourced from - Source: https://www.amphion.ca/wp-content/uploads/2014/10/Glockenspiel-Level1.pdf (accessed: Saturday, June 14, 2025) in the following domain: Source: https://www.amphion.ca/ This website is home to the 136th Company(?) of the Royal Canadian Sea Cadet Corps (RCSCC), AMPHION, Nanaimo, British Colombia, Canada. But, there is no surety yet to assign this as an attribution. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Authorship%20Unattributed%20(n.d.).%20'Glockenspiel%20-%20Level%20One'.pdf  (accessed: Saturday, June 14, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### AVTAR, R. ###
 
 * Avtar, Ram 'Vir' (2006). 'Theory of Indian Ragas'. New Delhi, India: Pankaj Publications. ISBN 9788187155317.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # B #
@@ -31,31 +31,31 @@ Make time to read this complete issue and graze other issues in future.
 
 * Bastien, Jane Smisor; Bastien, Lisa & Bastien, Lori (1999). 'Bastien Piano For Adults - A Beginning Course: Lessons, Theory, Technic, Sight Reading - Book 1'. San Diego, California, U.S.A.: Kjos Music Press. KJOS: Neil A. KJOS Music Company, Distributor. ISBN 0849773024.  Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Bastien%2C%20J.%20S.%20(auth.)%2C%20et%20al.%20(1999).%20Bastien%20Piano%20For%20Adults%20-%20A%20Beginning%20Course%20-%20Lessons%2C%20Theory%2C%20Technic%2C%20Sight%20Rea...pdf (accessed: Saturday, June 14, 2025)
 
-**Purport:**
+**Purport:**<br>
 The [RCSCC](https://en.wikipedia.org/wiki/Royal_Canadian_Sea_Cadets) with their No. "108" for '[Scarborough Fair](https://en.wikipedia.org/wiki/Scarborough_Fair_(ballad))' led me to this volume which is pure platinum, bejewelled and sublime filigree for our purposes. It constitutes a sound refresher for my lapsed pianoforte skillset. Mrs Hutchins would lament. But, the volume for the most part, is directly transferable, applicable and easily reworkable and adaptable to the glockenspiel. It is effectively, exactly what I was looking for, but was unsure how to find. Most of the published works on the glockenspiel are 'Mickey Mouse' juvenilia compared to the sound musicality and tested and tried pedagogy that produced and is invested in this work. It should be noted, that it is of its time and dated. That said, at a glance, I have determined without reservation, that it is a premium and accomplished work and will be a foundation for my Western musicality point-of-\[re]entry.
 
 ### BARLOW, H.; *et al* ###
 
 * Barlow, Harold & Morgenstern, Sam (comps.) (1975, 1945). 'A Dictionary of Musical Themes: The Music of More Than 10,000 Themes'. With an Introduction by John Erskine. Revised Edition. (NB: First edition published in 1945.). New York, N.Y., U.S.A.: Crown Publishers, Inc. ISBN 0517524465.
 
-**Purport:**
+**Purport:**<br>
 This work will be invaluable as a reference.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### BELKIN, A. ###
 
 * Belkin, Alan (2008, 1995). 'A Practical Guide to Musical Composition'. Revised edition. Independently published.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### BELL, C. ###
 
 * Bell, Christopher (2020). 'Tibetan Demonology: Elements in Religion and Violence'. Cambridge Elements: Elements in Religion and Violence series: edited by Lewis, James R. & Kitts, Margo. University Printing House, Cambridge, England, U.K.: Cambridge University Press (a part of the University of Cambridge). DOI: 10.1017/9781108670715. ISBN 9781108712675 (pbk).
 
-**Purport:**
+**Purport:**<br>
 This is a valuable work for our purposes and it has been well produced.
 
 ### BENN, J. ###
@@ -69,20 +69,20 @@ This is a valuable work for our purposes and it has been well produced.
 
 * Bock, Emmanuel (2010). '"If no Divells, no God": Devils, D(a)emons and Humankind on the Mediaeval and Early Modern English Stage'. Thesis. Durham, Stockton-on-Tees, England, U.K.: University of Durham. Source: http://etheses.dur.ac.uk/750/ (accessed: Tuesday, July 01, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### BRADBURY, R. ###
 
 * Bradbury, Ray (1976a). 'Drink Entire: Against the Madness of Crowds' in *Gallery [magazine]*, April, 1976 and subsequently collected in Bradbury, Ray (1976b). *Long After Midnight: 22 Hauntings and Celebrations*. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394479424. 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 * Bradbury, Ray (1976b). 'Long After Midnight: 22 Hauntings and Celebrations'. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394479424. 
 
 **Purport:**
-...
+...<br>
 
 # C #
 
@@ -90,35 +90,35 @@ This is a valuable work for our purposes and it has been well produced.
 
 * Canadian Department of National Defence (CDND) (attr.) (2008). 'Canadian Cadet Organizations: Military Band - Music Proficiency Levels Qualification Standard'. Canadian National Defence Headquarters (CNDHQ), Ottawa, Ontario, Canada: Youth Programs Development, Canadian Department of National Defence (CDND). A-CR-CCP-910/PG-001. Source:  https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/CDND%20(attr.)(2008).%20Canadian%20Cadet%20Organizations%20-%20Military%20Band%20-%20Music%20Proficiency%20Levels%20Qualification%20Standard.pdf (accessed: Sunday, June 15, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### CAUSLEY, C.; *et al.* ###
 
 * Causley, Charles (ed. & comp.) & Świderska, Barbara (illus.) (1982, 1980, 1978, 1977, 1975, 1974). 'The Puffin Book of Magic Verse: Chosen & Introduced by Charles Causley'. Harmondsworth, Middlesex, England, U.K.: Puffin Books (Penguin Books Ltd.). ISBN 9780140306606. 
 
-**Purport:**
+**Purport:**<br>
 This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Acknowledgments.
 
 ### CLAYTON, M. ###
 
 * Clayton, Martin (2000). 'Time in Indian Music: Rhythm, Metre, and Form in North Indian Rag Performance'. Oxford Monographs on Music. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 0198166869.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### CZERNY, C. ###
 
 * Czerny, Carl (1833). ‘125 Passagenübungen, Op. 261: Études élémentaires pour le piano-forte, classées dans un ordre progressif et soigneusement doigtées; calculées pour obtenir la légèreté et l’indépendance des doigts et faciliter l’enseignement des jeunes élèves \[German & French; English: 125 Exercises in Passage-playing, Op. 261: Elementary Studies for the Pianoforte, Arranged in Progressive Order and Carefully Fingered; Designed to Achieve Lightness and Independence of the Fingers and Facilitate the Instruction of Young Pupils]’. Book One. Paris, France: A. Farrenc. Source: https://archive.org/details/imslp-exercises-in-passage-playing-op261-czerny-carl (accessed: Monday, June 30, 2025)
 
-**Purport:**
+**Purport:**<br>u
 ...
 
 ### CZERNY, C.; *et al.* ###
 
 * Czerny, Carl (comp.) & Ruthardt, Adolf (rev.) (n.d.). 'Hundert Übungsstücke: Opus 139 \[German; English: 'One Hundred Etudes: Work 139']'. Frankfurt am Main, Hesse, Germany: C.F. Peters Frankfurt.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # D #
@@ -127,14 +127,14 @@ This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Ack
 
 Dhandapani, Dr. M. N. & Pattammal, D. (2007, 2002, 1991, 1984). 'Ragapravaham: Index to Carnatic Ragas (Revised & Enlarged)'. Fourth edition. (NB: First edition published in 1984 by Higginbothams.). Royapettah, Madras, India: The Karnatic Music Book Center.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### DOORMAN, E. ###
 
 * Doorman, Eric Robert (2009). 'Pieces of Vac: A Study of the Letters of the Sanskrit Alphabet and Their Metaphysical Role in the Emanation of Manifest Reality as Described in Select Hindu Tantras'. Thesis. San Francisco, California, U.S.A.: California Institute of Integral Studies. UMI Number 1466061. Source: https://archive.org/details/astudyofthelettersofthesanskritalphabetericrobertdormanthesistantras_202003_488_D (accessed: Saturday, June 21, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # E #
@@ -148,21 +148,21 @@ Dhandapani, Dr. M. N. & Pattammal, D. (2007, 2002, 1991, 1984). 'Ragapravaham: I
 
 * Farhat, Hormoz (2004, 1990). 'The Dastgah Concept in Persian Music'. Cambridge Studies in Ethnomusicology. (NB: Based on the Farhat's Ph.D. dissertation, 1965, University of California, Los Angeles, California, U.S.A.). Cambridge, England, U.K.: Cambridge University Press. ISBN 0521542065 (pbk).
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### FENNIMORE, K. ###
 
 * Fennimore, Kevin (auth.) (2024). 'How to Play the Glockenspiel for Beginners: The Ultimate Guide to Learning, Playing, and Becoming Proficient at the Instrument'. Independently published. ASIN B0D9RBCC2W. ISBN 9798333607935. 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### FISHER, R. ###
 
 * Fisher, Rebecca (2011). 'Writing Charms: The Transmission and Performance of Charms in Anglo-Saxon England'.  Ph.D. dissertation. Sheffield, England, U.K.: University of Sheffield. Source: https://etheses.whiterose.ac.uk/id/eprint/14572/1/555937.pdf (accessed: Saturday, July 05, 2025)
 
-**Purport:**
+**Purport:**<br>
 Worthwhile.
 
 # G #
@@ -171,28 +171,28 @@ Worthwhile.
 
 * Gasser, Erika Anne (2007). 'Manhood, Witchcraft and Possession in Old and New England'. Dissertation for the Doctor of Philosophy degree. History & Women’s Studies. Ann Arbor, Michigan, U.S.A.: The University of Michigan. 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### GAULDIN, R. ###
 
 * Gauldin, Robert (2004, 1997). 'Harmonic Practice: In Tonal Music'. Second edition. New York, N.Y., U.S.A.: W. W. Norton & Company, Inc. ISBN 0393976661. 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### GHEZZO, M. ###
 
 * Ghezzo, Marta Arkossy (1986, 1980). 'Solfege, Ear Training, Rhythm, Dictation, and Music Theory: A Comprehensive Course'. University, Alabama, U.S.A.: The University of Alabama Press. Second Printing of 1986. With an undated Preface by Mel Powell. ISBN 081736403X.  
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### GUPTA. S, *et al.* ###
 
 * Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished Compendium Called the Yogarnava' in the *Journal of Indian Philosophy*, Vol. 50, 2022, pp. 345 - 385. Heidelberg, Germany: Springer Nature. DOI: https://doi.org/10.1007/s10781-022-09504-6 Source: https://link.springer.com/article/10.1007/s10781-022-09504-6 (accessed: Monday, June 16, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 
@@ -203,28 +203,28 @@ Worthwhile.
 
 * Haley, Jay (ed.) (1967). 'Advanced Techniques of Hypnosis and Therapy: Selected Papers of Milton H. Erickson, M.D.'. New York, N.Y., U.S.A.: Grune & Stratton (a subsidiary of Harcourt Brace Jovanovich, Publishers). ISBN 0808901699.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### HEIDE, E. ###
 
 * Heide, Eldar (2011). 'Holy Islands and the Otherworld: Places Beyond Water' (pp. 57 - 80) in Jørgensen, Torstein & Jaritz, Gerhard (eds.) (2011). *Isolated Islands in Medieval Nature, Culture and Mind*. The Muhu \[Island] Proceedings No. 2. CEU \[Central European University] Medievalia Vol. 14. First edition. Budapest, Hungary: Central European University Press. ISBN 9786155053245. 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### HINDEMITH, P. ###
 
 * Hindemith, Paul (1949, 1946). 'Elementary Training for Musicians'. Second Edition (Revised in 1949). London, England, U.K.: Schott & Co. Ltd. London. ISBN 0901938165.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### HOPKINS, S. ###
 
 * Hopkins, Steven Paul (2002). 'Singing the Body of God: The Hymns of Vedantadeshika in Their South Indian Tradition'. New York, N.Y., U.S.A.: Oxford University Press, Inc. ISBN 0195127358.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 
@@ -234,7 +234,7 @@ Worthwhile.
 
 * ISKCON Compiler (n.d.). 'Sri Sri Harinam Sankirtan: 108 Melodies - Index'. ISKCON.
 
-**Purport:**
+**Purport:**<br>
 Most useful.
 
 
@@ -244,7 +244,7 @@ Most useful.
 
 * Jørgensen, Torstein & Jaritz, Gerhard (eds.) (2011). 'Isolated Islands in Medieval Nature, Culture and Mind'. The Muhu \[Island] Proceedings No. 2. CEU \[Central European University] Medievalia Vol. 14. First edition. Budapest, Hungary: Central European University Press. ISBN 9786155053245. 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 
@@ -255,21 +255,21 @@ Most useful.
 
 * Kõiva, Mare & Kuperjanov, Andres (eds.) (2003). 'Folklore: An Electronical Journal of Folklore', Vol. 24, October, 2003. Tartu, Estonia: FB and Media Group of LM (Folk Belief and Media Group of Estonian Literary Museum). Source: https://www.folklore.ee/folklore/vol24/ (accessed: Friday, July 04, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### KOSKOFF, E.; *et al.* ###
 
 * Koskoff, Ellen (exec. ed.); *et al.* (2008). 'The Concise Garland Encyclopedia of World Music: Vol. 2, The Middle East, South Asia, East Asia & Southeast Asia'. New York, N.Y., U.S.A.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780415994040 (vol. 2 hbk)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### KRAUS, N. ###
 
 * Kraus, Nicholas (2023). 'The Glorious Glockenspiel: A Guide to Greatness in Playing and Performing'. Nicholas Khatchadourian, Publisher. eBook. ASIN B0C3W3TF8K. NB: I have this text on the 'Play Books' Android application.
 
-**Purport:**
+**Purport:**<br>
 Amazon writeup:
 
 "The Glorious Glockenspiel: A Guide to Greatness in Playing and Performing" is an extensive guide that provides a comprehensive overview of the Glockenspiel, covering everything from the instrument's history and basic music theory to advanced playing techniques and performance tips. This book is suitable for both beginners and experienced musicians who are interested in learning or improving their Glockenspiel skills.
@@ -294,7 +294,7 @@ In truth, the work is somewhat useful, but mediocre.
 
 * Lewis, Brenda Ralph (2001). 'Ritual Sacrifice: A Concise History (An Illustrated History)'. Phoenix Mill, Thrupp, Stroud, Gloucestershirev England, U.K.: Sutton Publishing. ISBN 1750927070.
 
-**Purport:**
+**Purport:**<br>
 This work is strong and there is such silence around it.
 
 # M #
@@ -303,28 +303,28 @@ This work is strong and there is such silence around it.
 
 * Martineau, Jason (2008). 'The Elements of Music: Melody, Rhythm & Harmony'. First U.S. edition of 2008. New York, N.Y., U.S.A.: Bloomsbury U.S.A. (Bloomsbury is a trademark of Bloomsbury Publishing Plc.). ISBN 9780802716828.
 
-**Purport:** 
+**Purport:**<br>
 This work has a most useful and refined schematic, grapheme and/or infographic of the Circle of Fifths which will be one of the principal sources to support the formulation and codification of my own.
 
 ### MIKHAILOVA, T.; *et al.* ###
 
 * Mikhailova, Tatyana A.; Roper, Jonathan; Toporkov, Andrey L. & Nikolayev, Dmitry S. (eds.) (2011). 'Charms, Charmers and Charming: Oral Charms in Structural and Comparative Light'. Proceedings of the Conference of the International Society for Folk Narrative Research’s (ISFNR) Committee on Charms, Charmers and Charming 27–29th October, 2011, Moscow, Russia. Moscow, Russia: The Russian Foundation for Basic Research. ISBN 9785986042763. Source: https://www.isfnr.org/files/Moscow_meeting_book.pdf (accessed: Sunday, June 29, 2025)
 
-**Purport:**
+**Purport:**<br>
 All the articles within this volume need to be entered in the Bibliography individually in due course.
 
 ### MOORE, J. ###
 
 * Moore, Prof. Jeffrey M. (2001). 'Percussion Techniques for the Instrumental Music Educator'. Orlando, Florida, U.S.A.: University of Central Florida (College of Arts and Sciences Department of Music). 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### MORELLI, J. ###
 
 * Morrelli, Jeremy (attr.) (c2008). 'The Eight Doha Treasures: A Text that Clearly Teaches the Mahamudra Instructions'. Unfinished draft. Independently published. Source: https://kipdf.com/the-eight-doha-treasures-a-text-that-clearly-teaches-the-mah-mudr-instructions_5ac270fe1723ddfdefd740c7.html (accessed: Saturday, July 05, 2025)
 
-**Purport:**
+**Purport:**<br>
 This draft document has been well-crafted. I secured the tentative date from excavating the document properties and metadata. I don't remember how, where or when I came by the document. It is fortuitous that I had made a note of the prospective author's name, as an attribution, as is my habit (if possible) with unsigned works. I am not sure if this attribution is true and correct. 'The Eight Doha Treasures' (Tibetan: དོ་ཧ་མཛད་ཆེས་བྱ་བ་ཕྱག་རྒྱ་ཆེན་པོའི་མན་ངག ; Wylie: do ha mdzad ces bya ba phyag rgya chen po'i man ngag) appears in Tibetan under the title Do ha mdzad ces bya ba phyag rgya chen po’i man ngag (“Treasury of Dohas: Esoteric Instructions on Mahāmudrā”) as text no. 4 in Volume 7 of the gDams Ngag Rin po che’i Mdzod anthology.  In all the major colophons (Tengyur, Indian Mahāmudrā Collection, Tsibri Parma edition) it’s explicitly ascribed to the Indian Mahasiddha Saraha and was translated into Tibetan by Vairocanarakṣita. The Tibetan edition was first printed from the Dpal spungs (Derge) block-prints, issued by Dilgo Khyentse Rinpoche in 1979, and reprinted by Shechen Publications in New Delhi in 1999. In modern Western renderings the “Eight Doha Treasures” is presented as a compilation of eight separate doha-style teachings on view, meditation, conduct and result. The first and title piece, “The Mahāmudrā Instructions (The Doha Treasure),” is attributed to Saraha (sometimes called Śāvara or Śavaripa), and the subsequent treasures carry dohas by Virūpa, Ṭīlopa, Kṣapa, Maitrīpa, Nāropa and others: each translated variously by Vairocanarakṣita or later Tibetan lotsawas such as Mar-pa Chos-kyi Blo-gros. Relationship Between the 1999 Shechen Edition and the Derge Imprint. Shechen Publications’ 1999 New Delhi print of the gDams Ngag Rin Poche’i Mdzod (18 volumes) was issued as an enlarged reprint of the 1979 edition prepared by Dilgo Khyentse Rinpoche. That 1979 edition itself was typeset from the dpal spungs (Derge) woodblock prints, which were the canonical Tibetan‐xylograph source for these texts.
 
 **How the Editions Relate**
@@ -375,7 +375,7 @@ The ‘Charyagiti’ (xxx) or ‘Charyapada’ (xxx), is a compendium of lyrical
 
 * Mustanoja, Tauno F.;  Wis, Marjatta & Välikangas, Olli (eds.) (1985). 'Neuphilologische Mitteilungen: Bulletin de la Société Néophilologique \[French & German; English: Communications in Modern Philology: Bulletin of the Modern Language Society]', Vol 86 \[Roman Num.: LXXXVI], Issue 2, 1985. Helsinki, Finland: Société Néophilologique \[French; English: Modern Language Society].
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # N #
@@ -384,14 +384,14 @@ The ‘Charyagiti’ (xxx) or ‘Charyapada’ (xxx), is a compendium of lyrical
 
 Nikolsky, Aleksey (2020). 'The Pastoral Origin of Semiotically Functional Tonal Organization of Music' (pp. 1 - 45) in Sulikowski, Danielle (ed.); *et al.* (2020). *Frontiers: In Psychology; Evolutionary Psychology - Hypothesis & Theory*, Vol. 11, Article 1359, July, 2020. Lausanne, Switzerland: Frontiers Media SA. DOI: 10.3389/fpsyg.2020.01358.
 
-**Purport:**
+**Purport:**<br>
 This accomplished work is one of the foundations for the upthrust of my Introduction.
 
 ### NOPPE, A. ###
 
 * Noppe, Alex (2006). 'Jazz Improvisation 1: Handbook - C Instruments. Kingston, Pennsylvania, U.S.A.: Performing Arts Institute. 
 
-**Purport:**
+**Purport:**<br>
 Noppe is BRILLIANT!
 
 # O #
@@ -400,14 +400,14 @@ Noppe is BRILLIANT!
 
 * Ohrvik, Ane & Guðmundsdóttir, Aðalheiður (auths.) (2015). 'Magic and Texts: An Introduction' (pp. 7 - 14) in Amundsen, Arne Bugge (ed.), *et al.* (2015). *ARV: Nordic Yearbook of Folklore - Special Issue: Magic and Texts*, Vol. 70. Uppsala, Sweden: The Royal Gustavus Adolphus Academy. ISSN 0066-8176. Source: xxx (accessed: Wednesday, June 25, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### OSER, Z.; *et al* ###
 
 * Öser, Khenpo Zhenphen \[Tibetan: མཁན་པོ་ཞེན་འཕེན་འོད་ཟེར། ; EWTS: mkhan po zhen 'phen 'od zer] (auth. & comm.) & Valby, Jim (trans.) (2016, 2008). 'Ornament of the State of Samantabhadra: Commentary on the *All-Creating King, Pure Perfect Presence, Great Perfection of All Phenomena* - Volume One \[Tibetan: ཆོས་ཐམས་ཅད་རྫོགས་པ་ཆེན་པོ་བྱང་ཆུབ་ཀྱི་སེམས་ཀུན་བྱེད་རྒྱལ་པོའི་འགྲེལ་པ་ཀུན་བཟང་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ། ; EWTS: chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po'i 'grel pa kun bzang dgongs rgyan zhes bya ba bzhugs so]'. Second edition. Shelburne Falls, Massachusetts, U.S.A.: Jim Valby Publications. ISBN 9780982285404. Source: https://dn790002.ca.archive.org/0/items/JimValbyKunjedGyalpoSeriesVol1/Jim%20Valby%20-%20Kunjed%20Gyalpo%20Series%20%28Vol%201%29.pdf (accessed: Tuesday, July 01, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # P #
@@ -416,21 +416,21 @@ Noppe is BRILLIANT!
 
 * Pearson, Bruce (auth.); Anderson, Gerald (ed.) & Forque, Charles (ed.) (1982). 'Best in Class: Comprehensive Band Method - Book 1: Percussion (Drums & Mallets)'. San Diego, California, U.S.A.: Kjos West (Neil A. Kjos Jr., Publisher). ISBN 0849758491
 
-**Purport:**
+**Purport:**<br>
 This has much useful information which I may use to inform the practical scoring and engraving of drills and etudes.
 
 ### PEINKOFER, K., *et al.* ###
 
 * Peinkofer, Karl (auth.); Tannigel, Fritz (auth.); Stone, Kurt (trans.) & Stone, Else (trans.) (1976, 1969). 'Handbook of Percussion Instruments: Their Characteristics and Playing Techniques, with Illustrations and Musical Examples from the Literature'. (NB: Original renderered in the German and published 1969.). Schott (Belwin-Mills Publishing Group).
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### PREMA, *et al* ***
 
 * Prema-dasa & Sundara-gopala-dasa (trans.); & Madhava-priya-dasa & Sanatana-dasa (eds.) & *et al.* (2016). 'Vishuddha Chaitanyavani: An Anthology of Hari-Katha - Vol. 1'. First edition. (NB: With an Introduction by Bhakti-Vijnana-Bharati.). Delhi, Delhi, India: Vishuddha Chaitanya Vani Association (Sanatana-das). Source: xxx (accessed: Wednesday, June 25, 2025)
 
-**Purport:**
+**Purport:**<br>
 A most valuable work for our purposes. It contains a useful terminological dichotomy or differentiation between Sahajiyas of quality and those that run contrariwise. 
 
 # Q #
@@ -447,64 +447,65 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 
 * Ramanujacharya-dasa (auth. & arr.) (1995). 'A Vaishnava Harmonium and Singing Method: Based on the Traditional North Indian System of Music - Part One'. Chatsworth, South Africa: ISKCON (Sri Sri Radha-Radhanatha Mandir, Durban, South Africa). Source: https://archive.org/details/avaishnavaharmoniumsingingmethod (accessed: Tuesday, July 01, 2025)
 
-**Purport:** I have secured a few works by ISKCON for Harmonium. They all have virtues. This one has been well executed.
+**Purport:**<br>
+I have secured a few works by ISKCON for Harmonium. They all have virtues. This one has been well executed.
 
 ### RASANANDA-DASA ###
 
 * Rasananda-dasa \[Zuckerman, Hyman] (c2023). 'Proper Kirtana: According to the Vani of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada, His Disciples and Previous Acharyas'. Independently published. 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### RICH, E. ###
 
 * Rich, Ellora Nimbkar (2023). 'Seið \[Seidhr] the Magic Words: Two Case Studies in Old Norse Etymology'. MA thesis in Viking & Medieval Norse Studies. Faculty of Icelandic & Comparative Cultural Studies, School of Humanities. Reykjavík, Iceland: University of Iceland.
 
-**Purport:**
+**Purport:**<br>
 With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ellora Caves) generally, they are likely of Vaishnava stock.
 
 ### ROPER, J. ###
 
 * Roper, Jonathan (2003). 'English Orature, English Literature: The Case of Charms' (pp. 50 - 61) in Kõiva, Mare & Kuperjanov, Andres (eds.) (2003). *Folklore: An Electronical Journal of Folklore*, Vol. 24, October, 2003. Tartu, Estonia: FB and Media Group of LM (Folk Belief and Media Group of Estonian Literary Museum). Source: https://www.folklore.ee/folklore/vol24/engcharm.pdf (accessed: Friday, July 04, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 * Roper, Jonathan (2003). 'Towards a Poetics, Rhetorics and Proxemics of Verbal Charms' (pp. 7 - 49) in Kõiva, Mare & Kuperjanov, Andres (eds.) (2003). *Folklore: An Electronical Journal of Folklore*, Vol. 24, October, 2003. Tartu, Estonia: FB and Media Group of LM (Folk Belief and Media Group of Estonian Literary Museum). Source: https://www.folklore.ee/folklore/vol24/verbcharm.pdf (accessed: Friday, July 04, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 * Roper, Jonathan (2011). "Metre in the Old English 'Metrical' Charms'" (pp. 116 - 121) in Mikhailova, Tatyana A.; Roper, Jonathan; Toporkov, Andrey L. & Nikolayev, Dmitry S. (eds.) (2011). *Charms, Charmers and Charming: Oral Charms in Structural and Comparative Light*. Proceedings of the Conference of the International Society for Folk Narrative Research’s (ISFNR) Committee on Charms, Charmers and Charming 27–29th October, 2011, Moscow, Russia. Moscow, Russia: The Russian Foundation for Basic Research. ISBN 9785986042763. Source: https://www.isfnr.org/files/Moscow_meeting_book.pdf (accessed: Sunday, June 29, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### ROSCOE, B. ###
 
 * Roscoe, Brett Trevor (2014). 'Sagacious Liminality: The Boundaries of Wisdom in Old English and Old Norse-Icelandic Literature'. Dissertation. PhD (Philosophy). Graduate Program in English Language and Literature. Kingston, Ontario, Canada: Queen’s University.  
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### ROSENBERG, S. ###
 
 * Rosenberg, Susanne (2014). 'Kulning – An Ornamentation of the Surrounding Emptiness: About the Unique Scandinavian Herding Calls' (pp. 100 - 105) in Morrison, Jeff (ed.) (2014). *Voice and Speech Review*, Vol. 8, Issue 1. London, England, U.K.: Taylor & Francis Group. Source: https://doi.org/10.1080/23268263.2013.829712 (accessed: Wednesday, July 02, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### ROVANG, P. ###
 
 * Rovang, Paul R. (2023). 'The Archetype of the Dying and Rising God in World Mythology'. London, England, U.K.: Lexington Books (an imprint of The Rowan & Littlefield Publishing Group, Inc.). ISBN 9781666917093 (ebook). 
 
-**Purport:** 
+**Purport:**<br>
 ...
 
 ### RUCKERT, G. ###
 * Ruckert, George E. (2004). 'Music in North India: Experiencing Music, Expressing Culture'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 0195139933 (pbk.) 
 
-**Purport:** 
+**Purport:**<br>
 ...
 
 # S #
@@ -513,69 +514,70 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 
 * Sanyal, Ritwik & Widdess, Richard (2004). 'Dhrupad: Tradition and Performance in Indian Music'. SOAS Musicology Series. New York, N.Y., U.S.A.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781003347453 (ebk).
 
-**Purport:** 
+**Purport:**<br>
 ...
 
 ### SINGH, M. ###
 
 * Singh, Dr. Meikam Thoiba (2023). 'Hindustani Classical Music and Its Principles' in *ShodhKosh: Journal of Visual and Performing Arts*, Vol. 4, No. 2, Jul - Dec, 2023, pp. 247 - 258. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Singh%2C%20Dr.%20Meikam%20Thoiba%20(2023).%20'Hindustani%20Classical%20Music%20and%20Its%20Principles'.pdf (accessed: Saturday, June 14, 2025)
 
-**Purport:** 
+**Purport:**<br>
 This researcher and author has a profound overview of the Indian artistic and aesthetic tradition(s), historical and contemporary.
 
 ### SIVANANDA ###
 
 * Sivananda, Sri Swami (1967, 1958). 'Sadhana: A Text-Book of the Psychology and Practice of the Techniques to Spiritual Perfection'. Second edition. (NB: First edition published in 1958.). Sivanandanagar, Tehri-Garhwal, Uttar Pradesh, Himalayas, India: Divine Life Society (Swami Krishnananda).
 
-**Purport:** 
+**Purport:**<br>
 ...
 
 ### SNYDER, E. ###
 
 * Snyder, Edward D. (1930). 'Hypnotic Poetry: A Study of Trance-Inducing Technique in Certain Poems and its Literary Significance'. With a Foreword by James H. Leuba. Philadelphia, Pennsylvania, U.S.A.: University of Pennsylvania Press. 
 
-**Purport:** 
+**Purport:**<br>
 ...
 
 ### STONE, R. ###
 
 * Stone, Ruth M. (ed.) (2009, 2008, 2000). 'The Garland Handbook of African Music'. Second edition. \[NB: 'The Garland Handbook of African Music', second edition, is an abridged paperback edition of 'Africa, Vol. 1' of 'The Garland Encyclopedia of World Music' (Garland Publishing, 2000), with the addition of a new article, 'Exploring African Music', as well as articles by: Alex Perullo, Gregory Barz, Judah Cohen, Daniel B. Reed, Jeffrey A. Summit, Jane Goodman and Clara Henderson. The Reed article is adapted from previous publication by Indiana University Press, used by permission. Unless otherwise noted, all interior illustrations were provided by the authors of articles and sections in this Handbook. (Taylor & Francis e-Library, 2009 & Routledge, 2008) ]. Taylor & Francis e-Library & Routledge (an imprint of the Taylor & Francis Group). ISBN 9780203927878 (ebk). 
 
-**Purport:** 
+**Purport:**<br>
 ...
 
 ### STORMS, G. ###
 
 * Storms, Godfrid (1948). 'Anglo-Saxon Magic'. Dissertation for the degree of Doctor of Letters and Philosophy. Faculty of Theology. Radboud University of Nijmegen, Netherlands. The Hague, Netherlands: Martinus Nijhoff.
 
-**Purport:** 
+**Purport:**<br>
 ...
 
 ## STRAUS, J. ###
 
 * Straus, Joseph N., *et al.* (2012, 2008, 2003). 'Elements of Music'. Third edition. Massachusetts, Boston, U.S.A.: Pearson. ISBN 9780205007097. 
 
-**Purport**
+**Purport:**<br>
 This work is very well executed for a reference work.
 
 ### STRICKMANN, M. ###
 
 * Strickmann, Michel (auth.) & Faure, Bernard (ed.) (2002). 'Chinese Magical Medicine'. Asian Religions & Cultures: Edited by Carl Bielefeldt & Bernard Faure. Stanford, California, U.S.A.: Stanford University Press. ISBN 0804739404 (pbk.: alk. paper).
 
-**Purport** This is a watershed and landmark study in the literature and is invaluable for our purposes.
+**Purport:**<br>
+This is a watershed and landmark study in the literature and is invaluable for our purposes.
 
 ### STUTLEY, M. ###
 
 Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography'. Routledge Library Editions: Hinduism - Vol. 6. (NB: First published in 1985 by Routledge & Kegan Paul PLC, London, England, U.K.). Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429053849 (Vol. 6) (ebk).
 
-**Purport**
+**Purport:**<br>
 ...
 
 # T #
 
 * Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in 'Prabuddha Bharata or Awakened India: Perspectives on Vedanta', Vol. 115, No. 1, January, 2010. Kolkata, India: Advaita Ashrama. Source:  https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha%Bharata/Year%2010/01PB-Jan2010.pdf(accessed: Tuesday, June 24, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 
@@ -589,7 +591,7 @@ Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography
 
 * Unknown (n.d.). 'Bhutashuddhyadi (Sanskrit: भूतशुद्ध्यादि; IAST: Bhūtaśuddhyādi; alt. title: Sanskrit: भूतशुद्धिविधिः; Bhūtaśuddhividhi)', T. no. 656. Pondichéry \[Pondicherry], India: Institut Français d’Indologie \[French; English: French Institute of Pondicherry]. Source: https://www.ifpindia.org/transcripts/pdf/T0656.pdf (accessed: Friday, July 04, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 
@@ -597,19 +599,19 @@ Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography
 
 * Urban, Hugh B. (1998). 'The Torment of Secrecy: Ethical and Epistemological Problems in the Study of Esoteric Traditions' (pp. 209-248) in the *History of Religions*, Vol. 37, No. 3, Feb., 1998. Chicago, Illinois, U.S.A.: The University of Chicago Press.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 * Urban, Hugh B. (2023). 'Tantra in South Asia' (pp. 1-21) in the *Oxford Research Encyclopedia of Asian History \[Online]*, April 19, 2023. Source: https://doi.org/10.1093/acrefore/9780190277727.013.726 (accessed: Wednesday, July 09, 2025). Source: https://www.academia.edu/100590752/Tantra_in_South_Asia (accessed: Wednesday, July 09, 2025)
 
-**Purport:**
+**Purport:**<br>
 This is quite useful as it is relatively recent and amongst other things, ventures a brief survey of the way English scholarship has endeavoured to progressively define 'tantra' and what it signifies and points to.
 
 ### URGYEN, T.; *et al.* ###
 
 * Urgyen, Tulku (auth.); Kunsang, Erik Pema \[a.k.a. Schmidt, Erik Hein] (trans.); Schmidt, Marcia Binder (comp.) & Tweed, Michael (ed.) (2001). 'Vajra Speech: Pith Instructions for the Dzogchen Yogi'. With a Preface by Erik and Marcia. (NB: Translated from an undated and unspecified Tibetan text or compendium of text excerpts from multiple sources and/or oral transcriptions.). First edition. Greenview Garden, Hong Kong: Rangjung Yeshe Publications. ISBN 9627341444 (pbk) 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # V #
@@ -619,21 +621,21 @@ This is quite useful as it is relatively recent and amongst other things, ventur
 * Varney, John (auth.); Labović; Biljana (direc.); Skyler, Peyton (anim.), Gendler, Alex (ed.) & Anderson, Addison (narr.) (c2014). 'A Different Way to Visualize Rhythm'. A TED Ed. Animation. Source: 
 https://youtu.be/2UphAzryVpY?si=kLxD9wYTa-zgNrFH (accessed: Sunday, July 06, 2025); Source: https://ed.ted.com/lessons/a-different-way-to-visualize-rhythm-john-varney (accessed: Sunday, July 06, 2025)
 
-**Purport:**
+**Purport:**<br>
 This circular, cyclical and periodic rhythmic visualization paradigm is most useful as it unshackles rhythm from the tyrrany of the linearity of Western musical conceptions and scoring notation systems of rhythm and timing structures. This paradigm has distinct advantages in perceiving, with immediacy, the similarities in diverse musical traditions and styles and may provide a point-of-entry or conceptual teaching tool for rhythm that is more intuitive and more easily graspable for some tham more traditional modes of pedagogy and schema.
 
 ### VEERARAGAVAN, A. ###
 
 * Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவன்; IAST: Muṇaivar Ā. Vīrārākavaṉ] (ed.) (2015). Sri Vihagendra-Samhita: Sudarshana Mantra-Shastra \[Tamil: விஹகேந்திர சம்ஹிதா : சுதர்ஷண மந்திர ஷாஸ்திரம்; IAST: vihagendra-saṃhīta : sudarśana-mantra-śāstra]. Agama Pancharātriya. Thanjavur Sarasvati Mahal Publication No. 476. Saraswati Mahal Library and Research Centre of Maharaja Saraboji of Thanjavur, Thanjavur. (NB: Sanskrit rendered in Tamil script.). Ahmedabad, Gujarat, India: Saraswati Pustak Bhandar (Justice Siromani, Dr. A. Veeraragavan, M.A., B.L.I.S., Ph.D., Sanskrit Pandita). Source: https://archive.org/details/vihagendra-samhita-series-no.-476-thanjavur-sarasvati-mahal-series (accessed: Wednesday, July 02, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### VISWANATHAN, T.; *et al* ###
 
 * Viswanathan, T. & Allen, Matthew Harp (2004). 'Music in South India: Experiencing Music, Expressing Culture - The Karṇāṭak \[Alt.: Carnatic, Karnatic] Concert Tradition and Beyond'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 0195145917 (pbk.)
 
-**Purport:**
+**Purport:**<br>
 This work and this series are notable for a number of reasons. It should constitute a structural and standard reference. [Tanjore 'Viswa' Viswanathan](https://en.wikipedia.org/wiki/T._Viswanathan) (1927 – 2002) was a [Carnatic](https://en.wikipedia.org/wiki/Carnatic_music) flautist and musician who specialized in the '[venu](https://en.wikipedia.org/wiki/Venu)' or 'murali' (Sanskrit: वेणु, IAST: vēṇu; मुरळि; IAST: muraḷi), an instrument attested in the [Rig Veda](https://en.wikipedia.org/wiki/Rigveda). Viswa comes from a family and lineage of Indian performative adepts or cultural royalty.
 
 # W #
@@ -642,49 +644,49 @@ This work and this series are notable for a number of reasons. It should constit
 
 * Wade, Bonnie C. (2004). 'Thinking Musically: Experiencing Music, Expressing Culture'. Global Music Series. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195136647.
 
-**Purport:**
+**Purport:**<br>
 This professor and scholar constitutes a Touchstone for our purposes.
 
 ### WAGNER, J. ###
 
 * Wagner, Joseph (auth.) & Moore, Douglas (ed.) (1959). 'Orchestration: A Practical Handbook'. New York, N.Y., U.S.A.: McGraw-Hill Series in Music. McGraw-Hill Book Company, Inc.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### WARD, J. ###
 
 * Ward, J. O. (1980). 'Witchcraft and Sorcery in the Later Roman Empire and the Early Middle Ages' (pp. 93 - 108) in *Prudentia*, Vol. 12, 1980. 
 
-**Purport:**
+**Purport:**<br>
 I have not yet been able to secure this. My weirdly attuned magical sense constituted by academic, practitioner, practical and experiential rigour and acumen signals that this work, from a defunct New Zealand journal, is worth the chase. By memory, I feel it may be Issue 2. But, that needs to be determined.
 
 ### WESTON, L. ###
 
 * Weston, L.M.C. (1985). 'The Language of Magic in Two Old English Metrical Charms' (pp. 176 - 186) in Mustanoja, Tauno F.;  Wis, Marjatta & Välikangas, Olli (eds.) (1985). *Neuphilologische Mitteilungen: Bulletin de la Société Néophilologique \[French & German; English: Communications in Modern Philology: Bulletin of the Modern Language Society]*, Vol 86 \[Roman Num.: LXXXVI], Issue 2, 1985. Helsinki, Finland: Société Néophilologique \[French; English: Modern Language Society].
 
-**Purport:**
+**Purport:**<br>
 An excellent work of scholarship that signals revisionism and apologetics in the discouse of Mediaeval Magical Traditions and their cultural intersections.
 
 ### WHALEY, G. ###
 
 * Whaley, Garwood (1974). 'Fundamental Studies for Mallet'. New York, N.Y., U.S.A.: JR Publications, LLC (Joel Rothman).
 
-**Purport:**
+**Purport:**<br>
 I have a really good feeling and intuition about this volume, its author, arranger and publisher.
 
 ### WHITTALL, A. ###
 
 * Whittall, Arnold (1999). 'Musical Composition in the Twentieth Century'. First edition. Oxford, Oxon, England, U.K.: Oxford University Press. ISBN 0198166842 (hbk.)
 
-**Purport:**
+**Purport:**<br>
 An excellent reference work on some generally Modern composers, Modern in the technical denotation and may be understood as the Western Musical Tradition of the Modern Era as heir to the Western Classical Musical Tradition proper.
 
 ### WILKE, A.; *et al.* ###
 
 * Wilke, Annette & Moebus, Oliver (2011). 'Sound and Communication: An Aesthetic Cultural History of Sanskrit Hinduism'. Religion and Society: Vol. 41 edited by: Benavides, Gustavo; von Stuckrad, Kocku; & Sullivan, Winnifred Fallers. Berlin, Germany: De Gruyter (Walter de Gruyter GmbH & Co. KG, Berlin). ISBN 9783110181593. 
 
-**Purport:**
+**Purport:**<br>
 This volume is wealth.
 
 # X #
@@ -706,7 +708,7 @@ This volume is wealth.
 
 * Zimmermann, Sebastien (2023). 'Runic Cryptography in Early Epigraphic Period (200-700)' (pp. 190-198) in Dahlke, Carola & Göggerle, Matthias (eds.) (2023). *HistoCrypt 2023: Proceedings of the 6th International Conference on Historical Cryptology HistoCrypt 2023*. Conference: June, 20-22, 2023,  Munich. NEALT Proceedings Series No. 50. Linköping Electronic Conference Proceedings No. 195. University of Tartu, Tartu, Estonia: Northern European Association for Language Technology (NEALT) in conjunction with DSpace at Tartu University Library (University of Tartu, Estonia). DOI: https://doi.org/10.3384/ecp195 ISBN 9789180751346 (PDF). Source: https://ecp.ep.liu.se/index.php/histocrypt (accessed: Sunday, July 06, 2025)  
 
-**Purport:**
+**Purport:**<br>
 It was this work that instigated the project of setting my extensive (approaching) first draft work of the 'Hummingbird Havamal' in a GitHub repository. Zimmerman is a class act. **TODO:** Add Zimmerman to HH Acknowledgements.
 
 # To Be Filed #
