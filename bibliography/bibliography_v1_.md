@@ -272,6 +272,13 @@ Most useful.
 **Purport:**<br>
 ...
 
+### KLUTZ, T.; *et al.* ###
+
+* Klutz, Todd (ed.) & Porter, Stanley E. (exec. ed.), *et al*. (2003). 'Magic in the Biblical World: From the Rod of Aaron to the Ring of Solomon'. Journal for the Study of the New, Testament Supplement Series No. 245. London, England, U.K.: T&T Clark International (a Continuum imprint). ISBN 0826466842 (hbk).
+
+**Purport:**<br>
+...
+
 ### KRAUS, N. ###
 
 * Kraus, Nicholas (2023). 'The Glorious Glockenspiel: A Guide to Greatness in Playing and Performing'. Nicholas Khatchadourian, Publisher. eBook. ASIN B0C3W3TF8K. NB: I have this text on the 'Play Books' Android application.
