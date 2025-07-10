@@ -438,6 +438,13 @@ Noppe is BRILLIANT!
 **Purport:**<br>
 ...
 
+### ONDRAČKA, L. ###
+
+* Ondračka, Lubomir (2024). 'Chapter 10: Transforming the Body by Mastering the Elements, Some Tantric Sources' (pp. 225-248) in Payne, Richard K. & Hayes, Glen A. (eds.) (2024). *Oxford Handbook of Tantric Studies*. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780197549902 (epub). DOI: https://doi.org/10.1093/oxfordhb/9780197549889.013.9. Source: https://www.academia.edu/128554767/Transforming_the_Body_by_Mastering_the_Elements_Some_Tantric_Sources (accessed: Thursday, July 10, 2025)
+
+**Purport:**<br>
+...
+
 ### OSER, Z.; *et al* ###
 
 * Öser, Khenpo Zhenphen \[Tibetan: མཁན་པོ་ཞེན་འཕེན་འོད་ཟེར། ; EWTS: mkhan po zhen 'phen 'od zer] (auth. & comm.) & Valby, Jim (trans.) (2016, 2008). 'Ornament of the State of Samantabhadra: Commentary on the *All-Creating King, Pure Perfect Presence, Great Perfection of All Phenomena* - Volume One \[Tibetan: ཆོས་ཐམས་ཅད་རྫོགས་པ་ཆེན་པོ་བྱང་ཆུབ་ཀྱི་སེམས་ཀུན་བྱེད་རྒྱལ་པོའི་འགྲེལ་པ་ཀུན་བཟང་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ། ; EWTS: chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po'i 'grel pa kun bzang dgongs rgyan zhes bya ba bzhugs so]'. Second edition. Shelburne Falls, Massachusetts, U.S.A.: Jim Valby Publications. ISBN 9780982285404. Source: https://dn790002.ca.archive.org/0/items/JimValbyKunjedGyalpoSeriesVol1/Jim%20Valby%20-%20Kunjed%20Gyalpo%20Series%20%28Vol%201%29.pdf (accessed: Tuesday, July 01, 2025)
