@@ -636,6 +636,13 @@ Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography
 **Purport:**<br>
 ...
 
+### ULLREY, A. ###
+
+* Ullrey, Aaron Michael (2016). 'Grim Grimoires: Pragmatic Ritual in the Magic Tantras'. Ph.D. dissertation. Santa Barbara, California, U.S.A.: University of Califormia. Source:  
+https://escholarship.org/uc/item/4vt6f325 (accessed: Thursday, July 10, 2025)
+
+**Purport:**<br>
+Ullrey was under direct supervision of three (3) persons whose work I greatly admire. Therefore, this should be worthwhile. 
 
 ### URBAN, H. ###
 
