@@ -25,6 +25,99 @@ From a Comparative Linguistics standpoint, the Swedish arv offers a fascinating 
 
 Each of these dimensions shows that arv is not a one-dimensional word. Whether in the courtroom, the family tree, the folklore archive, or the code base of a software program, arv embodies the timeless passage of legacy from one generation to the next.
 
+### AUGMENTATION ###
+
+Please explain the term "augmented" in the Western Musical Tradition, its first attestation and historicity. Why was this term chosen? Who chose it? Explain its usage in chord structure, etc. Academic register and prestige dialect, yet explain from Beginner's Mind. Ensure all salient terms are rendered in original scripts and give them detailed treatment. This is for a lexical entry for my book.
+
+### Augmented (Western Musical Tradition): Lexical Entry
+
+**augmented**  
+*adjective*  
+IPA: /ɔːɡˈmɛntɪd/  
+From Latin *augmentare* (“to increase”), past participle *augmentatus*.
+
+#### 1. Etymology and First Attestation
+
+The term **augmented** (from Latin *augmentare*, “to increase”) entered English via Old French *augmenter*. In music, the general sense “increased” appears in English c. 1600. The specific technical usage—“greater by a semitone than a perfect or major interval”—is attested by 1825[1][8]. The related noun, *augmentation*, is found in musical contexts as early as the 1590s, especially in reference to rhythmic devices in fugues[8].
+
+No single individual is credited with coining the term; rather, it emerged through the gradual codification of music theory in the Renaissance and early modern periods, as theorists required precise terminology to describe new harmonic and contrapuntal practices[2][8].
+
+#### 2. Core Usage in Music Theory
+
+**A. Intervals**
+
+An **augmented interval** is one semitone (half step) larger than a corresponding *perfect* or *major* interval.  
+- *Example*: A perfect fifth (C–G) becomes an augmented fifth (C–G♯) by raising the upper note by a semitone.
+- *Notation*: The interval is labeled “aug.” or with a plus sign (e.g., “aug. 5th” or “+5”).
+
+**Script:**  
+- *Perfect fifth*: C–G  
+- *Augmented fifth*: C–G♯
+
+**B. Chords**
+
+An **augmented triad** (augmented chord) consists of two major thirds stacked, forming an augmented fifth between the root and the fifth.  
+- *Formula*: Root – Major Third – Augmented Fifth  
+- *Example*: C–E–G♯  
+- *Set theory notation*: {0, 4, 8}[3]
+
+**C. Rhythmic Augmentation**
+
+In counterpoint and composition, **augmentation** refers to the proportional lengthening of note values in a melody or motif, typically by doubling their duration.  
+- *Example*: A theme in quarter notes is later presented in half notes[2][5].
+
+#### 3. Historical Development and Rationale
+
+**Why “augmented”?**  
+The term was chosen to denote the “increased” size of an interval or the “expanded” duration of a melody, directly reflecting the Latin root *augmentare* (“to increase”)[1][8]. The opposite term, *diminished*, describes intervals or durations that are reduced in size.
+
+**Historic Usage:**  
+- In the Renaissance and Baroque, augmentation was a key compositional device in fugues and canons (e.g., J.S. Bach’s *The Art of Fugue*)[5].
+- The concept of the *augmented interval* became theoretically significant as harmony evolved in the 18th and 19th centuries, especially with the advent of equal temperament and chromaticism[7].
+- The *augmented triad* was historically regarded as dissonant and “monstrous” (see 19th-century theorists like Gottfried Weber and Carl Friedrich Weitzmann), but later gained recognition for its symmetrical properties and expressive potential[7].
+
+#### 4. Salient Terms (with Scripts and Explanations)
+
+| Term                  | Original Script | Definition & Usage                                                                                  |
+|-----------------------|-----------------|-----------------------------------------------------------------------------------------------------|
+| **Augmented**         | *augmentare*    | Increased in size or value; in music, refers to intervals/chords enlarged by a semitone or more     |
+| **Interval**          | *intervallum*   | The distance between two pitches; “augmented” intervals are one semitone larger than perfect/major  |
+| **Triad**             | *triadēs*       | A three-note chord; an “augmented triad” consists of two major thirds                              |
+| **Augmented Triad**   | —               | A chord: Root–Major Third–Augmented Fifth (e.g., C–E–G♯)                                           |
+| **Rhythmic Augmentation** | —           | The lengthening of note values in a melody, usually by a fixed proportion (e.g., doubling durations)|
+| **Diminished**        | *diminutio*     | The opposite of augmented; intervals/chords reduced by a semitone                                  |
+
+#### 5. Example in Context
+
+- **Interval**: The interval from C to G is a perfect fifth; raising G to G♯ makes it an *augmented fifth*.
+- **Chord**: The chord C–E–G♯ is an *augmented triad*.
+- **Rhythmic Augmentation**: A fugue subject in quarter notes is later presented in half notes, creating a sense of grandeur.
+
+#### 6. Academic Note
+
+The adoption of “augmented” reflects the systematic, Latinate vocabulary of Western music theory, which sought clarity and precision as musical language and practice grew more complex during and after the Renaissance. The term’s endurance in both theory and practice attests to its descriptive power and conceptual utility within the Western tradition[1][2][3][8].
+
+**References:**  
+[1] Etymology and first attestation  
+[2] Definition and compositional usage  
+[3] Chord structure  
+[5][6][7][8] Historical and theoretical context
+
+Citations:
+[1] Augmented - Etymology, Origin & Meaning https://www.etymonline.com/word/augmented
+[2] Augmentation (music) - Wikipedia https://en.wikipedia.org/wiki/Augmentation_(music)
+[3] Augmented triad - Wikipedia https://en.wikipedia.org/wiki/Augmented_triad
+[4] Augmentation in Music | Overview, Value & Examples - Lesson https://study.com/academy/lesson/augmentation-in-music-definition-value.html
+[5] Augmentation - Musical Dictionary | Music Terms Made Simple https://www.musicaldictionary.com/glossary/augmentation/
+[6] Augmented - Musical Dictionary | Music Terms Made Simple https://www.musicaldictionary.com/glossary/augmented/
+[7] Music Theory's Monstrous Chord - Ideas | Institute for Advanced Study https://www.ias.edu/ideas/2015/clark-music
+[8] Augmentation - Etymology, Origin & Meaning https://www.etymonline.com/word/augmentation
+[9] What is the history of the Augmented Second in World Music https://music.stackexchange.com/questions/48748/what-is-the-history-of-the-augmented-second-in-world-music
+[10] MTO 17.1: Atkinson, Canons, Augmentations, and Their Meaning https://mtosmt.org/issues/mto.11.17.1/mto.11.17.1.atkinson.html
+
+
+### END AUGMENTATION ###
+
 ### Augmentation Dot ###
 
 In the scoring tradition of Western musical notation, the augmentation dot is a small dot placed immediately to the right of a note's head. Its primary function is to extend the duration of the note. The dot increases the original note’s length by half its value. For example, a quarter note normally gets 1 beat. With an augmentation dot, it lasts 1 + ½ = 1.5 beats. A half note, normally 2 beats, becomes 2 + 1 = 3 beats when dotted. This simple arithmetic underpins many rhythmic patterns, allowing composers to adjust durations without resorting to ties over the beat. The augmentation dot is a streamlined method to create irregular groupings. Instead of tying a note to achieve a duration that isn’t naturally found in the basic note values, the augmentation dot does the job neatly in one symbol. This is particularly useful in music that uses syncopation or off-beat accents. Tie notation can clutter a score, especially in fast passages or complex rhythms. The augmentation dot offers notational clarity by eliminating the need for extended tie connections, keeping the music easier to read, especially for non-expert performers. The concept of modifying note values with additional symbols dates back to early musical notation traditions in the Middle Ages and Renaissance. Over time, the augmentation dot became standardized as a concise way to indicate lengthening. This symbol has survived through hundreds of years of musical evolution, which shows its practical importance. Composers from the Baroque era onward utilized the augmentation dot, not only for precision, but also for expressive phrasing. In longer, lyrical passages, the extended duration helps in drawing out phrases, emphasizing musical sentences and creating a breathing space in a melodic line. In a simple time 4/4 time signature, think about how a dotted half note (3 beats) fits in with other values. It creates an asymmetry that can bring emotional tension or resolution in a passage. For example, a dotted half note followed by a quarter note completes a measure nicely whilst introducing a slightly off-balance phrasing. In compund meters like 6/8 or 9/8, the dotted quarter note serves as the beat. This shows the augmentation dot's role in defining the fundamental pulse of compound time signatures, illustrating its dual role as both a notational tool and a metrical guide. Many dance forms rely on dotted rhythms. A dotted rhythm, where a long note is immediately followed by a short note (like a dotted eighth followed by a sixteenth) creates a distinctive "loping" feel. This rhythmic pattern is central to genres as diverse as Country, Blues, and even some forms of African or Latin-influenced music, highlighting the augmentation dot’s versatility. When multiple augmentation dots are used (a rare but recognized practice), the note is increased by half, then a quarter, then an eighth of its original value, and so on. For example, a double-dotted note: the first dot adds half the note’s duration, and the second dot adds a quarter of the original duration. This can be written mathematically as: Duration = Original + ½(Original) + ¼(Original) = 1.75 × Original. However, such usage is more common in advanced or early music contexts. In performance, understanding dotted values is crucial for phrasing. Performers may instinctively "lean" into a dotted rhythm, stressing the lengthened note and creating a dynamic ebb and flow that words or tie-lengths alone might not convey. This nuance is an essential part of interpretative playing, affecting how legato and staccato passages are rendered. In modern compositional practice, especially when experimenting with micro-rhythms or polyrhythms, composers might sometimes choose to forego the augmentation dot in favor of tied notes for precise control over timing. Even then, the augmentation dot remains a symbol of rhythmic balance - a shorthand that communicates the composer's intent instantly.
