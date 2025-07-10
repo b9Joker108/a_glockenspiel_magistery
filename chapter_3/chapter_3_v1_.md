@@ -386,9 +386,8 @@ Citations:
 [1] Screenshot_20250701192051.jpg https://pplx-res.cloudinary.com/image/upload/v1751361727/user_uploads/4428017/a8298232-f05d-4e4f-b109-814d5f845e8d/Screenshot_20250701192051.jpg
 
 
-[![Visit Rhythmist Navi Singh](https://your-thumbnail-url.com)](https://youtube.com/@rythmistnavisingh?si=nAhiX4CP6lebZkJs)
+An excellent YouTube channel of tabla 
 
-
-
+https://youtube.com/@rythmistnavisingh?si=WlFlBuaRbUrtjLeD
 
 ...
