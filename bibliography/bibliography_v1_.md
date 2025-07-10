@@ -179,6 +179,13 @@ Dhandapani, Dr. M. N. & Pattammal, D. (2007, 2002, 1991, 1984). 'Ragapravaham: I
 **Purport:**<br>
 Worthwhile.
 
+### FLOOD, G. ###
+
+* Flood, Gavin (2002). 'The Purification of the Body in Tantric Ritual Representation' (pp. 25-43) in the *Indo-Iranian Journal*, Vol. 45, No. 1, March, 2002. Dordrecht, Netherlands: Kluwer Academic Publishers (a division of Wolters Kluwer).
+
+**Purport:**<br>
+...
+
 # G #
 
 ### GASSER, E. ###
