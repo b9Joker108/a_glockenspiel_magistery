@@ -144,6 +144,13 @@ Dhandapani, Dr. M. N. & Pattammal, D. (2007, 2002, 1991, 1984). 'Ragapravaham: I
 **Purport:**<br>
 ...
 
+### DUNN, B. ###
+
+* Dunn, Brian Philip (2016). 'A.J. Appasamy and his Reading of Ramanuja: A Comparative Study in Divine Embodiment'. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780198791416. 
+
+**Purport:**<br>
+...
+
 # E #
 
 
