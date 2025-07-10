@@ -100,6 +100,13 @@ This is a valuable work for our purposes and it has been well produced.
 **Purport:**<br>
 This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Acknowledgments.
 
+### CHAPPELLE, P. ###
+
+* Chappelle, Pamela Ann (2021). 'Sacred Sound: The Thread of Sound, Language and Reality in Hinduism'. Graduate Program in Liberal Studies. Graduate School-Camden. Camden, New Jersey, U.S.A.: Rutgers, The State University of New Jersey. Source: https://mals.camden.rutgers.edu/files/Chappelle-Capstone.pdf (accessed: Thursday, July 10, 2025)
+
+**Purport:**<br>
+...
+
 ### CLAYTON, M. ###
 
 * Clayton, Martin (2000). 'Time in Indian Music: Rhythm, Metre, and Form in North Indian Rag Performance'. Oxford Monographs on Music. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 0198166869.
