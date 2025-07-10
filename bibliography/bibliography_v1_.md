@@ -265,6 +265,13 @@ Most useful.
 
 # K #
 
+### KISS, C. ###
+
+* Kiss, Csaba (2014). 'On Yantras in Early Shaiva Tantras' (pp. 203-233) in *Cracow Indological Studies: Tantric Traditions in Theory and Practice*, Vol. XVI (16), December, 2014. DOI: https://doi.org/10.12797/CIS.16.2014.16.09. Source: https://journals.akademicka.pl/cis/article/view/1535 (accessed: Thursday, July 10, 2025) 
+
+**Purport:**<br>
+...
+
 ### KÕIVA, M.; *et al.* ###
 
 * Kõiva, Mare & Kuperjanov, Andres (eds.) (2003). 'Folklore: An Electronical Journal of Folklore', Vol. 24, October, 2003. Tartu, Estonia: FB and Media Group of LM (Folk Belief and Media Group of Estonian Literary Museum). Source: https://www.folklore.ee/folklore/vol24/ (accessed: Friday, July 04, 2025)
