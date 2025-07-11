@@ -72,6 +72,13 @@ This is a valuable work for our purposes and it has been well produced.
 **Purport:**<br>
 ...
 
+### BLOCH, T. ###
+
+* Bloch, Dr. E. Theodor (1896). 'Über das Gṛhya- und Dharmasūtra der Vaikhānasa [German; English: On the Grihya- and Dharmasutra of the Vaikhanasa'. Leipzig, Saxony, Germany: Otto Harrassowitz. (NB: A complete copy is freely available on the 'Google Play Books' Android application.).
+
+**Purport:**<br>
+I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical discourse of the Vaikhanasa Tradition into the German and the European languages and I proffer as most educated European people in this period, were also literate in French and English, as well as Latin and Ancient Greek, it may be considered to open the discourse into the English language and theological discourse as well.
+
 ### BRADBURY, R. ###
 
 * Bradbury, Ray (1976a). 'Drink Entire: Against the Madness of Crowds' in *Gallery [magazine]*, April, 1976 and subsequently collected in Bradbury, Ray (1976b). *Long After Midnight: 22 Hauntings and Celebrations*. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394479424. 
