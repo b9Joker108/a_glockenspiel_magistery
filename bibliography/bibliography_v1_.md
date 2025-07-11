@@ -172,8 +172,12 @@ Dhandapani, Dr. M. N. & Pattammal, D. (2007, 2002, 1991, 1984). 'Ragapravaham: I
 
 # E #
 
+### af EDHOLM, K. ###
 
+* af Edholm, Kristoffer (2014). 'Rajyashri: Royal Splendour in the Vedas and the Epics'. Masters Thesis in the History of Religions. Department of Ethnology, History of Religions and Gender Studies. Religionshistoriska avdelningen. Stockholm, Sweden: 'Stockholms Universitet \[Swedish; English: Stockholm University]'. Source: https://www.diva-portal.org/smash/get/diva2:798030/FULLTEXT01.pdf (accessed: Saturday, July 12, 2025)
 
+**Purport:**<br>
+A respendent piece of work.
 
 # F #
 
