@@ -121,6 +121,11 @@ This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Ack
 **Purport:**<br>
 ...
 
+* Colas, Gérard (2011). 'Vaikhanasa \[IAST: Vaikhānasa] (pp. 589-605) in Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2011). *Brill’s Encyclopedia of Hinduism: Vol. III \[3] - Society, Religious Specialists, Religious Traditions, Philosophy*. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178946. Source: https://www.academia.edu/33497289/Vaikhānasa (accessed: Friday, July 11, 2025)
+
+**Purport:**<br>
+...
+
 ### CZERNY, C. ###
 
 * Czerny, Carl (1833). ‘125 Passagenübungen, Op. 261: Études élémentaires pour le piano-forte, classées dans un ordre progressif et soigneusement doigtées; calculées pour obtenir la légèreté et l’indépendance des doigts et faciliter l’enseignement des jeunes élèves \[German & French; English: 125 Exercises in Passage-playing, Op. 261: Elementary Studies for the Pianoforte, Arranged in Progressive Order and Carefully Fingered; Designed to Achieve Lightness and Independence of the Fingers and Facilitate the Instruction of Young Pupils]’. Book One. Paris, France: A. Farrenc. Source: https://archive.org/details/imslp-exercises-in-passage-playing-op261-czerny-carl (accessed: Monday, June 30, 2025)
