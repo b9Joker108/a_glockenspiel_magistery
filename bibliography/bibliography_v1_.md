@@ -268,6 +268,13 @@ Most useful.
 
 # J #
 
+### JACOBSEN, K.; *et al* ###
+
+* Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2010). 'Brill’s Encyclopedia of Hinduism: Vol. II [2] - Sacred Texts, Ritual Traditions, Arts, Concepts'. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178939.
+
+**Purport:**
+...
+
 ### JØRGENSEN, T.; *et al* ###
 
 * Jørgensen, Torstein & Jaritz, Gerhard (eds.) (2011). 'Isolated Islands in Medieval Nature, Culture and Mind'. The Muhu \[Island] Proceedings No. 2. CEU \[Central European University] Medievalia Vol. 14. First edition. Budapest, Hungary: Central European University Press. ISBN 9786155053245. 
