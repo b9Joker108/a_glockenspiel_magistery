@@ -594,6 +594,13 @@ I have secured a few works by ISKCON for Harmonium. They all have virtues. This 
 **Purport:**<br>
 ...
 
+### RAWLINSON, A. ###
+
+* Rawlinson, Andrew (1987). 'Love and Meditation in the Bhakti Tradition' (pp. 53-58) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
+
+**Purport:**<br>
+...
+
 ### RICH, E. ###
 
 * Rich, Ellora Nimbkar (2023). 'Seið \[Seidhr] the Magic Words: Two Case Studies in Old Norse Etymology'. MA thesis in Viking & Medieval Norse Studies. Faculty of Icelandic & Comparative Cultural Studies, School of Humanities. Reykjavík, Iceland: University of Iceland.
