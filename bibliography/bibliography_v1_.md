@@ -505,6 +505,13 @@ Noppe is BRILLIANT!
 
 # O #
 
+### O'FLAHERTY, W. ###
+
+* O'Flaherty, Wendy Doniger (1987). 'The Interaction of Saguna and Nirguna Images of Deity' (pp. 47-52) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
+
+**Purport:**<br>
+...
+
 ### OHRVIK, A,; *et al.* ###
 
 * Ohrvik, Ane & Guðmundsdóttir, Aðalheiður (auths.) (2015). 'Magic and Texts: An Introduction' (pp. 7 - 14) in Amundsen, Arne Bugge (ed.), *et al.* (2015). *ARV: Nordic Yearbook of Folklore - Special Issue: Magic and Texts*, Vol. 70. Uppsala, Sweden: The Royal Gustavus Adolphus Academy. ISSN 0066-8176. Source: xxx (accessed: Wednesday, June 25, 2025)
