@@ -149,6 +149,13 @@ This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Ack
 
 # D #
 
+### DASGUPTA, S. ###
+
+* Dasgupta, Surendranath (1949). 'A History of Indian Philosophy: Vol. IV \[4] - Indian Pluralism'. First edition. London, England, U.K.: Cambridge at the University Press. Source: https://archive.org/details/in.ernet.dli.2015.135147 (accessed: Saturday, July 12, 2025)
+
+**Purport:**<br>
+...
+
 ### DHANDAPANI, M.; *et al.* ###
 
 Dhandapani, Dr. M. N. & Pattammal, D. (2007, 2002, 1991, 1984). 'Ragapravaham: Index to Carnatic Ragas (Revised & Enlarged)'. Fourth edition. (NB: First edition published in 1984 by Higginbothams.). Royapettah, Madras, India: The Karnatic Music Book Center.
