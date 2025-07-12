@@ -422,6 +422,13 @@ This work has a most useful and refined schematic, grapheme and/or infographic o
 **Purport:**<br>
 All the articles within this volume need to be entered in the Bibliography individually in due course.
 
+### MITCHELL, G. ###
+
+* Mitchell, Dr. George (1997). 'Blue Guide: Southern India'. First edition. London, England, U.K.: A&C Black (Publishers) Ltd. ISBN 0713641584. 
+
+**Purport:**<br>
+This work, ostensibly a tour-guide, is produced by a researcher-scholar who has done extensive fieldwork and is intricately knowledgeable in the built environment and architecture of India. This work, incidentally, though unfortunately not topographical, provides a decent survey of the lay of the land. Useful, for one doing parikrama on-foot. 
+
 ### MOORE, J. ###
 
 * Moore, Prof. Jeffrey M. (2001). 'Percussion Techniques for the Instrumental Music Educator'. Orlando, Florida, U.S.A.: University of Central Florida (College of Arts and Sciences Department of Music). 
