@@ -282,6 +282,13 @@ Worthwhile.
 **Purport:**<br>
 ...
 
+### HESS, L. ###
+
+* Hess, Linda (1980). 'Studies in Kabir: Texts, Traditions, Styles and Skills'. Ph.D. dissertation in Comparative Literature. Berkeley, California, U.S.A.: University of California.
+
+**Purport:**
+As yet, I have not been able to secure a copy.
+
 ### HINDEMITH, P. ###
 
 * Hindemith, Paul (1949, 1946). 'Elementary Training for Musicians'. Second Edition (Revised in 1949). London, England, U.K.: Schott & Co. Ltd. London. ISBN 0901938165.
