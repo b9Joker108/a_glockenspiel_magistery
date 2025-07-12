@@ -27,6 +27,17 @@ Make time to read this complete issue and graze other issues in future.
 
 # B #
 
+### BARTHWAL, P. ###
+* Barthwal, Pitambar Datt \[IAST: Barathvāla, Pitāmbaradatta] (1936). 'The Nirguna School of Hindi Poetry: An Exposition of Medieval Indian Santa Mysticism'. (NB: Being a thesis approved in the Benares Hindu University for the degree of Doctor of Letters.). Benares, India: Indian Book Shop.
+
+**Purport:**<br>
+As yet, I have not secured a copy of this work. Though, without cetainty, I am quite sure Bathwal (1978) is a reissue of Barthwal (1936) under a different title and publisher, considering Barthwal has been deceased for over thirty (30) years prior to the date of the 1978 publication. So, too, both Barthwal (1936) and Barthwal (1978), and subsequent impressions, are expressly stated to be publications of his thesis. I searched for the thesis, too, to no avail. Fortuitously, I have secured a Hindi translation: https://archive.org/details/in.ernet.dli.2015.483851 (accessed: Saturday, July 12, 2025)
+
+* Barthwal, Pitambar Datt \[IAST: Barathvāla, Pitāmbaradatta] (1978). 'Traditions of Indian Mysticism Based upon Nirguna School of Hindi Poetry'. With a Foreword by Syam Sunder Das. (NB: Originally presented as the author's thesis, Benaras Hindu University.). New Delhi, India: Heritage. ISBN 0836402170, ISBN 9780836402179.
+
+**Purport:**<br>
+As yet, I have not secured a copy of this work. Refer purport to Barthwal (1936).
+
 ### BASTIEN, J., *et al.* ###
 
 * Bastien, Jane Smisor; Bastien, Lisa & Bastien, Lori (1999). 'Bastien Piano For Adults - A Beginning Course: Lessons, Theory, Technic, Sight Reading - Book 1'. San Diego, California, U.S.A.: Kjos Music Press. KJOS: Neil A. KJOS Music Company, Distributor. ISBN 0849773024.  Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Bastien%2C%20J.%20S.%20(auth.)%2C%20et%20al.%20(1999).%20Bastien%20Piano%20For%20Adults%20-%20A%20Beginning%20Course%20-%20Lessons%2C%20Theory%2C%20Technic%2C%20Sight%20Rea...pdf (accessed: Saturday, June 14, 2025)
