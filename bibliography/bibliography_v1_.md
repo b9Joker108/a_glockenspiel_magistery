@@ -408,6 +408,13 @@ This work is strong and there is such silence around it.
 **Purport:**<br>
 ...
 
+### MALHOTRA, A. ###
+
+* Malhotra, Anshu (2012). 'Bhakti and the Gendered Self: A Courtesan and a Consort in Mid Nineteenth Century Punjab' (pp. 1506-1539) in *Modern Asian Studies*, Vol. 46, No. 6, 2012. Cambridge, Cambridgeshire, England, U.K.: Cambridge University Press.
+
+**Purport:**<br>
+...
+
 ### MARTINEAU, J. ###
 
 * Martineau, Jason (2008). 'The Elements of Music: Melody, Rhythm & Harmony'. First U.S. edition of 2008. New York, N.Y., U.S.A.: Bloomsbury U.S.A. (Bloomsbury is a trademark of Bloomsbury Publishing Plc.). ISBN 9780802716828.
