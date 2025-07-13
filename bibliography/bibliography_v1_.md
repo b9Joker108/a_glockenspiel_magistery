@@ -390,6 +390,13 @@ Source: https://www.amazon.com.au/Glorious-Glockenspiel-Greatness-Playing-Perfor
 
 In truth, the work is somewhat useful, but mediocre.
 
+### KRISHNA, D.; *et al.*
+
+* Krishna, Daya; Lath, Mukund & Krishna, Francine E. (eds.) (2000). 'Bhakti: A Contemporary Discussion - Philosophocal Explorations in the Bhakti Tradition'. Indian Council of Philosophical Research. Tughlabad Institutional Area, Vayusenabad, New Delhi, N.C.T., India: Indian Council of Philosophical Research. ISBN 8185636443. 
+
+**Purport:**<br>
+This is a watershed work. I must dedicate time to it.
+
 # L #
 
 ### LEWIS, B. ###
