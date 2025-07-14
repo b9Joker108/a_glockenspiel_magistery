@@ -681,6 +681,13 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 **Purport:**<br>
 ...
 
+### ROY, A. ###
+
+* Roy, Asim (1970). 'Islam in the Environment of Medieval Bengal: With Special Reference to the Bengali Sources'. Ph.D. thesis. Canberra, A.C.T., Australia: The Australian National University (ANU).
+
+**Purport:**<br>
+...
+
 ### RUCKERT, G. ###
 * Ruckert, George E. (2004). 'Music in North India: Experiencing Music, Expressing Culture'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 0195139933 (pbk.) 
 
