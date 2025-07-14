@@ -167,6 +167,13 @@ This work is exceptional. Roper (2003) led me to it. **TODO:** Add Roper to Ack
 **Purport:**<br>
 ...
 
+### DEHEJIA, V. 
+
+* Dehejia, Vidya  (1988). 'Slaves of the Lord: The Path of the Tamil Saints'. First edition. New Delhi, India: Munshirm Manoharlal. ISBN 978812500449.
+
+**Purport:**<br>
+I am contemplatishing purchasing a hardcopy of this volume, as I have not been able to secure a digital copy. Dehejia is an exceptional scholar. **TODO:** Purchase: ?
+
 ### DHANDAPANI, M.; *et al.* ###
 
 Dhandapani, Dr. M. N. & Pattammal, D. (2007, 2002, 1991, 1984). 'Ragapravaham: Index to Carnatic Ragas (Revised & Enlarged)'. Fourth edition. (NB: First edition published in 1984 by Higginbothams.). Royapettah, Madras, India: The Karnatic Music Book Center.
