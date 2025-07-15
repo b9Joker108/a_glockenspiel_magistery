@@ -342,6 +342,13 @@ Most useful.
 **Purport:**
 ...
 
+### JARROW, E. ###
+
+* Jarrow, E. H. Rick (auth.) & Doniger, Wendy (ed.) (2003). 'Tales for the Dying: The Death Narrative of the Bhagavata-Purana'. SUNY Series in Hindu Studies. Albany, N.Y., U.S.A.: State University of New York Press. ISBN 0791456099 (alk.).
+
+**Purport:**
+...
+
 ### JØRGENSEN, T.; *et al* ###
 
 * Jørgensen, Torstein & Jaritz, Gerhard (eds.) (2011). 'Isolated Islands in Medieval Nature, Culture and Mind'. The Muhu \[Island] Proceedings No. 2. CEU \[Central European University] Medievalia Vol. 14. First edition. Budapest, Hungary: Central European University Press. ISBN 9786155053245. 
