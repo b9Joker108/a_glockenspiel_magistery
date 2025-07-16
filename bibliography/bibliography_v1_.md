@@ -427,6 +427,13 @@ An exceptional treatment. There are only scholar-researcher-writers equal to Kv
 
 # L #
 
+### LARSSON, S.; *et al.* ###
+
+* Larsson, Stefan & af Edholm, Kristoffer (eds.) (2021). 'Songs on the Road: Wandering Religious Poets in India, Tibet, and Japan'. Stockholm University, Stockholm, Sweden: Stockholm University Press. ISBN 9789176351369 (PDF). DOI: https://doi.org/10.16993/bbi. Source: https://doi.org/10.16993/bbi (accessed: Wednesday, July 16, 2025)
+
+**Purport:**<br>
+…
+
 ### LEWIS, B. ###
 
 * Lewis, Brenda Ralph (2001). 'Ritual Sacrifice: A Concise History (An Illustrated History)'. Phoenix Mill, Thrupp, Stroud, Gloucestershirev England, U.K.: Sutton Publishing. ISBN 1750927070.
