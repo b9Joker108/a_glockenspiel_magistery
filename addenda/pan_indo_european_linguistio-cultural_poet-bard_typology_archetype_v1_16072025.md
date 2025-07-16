@@ -1,4 +1,4 @@
-Unsatisfactory. I stated SPATIOTEMPIORAL: ground all in time, place and contextualise. Chart spatio-temporal flow: Ancient to Mediaeval.
+Unsatisfactory. I stated SPATIOTEMPORAL: ground all in time, place and contextualise. Chart spatio-temporal flow: Ancient to Mediaeval.
 
 Thank you. A fully spatio-temporal, linguistically grounded analysis of the **Indo-European bardic figure**—specifically the *kuśīlava* and related poet-types—is now presented, firmly charting development **from the earliest attestations into the medieval period**, framed across **South Asia, Europe, and Central Asia**, incorporating **lexical roots, scripts, temporal anchoring, geographic circulation**, and **functional transformation**.
 
