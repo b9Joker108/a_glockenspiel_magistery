@@ -137,3 +137,49 @@ Citations:
 [8] National Library of Australia https://catalogue.nla.gov.au/catalog/146325
 [9] Tantrik Texts Vol. XIX. Prapancha Sara Tantra II - Arthur Avalon - Part1 https://www.scribd.com/document/258804102/Tantrik-Texts-Vol-XIX-Prapancha-Sara-Tantra-II-Arthur-Avalon-Part1
 [10] Full text of "Tantric Texts Series Edited by Arthur Avalon (John Woodroffe)" https://archive.org/stream/Tantric_Texts_Series_Edited_by_Arthur_Avalon_John_Woodroffe/Tantric%20Texts%20Series%2015%20Brahmasamhita%205th%20Chapter%20Vishnu%20Sahasranama%20Sankarabhashya%20-%20Arthur%20Avalon%201928_djvu.txt
+
+
+
+
+Apart from Avalon, it appears that the Brahma Samhita has reveived little non-sectarian and independant scholarly treatment whatsoever.
+
+## Academic Reception of the Brahma-Saṁhitā Beyond Sectarian Circles
+
+### Overview
+
+The **Brahma-Saṁhitā**—especially the fifth chapter, as preserved and transmitted in the Gauḍīya Vaiṣṇava tradition—holds a distinctive place in devotional Sanskrit literature. However, when assessed by the standards of modern critical scholarship, it has attracted **minimal sustained, independent, non-sectarian academic treatment**, with very few exceptions beyond the early 20th-century work of Arthur Avalon (Sir John Woodroffe).
+
+### Details of Independent Scholarly Engagement
+
+- **Arthur Avalon’s 1928 Edition** remains the only substantial critical edition produced by a mainstream academic outsider, providing the Sanskrit text, Jīva Gosvāmī’s commentary, and an academic introduction. This volume is widely cited in Indological studies on Vaiṣṇava tantra and remains a reference standard.
+- **Absence of Standalone Scholarly Monographs:** Subsequent decades have not produced peer-reviewed or university-press monographs wholly dedicated to the Brahma-Saṁhitā outside of devotional circles.
+- **Limited Presence in Academic Surveys:** The text appears almost exclusively:
+  - In overviews or surveys of Vaiṣṇava philosophical and liturgical literature.
+  - As a case study in broader discussions of Bengali Vaishnavism, medieval bhakti movements, or Caitanya studies.
+  - In annotated bibliographies and as a brief mention in works on Hindu hymnology, with little in-depth analysis devoted to the text itself.
+- **Primary Academic Focus Remains Sectarian:** The vast majority of printed editions, translations, and commentaries are published either by Gauḍīya organizations (e.g., ISKCON, Gaudiya Math) or their affiliates, with commentarial legacy passing through the Bhaktivinoda–Bhaktisiddhanta–BBT transmission streams[1][5][9].
+
+### Table: Overview of Scholarly and Sectarian Publications
+
+| Author/Editor         | Publication Type        | Affiliation            | Scholarly Apparatus | Non-sectarian? | Year  |
+|-----------------------|------------------------|------------------------|--------------------|---------------|-------|
+| Arthur Avalon         | Critical Edition       | Agamanusandhana Samiti | Yes                | Yes           | 1928  |
+| BBT (Bhaktivedanta Book Trust) | Translation & Purport  | ISKCON                 | Some              | No            | 1973– |
+| Bhaktivinoda Ṭhākura  | Translation & Commentary | Gauḍīya                 | No                 | No            | 1895  |
+| Bhaktisiddhānta Sarasvatī | Purport translation   | Gauḍīya Maṭha           | No                 | No            | 1932  |
+
+### Conclusion
+
+**Beyond Avalon’s critical edition, the Brahma-Saṁhitā has seen almost no independent, non-sectarian, or university-press-level academic scrutiny.** Its interpretation and translation have remained in the hands of devotional and sectarian scholars[1][5][9]. Modern academic discussions typically subsume the text within the context of broader studies in Bengal Vaishnavism, with no significant tradition of critical editions, translations, or monographic analysis outside the devotional spheres.
+
+Citations:
+[1] Course | Sri Brahma Samhita https://www.ibmedu.org/course-details/SriBrahmaSamhita-60375?title=Ancient-Wisdom
+[2] “Sri Brahma-Samhita” by His Divine Grace Srila ... https://yoga.krishna.com/en/pdf/e-books/Sri_Brahma_Samhita.pdf
+[3] Brahma-samhita (SB) https://vaniquotes.org/wiki/Brahma-samhita_(SB)
+[4] A glimpse of Ayurveda – The forgotten history and ... https://pmc.ncbi.nlm.nih.gov/articles/PMC5198827/
+[5] Full text of "Sri Brahma Samhita" https://archive.org/stream/sribrahmasamhita_201911/Sri%20Brahma%20Samhita_djvu.txt
+[6] Brāhmaṇas in Ancient India https://books.google.com/books/about/Br%C4%81hma%E1%B9%87as_in_Ancient_India.html?id=kWBXAAAAMAAJ
+[7] Brahma Samhita (English) https://www.youtube.com/watch?v=DbTj9zJqns4
+[8] Are there any references to the Brahma Samhita before ... https://hinduism.stackexchange.com/questions/3887/are-there-any-references-to-the-brahma-samhita-before-chaitanya-mahprabhu
+[9] Śrī Brahma-saṁhitā Prakāśinī Commentary – Verses 51-62 https://bhaktivinodainstitute.org/sri-brahma-samhita-prakasini-commentary-verses-51-62/
+[10] Sri Brahma-Samhita https://dokumen.pub/download/sri-brahma-samhita-1nbsped.html
