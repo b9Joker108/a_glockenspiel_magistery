@@ -836,7 +836,17 @@ Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography
 
 # T #
 
-* Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in 'Prabuddha Bharata or Awakened India: Perspectives on Vedanta', Vol. 115, No. 1, January, 2010. Kolkata, India: Advaita Ashrama. Source:  https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha%Bharata/Year%2010/01PB-Jan2010.pdf(accessed: Tuesday, June 24, 2025)
+
+### THRANGU, K.; *et al.* ###
+
+* Thrangu, Khenchen (comm.); Martin, Michele (trans.; arr. & ed.) & O'Hearn, Peter (trans.) (2006). 'A Song for the King: Saraha on Mahamudra Meditation'. Somerville, Massachusetts, U.S.A.: Wisdom Publications. ISBN 0861715039 (pbk.: alk. paper). 
+
+**Purport:**<br>
+...
+
+### TYAGANANDA, S. ###
+
+* Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17 - 20) in *Prabuddha Bharata or Awakened India: Perspectives on Vedanta*, Vol. 115, No. 1, January, 2010. Kolkata, India: Advaita Ashrama. Source:  https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha%Bharata/Year%2010/01PB-Jan2010.pdf(accessed: Tuesday, June 24, 2025)
 
 **Purport:**<br>
 ...
