@@ -82,3 +82,58 @@ Citations:
 [8] Brahma Samhita - BVT https://www.scribd.com/document/746392136/Brahma-Samhita-BVT
 [9] Brahma Samhita : Free Download, Borrow, and Streaming https://archive.org/details/brahmasamhita
 [10] Tantra and Pancaratra / Brahma-samhita - Gaudiya Grantha Mandira https://grantha.jiva.org/index.php?show=entry&e_no=204
+
+
+
+You did not state the publication of the Brahma Samhta by Arthur Avalon and specifics.
+
+## Arthur Avalon’s Edition of the Brahma-Saṁhitā: Publication Details and Analysis
+
+### Bibliographical Overview
+
+- **Title**: *Brahma-Samhita* (with commentary of Jīva Gosvāmī)
+- **Editor**: Arthur Avalon (pseudonym of Sir John Woodroffe)
+- **Series**: Tantrik Texts, Vol. XV
+- **First Publication**: Calcutta, published for the Agamanusandhana Samiti by the Sanskrit Press Depository, 30 Cornwallis Street; simultaneously distributed by Luzac & Co., London, 46 Great Russell Street
+- **Date of Publication**: 1928[1]
+- **Languages**: Sanskrit text, with English introduction and scholarly apparatus
+- **Extent**: 142 pages[7]
+
+### Publication Context
+
+- **Content**: This edition collates the Sanskrit text of the fifth chapter of the *Brahma-Saṁhitā*—traditionally recovered by Caitanya Mahāprabhu—with the masterly *Dig-darśinī ṭīkā* commentary by Jīva Gosvāmī. It is prefaced with an analytical English introduction by Avalon, situating the text within Vaiṣṇava liturgical and philosophical traditions.
+- **Editorial Method**: Avalon’s practice as series editor was critical and comparative, referencing defective printed editions and manuscript variants then available in Bengali, North Indian, and British collections. His introduction specifically addresses the complex manuscript transmission and commentarial tradition extant at the time[1].
+- **Physical Provenance**: The work was typeset and issued in colonial Calcutta; distribution in Britain was via Luzac & Co., a well-known South Asian specialist bookseller and publisher.
+
+### Reprints and Subsequent Access
+
+- **Facsimile and Reprint Editions**: The original 1928 publication has been periodically reprinted—most recently in facsimile by independent presses such as Gyan Books (2022), typically maintaining Avalon’s original critical material and format[3][7].
+- **Archival Copies**: Complete scans and digital transcriptions are available in major repositories—such as the Internet Archive—attesting to the enduring scholarly use and citation of this edition[1][10].
+
+### Distinctive Features
+
+- **Scholarly Register**: Avalon’s edition is notable for its academic (rather than sectarian or strictly devotional) presentation, situating the *Brahma-Saṁhitā* within the study of Tantric and Vaiṣṇava literature, and providing a critical apparatus uncommon in early 20th-century vernacular editions.
+- **Series Context**: The *Brahma-Saṁhitā* volume is published alongside other medieval Sanskrit works (notably the *Viṣṇu-Sahasra-Nāma*), reflecting Avalon’s systematic effort to make rare Tantric and Vaishnava texts available to the academic and Indological communities of the period[1][9].
+
+### Reference Table: Edition Data
+
+| Editor           | Year   | Place of Publication  | Publisher(s)                                | Notable Content             |
+|------------------|--------|----------------------|----------------------------------------------|-----------------------------|
+| Arthur Avalon    | 1928   | Calcutta / London    | Sanskrit Press Depository; Luzac & Co.       | Sanskrit text, Jīva’s commentary, English intro[1][7][9] |
+| Reprints         | 2022   | Delhi                | Gyan Books and others                       | Facsimile of original volume[3][7]                      |
+
+### Academic Importance
+
+Avalon’s 1928 edition remains a foundational reference in the academic treatment of the *Brahma-Saṁhitā*, with its combination of primary text, traditional commentary, and methodical editorial analysis establishing the standard for subsequent scholarly engagement with the text in both Indian and Western academia[1][7][9].
+
+Citations:
+[1] Full text of "Brahma Samhita And Vishnu Sahasra Nama Tantrik ... https://archive.org/stream/VJVv_brahma-samhita-and-vishnu-sahasra-nama-tantrik-texts-vol.-xv-arthur-avalon-agama-anusandhan-sam/Brahma%20Samhita%20and%20Vishnu%20Sahasra%20Nama%20Tantrik%20Texts%20Vol.%20XV%20-%20Arthur%20Avalon,%20Agama%20Anusandhan%20Samiti_djvu.txt
+[2] Details for: Brahma Samhita › Goa University Library catalog http://libcat.unigoa.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=11280&shelfbrowse_itemnumber=11718
+[3] Brahma Samhita And Vishnu Sahasra Nama Tantrik Texts Vol. XV ... https://www.ebay.co.uk/itm/286274209442
+[4] Sri Brahma-Samhita - Better World Books https://www.betterworldbooks.com/product/detail/sri-brahma-samhita-9780892131457
+[5] Full text of "The Serpent Power By Arthur Avalon" - Internet Archive https://archive.org/stream/TheSerpentPowerByArthurAvalon/The+Serpent+Power+by+Arthur+Avalon_djvu.txt
+[6] Tantrik Texts Vol.vi : Avalon,arthur : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/in.ernet.dli.2015.541539
+[7] Brahma Samhita And Vishnu Sahasra Nama Tantrik Texts Vol. XV ... https://www.goodreads.com/book/show/153141215-brahma-samhita-and-vishnu-sahasra-nama-tantrik-texts-vol-xv-arthur-aval
+[8] National Library of Australia https://catalogue.nla.gov.au/catalog/146325
+[9] Tantrik Texts Vol. XIX. Prapancha Sara Tantra II - Arthur Avalon - Part1 https://www.scribd.com/document/258804102/Tantrik-Texts-Vol-XIX-Prapancha-Sara-Tantra-II-Arthur-Avalon-Part1
+[10] Full text of "Tantric Texts Series Edited by Arthur Avalon (John Woodroffe)" https://archive.org/stream/Tantric_Texts_Series_Edited_by_Arthur_Avalon_John_Woodroffe/Tantric%20Texts%20Series%2015%20Brahmasamhita%205th%20Chapter%20Vishnu%20Sahasranama%20Sankarabhashya%20-%20Arthur%20Avalon%201928_djvu.txt
