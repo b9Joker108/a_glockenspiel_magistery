@@ -664,6 +664,13 @@ I have secured a few works by ISKCON for Harmonium. They all have virtues. This 
 **Purport:**<br>
 With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ellora Caves) generally, they are likely of Vaishnava stock.
 
+### ROBINSON, F. ###
+
+* Robinson, Francis (2000). 'Islam and Muslim History in South Asia'. New Delhi, India: Oxford University Press. ISBN 0195649672. 
+
+**Purport:**<br>
+...
+
 ### ROPER, J. ###
 
 * Roper, Jonathan (2003). 'English Orature, English Literature: The Case of Charms' (pp. 50 - 61) in Kõiva, Mare & Kuperjanov, Andres (eds.) (2003). *Folklore: An Electronical Journal of Folklore*, Vol. 24, October, 2003. Tartu, Estonia: FB and Media Group of LM (Folk Belief and Media Group of Estonian Literary Museum). Source: https://www.folklore.ee/folklore/vol24/engcharm.pdf (accessed: Friday, July 04, 2025)
