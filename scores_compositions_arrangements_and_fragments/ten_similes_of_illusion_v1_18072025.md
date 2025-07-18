@@ -842,3 +842,92 @@ Through these similes, the Discourses invite not intellectual abstraction but di
 The Ten Similes thus serve as a living bridge from the Buddha’s foundational teaching to centuries of Buddhist contemplation and philosophical refinement.
 
 
+
+
+I know the are not listed as a suite. I am only interested in their occurence in Tripitaka.
+
+Here is a **detailed list of the Ten Similes of Illusion** and **their specific occurrences in the Tripiṭaka (Pāli Canon)**, focusing *only* on actual canonical references rather than later commentarial suites. These similes are used independently as metaphors for the insubstantial, conditioned, or deceptive nature of experience and phenomena.
+
+### 1. **Magical Illusion (Māyā)**
+- Commonly found in descriptions of the aggregates and all conditioned things as illusions.
+- **Key Sutta:** *Saṃyutta Nikāya* 22.95 ("Phena Sutta"): “Consciousness is like a magical illusion (`māyā`).”  
+- Also used in *Alagaddūpama Sutta* (MN 22), where the perception of self is likened to an illusion.
+
+### 2. **Mirage (Marīci)**
+- Used to show deceptive appearances, especially regarding desire and the senses.
+- **Key Sutta:** *Saṃyutta Nikāya* 22.95: “Perception is like a mirage (`marīci`).”
+
+### 3. **Dream (Svapna)**
+- Illustrates the unreality of sense experience and attachment.
+- **Key Sutta:** *Saṃyutta Nikāya* 22.95; *Aṅguttara Nikāya* 9.34: “Form is like a dream (`svapna`).”
+- Referenced in various verses illustrating impermanence and unreliability of conditioned existence.
+
+### 4. **Shadow (Chāyā)**
+- Expresses the emptiness or unreality of aggregates.
+- **Key Sutta:** *Saṃyutta Nikāya* 22.95: "Feeling is like a shadow (`chāyā`)."
+
+### 5. **Echo (Pratiśrutkā)**
+- Used to signify the non-substantiality of phenomena.
+- **Key Sutta:** *Saṃyutta Nikāya* 22.95: “Consciousness is like an echo (`pratiśrutkā`).”
+
+### 6. **Reflection (Pratibimba)**
+- Often appears as the image in a mirror or in water.
+- **Key Sutta:** *Aṅguttara Nikāya* 4.49: The mind is likened to seeing an image in a mirror.
+- Used to indicate insubstantiality of perceptions.
+
+### 7. **City of Gandharvas (Gandharvanagara)**
+- Phantom city as metaphor for illusory phenomena.
+- **Key Sutta:** *Saṃyutta Nikāya* 22.95: All aggregates are “like a city of Gandharvas.”
+- Reinforced in commentarial and Jātaka literature but originates in the canon.
+
+### 8. **Hallucination (or Trompe-l'œil)**
+- Phenomena arising out of delusion or sense error.
+- Implied in references to distorted perception (*Saṃyutta Nikāya* 22.95).
+- Directly addressed in discourses on mental distortions such as the "Four Distortions" (*vipallāsa*, AN 4.49)[8].
+
+### 9. **Moon in Water**
+- Used in poetic passages and verse.
+- Explicit in some suttas as a metaphor for the non-graspable.
+- More emphasized in post-canonical and Mahāyāna texts, but the motif appears in canonical poetry.
+
+### 10. **Apparition/Transformation**
+- The transformation or magical creation of forms is a common metaphor for insubstantiality, such as a conjurer’s trick.
+- Aggregates compared to magical apparitions throughout SN 22.95 and other suttas.
+
+**References and context:**  
+- The **most concentrated source** is SN 22.95 ("Phena Sutta"), where multiple similes (illusion, mirage, dream, shadow, echo, city of Gandharvas, reflection) are clustered together to illustrate the empty nature of the five aggregates[5].
+- Additional similes such as *hallucination*, *moon in water*, and *apparition* are implied or scattered more broadly across suttas—especially in poetic verses and short simile explanations[5].
+
+> “They understood all dharmas as being like a [magically- conjured] illusion, like a mirage, like the moon reflected in water, like empty space, like an echo, like the city of the Gandharvas, like a dream, like a shadow, like an image in a mirror, and like a [supernatural] transformation.”  
+> *(See translation and summary in [5])*
+
+**Summary Table**
+
+| Simile                    | Canonical Reference (Pāli)                         |
+|---------------------------|----------------------------------------------------|
+| Magical Illusion          | SN 22.95, MN 22                                   |
+| Mirage                    | SN 22.95                                          |
+| Dream                     | SN 22.95, AN 9.34                                 |
+| Shadow                    | SN 22.95                                          |
+| Echo                      | SN 22.95                                          |
+| Reflection (in water/mirror) | AN 4.49, SN 22.95                             |
+| City of Gandharvas        | SN 22.95                                          |
+| Hallucination             | Implied, AN 4.49 (as cognitive distortion)        |
+| Moon in Water             | Verses, poetic portions of canon                  |
+| Apparition/Transformation | SN 22.95, MN 22                                   |
+
+All of the above similes **occur individually in the Tripiṭaka**, never as a formally enumerated group, but frequently clustered in major discourses like **SN 22.95** and others discussing the aggregates, perception, and non-self[5].
+
+Citations:
+[1] Eight similes of illusion https://www.rigpawiki.org/index.php?title=Eight_similes_of_illusion
+[2] Alagaddupama Sutta: The Snake Simile https://www.accesstoinsight.org/tipitaka/mn/mn.022.nypo.html
+[3] ten similes | Dictionary of Buddhism https://www.nichirenlibrary.org/en/dic/Content/T/72
+[4] three categories of illusion | Dictionary of Buddhism https://www.nichirenlibrary.org/en/dic/Content/T/109
+[5] The Ten Similes https://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Nagarjuna/The%20Ten%20Similies/The%20Ten%20Similes.htm
+[6] IMPRESSIVE SIMILES IN TIPIṬAKA (I) : A SIMILE OF FIVE THIEVES https://so03.tci-thaijo.org/index.php/ibsc/article/view/211256
+[7] Content Jibsc V.1 N.1.indd https://so03.tci-thaijo.org/index.php/ibsc/article/download/211256/146349/
+[8] Translator's note https://www.accesstoinsight.org/ati/tipitaka/an/an04/an04.049.olen.html
+[9] Pali Canon, Tipitaka, Dharma - Buddhism https://www.britannica.com/topic/Buddhism/The-Pali-canon-Tipitaka
+[10] What do you think of how some people teach "all is illusion ... https://www.reddit.com/r/Buddhism/comments/1bqdtpr/what_do_you_think_of_how_some_people_teach_all_is/
+
+
