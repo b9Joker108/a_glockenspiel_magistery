@@ -709,3 +709,30 @@ These multilingual renderings encapsulate the breadth of Buddhist exegetical tra
 : McRae, John, *Dream, Mirage, and Magical Illusion: Buddhist Similes of Ephemeral Existence*
 
 
+
+
+We forgot Malayalam
+
+Certainly. Here is the **canonical list of the ten similes of illusion** in Malayalam, alongside the English, Sanskrit (IAST), Tibetan (Uchen/EWTS), and other languages for comparison. Malayalam being a major South Indian language with a continuous Buddhist tradition in historical literature, terms are rendered to reflect both formal liturgical usage and natural Malayalam lexical style, informed by academic and Buddhist dictionaries.
+
+| No. | English            | Sanskrit (IAST)  | Tibetan (Uchen)      | Tibetan (EWTS)    | Malayalam (മലയാളം, Romanization)             |
+|-----|--------------------|------------------|----------------------|-------------------|-----------------------------------------------|
+| 1   | Magical illusion   | māyā             | སྒྱུ་མ་             | sgyu ma           | മായാജാലം (māyājālaṁ)                         |
+| 2   | Dream              | svapna           | རྨི་ལམ་             | rmi lam           | സ്വപ്നം (svapnaṁ)                             |
+| 3   | Mirage             | marīci           | འཁྲུགས་རིས་        | 'khrugs ris       | മായാബിന്ദു (māyābindu) or ക്ഷിതിരോഷ്മ (kṣitiraūṣma)|
+| 4   | Echo               | pratiśrutkā      | དབྱངས་ལྟར་སྒྲ་     | dbyangs ltar sgra | പ്രതിധ്വനി (pratidhvani)                     |
+| 5   | Gandharva city     | gandharvanagara  | དགའ་ལྡན་གྲོང་ཁྱེར་ | dga' ldan grong khyer | ഗന്ധർവ്വനഗരം (gandharvvanagaraṁ)        |
+| 6   | Reflection         | pratibimba       | ཟུར་གདོང་           | zur gdong         | പ്രതിബിംബം (pratibimbaṁ)                    |
+| 7   | Bubble             | budbuda          | སྦུབས་པ་            | sbubs pa          | ബുബ്ബുള് (bubbuli) or കുഹരം (kuharaṁ)       |
+| 8   | Shadow             | chāyā            | མུན་སེན་            | mun sen           | നിഴൽ (niẻal)                                 |
+| 9   | Lightning          | vidyut           | ཆར་གདུང་            | char gdung        | മിന്നല് (minnal)                               |
+| 10  | Apparitional form  | nirmitarūpa      | སྣོད་མེད་           | snod med          | ഭ്രാന്തരൂപം (bhrāntarūpaṁ)                   |
+
+**Notes:**
+- Malayalam Buddhist terms here reflect current translational practice, Buddhist dictionaries, and Sanskrit-Malayalam loanword patterns.
+- Where multiple senses exist (esp. for "mirage" and "bubble"), both Sanskritic and commonly used Malayalam are shown.
+- This table can be combined with previously given forms for a comprehensive multilingual resource.
+
+If you need script transliterations for other South Indian languages or want variants for use in liturgical recitation, further refinement is possible.
+
+
