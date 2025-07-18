@@ -466,5 +466,21 @@ Within Indo-Tibetan traditions, this motif is recast as a warning against the su
 Longchen Rabjam, *The Treasury of Philosophical Systems*; Nāgārjuna, *Mūlamadhyamakakārikā* XVIII:13; Śāntideva, *Bodhicaryāvatāra* IX.35; Śaṅkara, *Vivekacūḍāmaṇi* v.114; Prajñāpāramitā Sūtra (Aṣṭasāhasrikā); Rigpawiki, “Ten Similes of Illusion”; Thurman, R.A.F., *The Central Philosophy of Tibet*.
 
 
+**Reading:**  
+This draws immediate resonance with Buddhist teaching: even the most carefully crafted solutions are ultimately subject to change, decay, and the fundamental dissatisfaction (dukkha) that marks conditioned reality.
 
+**Reading:**  
+We see here the subtle play of relative and ultimate truths (samvṛti and paramārtha satya): the product is both “natural” (relative marketing truth) and, when deconstructed, a combination of industrial processes and natural substances (ultimate truth—there is “no nature” per se, outside of causes, conditions, and concept).
+
+## Sky Flowers and Rabbit’s Horns: The Subtext of Emptiness
+
+### Classic Buddhist Analogies
+
+**Sky flowers (सुवर्णपुष्प, ནག་པོའི་མེ་ཏོག་ nag po'i me tog):**  
+- Flowers in the sky—non-existent, yet one might imagine seeing them (as with optical disturbance).
+  
+**Rabbit’s horns (शशिशृङ्ग, སེར་རྒྱུད་ ser rgyud):**  
+- Horns on a rabbit—conceptually named, but not found in reality.
+
+Both serve as standard analogies (dpe, उदाहरण) in ancient Buddhist philosophy for phenomena that appear but have no intrinsic or substantial existence—arising only through deluded perception, or language, or as mere conceptual imputation.
 
