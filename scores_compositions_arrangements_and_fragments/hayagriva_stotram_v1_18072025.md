@@ -223,5 +223,6 @@ Citations:
 [7] The Complete Mahabharata 9 Volumes - Motilal Banarsidass https://www.motilalbanarsidass.com/products/the-complete-mahabharata-9-volumes-m-n-dutt
 [8] [PDF] Philosophy Of Pancharatra https://ia801201.us.archive.org/13/items/PhilosophyOfPancharatra/Philosophy%20of%20Pancharatra_text.pdf
 
+## References ##
 
-
+* Raddock, Elisabeth \[Ukr: Раддок, Е.] (2022). 'Determining the Date and the Place of Origin of the Hayashirsha Pancharatra \[Ukr: Визначення часу та місця створення “Гаяшірша-паньчаратри” ; Roman.: Vyznachennya chasu ta mistsya stvorennya “Gayashirsha-pancharatra”]' (pp. 119-129) in *The World of the Orient \[Ukr: Східний світ ; Roman: Skhidnyi svit]*, Vol. 4 , Issue 117, 2022. Kyiv, Ukraine: A. Yu. Krymskyi Institute of Oriental Studies, NAS of Ukraine (on behalf of The World of the Orient). DOI: https://doi.org/10.15407/orientw2022.04.119 (accessed: Friday, July 18, 2025)
