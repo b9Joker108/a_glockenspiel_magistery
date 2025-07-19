@@ -643,6 +643,13 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 
 # R #
 
+### RAMANAN, M. ###
+
+* Ramanan, Mohan (2014). 'The Classical Music Culture of South India' (pp. 134-145) in *Indialogs \[Styled: Indi@logs]*, Vol. 1, 2014. Bellaterra, Barcelona, Catalonia, Spain: 'Autonomous University of Barcelona \[English; Catalan: Universitat Autònoma de Barcelona]'. 
+
+**Purport:**<br>
+...
+
 ### RAMANUJACHARYA-DASA ###
 
 * Ramanujacharya-dasa (auth. & arr.) (1995). 'A Vaishnava Harmonium and Singing Method: Based on the Traditional North Indian System of Music - Part One'. Chatsworth, South Africa: ISKCON (Sri Sri Radha-Radhanatha Mandir, Durban, South Africa). Source: https://archive.org/details/avaishnavaharmoniumsingingmethod (accessed: Tuesday, July 01, 2025)
@@ -664,13 +671,6 @@ I have secured a few works by ISKCON for Harmonium. They all have virtues. This 
 **Purport:**<br>
 ...
 
-### ROCHFORD, E.; *et al.* ###
-
-* Rochford, Jr.; E. Burke (auth.); Miller, Timothy (ed.) & Palmer, Susan J. (ed.) (2007). 'Hare Krishna Transformed'. The New and Alternative Religion Series. New York, N.Y., U.S.A.: New York University Press. ISBN 9780814775790 (pbk. : alk. paper).
-
-**Purport:**<br>
-...
-
 ### RICH, E. ###
 
 * Rich, Ellora Nimbkar (2023). 'Seið \[Seidhr] the Magic Words: Two Case Studies in Old Norse Etymology'. MA thesis in Viking & Medieval Norse Studies. Faculty of Icelandic & Comparative Cultural Studies, School of Humanities. Reykjavík, Iceland: University of Iceland.
@@ -681,6 +681,13 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 ### ROBINSON, F. ###
 
 * Robinson, Francis (2000). 'Islam and Muslim History in South Asia'. New Delhi, India: Oxford University Press. ISBN 0195649672. 
+
+**Purport:**<br>
+...
+
+### ROCHFORD, E.; *et al.* ###
+
+* Rochford, Jr.; E. Burke (auth.); Miller, Timothy (ed.) & Palmer, Susan J. (ed.) (2007). 'Hare Krishna Transformed'. The New and Alternative Religion Series. New York, N.Y., U.S.A.: New York University Press. ISBN 9780814775790 (pbk. : alk. paper).
 
 **Purport:**<br>
 ...
