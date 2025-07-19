@@ -664,6 +664,13 @@ I have secured a few works by ISKCON for Harmonium. They all have virtues. This 
 **Purport:**<br>
 ...
 
+### ROCHFORD, E.; *et al.* ###
+
+* Rochford, Jr.; E. Burke (auth.); Miller, Timothy (ed.) & Palmer, Susan J. (ed.) (2007). 'Hare Krishna Transformed'. The New and Alternative Religion Series. New York, N.Y., U.S.A.: New York University Press. ISBN 9780814775790 (pbk. : alk. paper).
+
+**Purport:**<br>
+...
+
 ### RICH, E. ###
 
 * Rich, Ellora Nimbkar (2023). 'Seið \[Seidhr] the Magic Words: Two Case Studies in Old Norse Etymology'. MA thesis in Viking & Medieval Norse Studies. Faculty of Icelandic & Comparative Cultural Studies, School of Humanities. Reykjavík, Iceland: University of Iceland.
