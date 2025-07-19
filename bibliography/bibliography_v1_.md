@@ -257,6 +257,13 @@ Worthwhile.
 **Purport:**<br>
 ...
 
+### van GULIK, R. ###
+
+* van Gulik, R. H. (1980, 1956). 'Siddham: An Essay on the History of Sanskrit Studies in China and Japan'. Shata-Pitaka Series: Indo-Asian Literatures Vol. 247. (NB: The 'Preface' by van Gulik is dated: "Autumn 1953" at the: "Netherlands Embassy, New Delhi", but I can find no attestation for a publication date prior to 1956. Given the date of the 'Preface', this date of first publication should be understood as provisional.). Hauzkhas Enclave, New Delhi, India: Mrs. Sharada Rani.
+
+**Purport:**<br>
+**TODO:** Investigate publication listing of entire Indo-Asian series.
+
 ### GUPTA. S, *et al.* ###
 
 * Gupta, S. V. B. K. V. & Birch, Jason (2022). 'The Ocean of Yoga: An Unpublished Compendium Called the Yogarnava' in the *Journal of Indian Philosophy*, Vol. 50, 2022, pp. 345 - 385. Heidelberg, Germany: Springer Nature. DOI: https://doi.org/10.1007/s10781-022-09504-6 Source: https://link.springer.com/article/10.1007/s10781-022-09504-6 (accessed: Monday, June 16, 2025)
