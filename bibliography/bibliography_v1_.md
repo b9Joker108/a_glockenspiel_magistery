@@ -181,6 +181,11 @@ I am contemplatishing purchasing a hardcopy of this volume, as I have not been 
 **Purport:**<br>
 ...
 
+* Deva, B. Chaitanya (1987, 1978). 'Musical Instruments of India: Their History and Development'. With a 'Foreword' by Swami Prajnanananda. Second revised edition. (NB: First published in 1978.). New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. ISBN 8121500486.
+
+**Purport:**<br>
+...
+
 ### DHANDAPANI, M.; *et al.* ###
 
 Dhandapani, Dr. M. N. & Pattammal, D. (2007, 2002, 1991, 1984). 'Ragapravaham: Index to Carnatic Ragas (Revised & Enlarged)'. Fourth edition. (NB: First edition published in 1984 by Higginbothams.). Royapettah, Madras, India: The Karnatic Music Book Center.
