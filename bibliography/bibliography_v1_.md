@@ -483,6 +483,13 @@ This work is strong and there is such silence around it.
 **Purport:**<br>
 ...
 
+### MALAPAKA, I. ###
+
+* Malapaka, Dr. Indira (2025). 'From Hearth to Verse: An Archaeogastronomic Exploration of the Ancient Indian Kitchen' (pp. 182-187) in the *International Journal of Science and Research \[IJSR]*, Vol. 14, Issue 5, May, 2025. Paldi, Ahmedabad, Gujarat, India: World Wide Journas. DOI: https://dx.doi.org/10.21275/MS25502083759 (accessed: Sunday, July 20, 2025)  
+
+**Purport:**<br>
+...
+
 ### MALHOTRA, A. ###
 
 * Malhotra, Anshu (2012). 'Bhakti and the Gendered Self: A Courtesan and a Consort in Mid Nineteenth Century Punjab' (pp. 1506-1539) in *Modern Asian Studies*, Vol. 46, No. 6, 2012. Cambridge, Cambridgeshire, England, U.K.: Cambridge University Press.
