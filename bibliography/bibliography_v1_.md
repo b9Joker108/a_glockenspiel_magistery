@@ -797,6 +797,13 @@ A very useful article and evidentiary for the iconographical development of Sri 
 **Purport:**<br>
 ...
 
+### SHIRALI, V. ###
+
+* Shirali, Vishnudass (1977). 'Sargam: An Introduction to Indian Music'. Hauz Khas, New Delhi, India: Abhinav Publications (Shakti Malik).
+
+**Purport:**<br>
+...
+
 ### SINGH, M. ###
 
 * Singh, Dr. Meikam Thoiba (2023). 'Hindustani Classical Music and Its Principles' in *ShodhKosh: Journal of Visual and Performing Arts*, Vol. 4, No. 2, Jul - Dec, 2023, pp. 247 - 258. Source: https://github.com/b9Joker108/devotional_glockenspiel_acquisition_as_sadhana/blob/main/resources/bibliography/Singh%2C%20Dr.%20Meikam%20Thoiba%20(2023).%20'Hindustani%20Classical%20Music%20and%20Its%20Principles'.pdf (accessed: Saturday, June 14, 2025)
