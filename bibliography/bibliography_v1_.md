@@ -617,6 +617,13 @@ Noppe is BRILLIANT!
 
 # P #
 
+### PANDIKATTU, K.; *et al* ###
+
+* Pandikattu, Kuruvila & Karimundackal, Thomas (eds.) (2018). 'Melodies from the Flute: Dialogue Among Religions and Cultures : Memorial Volume for Indian Christian Philosopher Rev Noel Sheth SJ'. ISBN 9789351483267.
+
+**Purport:**<br>
+...
+
 ### PARPOLA, A. ###
 
 * Parpola, Asko (1999). 'Vac as a Goddess of Victory in the Veda and Her Relation to Durga' (pp. 101–143) in *Zinbun: Memoirs of the Research Institute for Humanistic Studies*, Vol. 34, №2, 1999. Kyoto, Japan: Kyoto University. Source: https://archive.org/details/parpola-asko-1999.-vac-as-a-goddess-of-victory-in-the-veda-and-her-relation-to-durga (accessed: Tuesday, August 06, 2024)
