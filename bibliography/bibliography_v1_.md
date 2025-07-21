@@ -839,6 +839,13 @@ A very useful article and evidentiary for the iconographical development of Sri 
 **Purport:**<br>
 ...
 
+### SHELL, S. ###
+
+* Shell, Scott Thomas (2020). 'The Application of Peircean Semiotics to the Elder Futhark Tradition: Establishing Parameters of Magical Communication'. Ph.D. dissertation in German in the Graduate Division. Berkeley, California, U.S.A.:  University of California. Source: https://escholarship.org/uc/item/97r2v4j9 (accessed: Tuesday, July 22, 2025)
+
+**Purport:**<br>
+When I last searched for this dissertation a few years ago, I couldn't find it. I am overjoyed today at coming by it through the grace of Shrimati Serendipity, whilst performing an Internet browser search on: "chnospinci". Peirce is one of my personal heroes and Semiotic Theory and signification were so transformative to my Worldview when I studied a few units of Linguistics the second time of the three I have ventured an undergraduate degree and as I have used all runesets, commencing with the Elder from circa fourteen (14) years old: to have my hands on this work brings me waves of delight. 
+
 ### SHIRALI, V. ###
 
 * Shirali, Vishnudass (1977). 'Sargam: An Introduction to Indian Music'. Hauz Khas, New Delhi, India: Abhinav Publications (Shakti Malik).
