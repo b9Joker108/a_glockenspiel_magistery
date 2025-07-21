@@ -497,6 +497,13 @@ This work is strong and there is such silence around it.
 **Purport:**<br>
 ...
 
+### MALINOWSKI, B. ###
+
+* Malinowski, Bronislaw (1966, 1935). 'The Language of Magic and Gardening'. Indiana University Studies in the History and Theory of Linguistics. Coral Gardens and Their Magic: Vol. II \[2]. With an 'Introduction' by Jack Berry. Second edition. (NB: First published in 1935.). London, England, U.K.: George Allen & Unwin Ltd. Source: https://archive.org/details/dli.ernet.130792 (accessed: Tuesday, July 22, 2025)
+
+**Purport:**<br>
+...
+
 ### MARTINEAU, J. ###
 
 * Martineau, Jason (2008). 'The Elements of Music: Melody, Rhythm & Harmony'. First U.S. edition of 2008. New York, N.Y., U.S.A.: Bloomsbury U.S.A. (Bloomsbury is a trademark of Bloomsbury Publishing Plc.). ISBN 9780802716828.
