@@ -601,7 +601,7 @@ Noppe is BRILLIANT!
 
 ### NÖTH, W. ###
 
-* Nöth, Winifred (1977). 'Semiotics of the Old English Charm' (1977) in *Semiotica*, Vol. 19, Issue: 1-2, January, 1977. Berlin, Germany: Walter de Gruyter. Source: https://www.researchgate.net/profile/Winfried-Noeth-2/publication/270481132_Semiotics_of_the_Old_English_Charm/links/5563565a08ae8c0cab36ecac/Semiotics-of-the-Old-English-Charm.pdf (accessed: Tuesday, July 22, 2025)
+* Nöth, Winifred (1977). 'Semiotics of the Old English Charm' (pp. 59-83) in *Semiotica*, Vol. 19, Issue: 1-2, January, 1977. Berlin, Germany: Walter de Gruyter. Source: https://www.researchgate.net/profile/Winfried-Noeth-2/publication/270481132_Semiotics_of_the_Old_English_Charm/links/5563565a08ae8c0cab36ecac/Semiotics-of-the-Old-English-Charm.pdf (accessed: Tuesday, July 22, 2025)
 
 **Purport:**<br>
 ...
