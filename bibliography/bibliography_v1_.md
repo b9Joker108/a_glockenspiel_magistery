@@ -702,7 +702,7 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 * Raghavan, V. (auth.) & Jackson, William J. (ed. & arr.), *et al.* (2011, 1994). 'The Power of the Sacred Name: Indian Spirituality Inspired by Mantras'. Perennial Philosophy Series. With a 'Foreword' by M. Narasimhachary. Revised second edition. (NB: First edition published in 1994.). Bloomington, Indiana, U.S.A.: World Wisdom, Inc. ISBN 9781935493969 (pbk.: alk. paper).
 
 **Purport:**<br>
-...
+Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_practice_diary_and_log/july_2025_v1_04072025.md#tuesday-july-22-2025 (accessed: Tuesday, July 22, 2025)
 
 ### RAGUNATHA-dasa; *et al.* ###
 
