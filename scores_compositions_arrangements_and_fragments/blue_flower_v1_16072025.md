@@ -1,4 +1,7 @@
 
+[![Watch in HD](https://img.youtube.com/vi/ZbC8ckhEF44/maxresdefault.jpg)](https://youtu.be/ZbC8ckhEF44?si=AgthFcUMxz_ShdM_)
+
+
 
 
 Novalis’ unfinished novel Heinrich von Ofterdingen (1799–1800), which deals with the educational journey of a medieval poet in search of a transcendental  symbol: The Blue Flower.   Have their been sound English treatments of this?
