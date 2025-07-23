@@ -234,3 +234,22 @@ Beyond earth and beyond heaven, so vast is my greatness.
 
 This rendering directly corresponds to the canonical eight verses of the Devi Suktam as found in Rigveda 10.125 and is aligned with both traditional and scholarly translations[1].
 
+
+Vāgambhṛṇī Sūkta
+
+“Ahaṃ rudrebhīrvasu̍ bhiścarāmyahamādityairuta viśvadevaiḥ/
+Ahaṃ mitrāvarunobhā bibharmyahami̍ndrāgnī ahamaśvinobhā//
+Ahaṃ somamāhanasaṃ bibharmyahaṃ tvaṣṭāramuta pūṣaṇaṃ bhagaṃ/
+Ahaṃ dadhāmi draviṇaṃ haviṣmate suprāvye3 Yajamānāya sunvante//
+Ahaṃ rāṣṭī saṅgamanī vasudhā cikituṣī prthamā yajñiyānāṃ/
+Taṃ mā devā vyadadhuḥ purutrā bhūristhātrāṃ bhūryaviśayantīṃ//
+Mayā so annamatti yo vipaśyati yaḥ prāṇiti yo iṃ śṛṇotyuktaṃ/
+Amamtavo māṃ tau pa kṣiyanti śrudhi śruta śraddhivaṃ te vadāmi//
+Ahameva svayamidaṃ vadāmi juṣṭaṃ devabhiḥ uta mānuṣebhiḥ/
+Yaṃ kāmaye taṃ taṃ ugraṃ kṛṇomi taṃ brahmāṇaṃ taṃ ṛṣiṃ taṃ sumedhāṃ//
+Ahaṃ rudrāya dhanurātanomi brahmadviṣe śarave hantavā/
+Ahaṃ janāya samadaṃ kṛnomyahaṃ dyāvā pṛthivī ā viveśa//
+Ahaṃ suve pitaramasyaṃ mūrdhaṃ mama yonirapsva1ntaḥ samudre/
+Tato vī tiṣṭhe bhīvanānu viśvotāmūṃ dyāṃ varṣmaṇopa spṛśāmi//
+Ahameva vātaiva pra vāmyarabhamāṇā bhūvanāni viśvā/
+Paro divā paro enā pṛthivaitāvatī mahinā saṃ babhūva//” Ṛgveda, 10.125.1-8.
