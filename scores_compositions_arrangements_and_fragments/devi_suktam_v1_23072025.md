@@ -253,3 +253,6 @@ Ahaṃ suve pitaramasyaṃ mūrdhaṃ mama yonirapsva1ntaḥ samudre/
 Tato vī tiṣṭhe bhīvanānu viśvotāmūṃ dyāṃ varṣmaṇopa spṛśāmi//
 Ahameva vātaiva pra vāmyarabhamāṇā bhūvanāni viśvā/
 Paro divā paro enā pṛthivaitāvatī mahinā saṃ babhūva//” Ṛgveda, 10.125.1-8.
+
+Source: https://www.wisdomlib.org/hinduism/essay/lord-hayagriva-in-sanskrit-literature/d/doc1121310.html#note-e-186338
+
