@@ -61,3 +61,176 @@ Citations:
 [8] Devi Suktam, Durga Saptashati & Navaratri - ensures https://yensures.com/2022/09/26/devi-suktam-durga-saptashati-navaratri/
 [9] Devi Suktam | Ambhrni | Vak Suktam Word to Word Meaning and ... https://www.mayiliragu.com/2021/08/devi-suktam-ambhrni-vak-suktam-word-to.html
 [10] The Powerful Devi Suktam Rigveda Mantra for Self-Realization and Good Speech https://www.youtube.com/watch?v=G3naoS9G_Ms
+
+
+
+Please render verse by verse, with Devanagari, IAST, Vedic accents if you can find them, and your own English rendering, interspersed.
+
+## Devi Suktam of the Rig Veda (RV 10.125)
+
+Below is a verse-by-verse rendering of the Devi Suktam, with each verse presented in:
+
+- **Devanagari script**
+- **IAST (International Alphabet of Sanskrit Transliteration)**
+- **An original English translation**
+
+Where available, I note or incorporate Vedic accent information; however, standard scriptural presentations of the Devi Suktam typically appear in classical (not accented) Devanagari and IAST. Vedic accent versions, if found, are noted in commentary.
+
+### Verse 1
+
+**Devanagari:**
+```
+ॐ अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यारुत विश्वदेवैः ।
+अहं मित्रावरुणोभा बिभर्यमहिन्द्राग्नी अहमश्विनोभा ॥1॥
+```
+
+**IAST:**
+```
+om ahaṃ rudrebhir vasubhiś carāmy aham ādityair uta viśvadevaiḥ ।
+ahaṃ mitrāvaruṇobhā bibharmy aham indrāgnī aham aśvinobhā ॥1॥
+```
+
+**English:**
+
+Om. I move with the Rudras and Vasus, with the Adityas and all the Vishvadevas.  
+I sustain Mitra and Varuna, Indra and Agni, and the two Ashvins.
+
+### Verse 2
+
+**Devanagari:**
+```
+अहं सोममाहनसं बिभर्यामहं त्वष्टारमुत पूषणं भगम् ।
+अहं दधामि द्रविणं हविष्मते सप्राव्ये ये यजमानाय सुन्वते ॥2॥
+```
+
+**IAST:**
+```
+ahaṃ somam āhanasaṃ bibharmy ahaṃ tvaṣṭāram uta pūṣaṇaṃ bhagam ।
+ahaṃ dadhāmi draviṇaṃ haviṣmate saprāvye ye yajamānāya sunvate ॥2॥
+```
+
+**English:**
+
+I carry Soma, the abundant; Tvashta, Pusha, and Bhaga too dwell within me.  
+I bestow wealth upon the sacrificer whose offering pleases the gods.
+
+### Verse 3
+
+**Devanagari:**
+```
+अहं राष्ट्रि संगमनी वसूनां चिकीर्षी प्रथमायज्ञियानाम् ।
+तां मा देवा व्यदधुः पुरुत्रा भूयिष्ठात्रां भूय्यवेशयन्तीम् ॥3॥
+```
+
+**IAST:**
+```
+ahaṃ rāṣṭrī saṅgamanī vasūnāṃ cikītuṣī prathamā yajñiyānām ।
+tāṃ mā devā vyadadhuḥ purutrā bhūristhātrāṃ bhūry aveśayantīm ॥3॥
+```
+
+**English:**
+
+I am the Queen, assembler of treasures, wise among the wise,  
+Foremost among those worthy of worship.  
+The gods established me in many places to have sovereignty and greatness.
+
+### Verse 4
+
+**Devanagari:**
+```
+मया सो अन्नमत्ति यो विपश्यति यः प्राणिति य ईं शृणोत्युक्तम् ।
+अमन्तवो मां त उपक्षियन्ति श्रुधि श्रुतं श्रद्धिवं ते वदामि ॥4॥
+```
+
+**IAST:**
+```
+mayā so annam atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇoty uktam ।
+amantavo māṃ ta upakṣiyanti śrudhi śrutaṃ śraddhivaṃ te vadāmi ॥4॥
+```
+
+**English:**
+
+Through me, one eats food, sees, breathes, and hears words spoken.  
+Those who are unwise and do not recognize me fade away.  
+Listen well to what I say—it is for you and spoken with faith.
+
+### Verse 5
+
+**Devanagari:**
+```
+अहमेव स्वयमिदं वदामि जुष्टं देवेभिरुत मानुषेभिः ।
+यं कामये तं तमुग्रं कृणोमि तं ब्रह्माणं तमृषिं तं सुवेदसम् ॥5॥
+```
+
+**IAST:**
+```
+ahameva svayam idaṃ vadāmi juṣṭaṃ devebhir uta mānuṣebhiḥ ।
+yaṃ kāmaye taṃ tam ugraṃ kṛṇomi taṃ brahmāṇaṃ tam ṛṣiṃ taṃ sumedhām ॥5॥
+```
+
+**English:**
+
+I myself announce this, delightful to gods and to men alike.  
+Whom I love, him I make mighty; I make him a seer, a sage, a man of wisdom.
+
+### Verse 6
+
+**Devanagari:**
+```
+अहं रुद्राय धनुरातनोमि ब्रह्मद्विषे शरवे हन्तवा उ ।
+अहं जनाय समदं कृणोम्यहम् द्यावापृथिवी आविवेश ॥6॥
+```
+
+**IAST:**
+```
+ahaṃ rudrāya dhanur ātanomi brahmadviṣe śarave hanta vā u ।
+ahaṃ janāya samadaṃ kṛṇomy ahaṃ dyāvā-pṛthivī āviveśa ॥6॥
+```
+
+**English:**
+
+I stretch the bow for Rudra to slay the foe of wisdom.  
+I rouse the people and enter both earth and sky.
+
+### Verse 7
+
+**Devanagari:**
+```
+अहं सुवे पितरमस्य मूर्धान्मम योनिरप्स्वन्तः समुद्रे ।
+ततो वि तिष्ठे भुवनानि विश्वोतामूं द्यां वर्ष्मणोप स्पृशामि ॥7॥
+```
+
+**IAST:**
+```
+ahaṃ suve pitaram asya mūrdhan mama yonir apsv antaḥ samudre ।
+tato vitiṣṭhe bhuvanāni viśvotāmūṃ dyāṃ varṣmaṇopa spṛśāmi ॥7॥
+```
+
+**English:**
+
+I bring forth the father on the summit of creation—my womb is deep in the waters, in the ocean.  
+From there I spread forth through all the worlds, touching the highest sky with my greatness.
+
+### Verse 8
+
+**Devanagari:**
+```
+अहमेव वात इव प्रवाम्यारभमाणा भुवनानि विश्वा ।
+परो दिवा पर एना पृथिव्यै तावतिं महिनै सं बभूव ॥8॥
+```
+
+**IAST:**
+```
+ahameva vāta iva pravāmy ā-rabhamāṇā bhuvanāni viśvā ।
+paro divā para enā pṛthivyai tāvatī mahinā sambabhūva ॥8॥
+```
+
+**English:**
+
+I blow forth like the wind, setting all the worlds in motion;  
+Beyond earth and beyond heaven, so vast is my greatness.
+
+*Note: Vedic accentuations (udātta, anudātta, svarita) are not generally marked in traditional hymn recitations outside specialized Vedic chant texts, so they are not included here. If required in an academic or liturgical context, one consults a Padapatha or Vedic chant manual with accent marks.*
+
+This rendering directly corresponds to the canonical eight verses of the Devi Suktam as found in Rigveda 10.125 and is aligned with both traditional and scholarly translations[1].
+
