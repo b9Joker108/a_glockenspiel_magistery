@@ -1,7 +1,6 @@
+# Guru Nanak #
 
-
-
-Is there any evidence that Guru Nanak was literate in the technical sense, of being versed and engaging woth writing words on paper of some sort, or did He just orate His discourse and orally compose verses and spontaneously compose songs whilst orating, rather than commiting words to paper?
+Is there any evidence that Guru Nanak was literate in the technical sense, of being versed and engaging with writing words on paper of some sort, or did He just orate His discourse and orally compose verses and spontaneously compose songs whilst orating, rather than commiting words to paper?
 
 # Guru Nanak’s Literacy: Written Hand, Spoken Voice & the Evolution of Early Sikh Scripture  
 
