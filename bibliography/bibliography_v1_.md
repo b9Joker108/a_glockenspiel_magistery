@@ -629,6 +629,13 @@ Noppe is BRILLIANT!
 **Purport:**<br>
 ...
 
+### OLIVELLE, P. ###
+
+* Olivelle, Patrick (ed.) (2019). 'Grihasta: The Householder in Ancient Indian Religious Culture'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780190696177 (ebook). 
+
+**Purport:**<br>
+A most useful volume; unfortunately, Olivelle in the 'Introdicti(n' and none of the scheduled articles by the various authors address the Grihasta and the Agamic (Tantric) Traditions, whether understood as pre-, extra-, post- or arrising out of the Vedic Traditions in the strict and technical denotation.
+
 ### ONDRAČKA, L. ###
 
 * Ondračka, Lubomir (2024). 'Chapter 10: Transforming the Body by Mastering the Elements, Some Tantric Sources' (pp. 225-248) in Payne, Richard K. & Hayes, Glen A. (eds.) (2024). *Oxford Handbook of Tantric Studies*. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780197549902 (epub). DOI: https://doi.org/10.1093/oxfordhb/9780197549889.013.9. Source: https://www.academia.edu/128554767/Transforming_the_Body_by_Mastering_the_Elements_Some_Tantric_Sources (accessed: Thursday, July 10, 2025)
