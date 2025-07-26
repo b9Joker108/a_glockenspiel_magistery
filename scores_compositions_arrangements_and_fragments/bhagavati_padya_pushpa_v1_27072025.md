@@ -1,4 +1,4 @@
-
+```
 % Text title            : bhagavatIpadyapuShpA.njalistotra which includes Shri
 % File name             : mahisha.itx
 % Category              : devii, durgA, stotra, devI
@@ -167,3 +167,4 @@ Last updated \today
 https://sanskritdocuments.org
 
 \end{document}
+```
