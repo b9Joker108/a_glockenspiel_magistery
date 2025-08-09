@@ -99,8 +99,15 @@ I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical dis
 
 * Bradbury, Ray (1976b). 'Long After Midnight: 22 Hauntings and Celebrations'. First edition. New York, N.Y., U.S.A.: Alfred A. Knopf. ISBN 0394479424. 
 
-**Purport:**
-...<br>
+**Purport:**<br>
+...
+
+### BROWN, S. ###
+
+* Brown, Sara Black (2021). 'From Meditation to Bliss: Achieving the Heights of Progressive Spiritual Energy through Kirtan Singing in American Gaudiya Vaishnava Hinduism' (pp. 1-23) in MacLachlan, Dr. Heather (ed.) (2021). *Religions: Special Issue - Music in World Religions*, Vol. 12, Issue 8, No. 600, August, 2021. Basel, Switzerland: MDPI (Multidisciplinary Digital Publishing Institute). DOI : https://doi.org/10.3390/rel12080600 (accessed: Saturday, August 09, 2025)
+
+**Purport:**<br>
+...
 
 # C #
 
