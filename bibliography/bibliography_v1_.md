@@ -969,6 +969,12 @@ Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography
 
 # T #
 
+### TAYLOR, P.; *et al.* ###
+
+* Taylor, Patrick (ed.); Case, Frederick I. (ed.); Meighoo, Sean (assoc. ed.); & Leung, Joyce (ed. coord.) (2013). 'The Encyclopedia of Caribbean Religions'. (NB: Two volumes published in one: Vol. 1, A-L; Vol. 2, M-Z.). Chicago, Illinois, U.S.A.: University of Illinois Press. ISBN 9780252037238 (set).
+
+**Purport:**<br>
+...
 
 ### THRANGU, K.; *et al.* ###
 
