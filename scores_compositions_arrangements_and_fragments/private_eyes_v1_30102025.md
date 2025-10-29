@@ -102,3 +102,87 @@ Chet 2013
 https://en.wikipedia.org/wiki/Private_Eyes_(Hall_%26_Oates_album)
 
 Note to self: Harvest Discogs and Bandcamp
+
+
+The tune for "Private Eyes" was written by Warren Pash3 and Janna Allen, with arrangement and chords by Daryl Hall. In an interview with American Songwriter, Daryl Hall states: "That's a real Janna Allen (co-writer and sister of Sara Allen) song. Janna, and I, and Warren Pash wrote that. Warren and Janna wrote most of the song, and I took it and changed it around - changed the chords. Sandy (Sara Allen) and I wrote the lyrics. It's a real family song, the
+
+Allen sisters and me."[4]     AMPLIFY, I want their biographies and body of work development. NOT HALL AND OATS, THE OTHERS
+
+Here is a detailed biography and career overview of **Janna Allen** and contextual information about her collaborator **Warren Pash**, as requested, highlighting their songwriting contributions outside Hall & Oates themselves.
+
+***
+
+## Janna Allen (1957–1993)
+
+- **Biography:**  
+  Janna Allen was an American songwriter born on May 12, 1957, in Columbus Grove, Ohio. She was the younger sister of Sara Allen, longtime girlfriend and muse of Daryl Hall. Janna worked for a period as a receptionist but was passionate about songwriting[1].
+
+- **Career and Collaborations:**  
+  Janna Allen is best known as a co-writer for Hall & Oates, credited with some of their biggest hits including “Private Eyes” and “Kiss on My List,” both reaching No. 1 on the Billboard Hot 100 in 1981. She also co-wrote “Did It in a Minute” and “Method of Modern Love.” Daryl Hall described “Private Eyes” as essentially Janna’s song, co-written with Warren Pash, with him contributing chords and arrangements and lyrics by Sara Allen and Hall[1][3][5].
+  
+- **Other Songwriting Work:**  
+  Besides Hall & Oates, Janna wrote with artists like Cheap Trick, Peter Wolf, and Joan Jett, illustrating a versatile but under-recognized career across pop and rock genres[1].
+  
+- **Legacy:**  
+  Janna Allen’s life was cut short by leukemia in 1993 at the age of 36, but her songwriting artistry left a lasting mark on 1980s pop music.
+
+***
+
+## Warren Pash
+
+- **Biography and Career:**  
+  Warren Pash is less widely profiled than Janna but is recognized as a songwriter co-credited on “Private Eyes.” His collaboration with Janna Allen and Daryl Hall reflects a behind-the-scenes creative role during the early 1980s Hall & Oates era. Further public biographical detail on Pash is limited in popular sources but he contributed notably to the songwriting shaping the hit's structure and melody[9][5][8].
+
+***
+
+## Summary of Creative Dynamics
+
+- **"Private Eyes" Origins:**  
+  Janna Allen and Warren Pash composed much of the song; Daryl Hall arranged, altered chords, and co-wrote lyrics with Sara Allen. This collaborative “family” structure was emblematic of the close-knit creative process underpinning Hall & Oates’ early 80s success[1].
+
+- **Working Method:**  
+  Janna was known to come up with melodic and lyrical ideas spontaneously, with Hall refining, arranging, and producing them in studio collaboration, illustrating a dynamic partnership between raw creative input and polished craftsmanship[5].
+
+***
+
+### References
+
+- Wikipedia: [Janna Allen](https://en.wikipedia.org/wiki/Janna_Allen)  
+- American Songwriter Interview excerpts [3][5]
+- Songfacts and other songwriting credits archives [6][7][8]
+
+***
+
+This reveals Janna Allen as a talented, though less publicized, creative force behind significant hit songs in the Hall & Oates catalogue, while Warren Pash’s contributions, though more opaque, were vital to the composition of “Private Eyes,” framing the "family song" lore that Hall spoke about.
+
+If you want, I can also help identify detailed discographies or third-party credits listing all known works by Janna Allen and Warren Pash beyond Hall & Oates.
+
+Citations:
+[1] Janna Allen https://en.wikipedia.org/wiki/Janna_Allen
+[2] The Story and Meaning Behind "Kiss on My List," the No. 1 ... https://americansongwriter.com/the-story-and-meaning-behind-kiss-on-my-list-the-no-1-smash-hall-oates-almost-gave-away/
+[3] HALL AND OATES: Soul Survivors https://americansongwriter.com/hall-and-oates-soul-survivors/
+[4] Janna Allen(1957-1993) https://www.imdb.com/name/nm5277395/
+[5] Daryl Hall: "There's another way of looking at the world" https://www.songfacts.com/blog/interviews/daryl-hall-theres-another-way-of-looking-at-the-world
+[6] Kiss on My List https://en.wikipedia.org/wiki/Kiss_on_My_List
+[7] Artist: Janna Allen https://secondhandsongs.com/artist/38450/all
+[8] This week in 1981, the Daryl Hall & John Oates single “ ... https://www.facebook.com/100065285328213/posts/this-week-in-1981-the-daryl-hall-john-oates-single-private-eyes-debuted-on-the-a/1197730522413114/
+[9] Daryl Hall & John Oates - Private Eyes (album) 1981 https://www.youtube.com/playlist?list=PLYpy7HpyE4nMZyY2a0JSDN7sauOZDeL6U
+
+
+Warren Pash:
+Musician. songwriter and producer in Portland, Oregon.
+Born in Canada, Pash was raised in Winnipeg and Montreal before moving to Los Angeles, California in the late 1970s. Working as a songwriter, he was most known for co-writing the song Private Eyes, made famous by Hall & Oates. Pash relocated to Portland, Oregon in 1997, moved to Nashville, Tennessee in late 2000 and then returned to Portland in 2017.
+Pash has played with artists and bands including Screamin' Jay Hawkins, Rosco Gordon, Swag, and Dave Cloud’s Gospel of Power, as well as fronting his own band Plastic Rulers.
+
+Source: https://www.discogs.com/artist/680009-Warren-Pash   
+
+
+I love: Screamin' Jay Hawkins!
+
+"Private Eyes (94-14)" is the title of a cover of the Hall & Oates song "Private Eyes" by Japanese DJ and producer Towa Tei, which features Brazilian singer Bebel Gilberto. The "94-14" indicates it is a track from Tei's 2014 compilation album, 94-14 COVERS. The song itself, released on Towa Tei's 1997 album Sound Museum, is a dance/electronic and J-Pop track. 
+Original song: "Private Eyes" by Daryl Hall & John Oates.
+Towa Tei's version: Features Bebel Gilberto and was first released on the 1997 album Sound Museum.
+"94-14" suffix: This designates the track as part of Towa Tei's 2014 compilation album, 94-14 COVERS, which collects his cover songs from 1994-2014.
+Genre: Dance/Electronic, Japanese Hip Hop/Rap, and J-Pop. 
+
+Enuff for the present. On simmer!
