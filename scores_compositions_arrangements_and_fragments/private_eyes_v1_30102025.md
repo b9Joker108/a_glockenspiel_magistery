@@ -48,3 +48,29 @@ Citations:
 [8] Private Eyes (BMD Remix) - Hall & Oates : r/reggae https://www.reddit.com/r/reggae/comments/1escwmx/private_eyes_bmd_remix_hall_oates/
 [9] Private Eyes (BMD Remix) - Hall & Oates https://www.youtube.com/watch?v=8hc3kHhD8c8
 [10] Private Eyes (cover) by Julie Mahendran https://www.youtube.com/watch?v=ZeEDJXnGlWI
+
+Several songs have sampled or remixed "Private Eyes," but the original Hall & Oates track itself does not seem to have been sampled extensively according to available data. Instead, it's more known for its influence on other songs. For example, Michael Jackson reportedly admitted to lifting the bassline for "Billie Jean" from another Hall & Oates song, "I Can't Go for That (No Can Do)". 
+Sampled tracks
+"Say No Go" by De La Soul
+"Sunrise" by Simply Red
+"The Final Hour" and "Take Me to Your Leader" by King Geedorah (MF Doom)
+"On Hold" by The xx 
+Other influences
+"Billie Jean" by Michael Jackson is often cited as having a bassline influenced by a Hall & Oates song. However, the specific song cited by Michael Jackson was "I Can't Go for That (No Can Do)," not "Private Eyes".
+Anderson .Paak stated that Dr. Dre's "Nuthin' but a 'G' Thang" was originally going to sample "Private Eyes". 
+
+
+The iconic handclap rhythm from Hall & Oates' 1981 hit "Private Eyes" has made it a popular choice for remixes and samples. 
+Remixed versions of "Private Eyes"
+Several artists and producers have created remixes of the original track. 
+UK Mix: An official version of the song released by Hall & Oates in the United Kingdom.
+DJ DiscoCat Unofficial Remix: A disco-style remix that was released on iTunes.
+Drivepilot Remix: A dubstep version that has been uploaded to SoundCloud.
+BMD Remix: A remix by Black Market Dub, which has a dub and reggae flavor.
+Vito Kaleidoscope Music Bis: A version billed as a "New Art Dance Extended Remix".
+Workout Remixes: The song has been officially remixed for workout and fitness music compilations with specific BPMs, such as the "Workout Remix 128 BPM" and "Workout Remix 135 BPM".
+Nieko Remix 2.0: A version available on SoundCloud. 
+Tracks that have sampled "Private Eyes" 
+While "Private Eyes" is frequently remixed, its distinct handclap part has also been sampled in a number of tracks. However, it is not as frequently sampled as the duo's 1982 song "I Can't Go for That (No Can Do)," which famously appeared in De La Soul's "Say No Go". 
+Note: Websites like WhoSampled.com and platforms like SoundCloud and YouTube are excellent sources for finding remixes and covers of "Private Eyes". 
+
