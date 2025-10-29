@@ -74,3 +74,31 @@ Tracks that have sampled "Private Eyes"
 While "Private Eyes" is frequently remixed, its distinct handclap part has also been sampled in a number of tracks. However, it is not as frequently sampled as the duo's 1982 song "I Can't Go for That (No Can Do)," which famously appeared in De La Soul's "Say No Go". 
 Note: Websites like WhoSampled.com and platforms like SoundCloud and YouTube are excellent sources for finding remixes and covers of "Private Eyes". 
 
+https://youtu.be/jFGzALadFAA?si=Xuwjg_1fEbCWor8C
+
+Listen to Hall & Oates - Private Eyes (Drivepilot Remix) by DRIVEPILOT on #SoundCloud
+
+https://on.soundcloud.com/im3mMBzbTKG6ozEL7m
+
+Listen to Hall & Oates - "Private Eyes" (Nieko Remix 2.0) by djnieko on #SoundCloud
+
+https://on.soundcloud.com/2e3amhojm6ib5TkEUX
+
+https://youtu.be/u_ose-M7yBU?si=_z-b0Kj6p7WC6g94
+
+https://open.spotify.com/album/63xKx0kepOvarLGJep1pno?si=yEjCerRQQZqZj28mSHfcjQ
+
+https://youtu.be/bMXu6FsjaYU?si=bbCE8ud0LJTv1fl-  (will of course be notable!)
+
+https://youtu.be/VCWbsYmMLng?si=_EQ5D3Fyi84fY3M0
+
+https://youtu.be/8hc3kHhD8c8?si=lSYG9FnFNsPoeyfw (BMD Remix: Black Market Dub)
+
+Private Eyes
+by Stanryck
+Best of Reggae Lounge (The 80's Edition)
+Chet 2013
+
+https://en.wikipedia.org/wiki/Private_Eyes_(Hall_%26_Oates_album)
+
+Note to self: Harvest Discogs and Bandcamp
