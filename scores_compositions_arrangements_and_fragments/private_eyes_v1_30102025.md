@@ -186,3 +186,11 @@ Towa Tei's version: Features Bebel Gilberto and was first released on the 1997 a
 Genre: Dance/Electronic, Japanese Hip Hop/Rap, and J-Pop. 
 
 Enuff for the present. On simmer!
+
+
+https://youtu.be/Xl7jEedD3X8?si=VfmMHNAFGtnGD6GS (platinum)
+
+
+
+https://www.youtube.com/@albanaatu108/videos
+
