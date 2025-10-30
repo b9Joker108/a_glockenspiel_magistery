@@ -1,5 +1,7 @@
 # Private Eyes: Sampledelia and Remixology #
 
+https://youtu.be/JsntlJZ9h1U?si=RRrVpA5DE8tY0daT
+
 Please track the avant guardist sampledelia and remixology of: https://en.wikipedia.org/wiki/Private_Eyes_(song)
 
 “Private Eyes” by Hall & Oates has inspired what might be called "avant guardist sampledelia and remixology," with a notable afterlife in remix and re-sampling cultures, DJ communities, and electronic music scenes.
@@ -193,4 +195,18 @@ https://youtu.be/Xl7jEedD3X8?si=VfmMHNAFGtnGD6GS (platinum)
 
 
 https://www.youtube.com/@albanaatu108/videos
+
+https://youtu.be/dL6R90Ei2fs?si=ES8XnGqXMVJ17xUg
+
+https://youtu.be/59sx0h66e1E?si=5MPe-zSV0PssNg4P
+
+https://youtube.com/playlist?list=PLIfePr3FBuh-AvkPT3dL8w7RJFpBsOAih&si=stroDNOCQtyUHs6E
+
+https://youtu.be/xUL0KUl65KI?si=0SJeZksWWIpXYfFn
+
+https://youtube.com/playlist?list=PL9ZfhObYnzt2mbD3FrO9opD4uX--1hZzh&si=u3E4ldGrl6qORHdh
+
+https://youtu.be/WGFUhqNzOK4?si=iOLIFYbibqFhi_BB
+
+https://youtu.be/xcI8DwmHr9E?si=7pVo9aqKdFO_Kg_V
 
