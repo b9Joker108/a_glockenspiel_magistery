@@ -175,3 +175,80 @@ Citations:
 [7] Age Of Love - John Peel Wiki - Fandom https://peel.fandom.com/wiki/Age_Of_Love
 
 
+Please identify subsequent remixology of Heartbreaker, official and unofficial?
+
+The remixology of BLOND:ISH’s "Heartbreaker" includes both official and unofficial versions circulating since its February 2025 release on the album *Never Walk Alone* under Insomniac Records. Key details are:
+
+**Official Remixes and Versions:**
+- The original "Heartbreaker" mix by BLOND:ISH (Vivie-Ann Bakos & Nicolas Meliere) is the primary official release.
+- The album *Never Walk Alone* features remixed or extended cuts of other tracks but for "Heartbreaker" itself, official remixes include versions by artists such as:
+  - Stevie Appleton (credited as a collaborator/remixer)
+  - Alex Wann remix (listed alongside official remixes on streaming platforms and curated playlists)
+- These remixes maintain house/tech-house styles, suited for club and broadcast play within electronic music circuits [1][5].
+
+**Unofficial Remixes and Bootlegs:**
+- A variety of unofficial remixes, edits, and bootleg versions circulate on platforms like SoundCloud by DJs and producers unofficially reinterpreting the track for sets or personal projects. These typically rework vocal loops and beat structures but are not commercially released.
+- Several user-created remixes or mashups with other electronic elements appear on YouTube and SoundCloud but remain outside the official discography [11][9].
+
+**DJ Support and Tracklists:**
+- "Heartbreaker" appears on DJ Essential Mix sets and live radio playlists, showcasing its popularity and inspiring increased remix and edit activity from the electronic community [12][8].
+
+**Summary:**
+- Officially, "Heartbreaker" has a handful of authorized remixes mainly by Stevie Appleton and Alex Wann.
+- Unofficial remixes, bootlegs, and edits exist in the electronic music scene, especially on SoundCloud and YouTube, but are not formally released.
+- This aligns with typical electronic music culture where official remixes are supplemented by frequent unofficial reinterpretations circulating in DJ and fan communities.
+
+If desired, detailed links or catalogued listings of these official and unofficial remix versions can be provided to deepen your exploration of the track’s remixology landscape [1][5][8].
+
+Would you like an annotated playlist or download links to these remix versions?
+
+Citations:
+[1] Heartbreaker by BLOND:ISH https://audiomack.com/blondish/song/heartbreaker
+[2] BLOND:ISH - Heartbreaker (Official Visualizer) https://www.youtube.com/watch?v=9394FXfx58w
+[3] Never Walk Alone - Album by BLOND:ISH https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o
+[4] BLOND:ISH - Heartbreaker Original Mix https://www.beatport.com/track/heartbreaker/20056341
+[5] BLOND:ISH - Never Walk Alone (Remixes) https://soundcloud.com/blondish/sets/blond-ish-never-walk-alone
+[6] Heartbreaker - BLOND:ISH: Song Lyrics, Music Videos & ... https://www.shazam.com/song/1781991719/heartbreaker
+[7] BLOND:ISH - Heartbreaker https://www.youtube.com/watch?v=68KeBa7LbdQ
+[8] BLOND:ISH - Heartbreaker [INSOMNIAC] https://www.1001tracklists.com/track/9xnswu6f/blondish-heartbreaker/index.html
+[9] Blond:ish https://soundcloud.com/BLONDISH
+[10] BLOND:ISH https://www.youtube.com/@BLONDISH/videos
+[11] BLOND:ISH - Heartbreaker (@frmmcrwthluv Hook Remix) https://soundcloud.com/hookmusicapp/blond-ish-heartbreaker
+[12] BLOND:ISH - Radio 1's Essential Mix 2025-08-01 https://www.1001tracklists.com/tracklist/2p9myxd9/blondish-radio-1s-essential-mix-2025-08-01.html
+
+
+LIST THEM!
+
+Here is a list of official and known remix versions of BLOND:ISH's "Heartbreaker" from available sources:
+
+1. **Heartbreaker (Original Mix)** – BLOND:ISH [2025, Insomniac Records]
+2. **Heartbreaker (Alex Wann Remix)** – Official remix by Alex Wann, featured on the *Never Walk Alone* remix release
+3. **Heartbreaker (Stevie Appleton Remix)** – Official remix included in remixes for the album
+4. **Heartbreaker (frmmcrwthluv Hook Remix)** – Though unofficial, this remix circulates on SoundCloud and YouTube, a fan/community interpretation
+
+Currently, the main officially recognized remixes are the Alex Wann and Stevie Appleton versions accompanying the original mix on the album's remix releases and streaming platforms.
+
+Unofficial bootleg remixes and edits exist on SoundCloud and YouTube, commonly created by fans and DJs but not commercially released.
+
+These versions maintain the house/tech-house aesthetics, each offering different textural and rhythmic takes while retaining the original's recognizable sample elements.
+
+Sources for these remixes include:
+
+- Audiomack and SoundCloud official artist pages [1][6]
+- Beatport and streaming platforms such as Spotify and Apple Music listings [5][11]
+- DJ tracklists and community uploaders on 1001Tracklists.com and YouTube [3][7][10]
+
+If you want, I can help compile direct links or a playlist to listen and compare these remixes in detail.
+
+Citations:
+[1] Heartbreaker by BLOND:ISH https://audiomack.com/blondish/song/heartbreaker
+[2] BLOND:ISH - Heartbreaker (Official Visualizer) https://www.youtube.com/watch?v=9394FXfx58w
+[3] BLOND:ISH - Heartbreaker [INSOMNIAC] https://www.1001tracklists.com/track/9xnswu6f/blondish-heartbreaker/index.html
+[4] Heartbreaker - BLOND:ISH: Song Lyrics, Music Videos & ... https://www.shazam.com/song/1781991719/heartbreaker
+[5] Never Walk Alone - Album by BLOND:ISH https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o
+[6] BLOND:ISH - Never Walk Alone (Remixes) https://soundcloud.com/blondish/sets/blond-ish-never-walk-alone
+[7] BLOND:ISH - Heartbreaker https://www.youtube.com/watch?v=68KeBa7LbdQ
+[8] Heartbreaker - song and lyrics by BLOND:ISH https://open.spotify.com/track/0RW5gl1bkGlvqtqCyhuipa
+[9] Blond:ish https://soundcloud.com/BLONDISH
+[10] BLOND:ISH https://www.youtube.com/@BLONDISH/videos
+[11] BLOND:ISH - Heartbreaker Original Mix https://www.beatport.com/track/heartbreaker/20056341
