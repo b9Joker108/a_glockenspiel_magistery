@@ -10,3 +10,8 @@ Release Date: February 14, 2025
 Album: Never Walk Alone
 Label: Insomniac Records
 Where to listen: You can stream or download the song on platforms like Spotify, Apple Music, Beatport, and SoundCloud. 
+
+
+https://www.discogs.com/artist/2174039-Blondish
+
+I hear at least two (2) looped famous samples, presently, I can't placed them.
