@@ -14,4 +14,4 @@ Where to listen: You can stream or download the song on platforms like Spotify, 
 
 https://www.discogs.com/artist/2174039-Blondish
 
-I hear at least two (2) looped famous samples, presently, I can't placed them.
+I hear at least two (2) looped famous samples, presently, I can't placed them. I will capture them and OSInt!
