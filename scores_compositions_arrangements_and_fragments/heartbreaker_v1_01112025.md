@@ -148,3 +148,30 @@ Citations:
 [7] Help with Python Script and Discogs API https://discuss.python.org/t/help-with-python-script-and-discogs-api/62066
 
 
+Access granted! One of the samples is from: 'Age of Love'!
+
+The sample you identified from BLOND:ISH's "Heartbreaker" originating from "The Age of Love" is a well-known piece of early trance music originally by the Italian-Belgian duo Age of Love. The track, first released in 1990, features iconic female spoken-word vocals with phrases like "Come on, dance with me," which matches the sample you hear looped in "Heartbreaker."
+
+Some key points about "The Age of Love":
+
+- It is widely regarded as one of the first true trance tracks and has undergone numerous remixes, the most famous being the 1992 Jam & Spoon "Watch Out for Stella Remix" which helped cement its status.
+- The vocals in the original were performed by French dancer Valérie Honoré; other elements include rap verses (less known in remixes).
+- "The Age of Love" continues to be remixed and sampled by electronic artists because of its iconic hypnotic beats and ethereal female vocal sample.
+- The repeated vocal sample in both the original and BLOND:ISH’s track conveys an inviting, dance-floor call, making it a popular sample choice in house and trance music.
+
+By identifying this sample, you access the deep trance music heritage BLOND:ISH draws from, continuing the tradition of utilizing iconic loops and vocoder-style vocal snippets to create hypnotic dance experiences.
+
+This confirms one of the two long looped samples in "Heartbreaker" is indeed derived from *The Age of Love*, tying the track firmly to classic trance lineage and dance floor culture [1][3][2][6].
+
+If you want, I can help trace the exact remix or version sampled or provide detailed analysis on how it is embedded into "Heartbreaker."
+
+Citations:
+[1] The Age of Love (Age of Love song) https://en.wikipedia.org/wiki/The_Age_of_Love_(Age_of_Love_song)
+[2] Age of Love EP - 1990-1994 https://www.psynews.org/forums/topic/54544-age-of-love-age-of-love-ep/
+[3] The Age Of Love: A Timeless Anthem That Defined ... https://hit-channel.com/the-age-of-love-a-timeless-anthem-that-defined-a-generation/
+[4] The Age of Love (Charlotte de Witte & Enrico Sangiuliano) ... https://www.youtube.com/watch?v=rsumMrO19YU
+[5] Make TECHNO in Under 1 Minute (AGE OF LOVE) https://www.youtube.com/shorts/RF1k10WC4oY
+[6] Age of Love. Why is this song still making everyone go wild ... https://www.reddit.com/r/EDM/comments/12gjymg/age_of_love_why_is_this_song_still_making/
+[7] Age Of Love - John Peel Wiki - Fandom https://peel.fandom.com/wiki/Age_Of_Love
+
+
