@@ -790,6 +790,13 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 **Purport:**<br>
 ...
 
+### ROLLMANN, H. ###
+
+* Rollmann, Hans J. (2013). 'Hopedale: Inuit Gateway to the South and Moravian Settlement' (pp. 153-192) in Feehan, James P. (ed.); Carr, Alison (man. ed.); & Staveley, Helene (rev. ed.) (2013). *Newfoundland and Labrador  Studies*, Vol. 28, No. 2, Fall 2013. St. John's, Newfoundland and Labrador, Canada: Faculty of Arts, Memorial University (of Newfoundland; disseminated by Érudit). Source: https://id.erudit.org/iderudit/nflds28_2art01 (accessed: Tuesday, November 04, 2025)
+
+**Purport:**<br>
+...
+
 ### ROPER, J. ###
 
 * Roper, Jonathan (2003). 'English Orature, English Literature: The Case of Charms' (pp. 50 - 61) in Kõiva, Mare & Kuperjanov, Andres (eds.) (2003). *Folklore: An Electronical Journal of Folklore*, Vol. 24, October, 2003. Tartu, Estonia: FB and Media Group of LM (Folk Belief and Media Group of Estonian Literary Museum). Source: https://www.folklore.ee/folklore/vol24/engcharm.pdf (accessed: Friday, July 04, 2025)
