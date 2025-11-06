@@ -682,6 +682,13 @@ A most useful volume; unfortunately, Olivelle in the 'Introdicti(n' and none of 
 **Purport:**<br>
 ...
 
+### PARADISO, J. ###
+
+* Paradiso, Joseph A. (1998). 'The Brain Opera Technology: New Instruments and Gestural Sensors for Musical Interaction and Performance \[Version 2.0]' (pp. 130-149) in the *Journal of New Music Research*, Vol. 28, Issue 2, 1999. Source: https://cba.mit.edu/docs/papers/98.3.JNMR_Brain_Opera.pdf (accessed: Friday, November 07, 2025) Source: https://doi.org/10.1076/jnmr.28.2.130.3119 (accessed: Friday, November 07, 2025)
+
+**Purport:**<br>
+...
+
 ### PARPOLA, A. ###
 
 * Parpola, Asko (1999). 'Vac as a Goddess of Victory in the Veda and Her Relation to Durga' (pp. 101–143) in *Zinbun: Memoirs of the Research Institute for Humanistic Studies*, Vol. 34, №2, 1999. Kyoto, Japan: Kyoto University. Source: https://archive.org/details/parpola-asko-1999.-vac-as-a-goddess-of-victory-in-the-veda-and-her-relation-to-durga (accessed: Tuesday, August 06, 2024)
