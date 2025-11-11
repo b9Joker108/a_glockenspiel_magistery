@@ -874,6 +874,13 @@ With the name of 'Nimbkar' specifically and the name of 'Ellora' (as in the Ello
 **Purport:**<br>
 ...
 
+### SANZO, J. ###
+
+* Sanzo, Joseph E. (2013). 'REVIEW ~ Andrew T. Wilburn, *Materia Magica: The Archaeology of Magic in Roman Egypt, Cyprus, and Spain*. Ann Arbor: The University of Michigan Press, 2012. xvi + 342 pages. ISBN 978-0-472-11779-6' (pp. 353-358) in van Minnen, Peter (ed.) (2013). *The Bulletin of the American Society of Papyrologists*, Vol. 50, 2013. Durham, North Carolina, U.S.A.: The American Society of Papyrologists (Duke University).
+
+**Purport:**<br>
+...
+
 ### SARBADHIKARY, S. ###
 
 * Sarbadhikary, Sukanya (2021). 'The Breathing Body, Whistling Flute, and Sonic Divine: Oneness and Distinction in Bengal Vaishnavism’s Devotional Aesthetics' (pp. 1-23) in Beck, Dr. Guy (ed.) (2021). *Religions: Special Issue - Tuning In the Sacred: Studies in Music and World Religions*, Vol. 12, Issue 9, No. 743, September, 2021. Basel, Switzerland: MDPI (Multidisciplinary Digital Publishing Institute). DOI: https://doi.org/10.3390/rel12090743 (accessed: Saturday, August 09, 2025)
