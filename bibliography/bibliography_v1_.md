@@ -551,6 +551,13 @@ This work has a most useful and refined schematic, grapheme and/or infographic o
 **Purport:**<br>
 All the articles within this volume need to be entered in the Bibliography individually in due course.
 
+### MITCHELL, D.; *et al.* ###
+
+* Mitchell, Damo (auth.); *et al.* (2017). 'Daoist Reflections from Scholar Sage'. London, England, U.K.: Singing Dragon (an imprint of Jessica Kingsley Publishers). ISBN 9781848193215 (alk. paper).
+
+**Purport:**<br>
+I came upon this volume looking for a no longer extant webpage article of 'Scholar Sage \[online]' that isn't archived by the the Internet Archive's Wayback Machine: Damo, Mitchell. (2014). 'Fu Dog Statues'. Scholarsage. Source: http://www.scholarsage.com/fu-dog-statues/ (accessed: no date specified). The article I sought is in the volume.
+
 ### MITCHELL, G. ###
 
 * Mitchell, Dr. George (1997). 'Blue Guide: Southern India'. First edition. London, England, U.K.: A&C Black (Publishers) Ltd. ISBN 0713641584. 
