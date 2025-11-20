@@ -1,5 +1,7 @@
 File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_compositions_arrangements_and_fragments/l33tkoda_gh_hommage_v1_20112025.md
 
+[![The Light 3000](https://img.youtube.com/vi/vodnI38cNI0/hqdefault.jpg)](https://www.youtube.com/watch?v=vodnI38cNI0)
+
 Deixis: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_practice_diary_and_log/2025/november_2025_v1_03112025.md#thursday-november-20-2025--l33tkoda
 
 # L33tkoda: A GitHub Hommage #
