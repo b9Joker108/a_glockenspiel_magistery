@@ -6,6 +6,8 @@ Deixis: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana
 
 # L33tkoda: A GitHub Hommage #
 
+B\[9]-side: 'l€€ᛏᚲᛟᛞᚨ': glock performancy and acoustic vocal spin
+
 I want a free GenAI toolset to generate a specific genre of oldskool acid crossover psytrance electronica with vocal samples drawn from the text of the uploaded image. Triangulate and report.
 
 Several free and open, or freemium, GenAI music toolsets now exist that allow you to generate oldskool acid crossover psytrance electronica, and most also support custom vocal/text sampling—the genre and workflow you described. Here’s a triangulated and practical report:
