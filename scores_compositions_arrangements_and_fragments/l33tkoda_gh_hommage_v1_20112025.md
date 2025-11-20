@@ -92,3 +92,72 @@ Citations:
 [18] No More Muted Streams: How to Generate Custom ... https://www.soundverse.ai/blog/article/no-more-muted-streams-how-to-generate-custom-ai-music-for-your-live-stream-in-minutes
 [19] SOUNDRAW | AI Music Generator – Royalty Free Beats https://soundraw.io
 
+Note: Hommage should also contain repeated nods to:
+
+* https://www.discogs.com/release/187556-Mystic-Force-Mystic-Force
+* Luke Vibert and ? cover, spin and remixology of The Smiths 'There is a Light ...'
+
+there is a light that never goes out by the smiths dance music remixology and cover by luke vibert AND Mystic Force by Mystic Force on Discogs: Triangulate and report.
+
+Here is a triangulated report detailing “There Is a Light That Never Goes Out” by The Smiths in the context of dance music remixology and cover history (including Luke Vibert’s body of work), along with "Mystic Force" by Mystic Force on Discogs:
+
+***
+
+### 1. The Smiths: “There Is a Light That Never Goes Out” – Remixology & Dance Covers
+
+- The original track, written by Morrissey and Johnny Marr, is a seminal work of 1980s British indie, featured on The Queen Is Dead (1986)[1].
+- The song, with its iconic melancholic melodies and string arrangements, became a standard for artistic reinterpretation and sampling, topping John Peel’s Festive Fifty poll in 1986 and gaining renewed attention upon later releases and covers[1][2].
+- It is frequently remixed and referenced in dance/club contexts and by electronic artists for its harmonic and thematic richness. While direct official dance/electronica remixes by Luke Vibert are not documented on major release catalogues like WhoSampled or Discogs, multiple fan-made, unofficial, and live re-works use The Smiths’ vocals or stems in acid, breakbeat, and crossover sets[3][4].
+- Neil Finn and Johnny Marr have delivered live reinterpretations that shift the song into different genres and keys, showing its remix adaptability[2].
+- The track regularly features in DJ sets and radio playlists, sometimes immediately followed by Luke Vibert’s “I Love Acid,” indicating cultural proximity in dance music programming[5].
+
+#### Luke Vibert: Remixes and Covers
+
+- Luke Vibert, under aliases like Wagon Christ and Plug, is highly regarded for retro-inflected acid house, breakbeat, and sample-heavy remixology[6][7].
+- While there is no officially released Luke Vibert cover/remix of “There Is a Light That Never Goes Out,” his catalogue does include known remixes of iconic alternative and indie tracks, and “I Love Acid” remains an influential reference point in blending classic rock with dance genres[3][5].
+- His approach often involves using chopped-up vocal samples, retro synths, and heavy 303/acid lines, which could stylistically inform a remix or crossover cover of The Smiths’ material.
+
+***
+
+### 2. Mystic Force – “Mystic Force” (Discogs Reference)
+
+- Mystic Force is listed on Discogs as a trance/techno artist notable for the “Mystic Force” track and related releases, which fit the lineage of early trance, goa, or proto-psytrance electronica[8].
+- These releases are collectible among fans of acid and early electronic genres, often serving as sample sources or mix fodder for cross-genre DJ sets and re-mixes by contemporary electronic artists.
+
+***
+
+### 3. Triangulated Remixology Takeaways
+
+- **Remixology Literature** confirms that dance remixes, covers, and samplings drive recurrent popularity and creative “revivals” for original tracks, especially for alternative classics like The Smiths[9][10][11].
+- Cover version identification models and remix contests show that reinterpretations span from official releases to web-community mashups, making it possible for electronic artists like Vibert or Mystic Force to engage deeply with pop canon material for new dancefloor treatments[11][12].
+- Preservation of remix diversity is a notable concern in digital and AI-powered remix culture, with both fan and professional versions contributing to the evolving legacy of tracks like “There Is a Light That Never Goes Out”[13].
+
+***
+
+### Conclusion
+
+While Luke Vibert has not released an official remix or cover of “There Is a Light That Never Goes Out” by The Smiths, his electronic and acid crossover legacy places him adjacent to such remixology, frequently associating with tracks in club sets and genre blends. Mystic Force’s releases stand as archetypal early trance/acid and frequently serve as collectible source material for dance and electronica remix culture. For deeper engagement or production of cross-genre covers, reference Discogs and fan remix networks, and leverage established remixology literature on sampling and creative re-interpretation in dance music[9][11][1][6].
+
+Citations:
+[1] There Is a Light That Never Goes Out https://en.wikipedia.org/wiki/There_Is_a_Light_That_Never_Goes_Out
+[2] There is a Light that Never Goes Out: Neil Finn, Johnny ... https://www.brunel.ac.uk/creative-writing/research/entertext/documents/entertext052/ET52BrabazonEd.pdf
+[3] Luke Vibert - Samples, Covers and Remixes - Page 46 https://www.whosampled.com/Luke-Vibert/?sp=46
+[4] Flood's On Draft [04] - by Lorenzo Bongiovanni https://misterfloods.com/p/floods-on-draft-04
+[5] Saturday night 24 November 2018 on ABC - ABC Rage https://www.abc.net.au/rage/playlist/saturday-night-24-november-2018-on-abc/10550474
+[6] Wagon Christ, Luke Vibert, Plug : Musical Box - Releases http://wagonchrist.iwarp.com/releases.html
+[7] Favorite Luke Vibert tunes? : r/TheOverload https://www.reddit.com/r/TheOverload/comments/1ctak4p/favorite_luke_vibert_tunes/
+[8] Psytrance https://theresanaiforthat.com/s/psytrance/
+[9] Assessing the Impact of Sampling, Remixes, and Covers on Original Song
+  Popularity https://arxiv.org/pdf/2411.01242.pdf
+[10] Revival: Collaborative Artistic Creation through Human-AI Interactions
+  in Musical Creativity http://arxiv.org/pdf/2503.15498.pdf
+[11] On the Robustness of Cover Version Identification Models: A Study Using
+  Cover Versions from YouTube http://arxiv.org/pdf/2501.01333.pdf
+[12] Covery – manifesty. Muzyczne strategie przezwyciężania kulturowej opresji https://www.ejournals.eu/pliki/art/24587/
+[13] Avoiding an AI-imposed Taylor's Version of all music history https://arxiv.org/pdf/2402.14589.pdf
+[14] 1002638144.jpg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/4428017/aaf7f113-b374-41cb-b2e7-5c36412c8f44/1002638144.jpg
+[15] Recreating the Creation: https://bop.unibe.ch/EJM/article/download/6605/9200
+[16] Emily Collins - World Was on Fire https://www.sonicscope.org/pub/0ea59bb9/download/pdf
+[17] A new Luke Vibert remix! Happy Friday! https://www.facebook.com/groups/136574100404782/posts/1904264526969055/
+[18] Breather (Luke Vibert Remix) https://www.youtube.com/watch?v=w9X9cLqhQlY
+[19] There Is A Light That Never Goes Out by The Smiths https://www.songfacts.com/facts/the-smiths/there-is-a-light-that-never-goes-out
