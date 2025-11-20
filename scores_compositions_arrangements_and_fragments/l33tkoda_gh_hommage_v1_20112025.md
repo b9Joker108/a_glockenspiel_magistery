@@ -94,6 +94,10 @@ Citations:
 [18] No More Muted Streams: How to Generate Custom ... https://www.soundverse.ai/blog/article/no-more-muted-streams-how-to-generate-custom-ai-music-for-your-live-stream-in-minutes
 [19] SOUNDRAW | AI Music Generator – Royalty Free Beats https://soundraw.io
 
+
+[![Mystic Force by Mystoc Force](https://img.youtube.com/vi/evfAeZZcZwo/hqdefault.jpg)](https://youtu.be/evfAeZZcZwo?si=wZkoqnehUvwPFElA)
+
+
 Note: Hommage should also contain repeated nods to:
 
 * https://www.discogs.com/release/187556-Mystic-Force-Mystic-Force
