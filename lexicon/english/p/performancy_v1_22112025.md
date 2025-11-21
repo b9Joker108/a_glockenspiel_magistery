@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/lexicon/english/p/performancy_v1_22112025.md
 
 # Performancy: A Covenant #
 
