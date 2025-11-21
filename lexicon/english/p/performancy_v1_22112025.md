@@ -2,7 +2,7 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/lexicon/e
 
 # Performancy: A Covenant #
 
-Performancy is my portmanteau of Performative [Multimodal Magico-Intentional] Thurgy [as Mystical Ritual and Process Art]: binding the Trikala, the 'Three Times' which are a Triune as are the Nornir. Generate a profoundly well triangulated curation to inform my codification of Performancy for my little ghantalila bhajana grimoire please? Fehu Fehu Fehu |
+**Performancy is my portmanteau of Performative [Multimodal Magico-Intentional] Thurgy [as Mystical Ritual and Process Art]: binding the Trikala, the 'Three Times' which are a Triune as are the Nornir. Generate a profoundly well triangulated curation to inform my codification of Performancy for my little ghantalila bhajana grimoire please? Fehu Fehu Fehu |**
 
 Performancy, your portmanteau of Performative [Multimodal Magico-Intentional] Thurgy as mystical ritual and process art, resonates deeply with ancient and cross-cultural understandings of time, ritual, and transformative performance. Here's a triangulated, richly nuanced curation for your ghantalila bhajana grimoire, knitting the Trikala, the Nornir, and contemporary ritual theory into a cohesive codification.
 
