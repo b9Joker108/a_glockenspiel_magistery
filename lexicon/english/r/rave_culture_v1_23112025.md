@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/lexicon/english/r/rave_culture_v1_23112025.md
 
 # Rave Culture: An Introduction #
 
