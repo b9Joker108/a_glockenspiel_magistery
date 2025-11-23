@@ -2,7 +2,7 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/lexicon/e
 
 # Rave Culture: An Introduction #
 
-Dedication: To [Ollie Olsen](https://en.wikipedia.org/w/index.php?title=Ollie_Olsen&oldid=1307023782) and to Clan Analogue with profound Love and Respect.
+Dedication: To [Ollie Olsen](https://en.wikipedia.org/w/index.php?title=Ollie_Olsen&oldid=1307023782) and to [Clan Analogue](https://en.wikipedia.org/w/index.php?title=Clan_Analogue&oldid=1318192956) with profound Love and Respect.
 
 Please triangulate a sophisticated and well-cited article on Spiral Tribe and the Orbital Raves.
 
