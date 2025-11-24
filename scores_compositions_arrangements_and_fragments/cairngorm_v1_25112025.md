@@ -79,3 +79,23 @@ Citations:
 [17] Celebrating Robert Burns in the Cairngorms https://www.cairngormbothies.co.uk/celebrating-robert-burns-in-the-cairngorms/
 
 
+# Readings #
+
+* Forsyth (1900) In the Shadow of Cairngorm
+* Gordon (1949) Highways and Byways in the Central Highlands
+* Gray (1987) Legends of the Cairngorms
+* Gregor, Folklore Journal, vol 7 no 3 1889, Kelpie Stories
+* Gregor, Folklore Journal, vol 3 no 1 1892, Guardian Spirits of Wells and Lochs
+* Henderson (1911) Survivals in Belief Among the Celts MacBain, Transactions of the Gaelic Society of Inverness vol xvi, 1890, Badenoch: It's history, clans and place names MacBain (1922) Place Names Highlands & Islands of Scotland MacDougall (1910) Folk Tales and Fairy Lore in Gaelic and English MacGillivray (1855) The Natural History of Dee Side and Braemar MacGregor (1937) The Peat Fire Flame
+
+* Macpherson, Highland Monthly vol 1, 1889-90, The Old Church and Churchyard of Kingussie
+* Robertson (1961) Selected Highland Tales
+* Scott (1802) Minstrelsy of the Scottish Border Volume 1
+* Shaw (1827) The History of the Province of Moray
+* Sinton (1906) The Poetry of Badenoch
+* Stewart (1823) The Popular Superstitions and Festive Amusements of the Highlanders of Scotland
+* Swire (1963) The Highlands and their Legends
+* Taylor (1869) The Braemar Highlands: Their Tales, Traditions and History
+* T.S., The Celtic Magazine, vol xii, 1887, Snatches of Song collected in Badenoch
+* Watson (2011) It's a Fine Day for the Hill
+
