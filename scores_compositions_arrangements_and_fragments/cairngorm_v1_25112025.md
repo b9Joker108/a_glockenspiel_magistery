@@ -1,6 +1,6 @@
 File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_compositions_arrangements_and_fragments/cairngorm_v1_25112025.md
 
-# \\†/Cairng[༓](https://en.wiktionary.org/wiki/%E0%BC%93)rms\\†/ #
+# \\†/Ca[ᛁ](https://en.wiktionary.org/w/index.php?title=%E1%9B%81&oldid=83712809)rng[༓](https://en.wiktionary.org/wiki/%E0%BC%93)rms\\†/ #
 
 Right, you didn't capture my finesse, I wasn't talking about the place Cairngorms, but what the place is the namesake of! Cairngorms are Scottish highland naturally ocurring crystals and they are mystical, magical and powerful.
 
