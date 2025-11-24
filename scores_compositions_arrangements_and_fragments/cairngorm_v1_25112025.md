@@ -86,8 +86,12 @@ Citations:
 * Gray (1987) Legends of the Cairngorms
 * Gregor, Folklore Journal, vol 7 no 3 1889, Kelpie Stories
 * Gregor, Folklore Journal, vol 3 no 1 1892, Guardian Spirits of Wells and Lochs
-* Henderson (1911) Survivals in Belief Among the Celts MacBain, Transactions of the Gaelic Society of Inverness vol xvi, 1890, Badenoch: It's history, clans and place names MacBain (1922) Place Names Highlands & Islands of Scotland MacDougall (1910) Folk Tales and Fairy Lore in Gaelic and English MacGillivray (1855) The Natural History of Dee Side and Braemar MacGregor (1937) The Peat Fire Flame
-
+* Henderson (1911) Survivals in Belief Among the Celts
+* MacBain, Transactions of the Gaelic Society of Inverness vol xvi, 1890, Badenoch: It's history, clans and place names
+* MacBain (1922) Place Names Highlands & Islands of Scotland
+* MacDougall (1910) Folk Tales and Fairy Lore in Gaelic and English
+* MacGillivray (1855) The Natural History of Dee Side and Braemar
+* MacGregor (1937) The Peat Fire Flame
 * Macpherson, Highland Monthly vol 1, 1889-90, The Old Church and Churchyard of Kingussie
 * Robertson (1961) Selected Highland Tales
 * Scott (1802) Minstrelsy of the Scottish Border Volume 1
