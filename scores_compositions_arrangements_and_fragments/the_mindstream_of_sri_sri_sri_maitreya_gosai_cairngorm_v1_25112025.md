@@ -4,7 +4,7 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_co
 
 | I request that the | Ceremonial High Seats be in-state [in-view](https://en.wikipedia.org/w/index.php?title=View_(Dzogchen)&oldid=1288885239) | before my dais so I may adore them as standard. |
 
-> "Diné Hózhó" refers to the core wellness philosophy of the Diné (Navajo) people, encompassing principles of balance, harmony, order and beauty in all aspects of life. It is a complex concept often translated as "walking in beauty" and guides one's thoughts, actions and relationships with others, the natural world and the spiritual realm. The ultimate goal is to live a healthy, peaceful and harmonious life. 
+> "Diné [Hózhó](https://en.wiktionary.org/w/index.php?title=h%C3%B3zh%C7%AB%CC%81&oldid=80103751#Navajo)" refers to the core wellness philosophy of the Diné (Navajo) people, encompassing principles of balance, harmony, order and beauty in all aspects of life. It is a complex concept often translated as "walking in beauty" and guides one's thoughts, actions and relationships with others, the natural world and the spiritual realm. The ultimate goal is to live a healthy, peaceful and harmonious life. 
 
 Mindstream and principally the work of Beauford A. Stenberg and this is far from the superlative version, but it is so far all I have been able to excavate: 
 
