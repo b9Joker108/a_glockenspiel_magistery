@@ -6,7 +6,8 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_co
 
 > "Diné [Hózhó](https://en.wiktionary.org/w/index.php?title=h%C3%B3zh%C7%AB%CC%81&oldid=80103751#Navajo)" refers to the core wellness philosophy of the Diné (Navajo) people, encompassing principles of balance, harmony, order and beauty in all aspects of life. It is a complex concept often translated as "walking in beauty" and guides one's thoughts, actions and relationships with others, the natural world and the spiritual realm. The ultimate goal is to live a healthy, peaceful and harmonious life.
 
-**RepAIR:** https://x.com/AntonBeauford/status/1992801147250483414?s=09
+**RepAIR:** https://x.com/AntonBeauford/status/1992801147250483414?s=09 (accessed: Wednesday, November 26, 2025) @ 4:07 AM|R
+**REPAIR:** https://www.instagram.com/p/2usYRZsai8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA== (accessed: Wednesday, November 26, 2025) @ 4:08 AM|R
 
 Mindstream and principally the work of Beauford A. Stenberg and this is far from the superlative version, but it is so far all I have been able to excavate: 
 
