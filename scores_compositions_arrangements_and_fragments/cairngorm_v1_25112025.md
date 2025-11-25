@@ -4,7 +4,7 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_co
 
 **Dedication:**
 
-To Wicks 'Grandpa' Sutherland of Shepparton, Victoria, Australia and the Sutherland Clan and a most honourable mention for the consummate and tall gentleman, accomplished pianist and minor composerJohn Tallis of 'Beleura' Mornington who gave me as a child many, many books of merit and distinction, indeed, he purchased moore books for me than any person and the special illustrated edition with plates of 'The Complete Burns' was edifying and lyrically stupifying.
+To Wicks 'Grandpa' Sutherland of Shepparton, Victoria, Australia and the Sutherland Clan and a most honourable mention for the consummate and tall gentleman, accomplished pianist and minor composer, John Tallis of 'Beleura' Mornington who gave me, as a young child, many, many books of merit and distinction. Indeed, Mr Tallis purchased moor books for me than any other person in my life and the special illustrated edition with plates of 'The Complete Burns' was edifying and lyrically stupifying.
 
 Cairngorms, the naturally occurring smoky quartz crystals from the Scottish Highlands, hold profound mystical, magical, and sovereign significance in Scottish and Celtic traditions. These looking-glass and oracular crystals are considered powerful talismans associated with grounding, protection, spiritual illumination and deep sight, depth perception or crystal fairlight vision.
 
