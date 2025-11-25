@@ -9,3 +9,4 @@ Mindstream and principally the work of Beauford A. Stenberg and this is far from
 * https://www.academia.edu/120693389/Stenberg_Beauford_A_et_al_c_2009_Mindstream_at_English_Wikipedia
 * https://independent.academia.edu/BeaufordStenberg (I have two accounts)
 * https://independent.academia.edu/BeaufordAStenberg (I have two accounts)
+* https://en.wikipedia.org/w/index.php?title=The_Rocking-Horse_Winner&oldid=1286708410
