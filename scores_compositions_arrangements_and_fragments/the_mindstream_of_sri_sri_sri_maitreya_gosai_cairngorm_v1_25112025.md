@@ -12,4 +12,4 @@ Mindstream and principally the work of Beauford A. Stenberg and this is far from
 * https://en.wikipedia.org/w/index.php?title=The_Rocking-Horse_Winner&oldid=1286708410
 * https://en.wikipedia.org/w/index.php?title=Panchen_Lama&oldid=1318142919
 
-I am the \\|/Hartjewell\\|/ of \\|/HEChNNR\\|/
+I am the \\|/Hartjewell\\|/ of \\|/HEChNNR\\|/ |'The Panchen'|
