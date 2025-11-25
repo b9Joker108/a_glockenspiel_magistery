@@ -2,4 +2,7 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_co
 
 # The Mindstream of Sri Sri Sri Maitreya Gosai Cairngorum ~ 'The High\[Seat]' #
 
-Mindstream and principally the work of Beauford A. Stenberg and this is far from the superlative version, but it is so far all I have been able to excavate: https://www.academia.edu/120693389/Stenberg_Beauford_A_et_al_c_2009_Mindstream_at_English_Wikipedia
+Mindstream and principally the work of Beauford A. Stenberg and this is far from the superlative version, but it is so far all I have been able to excavate: 
+
+* https://www.academia.edu/120693389/Stenberg_Beauford_A_et_al_c_2009_Mindstream_at_English_Wikipedia
+* https://archive.org/details/mindstream_202309 
