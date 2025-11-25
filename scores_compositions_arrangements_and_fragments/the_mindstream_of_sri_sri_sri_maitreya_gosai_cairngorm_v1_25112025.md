@@ -2,6 +2,8 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_co
 
 # The Mindstream of Sri Sri Sri Maitreya Gosai Cairngorum ~ 'The High\[Seat]' #
 
+| I request that the Ceremonial High Seats be in-state in-view before my dais so I may adore them as standard. |
+
 Mindstream and principally the work of Beauford A. Stenberg and this is far from the superlative version, but it is so far all I have been able to excavate: 
 
 Superlative DeixEs: 
