@@ -1,4 +1,4 @@
-<div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
+<div align="center">༺ ༼ [𑀐𑀁](https://en.wiktionary.org/w/index.php?title=h%C3%B3zh%C7%AB%CC%81&oldid=80103751#Navajo) ༽ ༻</div>
 <div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ वाग्देव्यै नमः ༽ ༻</div>
 
 # devotional_glockenspiel_acquisition_as_sadhana
