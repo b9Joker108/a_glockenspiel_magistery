@@ -12,7 +12,7 @@ This is a document of my acquisition of glockenspiel musical proficiency, princi
 
 ## A Note on GenDeR ##
 
-In the Diné Way I am of |Sh|n|ng GenDeR| !!!
+In the Diné Way, I am of |Sh|n|ng GenDeR| !!!
 
 ## Home Baked ##
 
