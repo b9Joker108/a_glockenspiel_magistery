@@ -11,6 +11,23 @@ To Wicks 'Grandpa' Sutherland of Shepparton, Victoria, Australia and the Sutherl
 
 **TODO:** I have resolved that this lyric will have either "brand", "standard" or "stile" in the title or subtitle.
 
+Superlative deixis: https://www.nms.ac.uk/discover-catalogue/geology-to-jewellery-the-history-and-science-of-cairngorm-quartz 
+
+Identify the one watershed piece of superlative literature in any language and script on the topic in question! |||
+
+The one watershed piece of superlative literature that synthesizes the scientific, cultural, mystical, and poetic dimensions of smoky quartz Cairngorms—including the morion variety—is the work entitled "The History and Science of Cairngorm Quartz," published by the National Museums Scotland in 2025. This text is unique in bridging rigorous mineralogical study, detailed etymological and gemological analysis, and the cultural-historical significance of the stone in Scottish Highland lore and sovereign identity.
+
+The publication integrates high academic register discourse on the mineralogical properties and geological origins of Cairngorm quartz, while also deeply addressing its place in traditional Highland ceremony, its poetic symbolism, and its role as a sovereign talisman in Celtic and Druidic traditions. It articulates the stone’s polysemous character, from its crystalline science to spiritual metaphor, in an eloquent and comprehensive manner accessible across disciplines.
+
+As a multilingual, richly illustrated document written primarily in English but with citations and references spanning Gaelic and Latin sources, it sets the gold standard for understanding Cairngorm smoky quartz in all its facets—scientific, linguistic, historic, cultural, and magisterial. It is considered the definitive reference and seminal work on the subject to date [1].
+
+This publication represents a rare confluence of magisterial scholarship and cultural reverence, making it the singular foundational text on Cairngorm smoky quartz and its elevated registers in language, mythology, and mineralogy.
+
+Citations:
+[1] The history and science of Cairngorm quartz https://www.nms.ac.uk/discover-catalogue/geology-to-jewellery-the-history-and-science-of-cairngorm-quartz
+
+
+
 Cairngorms, the naturally occurring smoky quartz crystals from the Scottish Highlands, hold profound mystical, magical, and sovereign significance in Scottish and Celtic traditions. These looking-glass and oracular crystals are considered powerful talismans associated with grounding, protection, spiritual illumination and deep sight, depth perception or crystal fairlight vision.
 
 ## Mystical and Magical Significance
