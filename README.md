@@ -1,3 +1,7 @@
+SuPearl|T|vE RegisTR ShoWcaSE: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_compositions_arrangements_and_fragments/cairngorm_v1_25112025.md (accessed: Wednesday, November 26, 2025) @ 3:09 aM|R
+
+---
+
 <div align="center">[༺](https://en.wikipedia.org/w/index.php?title=Cairngorms&oldid=1317800412) ༼ 𑀐𑀁†*^§ ༽ [༻](https://en.wikipedia.org/w/index.php?title=Tashi_Lhunpo_Monastery&oldid=1320848938)</div>
 <div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ वाग्देव्यै नमः ༽ ༻</div>
 
