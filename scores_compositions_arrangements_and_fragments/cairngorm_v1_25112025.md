@@ -9,8 +9,7 @@ To Wicks 'Grandpa' Sutherland of Shepparton, Victoria, Australia and the Sutherl
 **Legend[arium]**<br>
 † The orthography of style/[stile](https://en.wikipedia.org/w/index.php?title=Stile&oldid=1232398778) demonstrates a profound variability in the written record.
 
-I have resolved that this lyric will have either "brand", "standard" or "stile" in the title or subtitle.
-
+**TODO:** I have resolved that this lyric will have either "brand", "standard" or "stile" in the title or subtitle.
 
 Cairngorms, the naturally occurring smoky quartz crystals from the Scottish Highlands, hold profound mystical, magical, and sovereign significance in Scottish and Celtic traditions. These looking-glass and oracular crystals are considered powerful talismans associated with grounding, protection, spiritual illumination and deep sight, depth perception or crystal fairlight vision.
 
