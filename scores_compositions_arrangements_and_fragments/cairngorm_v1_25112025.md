@@ -4,7 +4,7 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_co
 
 Right, you didn't capture my finesse, I wasn't talking about the place Cairngorms, but what the place is the namesake of! Cairngorms are Scottish highland naturally ocurring crystals and they are mystical, magical and powerful.
 
-Cairngorms, the naturally occurring smoky quartz crystals from the Scottish Highlands, hold profound mystical, magical, and sovereign significance in Scottish and Celtic traditions. These crystals are considered powerful talismans associated with grounding, protection, spiritual illumination and deep sight or crystal fairlight vision.
+Cairngorms, the naturally occurring smoky quartz crystals from the Scottish Highlands, hold profound mystical, magical, and sovereign significance in Scottish and Celtic traditions. These crystals are considered powerful talismans associated with grounding, protection, spiritual illumination and deep sight, depth perception or crystal fairlight vision.
 
 ## Mystical and Magical Significance
 
