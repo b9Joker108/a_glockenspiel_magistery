@@ -2,7 +2,9 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_co
 
 # \\[†](https://en.wikipedia.org/w/index.php?title=Sgian-dubh&oldid=1323743193)/Ca[ᛁ](https://en.wiktionary.org/w/index.php?title=%E1%9B%81&oldid=83712809)rng[༓](https://en.wiktionary.org/wiki/%E0%BC%93)r[m](https://en.wikipedia.org/w/index.php?title=Melong&oldid=1321789754)s\\[†](https://en.wikipedia.org/w/index.php?title=H%C3%B6rgr&oldid=1175552627)/ #
 
-Right, you didn't capture my finesse, I wasn't talking about the place Cairngorms, but what the place is the namesake of! Cairngorms are Scottish highland naturally ocurring crystals and they are mystical, magical and powerful.
+**Dedication:**
+
+To Wicks 'Grandpa' Sutherland of Shepparton, Victoria, Australia and the Sutherland Clan and a most honourable mention for the consummate and tall gentleman, accomplished pianist and minor composerJohn Tallis of 'Beleura' Mornington who gave me as a child many, many books of merit and distinction, indeed, he purchased moore books for me than any person and the special illustrated edition with plates of 'The Complete Burns' was edifying and lyrically stupifying.
 
 Cairngorms, the naturally occurring smoky quartz crystals from the Scottish Highlands, hold profound mystical, magical, and sovereign significance in Scottish and Celtic traditions. These looking-glass and oracular crystals are considered powerful talismans associated with grounding, protection, spiritual illumination and deep sight, depth perception or crystal fairlight vision.
 
