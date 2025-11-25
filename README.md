@@ -1,9 +1,10 @@
-<div align="center">༺ ༼ 𑀐𑀁†* ༽ ༻</div>
+<div align="center">༺ ༼ 𑀐𑀁†*^ ༽ ༻</div>
 <div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ वाग्देव्यै नमः ༽ ༻</div>
 
 **Legend\[arium]**
 † https://en.wiktionary.org/w/index.php?title=h%C3%B3zh%C7%AB%CC%81&oldid=80103751#Navajo (accessed: Wednesday, November 26, 2025) @ 1:08 am |X|
 * https://en.wikipedia.org/w/index.php?title=Herkimer_diamond&oldid=1322230016 (accessed: Wednesday, November 26, 2025) @ 1:14 am |R|
+^ https://en.wikipedia.org/w/index.php?title=Australite&oldid=1260075062 (accessed: Wednesday, November 26, 2025) @ 1:16 am |H|
 
 # devotional_glockenspiel_acquisition_as_sadhana
 This is a document of my acquisition of glockenspiel musical proficiency, principally for my cultivating and expressing my devotion and for the joy and pleasure of the archa-vigraha of my ishta-devatas, Sri Sri Radhe-Ballabha (Sri Radharani Devi and Bhagavan Sri Krishna)
