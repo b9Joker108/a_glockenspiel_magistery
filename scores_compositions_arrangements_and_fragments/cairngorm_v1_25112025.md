@@ -13,6 +13,8 @@ To Wicks 'Grandpa' Sutherland of Shepparton, Victoria, Australia and the Sutherl
 
 Superlative deixis: https://www.nms.ac.uk/discover-catalogue/geology-to-jewellery-the-history-and-science-of-cairngorm-quartz 
 
+"These documentary sources tell us that by the late-eighteenth century the mountain (or the mountain range) had given its name to this variety of quartz. It also tells us that it was commonly understood." This is a grave error in the order of a sublime superlative and needsmust be repaired. I know the range is the namesake of the jewells.
+
 Identify the one watershed piece of superlative literature in any language and script on the topic in question! |||
 
 The one watershed piece of superlative literature that synthesizes the scientific, cultural, mystical, and poetic dimensions of smoky quartz Cairngorms—including the morion variety—is the work entitled "The History and Science of Cairngorm Quartz," published by the National Museums Scotland in 2025. This text is unique in bridging rigorous mineralogical study, detailed etymological and gemological analysis, and the cultural-historical significance of the stone in Scottish Highland lore and sovereign identity.
