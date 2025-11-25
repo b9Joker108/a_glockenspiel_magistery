@@ -1,4 +1,4 @@
-<div align="center">༺ ༼ 𑀐𑀁†*^§ ༽ ༻</div>
+<div align="center">༺ ༼ 𑀐𑀁†*^§ ༽ [༻](https://en.wikipedia.org/w/index.php?title=Tashi_Lhunpo_Monastery&oldid=1320848938)</div>
 <div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ वाग्देव्यै नमः ༽ ༻</div>
 
 **Legend\[arium]**
