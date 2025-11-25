@@ -1,6 +1,7 @@
 SuPearl|T|vE RegisTR ShoWcaSEᛊ: 
 * ᛎ https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_compositions_arrangements_and_fragments/cairngorm_v1_25112025.md (accessed: Wednesday, November 26, 2025) @ 3:09 aM|R
 * ᛎ https://hummingbird.hashnode.dev/an-introduction-my-computer-history (accessed: Wednesday, November 26, 2025) @ 8:45 am aM|R
+* † https://youtu.be/yrBDJYqTia4?si=HexF5Yaose3s5YW3 (accessed: Wednesday, November 26, 2025) & 8:55 aM|R108
 
 ---
 
