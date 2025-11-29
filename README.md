@@ -15,7 +15,7 @@ SuPearl|T|vE RegisTR ShoWcaSEᛊ:
 §  https://crystallographygems.com/crystal-encyclopedia/tibetan-tektite/ (accessed: Wednesday, November 26, 2025) @ 1:20 am Hari Aum Tat Swaha Ā Hung Phat!!!
 
 # devotional_glockenspiel_acquisition_as_sadhana
-This is a document of my acquisition of glockenspiel (Sanskrit᛬ *Sri Gantha-lila; Icelandic: xxx; Germanic: xxx; etc.) musical proficiency, principally for my cultivating and expressing my devotion and for the joy and pleasure of the archa-vigraha of my ishta-devatas, Sri Sri Radhe-Ballabha (Sri Radharani Devi and Bhagavan Sri Krishna) amongst other deities and theurgies.
+This is a document of my acquisition of glockenspiel (Sanskrit᛬ *Sri Gantha-lila; Icelandic: xxx; Germanic: xxx; etc.) musical proficiency, principally for my cultivating and expressing my devotion and for the joy and pleasure of the archa-vigraha of my ishta-devatas, Sri Sri Radhe-Ballabha (Sri Radharani Devi and Bhagavan Sri Krishna) amongst other deities, theurgies and traditions.
 
 ## A Note on GenDeR (G = ||X||†) ##
 
