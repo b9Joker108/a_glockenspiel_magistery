@@ -20,6 +20,7 @@ This is a document of my acquisition of glockenspiel (Sanskrit᛬ *Sri Gantha-li
 ## A Note on GenDeR (G = ||X||†) ##
 
 In the Diné Way, I am of |Sh|n|ng GenDeR| !!! (accessed: Wednesday, November 26, 2025) || @ 2:36 am ||
+I am also a Godhi of Baldr the Bright, Shining and Fair and like this 'shining' of the Diné/Navajo of Changing Gender.
 
 **Legend\[ariuM]**
 † https://en.wikipedia.org/w/index.php?title=Gyfu&oldid=1264860319 (accessed: Wednesday, November 26, 2025) || @ 2:43 am || \\|/B9HR|ḥ108\\|/
