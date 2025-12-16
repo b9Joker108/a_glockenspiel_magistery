@@ -151,11 +151,11 @@ The stotram is traditionally chanted in Sanskrit, but here it is provided in Rom
 
    *Meaning:* Victory to Dhana Lakshmi, filled with drum sounds (dhimidhimi), conch echoes (ghumaghuma); worshipped by Vedas, Puranas, and epics, shower of the righteous path. Please protect me always.
 
-### Significance and Benefits
+**Significance and Benefits**
 
-The stotram underscores that wealth encompasses more than material gains: it includes virtues like patience, knowledge and family bonds. Chanting it is believed to invoke Sri Lakshmi's grace for removing poverty, fulfilling desires and achieving holistic success. Benefits include attaining fortune, courage, education, children, victory, health and long life. It is particularly auspicious during Sri Lakshmi Puja, as it deepens spiritual connection and purifies the heart, mind and the xxx.
+The stotram underscores that wealth encompasses more than material gains: it includes virtues like patience, knowledge and family bonds. Chanting it is believed to invoke Sri Lakshmi's grace for removing poverty, fulfilling desires and achieving holistic success. Benefits include attaining fortune, courage, education, children, victory, health and long life. It is particularly auspicious during Sri Lakshmi Puja, as it deepens spiritual connection and purifies the heart, mind and the samskaras or vasanas, that may be understood as one's karmabija.
 
-### How to Chant
+**How to Chant**
 
 The stotram may be recited daily, ideally in the morning or evening, or on Fridays (Lakshmi's day). No elaborate rituals are required: chant with devotion, perhaps facing East or a Sri Lakshmi Devi image. Many listen to or sing it with musical accompaniment for enhanced effect. For best results, understand the meanings whilst reciting to align intentions with Maa devi's blessings.
 
