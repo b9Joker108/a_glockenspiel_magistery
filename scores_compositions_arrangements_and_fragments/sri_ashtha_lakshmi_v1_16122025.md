@@ -46,3 +46,7 @@ Citations:
 [18] Lakshmi Narayana Hrudayam.pdf https://www.sadagopan.org/ebook/pdf/Lakshmi%20Narayana%20Hrudayam.pdf
 
 
+# References #
+
+* Hawley, John Stratton & Wulff, Donna Marie (eds.) (1986, 1982). 'The Divine Consort: Radha and the Goddesses of India'. (NB: First published in 1982 by Berkeley Religious Studies Series in co-operation with Motilal Banarsidass Publishers Copyright © 1982 by the Graduate Theological Union, Berkeley, California First published by Beacon Press in 1986 by arrangement with the Graduate Theological Union Printed in the United States of America). Boston, Massachusetts, U.S.A.: Beacon Press (published under the auspices of the Unitarian Universalist Association of Congregations in North America). ISBN 080701303X. 
+
