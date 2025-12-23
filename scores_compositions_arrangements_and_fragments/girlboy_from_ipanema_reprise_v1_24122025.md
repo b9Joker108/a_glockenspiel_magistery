@@ -4,7 +4,7 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_co
 
 ## 'Girl from Ipanema': Lyricist(s) and Songsmith(s) ~ Deeply Triangulate & Survey ##
 
-"Garota de Ipanema" ("The Girl from Ipanema"), the bossa nova archetype, triangulates authorship across composer Antônio Carlos Jobim (music, 1962), lyricist Vinicius de Moraes (Portuguese words, Petrópolis retreat), and adapter Norman Gimbel (English translation, 1963 Verve session), their alchemy fusing Carioca reverie with global jazz hermeneutics.[1][3]
+"Garota de Ipanema" ("The Girl from Ipanema"), the bossa nova archetype, triangulates authorship across composer [Antônio Carlos Jobim](https://en.wikipedia.org/w/index.php?title=Ant%C3%B4nio_Carlos_Jobim&oldid=1321224418) (music, 1962), lyricist Vinicius de Moraes (Portuguese words, Petrópolis retreat), and adapter Norman Gimbel (English translation, 1963 Verve session), their alchemy fusing Carioca reverie with global jazz hermeneutics.[1][3]
 
 This trinitarian songsmithy segued from Rio bar napkin sketches to Grammy apotheosis, its melody's sinuous descent evoking the eponymous girl's sway.
 
