@@ -1,8 +1,8 @@
 File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_compositions_arrangements_and_fragments/cave_and_krewskis_hommage_v1_24122025.md
 
-# Nick Cave and Krewskis Hommage #
+# Nick Cave and Krewskis Hommage ~ ♪ #
 
-## The Mercy Seat ##
+## The Mercy Seat ##
 
 **Pls tell me all about Nick Cave and krewskis: 'Mercy Seat' ~ subsuming: historicity, ᚹerformancy, mythos, themes, hermeneutics, exegesis, lyricism, poetics, musicology, chord progressions, tunology, coverology, remixology and sampledelia, subsuming loopsies, for my little prescient glockenspiel grimoire?**
 
