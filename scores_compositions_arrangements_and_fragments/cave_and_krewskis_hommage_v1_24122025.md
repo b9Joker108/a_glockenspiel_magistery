@@ -1,10 +1,10 @@
-File: ...
+File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_compositions_arrangements_and_fragments/cave_and_krewskis_hommage_v1_24122025.md
 
 # Nick Cave and Krewskis Hommage #
 
 ## The Mercy Seat ##
 
-Pls tell me all about Nick Cave and krewskis: Mercy Seat subsuming historicity, performancy, mythos, themes, hermeneutics, exegesis, lyricism, poetics, musicilogy, chord progressions, tunology, coverology, remixology and sampleselia for my little prescient glockenspiel grimoire?
+**Pls tell me all about Nick Cave and krewskis: 'Mercy Seat' ~ subsuming: historicity, ᚹerformancy, mythos, themes, hermeneutics, exegesis, lyricism, poetics, musicology, chord progressions, tunology, coverology, remixology and sampledelia, subsuming loopsies, for my little prescient glockenspiel grimoire?**
 
 “The Mercy Seat” sits at the junction of biblical myth, death‑row reportage and obsessive ritual, with a music‑text mesh that enacts judicial terror, self‑mythologising and unstable confession in real time.[1][2] It is also unusually fertile for coverology and re‑arrangement (Cash et al.), because its core progression and incantatory text tolerate massive timbral and rhythmic mutation without losing identity.[3][4]
 
