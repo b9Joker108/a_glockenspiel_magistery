@@ -1,6 +1,6 @@
 File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_compositions_arrangements_and_fragments/cave_and_krewskis_hommage_v1_24122025.md
 
-# Nick Cave and Krewskis Hommage ~ ♪ #
+# Nick Cave and Krewskis & Brewskis Hommage ~ ♪ #
 
 ## The Mercy Seat ##
 
