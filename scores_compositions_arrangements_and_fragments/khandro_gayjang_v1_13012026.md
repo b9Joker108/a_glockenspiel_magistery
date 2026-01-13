@@ -2,7 +2,9 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_co
 
 **In honour of and in dedication to:**
 
-* 
+* https://www.facebook.com/ivana.schramke1
+
+Ivana Schamke is one of my most dedicated, devoted and advanced Secret-Mantra-Kin and Godsisters. I hold her in such superlative esteem and pine for her dashan.
 
 **De|x|s:**
 
