@@ -6,9 +6,10 @@ File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_co
 
 Ivana Schamke is one of my most dedicated, devoted and advanced Secret-Mantra-Kin and Godsisters. I hold her in such superlative esteem and pine for her darshan.
 
-**De|x|s:**
+**De|xᛖs:**
 
 * https://youtu.be/geTMIJm9iqY?si=TMyd-E7fwnpkrN0e
+* https://grok.com/share/c2hhcmQtMw_8fe0ffda-a300-42f2-8808-caaa6fd6f1cd 
 
 # Khandro Gayjang #
 
