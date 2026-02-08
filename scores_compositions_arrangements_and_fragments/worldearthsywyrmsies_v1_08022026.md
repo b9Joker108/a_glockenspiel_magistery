@@ -1,7 +1,6 @@
-File: xxx
+File: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/scores_compositions_arrangements_and_fragments/worldearthsywyrmsies_v1_08022026.md
 
-
-Jörmungandr: deep analysis of nomenclature, with flourish using English with Svenska as language acquisition.
+**Jörmungandr: deep analysis of nomenclature, with flourish using English with Svenska as language acquisition.**
 
 Jörmungandr is a deliberately “over‑big” name: an archaic superlative prefix plus a magically charged, elongated thing, giving something like “the immense supernatural serpent/staff/binding.”[1][2][3]
 
