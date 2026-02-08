@@ -49,4 +49,4 @@ Citations:
 [10] Jörmungandr | God of War Wiki - Fandom https://godofwar.fandom.com/wiki/J%C3%B6rmungandr
 
 
-Slot: subTEXT
+Slot: subTEXT ~ i honoyred 2 SuperDoopers
